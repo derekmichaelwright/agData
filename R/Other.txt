@@ -1,0 +1,238 @@
+
+#' FAO Fertilizer Data
+#' A dataset containing feriliter data from FAOSTAT.
+#' @section Codes
+#' \itemize{
+#'   \item levels(agData_FAO_Fertilizers$Area)
+#'   \item levels(agData_FAO_Fertilizers$Item)
+#'   \item levels(agData_FAO_Fertilizers$Element)
+#'   \item levels(agData_FAO_Fertilizers$Unit)
+#' }
+#' @source Elements
+#' \itemize{
+#'   \item Stocks - head or 1000 head
+#' }
+#' @source http://www.fao.org/faostat/
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Fertilizer
+NULL
+
+
+
+#' FAO Pesticide Use Data
+#'
+#' A dataset containing pesticide use data from FAOSTAT. The variables are as follows:
+#'
+#' \itemize{
+#'   \item Area    -
+#'   \item Item    -
+#'   \item Element -
+#'   \item Unit    -
+#'   \item Year    -
+#'   \item Value   -
+#' }
+#'
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Pesticide
+NULL
+
+
+
+
+
+
+#' Statistics Canada Data
+#'
+#' A dataset containing data from Statistics Canada. The variables are as follows:
+#'
+#' \itemize{
+#'   \item Area    -
+#'   \item Item    -
+#'   \item Element -
+#'   \item Unit    -
+#'   \item Year    -
+#'   \item Value   -
+#' }
+#'
+#' @docType data
+#' @keywords datasets
+#' @name agData_STATCAN_FarmUse_Crops
+NULL
+#' Statistics Canada Data
+#'
+#' A dataset containing data from Statistics Canada. The variables are as follows:
+#'
+#' \itemize{
+#'   \item Area    -
+#'   \item Item    -
+#'   \item Element -
+#'   \item Unit    -
+#'   \item Year    -
+#'   \item Value   -
+#' }
+#'
+#' @docType data
+#' @keywords datasets
+#' @name agData_STATCAN_FarmUse_Land
+NULL
+
+#' data_STATCAN_FarmUse_Size Statistics Canada Data
+#'
+#' A dataset containing data from Statistics Canada. The variables are as follows:
+#'
+#' \itemize{
+#'   \item Area    -
+#'   \item Item    -
+#'   \item Element -
+#'   \item Unit    -
+#'   \item Year    -
+#'   \item Value   -
+#' }
+#'
+#' @docType data
+#' @keywords datasets
+#' @name agData_STATCAN_FarmUse_Size
+NULL
+
+
+#' USDA_GEcrops
+#'
+#' A dataset of GE crop data from the USDA. The variables are as follows:
+#'
+#' \itemize{
+#'   \item Area    -
+#'   \item Item    -
+#'   \item Element -
+#'   \item Unit    -
+#'   \item Year    -
+#'   \item Value   -
+#' }
+#'
+#' @docType data
+#' @keywords datasets
+#' @name agData_USDA_GEcrops
+NULL
+#' USDA_APHIS
+#'
+#' A dataset of regulatory applicaitons from the USDA. The variables are as follows:
+#'
+#' \itemize{
+#'   \item Area    -
+#'   \item Item    -
+#'   \item Element -
+#'   \item Unit    -
+#'   \item Year    -
+#'   \item Value   -
+#' }
+#'
+#' @docType data
+#' @keywords datasets
+#' @name agData_USDA_APHIS
+NULL
+#' CFIA_PNT
+#'
+#' A dataset containing data for Plant with Novel Traits (PNT) from Statistics Canada. The variables are as follows:
+#'
+#' \itemize{
+#'   \item Area    -
+#'   \item Item    -
+#'   \item Element -
+#'   \item Unit    -
+#'   \item Year    -
+#'   \item Value   -
+#' }
+#'
+#' @docType data
+#' @keywords datasets
+#' @name agData_CFIA_PNT
+NULL
+
+
+
+#' Land Per Protien
+#'
+#' A dataset containing data from Statistics Canada. The variables are as follows:
+#'
+#' \itemize{
+#'   \item Area    -
+#'   \item Item    -
+#'   \item Element -
+#'   \item Unit    -
+#'   \item Year    -
+#'   \item Value   -
+#' }
+#'
+#' @docType data
+#' @keywords datasets
+#' @name agData_LandPerProtien
+NULL
+#' Land Spared
+#'
+#' A dataset containing data from Statistics Canada. The variables are as follows:
+#'
+#' \itemize{
+#'   \item Area    -
+#'   \item Item    -
+#'   \item Element -
+#'   \item Unit    -
+#'   \item Year    -
+#'   \item Value   -
+#' }
+#'
+#' @docType data
+#' @keywords datasets
+#' @name agData_LandSpared
+NULL
+#' UK Yields
+#'
+#' A dataset containing data from Statistics Canada. The variables are as follows:
+#'
+#' \itemize{
+#'   \item Area    -
+#'   \item Item    -
+#'   \item Element -
+#'   \item Unit    -
+#'   \item Year    -
+#'   \item Value   -
+#' }
+#'
+#' @docType data
+#' @keywords datasets
+#' @name agData_UK_Yields
+NULL
+#' World Population
+#'
+#' A dataset containing data from Statistics Canada. The variables are as follows:
+#'
+#' \itemize{
+#'   \item Area    -
+#'   \item Item    -
+#'   \item Element -
+#'   \item Unit    -
+#'   \item Year    -
+#'   \item Value   -
+#' }
+#'
+#' @docType data
+#' @keywords datasets
+#' @name agData_World_Population
+NULL
+#' ISAAA GEcrops
+#'
+#' A dataset containing data from Statistics Canada. The variables are as follows:
+#'
+#' \itemize{
+#'   \item Area    -
+#'   \item Item    -
+#'   \item Element -
+#'   \item Unit    -
+#'   \item Year    -
+#'   \item Value   -
+#' }
+#'
+#' @docType data
+#' @keywords datasets
+#' @name agData_ISAAA_GEcrops
+NULL
