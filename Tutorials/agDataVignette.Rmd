@@ -3,8 +3,8 @@ title: "agData Vignette"
 author: "Derek Wright"
 date: "October 12, 2018"
 output: 
-  github_document: default
   html_document: default
+  github_document: default
   pdf_document: default
 ---
 
@@ -444,10 +444,12 @@ xx <- agData_FAO_Crops %>%
          Item    == "Lentils", 
          Element == "Production")
 # Create sticker
-sticker(expression(plot(xx$Value/1000000 ~ xx$Year, 
-                        mgp = c(0,.3,0), xlab = "", ylab = "", type = "l", 
-                        labels = F, tick = F, frame.plot = F) ),
+mp <- ggplot(xx, aes(x = Year, y = Value/1000000)) + 
+  geom_line() + theme(axis.text = element_blank(), axis.ticks = element_blank()) + 
+  labs(x = NULL, y = NULL) +
+  theme_transparent()
+sticker(mp,
         package="agData", p_color = "Black", p_size = 30,
-        s_x = 0.75, s_y = 0.65, s_width = 2.3, s_height = 1.6,
-        h_fill = "burlywood4", h_color = "darkslategrey", h_size = 3)
+        s_x = 1, s_y = 0.8, s_width = 1.75, s_height = 0.8,
+        h_fill = "#614105", h_color = "darkolivegreen", h_size = 3)
 ```
