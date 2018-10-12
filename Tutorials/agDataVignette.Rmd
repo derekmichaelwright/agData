@@ -1,19 +1,17 @@
 ---
 title: "agData Vignette"
 author: "Derek Wright"
-date: "`r Sys.Date()`"
-output: rmarkdown::html_vignette
-vignette: >
-  %\VignetteIndexEntry{agData Vignette}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
+date: "October 12, 2018"
+output: 
+  github_document: default
+  html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(
-  #collapse = TRUE,
-  fig.width = 7, # Width of all figures
-  comment = "#>"
+  echo = TRUE, # Includes R code in output
+  fig.width = 10 # Width of all figures
 )
 ```
 
@@ -23,13 +21,9 @@ library(agData)
 library(tidyverse)
 ```
 
-## Vignette Info
+## Introduction
 
 This is the vignette for the `agData` package. 
-
-## Figures
-
-The figure sizes have been customised so that you can easily put two images side-by-side. 
 
 ```{r, eval=F}
 ?agData_FAO_Crops
@@ -39,7 +33,6 @@ The figure sizes have been customised so that you can easily put two images side
 ?agData_STATCAN_Livestock
 ?agData_STATCAN_Beehives
 ```
-
 
 ---
 
@@ -429,15 +422,14 @@ xx <- agData_STATCAN_Beehives %>%
   filter(Area    == "Canada",
          Element == "Colonies")
 # Create GIF
-#transition_reveal(Year) 
-ggplot(xx, aes(x = Year, y = Value / 1000)) + 
-  geom_point() + #geom_line() +
-  labs(title = "Honeybee Colonies in Canada - {frame_time}",
+mp <- ggplot(xx, aes(Year, Value / 1000, group = Area)) +
+  geom_line() +
+  labs(title = "Honeybee Colonies in Canada - {frame_along}",
        caption = "Data: www.statcan.gc.ca/",
        y = "Thousand Colonies") +
-  transition_time(Year) + 
-  shadow_mark()
-
+  transition_reveal(Area, Year)
+animate(mp, fps = 5)
+anim_save("anim.gif")
 ```
 
 ---
@@ -459,5 +451,3 @@ sticker(expression(plot(xx$Value/1000000 ~ xx$Year,
         s_x = 0.75, s_y = 0.65, s_width = 2.3, s_height = 1.6,
         h_fill = "burlywood4", h_color = "darkslategrey", h_size = 3)
 ```
-
-![](agData.png)
