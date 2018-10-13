@@ -9,8 +9,7 @@ library(agData)
 library(tidyverse)
 ```
 
-Introduction
-------------
+## Introduction
 
 This is the vignette for the `agData` package.
 
@@ -23,10 +22,9 @@ This is the vignette for the `agData` package.
 ?agData_STATCAN_Beehives
 ```
 
-------------------------------------------------------------------------
+-----
 
-Load Data
----------
+## Load Data
 
 #### A quick exploration of the data
 
@@ -125,10 +123,9 @@ xx %>% distinct(Item)
     ## 10 Fruit, stone nes 
     ## # ... with 170 more rows
 
-------------------------------------------------------------------------
+-----
 
-Example 1: Rapeseed production
-------------------------------
+## Example 1: Rapeseed production
 
 #### Improvments in oil quality, acheived through plant breeding has resulted in Rapeseed/Canola becoming one of the worlds major oil crops.
 
@@ -153,7 +150,7 @@ ggplot(xx, aes(x = Year, y = Value / 1000000, color = Area)) +
        y = "million tonnes", x = NULL)
 ```
 
-![](agDataVignette_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](agDataVignette_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
 ``` r
 # Prep data
@@ -175,12 +172,11 @@ ggplot(xx, aes(x = Year, y = Value, color = Area)) +
        y = "million tonnes", x = NULL)
 ```
 
-![](agDataVignette_files/figure-markdown_github/unnamed-chunk-4-2.png)
+![](agDataVignette_files/figure-gfm/unnamed-chunk-4-2.png)<!-- -->
 
-------------------------------------------------------------------------
+-----
 
-Example 2: Wheat production in India and Mexico
------------------------------------------------
+## Example 2: Wheat production in India and Mexico
 
 #### Spurred by pioneers such as Norman Bourlag, Wheat production in Mexico and India increased significantly since 1961. During that same time period, the area devoted to wheat production has remained relativly constant. This increase in wheat yields has helped these countries avoid some major food security problems.
 
@@ -205,7 +201,7 @@ ggplot(xx %>% filter(Element != "Yield"), aes(x = Year, y = Value / 1000000, col
        x       = NULL)
 ```
 
-![](agDataVignette_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](agDataVignette_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
 ``` r
 # Plot
@@ -219,7 +215,7 @@ ggplot(xx %>% filter(Element =="Yield"), aes(x = Year, y = Value) ) +
        x       = NULL)
 ```
 
-![](agDataVignette_files/figure-markdown_github/unnamed-chunk-5-2.png)
+![](agDataVignette_files/figure-gfm/unnamed-chunk-5-2.png)<!-- -->
 
 ``` r
 # Prep data
@@ -242,7 +238,7 @@ ggplot(xx %>% filter(Element != "Yield"), aes(x = Year, y = Value / 1000000, col
        x       = NULL)
 ```
 
-![](agDataVignette_files/figure-markdown_github/unnamed-chunk-5-3.png)
+![](agDataVignette_files/figure-gfm/unnamed-chunk-5-3.png)<!-- -->
 
 ``` r
 # Plot
@@ -256,14 +252,13 @@ ggplot(xx %>% filter(Element =="Yield"), aes(x = Year, y = Value) ) +
        x       = NULL)
 ```
 
-![](agDataVignette_files/figure-markdown_github/unnamed-chunk-5-4.png)
+![](agDataVignette_files/figure-gfm/unnamed-chunk-5-4.png)<!-- -->
 
-------------------------------------------------------------------------
+-----
 
-Example 3: Wheat and Maize Yields in Germany vs Europe
-------------------------------------------------------
+## Example 3: Wheat and Maize Yields in Germany vs Europe
 
-#### Germany...
+#### Germany…
 
 ``` r
 # Prep data
@@ -280,14 +275,13 @@ ggplot(xx, aes(x = Year, y = Value, color = Area)) +
   scale_color_manual(values = c("darkgreen", "darkblue"))
 ```
 
-![](agDataVignette_files/figure-markdown_github/unnamed-chunk-6-1.png)
+![](agDataVignette_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
 
-------------------------------------------------------------------------
+-----
 
-Example 4: FOA lentil data for Canada
--------------------------------------
+## Example 4: FOA lentil data for Canada
 
-#### Since the introduction of lentil as a crop for the Canadian Prairies (1973), Saskatchewan has become the worlds largest producer of lentils. The first variety, "Laird", was registered in 1979.
+#### Since the introduction of lentil as a crop for the Canadian Prairies (1973), Saskatchewan has become the worlds largest producer of lentils. The first variety, “Laird”, was registered in 1979.
 
 ``` r
 # Prep data
@@ -310,7 +304,7 @@ ggplot(xx, aes(x = Year, y = Value / 1000000, fill = Area, color = I("Black"))) 
        y = "Million", x = NULL)
 ```
 
-![](agDataVignette_files/figure-markdown_github/unnamed-chunk-7-1.png)
+![](agDataVignette_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
 
 ``` r
 # Prep data
@@ -333,12 +327,11 @@ ggplot(xx, aes(x = Year, y = Value, color = Area)) +
        y = "tonnes/ha", x = NULL)
 ```
 
-![](agDataVignette_files/figure-markdown_github/unnamed-chunk-8-1.png)
+![](agDataVignette_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
 
-------------------------------------------------------------------------
+-----
 
-Example 5: USDA maize
----------------------
+## Example 5: USDA maize
 
 #### The development of hybrid seed production in maize has led to major increases in crop yield in the United States.
 
@@ -384,12 +377,11 @@ ggplot(xx, aes(fill = Era)) +
        x       = NULL) 
 ```
 
-![](agDataVignette_files/figure-markdown_github/unnamed-chunk-9-1.png)
+![](agDataVignette_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
 
-------------------------------------------------------------------------
+-----
 
-Example 6: Maize yields in the developed vs developing world
-------------------------------------------------------------
+## Example 6: Maize yields in the developed vs developing world
 
 #### Maize yields in developing countries have lagged behind those in developed countries. This is due to a conbination of factors, including lack of access to crop inputs, machinery, and improved crop varieties.
 
@@ -421,12 +413,11 @@ ggplot(xx, aes(x = Year, y = Value, color = Area)) +
        x       = NULL)
 ```
 
-![](agDataVignette_files/figure-markdown_github/unnamed-chunk-10-1.png)
+![](agDataVignette_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
 
-------------------------------------------------------------------------
+-----
 
-Example 7: USDA Maize vs Wheat yields
--------------------------------------
+## Example 7: USDA Maize vs Wheat yields
 
 #### Maize yeilds have increased on a much faster pace than wheat, in part due to the adoption of hybrid seed in Maize.
 
@@ -464,12 +455,11 @@ ggplot(xx) +
        y = "tonnes/ha", x = NULL)
 ```
 
-![](agDataVignette_files/figure-markdown_github/unnamed-chunk-11-1.png)
+![](agDataVignette_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
 
-------------------------------------------------------------------------
+-----
 
-Example 8: FAO and STATCAN honeybee data
-----------------------------------------
+## Example 8: FAO and STATCAN honeybee data
 
 #### Neonicotinoids are often blamed for honeybee declines, but the data suggests a more complicated story.
 
@@ -498,9 +488,9 @@ ggplot(data = xx, aes(x = Year, y = Value / 1000000)) +
        x = NULL)
 ```
 
-![](agDataVignette_files/figure-markdown_github/unnamed-chunk-12-1.png)
+![](agDataVignette_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
 
-------------------------------------------------------------------------
+-----
 
 ``` r
 # Prep data
@@ -534,12 +524,11 @@ ggplot(xx, aes(x = Year, y = Value)) +
        y = NULL, x = NULL)
 ```
 
-![](agDataVignette_files/figure-markdown_github/unnamed-chunk-13-1.png)
+![](agDataVignette_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
 
-------------------------------------------------------------------------
+-----
 
-Example 9: gganimate example
-----------------------------
+## Example 9: gganimate example
 
 ``` r
 library(gganimate)
@@ -554,19 +543,13 @@ mp <- ggplot(xx, aes(Year, Value / 1000, group = Area)) +
        caption = "Data: www.statcan.gc.ca/",
        y = "Thousand Colonies") +
   transition_reveal(Area, Year)
-animate(mp, fps = 5)
+mp <- animate(mp, fps = 5)
+anim_save("anim.gif", mp)
 ```
 
-![](agDataVignette_files/figure-markdown_github/unnamed-chunk-14-1.gif)
+-----
 
-``` r
-anim_save("anim.gif")
-```
-
-------------------------------------------------------------------------
-
-HexSticker Creation
--------------------
+## HexSticker Creation
 
 ``` r
 library(hexSticker)
@@ -577,11 +560,13 @@ xx <- agData_FAO_Crops %>%
          Element == "Production")
 # Create sticker
 mp <- ggplot(xx, aes(x = Year, y = Value/1000000)) + 
-  geom_line() + theme(axis.text = element_blank(), axis.ticks = element_blank()) + 
-  labs(x = NULL, y = NULL) +
-  theme_transparent()
+  geom_line(size = 1) + 
+  theme_void() +
+  theme(panel.grid.major = element_line(size = 0.5, linetype = 'solid', colour = "grey"), 
+        panel.grid.minor = element_line(size = 0.25, linetype = 'solid', colour = "grey")) 
+#
 sticker(mp,
         package="agData", p_color = "Black", p_size = 30,
-        s_x = 1, s_y = 0.8, s_width = 1.75, s_height = 0.8,
+        s_x = 1, s_y = 0.8, s_width = 1.5, s_height = 0.6,
         h_fill = "#614105", h_color = "darkolivegreen", h_size = 3)
 ```

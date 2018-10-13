@@ -3,9 +3,9 @@ title: "agData Vignette"
 author: "Derek Wright"
 date: "October 12, 2018"
 output: 
-  html_document: default
   github_document: default
   pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include = FALSE}
@@ -428,8 +428,8 @@ mp <- ggplot(xx, aes(Year, Value / 1000, group = Area)) +
        caption = "Data: www.statcan.gc.ca/",
        y = "Thousand Colonies") +
   transition_reveal(Area, Year)
-animate(mp, fps = 5)
-anim_save("anim.gif")
+mp <- animate(mp, fps = 5)
+anim_save("anim.gif", mp)
 ```
 
 ---
@@ -445,11 +445,13 @@ xx <- agData_FAO_Crops %>%
          Element == "Production")
 # Create sticker
 mp <- ggplot(xx, aes(x = Year, y = Value/1000000)) + 
-  geom_line() + theme(axis.text = element_blank(), axis.ticks = element_blank()) + 
-  labs(x = NULL, y = NULL) +
-  theme_transparent()
+  geom_line(size = 1) + 
+  theme_void() +
+  theme(panel.grid.major = element_line(size = 0.5, linetype = 'solid', colour = "grey"), 
+        panel.grid.minor = element_line(size = 0.25, linetype = 'solid', colour = "grey")) 
+#
 sticker(mp,
         package="agData", p_color = "Black", p_size = 30,
-        s_x = 1, s_y = 0.8, s_width = 1.75, s_height = 0.8,
+        s_x = 1, s_y = 0.8, s_width = 1.5, s_height = 0.6,
         h_fill = "#614105", h_color = "darkolivegreen", h_size = 3)
 ```
