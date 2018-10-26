@@ -5,24 +5,59 @@ date: "`r Sys.Date()`"
 output: github_document
 ---
 
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = T)
+```
+
 ## Instalation
 
 Use the following code to install the `agdata` package in R
 
-`devtools::install_github("derekmichaelwright/agData")`
+```{r eval = F}
+devtools::install_github("derekmichaelwright/agData")
+```
+
+```{r echo = F}
+library(agData)
+
+```
 
 ## Datasets
 
 The agData package contains agriculture related data sets for quick access using R:
 
-`?agData_FAO_Crops`
+```{r, eval = F}
+?agData_FAO_Crops
+?agData_FAO_Livestock
+?agData_USDA_Crops
+?agData_STATCAN_Crops
+?agData_STATCAN_Livestock
+?agData_STATCAN_Beehives
+```
 
-`?agData_FAO_Livestock`
+## A Quick Example
 
-`?agData_USDA_Crops`
+```{r warning = F, message = F}
+# Load libraries
+library(agData)
+library(tidyverse)
+```
 
-`?agData_STATCAN_Crops`
+```{r}
+# Load data
+xx <- agData_FAO_Crops %>% as.tibble()
+xx
+# List measurements
+xx %>% distinct(Element)
+# List areas
+xx %>% distinct(Area)
+# List crops
+xx %>% distinct(Item)
+# Spread data to wide format
+xx %>% 
+  unite(Element, Element, Unit) %>%
+  spread(Element, Value)
+# Filter data for ploting
+xx <- xx %>% filter(Area == "Canada", Item = "Lentils")
+```
 
-`?agData_STATCAN_Livestock`
-
-`?agData_STATCAN_Beehives`
