@@ -45,14 +45,14 @@ xx <- agData_FAO_Crops %>% as.tibble()
 xx
 # Spread data to wide format
 xx %>% 
-  unite(Element, Element, Unit) %>%
-  spread(Element, Value)
+  unite(Measurement, Measurement, Unit) %>%
+  spread(Measurement, Value)
 # List measurements
-xx %>% distinct(Element)
+xx %>% distinct(Measurement)
 # List areas
 xx %>% distinct(Area)
 # List crops
-xx %>% distinct(Item)
+xx %>% distinct(Crop)
 ```
 
 ---
@@ -65,9 +65,9 @@ xx %>% distinct(Item)
 areas <- c("Europe", "China", "Canada", "India", "Australia")
 cols  <- c("darkblue", "darkred", "darkgoldenrod2", "darkgreen", "darkcyan")
 xx <- agData_FAO_Crops %>% 
-  filter(Item == "Rapeseed",
+  filter(Crop == "Rapeseed",
          Area %in% areas,
-         Element == "Production") %>%
+         Measurement == "Production") %>%
   mutate(Area = factor(Area, levels = areas))
 # Plot
 ggplot(xx, aes(x = Year, y = Value / 1000000, color = Area)) +
@@ -83,9 +83,9 @@ ggplot(xx, aes(x = Year, y = Value / 1000000, color = Area)) +
 areas <- c("Germany", "Canada", "China", "India")
 cols  <- c("darkblue", "darkgoldenrod2", "darkred", "darkgreen")
 xx <- agData_FAO_Crops %>% 
-  filter(Item == "Rapeseed",
+  filter(Crop == "Rapeseed",
          Area %in% areas,
-         Element == "Yield") %>%
+         Measurement == "Yield") %>%
   mutate(Area = factor(Area, levels = areas))
 # Plot
 ggplot(xx, aes(x = Year, y = Value, color = Area)) +
@@ -106,10 +106,10 @@ ggplot(xx, aes(x = Year, y = Value, color = Area)) +
 ```{r fig.height = 4}
 # Prep data
 xx <- agData_FAO_Crops %>% 
-  filter(Item == "Wheat", 
+  filter(Crop == "Wheat", 
          Area == "Mexico")
 # Plot
-ggplot(xx %>% filter(Element != "Yield"), aes(x = Year, y = Value / 1000000, color = Element)) +
+ggplot(xx %>% filter(Measurement != "Yield"), aes(x = Year, y = Value / 1000000, color = Measurement)) +
   geom_line(size = 1.5) +
   theme(legend.position = "bottom") +
   scale_color_manual(name   = NULL,
@@ -123,7 +123,7 @@ ggplot(xx %>% filter(Element != "Yield"), aes(x = Year, y = Value / 1000000, col
        y       = "Million",
        x       = NULL)
 # Plot
-ggplot(xx %>% filter(Element =="Yield"), aes(x = Year, y = Value) ) +
+ggplot(xx %>% filter(Measurement =="Yield"), aes(x = Year, y = Value) ) +
   geom_line(size = 1.5, color = "Dark Blue") +
   scale_x_continuous(breaks       = seq(1960, 2015, by = 5),
                      minor_breaks = seq(1960, 2015, by = 5)) +
@@ -133,10 +133,10 @@ ggplot(xx %>% filter(Element =="Yield"), aes(x = Year, y = Value) ) +
        x       = NULL)
 # Prep data
 xx <- agData_FAO_Crops %>% 
-  filter(Item == "Wheat", 
+  filter(Crop == "Wheat", 
          Area == "India")
 # Plot
-ggplot(xx %>% filter(Element != "Yield"), aes(x = Year, y = Value / 1000000, color = Element)) +
+ggplot(xx %>% filter(Measurement != "Yield"), aes(x = Year, y = Value / 1000000, color = Measurement)) +
   geom_line(size = 1.5) +
   theme(legend.position = "bottom") +
   scale_color_manual(name   = NULL,
@@ -150,7 +150,7 @@ ggplot(xx %>% filter(Element != "Yield"), aes(x = Year, y = Value / 1000000, col
        y       = "Million",
        x       = NULL)
 # Plot
-ggplot(xx %>% filter(Element =="Yield"), aes(x = Year, y = Value) ) +
+ggplot(xx %>% filter(Measurement =="Yield"), aes(x = Year, y = Value) ) +
   geom_line(size = 1.5, color = "Dark Blue") +
   scale_x_continuous(breaks       = seq(1960, 2015, by = 5),
                      minor_breaks = seq(1960, 2015, by = 5)) +
@@ -169,14 +169,14 @@ ggplot(xx %>% filter(Element =="Yield"), aes(x = Year, y = Value) ) +
 # Prep data
 xx <- agData_FAO_Crops %>% 
   filter(Area %in% c("Germany", "Europe"),
-         Item %in% c("Maize", "Wheat"),
-         Element == "Yield") %>%
+         Crop %in% c("Maize", "Wheat"),
+         Measurement == "Yield") %>%
   mutate(Area = factor(Area, levels = c("Germany", "Europe")))
 # Plot
 ggplot(xx, aes(x = Year, y = Value, color = Area)) +
   geom_line() +
   geom_smooth(method = "loess") +
-    facet_grid(Item~., scales = "free_y") + 
+    facet_grid(Crop~., scales = "free_y") + 
   scale_color_manual(values = c("darkgreen", "darkblue"))
 ```
 
@@ -189,14 +189,14 @@ ggplot(xx, aes(x = Year, y = Value, color = Area)) +
 ```{r fig.height = 8}
 # Prep data
 xx <- agData_FAO_Crops %>% 
-  filter(Item    == "Lentils", 
-         Element != "Yield",
+  filter(Crop    == "Lentils", 
+         Measurement != "Yield",
          Area %in% c("Canada", "World") ) %>%
   mutate(Area = factor(Area, levels = c("World", "Canada")))
 # Plot
 ggplot(xx, aes(x = Year, y = Value / 1000000, fill = Area, color = I("Black"))) +
   geom_area(position = "identity", alpha = 0.7) +
-  facet_grid(Element+Unit~.) +
+  facet_grid(Measurement+Unit~.) +
   theme(legend.position = "bottom") +
   scale_fill_manual(values = alpha(c("Dark Green", "darkgoldenrod2"), 0.6)) +
   scale_x_continuous(breaks       = seq(1960, 2015, by = 5),
@@ -212,9 +212,9 @@ ggplot(xx, aes(x = Year, y = Value / 1000000, fill = Area, color = I("Black"))) 
 areas <- c("India", "Canada", "Turkey", "Bangladesh", "Syria", "Ethiopia")
 cols  <- c("darkgoldenrod2", "darkred", "darkgreen", "darkblue", "black", "darkcyan")
 xx <- agData_FAO_Crops %>%
-  filter(Item == "Lentils",
+  filter(Crop == "Lentils",
          Area %in% areas,
-         Element == "Yield") %>%
+         Measurement == "Yield") %>%
   mutate(Area = factor(Area, levels = areas))
 # Plot
 ggplot(xx, aes(x = Year, y = Value, color = Area)) +
@@ -236,7 +236,7 @@ ggplot(xx, aes(x = Year, y = Value, color = Area)) +
 ```{r warning = F, fig.height = 5}
 # Prep data
 xx <- agData_USDA_Crops %>% 
-  filter(Item == "Maize", Element == "Yield") %>%
+  filter(Crop == "Maize", Measurement == "Yield") %>%
   mutate(Era = ifelse(Year < 1937, "Open-Pollination",
                 ifelse(Year < 1958, "Double-Cross Hybrids",
                  ifelse(Year < 1996, "Single-Cross Hybrids", "Biotech"))),
@@ -283,12 +283,12 @@ ggplot(xx, aes(fill = Era)) +
 ```{r warning = F, fig.height = 5}
 # Prep data
 x1 <- agData_USDA_Crops %>% 
-  filter(Item    == "Maize", 
-         Element == "Yield",
+  filter(Crop    == "Maize", 
+         Measurement == "Yield",
          Year != 2017)
 x2 <- agData_FAO_Crops %>%
-  filter(Item    == "Maize",
-         Element == "Yield",
+  filter(Crop    == "Maize",
+         Measurement == "Yield",
          Area %in% c("Germany", "Mexico", "Africa"))
 xx <- bind_rows(x1, x2) %>%
   mutate(Area = factor(Area, levels = c("USA", "Germany", "Mexico", "Africa")))
@@ -316,23 +316,23 @@ ggplot(xx, aes(x = Year, y = Value, color = Area)) +
 ```{r fig.height = 4}
 # Prep data
 xx <- agData_USDA_Crops %>%
-  filter(Item %in% c("Maize", "Wheat"),
-         Element == "Yield") %>%
+  filter(Crop %in% c("Maize", "Wheat"),
+         Measurement == "Yield") %>%
   mutate(Era = ifelse(Year <= 1940, "Pre-1940", "Post-1940"))
 # 
 x2 <- xx %>% 
   group_by(Era) %>% 
   summarise(min = min(Year), max = max(Year))
 #
-c1 <- round(summary(lm(data = xx %>% filter(Item=="Maize",Era=="Post-1940"), Value~Year))$coefficients[2], 2)
-c2 <- round(summary(lm(data = xx %>% filter(Item=="Wheat",Era=="Post-1940"), Value~Year))$coefficients[2], 2)
+c1 <- round(summary(lm(data = xx %>% filter(Crop=="Maize",Era=="Post-1940"), Value~Year))$coefficients[2], 2)
+c2 <- round(summary(lm(data = xx %>% filter(Crop=="Wheat",Era=="Post-1940"), Value~Year))$coefficients[2], 2)
 # Plot
 ggplot(xx) +
-  geom_line(aes(x = Year, y = Value, color = Item)) +
-  geom_point(aes(x = Year, y = Value, color = Item, shape = Era)) +
-  geom_smooth(data = xx %>% filter(Item == "Wheat"),
+  geom_line(aes(x = Year, y = Value, color = Crop)) +
+  geom_point(aes(x = Year, y = Value, color = Crop, shape = Era)) +
+  geom_smooth(data = xx %>% filter(Crop == "Wheat"),
               method = "lm", se = F, colour = "Black", aes(x = Year, y = Value, group = Era)) +
-  geom_smooth(data = xx %>% filter(Item == "Maize"),
+  geom_smooth(data = xx %>% filter(Crop == "Maize"),
               method = "lm", se = F, colour = "Black", aes(x = Year, y = Value, group = Era)) +
   geom_rect(data = x2, aes(xmin = min-0.5, xmax = max+0.5, ymin = -Inf, ymax = Inf, fill = Era), alpha = 0.1) +
   annotate("text", x = 1985, y = 4.5, size = 5, label = paste("m =", c1)) +
@@ -356,7 +356,7 @@ ggplot(xx) +
 # Prep data
 areas <- c("World", "Europe", "Northern America", "South America", "Africa", "Asia")
 xx <- agData_FAO_Livestock %>% 
-  filter(Item == "Beehives") %>%
+  filter(Animal == "Beehives") %>%
   mutate(Era = ifelse(Year >= 1994, "NeoNic", "Pre-NeoNic"),
          Era = factor(Era, levels = c("Pre-NeoNic", "NeoNic") ) ) %>%
   filter(Area %in% areas) %>% 
@@ -385,21 +385,21 @@ levs <- c("Beekeepers", "Colonies", "Colonies/Keeper",  "Production", "Yield", "
 xx <- agData_STATCAN_Beehives %>%
   filter(Area == "Canada") %>%
   select(-Unit) %>% 
-  spread(Element, Value) %>%
+  spread(Measurement, Value) %>%
   mutate(Colonies = Colonies / 1000,
          Production = Production / 1000000,
          Beekeepers = Beekeepers / 1000) %>% 
-  gather("Element", "Value", Colonies, Production, Beekeepers, ColoniesPerBeekeeper, Yield, Value) %>%
-  mutate(Element = plyr::mapvalues(Element, "ColoniesPerBeekeeper", "Colonies/Keeper"),
-         Element = factor(Element, levels = levs),
-         Unit = plyr::mapvalues(Element, levs, c("k","k","#","M tonnes","kg/Colony","M $")),
+  gather("Measurement", "Value", Colonies, Production, Beekeepers, ColoniesPerBeekeeper, Yield, Value) %>%
+  mutate(Measurement = plyr::mapvalues(Measurement, "ColoniesPerBeekeeper", "Colonies/Keeper"),
+         Measurement = factor(Measurement, levels = levs),
+         Unit = plyr::mapvalues(Measurement, levs, c("k","k","#","M tonnes","kg/Colony","M $")),
          Era = ifelse(Year >= 1994, "NeoNic", "Pre-NeoNic"),
          Era = factor(Era, levels = c("Pre-NeoNic", "NeoNic")))
 #
 ggplot(xx, aes(x = Year, y = Value)) + 
   geom_line() + 
   geom_line(aes(color = Era), size = 1.25) +
-  facet_grid(Element + Unit ~ ., scales = "free", switch = "y") +
+  facet_grid(Measurement + Unit ~ ., scales = "free", switch = "y") +
   scale_colour_manual(name = "Era:", values = c("darkgoldenrod2", "Dark Green")) +
   scale_x_continuous(breaks = seq(1925, 2015, by = 10)) + 
   coord_cartesian(xlim = c(min(xx$Year)+4, max(xx$Year)-4)) +
@@ -420,7 +420,7 @@ library(gganimate)
 # Prep data
 xx <- agData_STATCAN_Beehives %>% 
   filter(Area    == "Canada",
-         Element == "Colonies")
+         Measurement == "Colonies")
 # Create GIF
 mp <- ggplot(xx, aes(Year, Value / 1000, group = Area)) +
   geom_line() +
@@ -441,8 +441,8 @@ library(hexSticker)
 # Prep data
 xx <- agData_FAO_Crops %>% 
   filter(Area    == "Canada", 
-         Item    == "Lentils", 
-         Element == "Production")
+         Crop    == "Lentils", 
+         Measurement == "Production")
 # Create sticker
 mp <- ggplot(xx, aes(x = Year, y = Value/1000000)) + 
   geom_line(size = 1) + 

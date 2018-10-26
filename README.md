@@ -26,10 +26,8 @@ The agData package contains agriculture related data sets for quick access using
 ?agData_STATCAN_Beehives
 ```
 
-Load Data
----------
-
-#### A quick exploration of the data
+A Quick Example
+---------------
 
 ``` r
 # Load libraries
@@ -44,7 +42,7 @@ xx
 ```
 
     ## # A tibble: 2,157,696 x 6
-    ##    Area        Item        Element        Unit    Year     Value
+    ##    Area        Crop        Measurement    Unit    Year     Value
     ##    <fct>       <fct>       <fct>          <fct>  <dbl>     <dbl>
     ##  1 Afghanistan Apples      Area harvested ha      1961   2220   
     ##  2 Afghanistan Apples      Yield          hg/ha   1961      6.80
@@ -59,34 +57,12 @@ xx
     ## # ... with 2,157,686 more rows
 
 ``` r
-# Spread data to wide format
-xx %>% 
-  unite(Element, Element, Unit) %>%
-  spread(Element, Value)
-```
-
-    ## # A tibble: 785,117 x 6
-    ##    Area    Item       Year `Area harvested~ Production_tonn~ `Yield_hg/ha`
-    ##    <fct>   <fct>     <dbl>            <dbl>            <dbl>         <dbl>
-    ##  1 Afghan~ Almonds,~  1975                0                0         NA   
-    ##  2 Afghan~ Almonds,~  1976             5900             9800          1.66
-    ##  3 Afghan~ Almonds,~  1977             6000             9000          1.5 
-    ##  4 Afghan~ Almonds,~  1978             6000            12000          2   
-    ##  5 Afghan~ Almonds,~  1979             6000            10500          1.75
-    ##  6 Afghan~ Almonds,~  1980             5800             9900          1.71
-    ##  7 Afghan~ Almonds,~  1981             5800             8000          1.38
-    ##  8 Afghan~ Almonds,~  1982             5800            11000          1.90
-    ##  9 Afghan~ Almonds,~  1983             5700             9700          1.70
-    ## 10 Afghan~ Almonds,~  1984             5700            10500          1.84
-    ## # ... with 785,107 more rows
-
-``` r
 # List measurements
-xx %>% distinct(Element)
+xx %>% distinct(Measurement)
 ```
 
     ## # A tibble: 3 x 1
-    ##   Element       
+    ##   Measurement   
     ##   <fct>         
     ## 1 Area harvested
     ## 2 Yield         
@@ -114,11 +90,11 @@ xx %>% distinct(Area)
 
 ``` r
 # List crops
-xx %>% distinct(Item)
+xx %>% distinct(Crop)
 ```
 
     ## # A tibble: 180 x 1
-    ##    Item             
+    ##    Crop             
     ##    <fct>            
     ##  1 Apples           
     ##  2 Apricots         
@@ -131,3 +107,41 @@ xx %>% distinct(Item)
     ##  9 Fruit, fresh nes 
     ## 10 Fruit, stone nes 
     ## # ... with 170 more rows
+
+``` r
+# Spread data to wide format
+xx %>% 
+  unite(Measurement, Measurement, Unit) %>%
+  spread(Measurement, Value)
+```
+
+    ## # A tibble: 785,117 x 6
+    ##    Area    Crop       Year `Area harvested~ Production_tonn~ `Yield_hg/ha`
+    ##    <fct>   <fct>     <dbl>            <dbl>            <dbl>         <dbl>
+    ##  1 Afghan~ Almonds,~  1975                0                0         NA   
+    ##  2 Afghan~ Almonds,~  1976             5900             9800          1.66
+    ##  3 Afghan~ Almonds,~  1977             6000             9000          1.5 
+    ##  4 Afghan~ Almonds,~  1978             6000            12000          2   
+    ##  5 Afghan~ Almonds,~  1979             6000            10500          1.75
+    ##  6 Afghan~ Almonds,~  1980             5800             9900          1.71
+    ##  7 Afghan~ Almonds,~  1981             5800             8000          1.38
+    ##  8 Afghan~ Almonds,~  1982             5800            11000          1.90
+    ##  9 Afghan~ Almonds,~  1983             5700             9700          1.70
+    ## 10 Afghan~ Almonds,~  1984             5700            10500          1.84
+    ## # ... with 785,107 more rows
+
+``` r
+# Filter data for ploting
+xx <- xx %>% 
+  filter(Area == "Canada", 
+         Crop == "Lentils", 
+         Measurement == "Production")
+# Plot
+ggplot(xx, aes(x = Year, y = Value / 1000000)) + 
+  geom_line() +
+  labs(title = "Lentil Production", 
+       y = "million tonnes",
+       x = NULL)
+```
+
+![](README_files/figure-markdown_github/unnamed-chunk-5-1.png)

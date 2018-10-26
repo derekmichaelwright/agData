@@ -1,7 +1,7 @@
 agData Vignette
 ================
-Derek Wright
-October 12, 2018
+Derek Michael Wright <derek.wright@usask.ca>
+2018-10-26
 
 ``` r
 # devtools::install_github("derekmichaelwright/agData")
@@ -9,7 +9,8 @@ library(agData)
 library(tidyverse)
 ```
 
-## Introduction
+Introduction
+------------
 
 This is the vignette for the `agData` package.
 
@@ -22,9 +23,10 @@ This is the vignette for the `agData` package.
 ?agData_STATCAN_Beehives
 ```
 
------
+------------------------------------------------------------------------
 
-## Load Data
+Load Data
+---------
 
 #### A quick exploration of the data
 
@@ -35,7 +37,7 @@ xx
 ```
 
     ## # A tibble: 2,157,696 x 6
-    ##    Area        Item        Element        Unit    Year     Value
+    ##    Area        Crop        Measurement    Unit    Year     Value
     ##    <fct>       <fct>       <fct>          <fct>  <dbl>     <dbl>
     ##  1 Afghanistan Apples      Area harvested ha      1961   2220   
     ##  2 Afghanistan Apples      Yield          hg/ha   1961      6.80
@@ -52,12 +54,12 @@ xx
 ``` r
 # Spread data to wide format
 xx %>% 
-  unite(Element, Element, Unit) %>%
-  spread(Element, Value)
+  unite(Measurement, Measurement, Unit) %>%
+  spread(Measurement, Value)
 ```
 
     ## # A tibble: 785,117 x 6
-    ##    Area    Item       Year `Area harvested~ Production_tonn~ `Yield_hg/ha`
+    ##    Area    Crop       Year `Area harvested~ Production_tonn~ `Yield_hg/ha`
     ##    <fct>   <fct>     <dbl>            <dbl>            <dbl>         <dbl>
     ##  1 Afghan~ Almonds,~  1975                0                0         NA   
     ##  2 Afghan~ Almonds,~  1976             5900             9800          1.66
@@ -73,11 +75,11 @@ xx %>%
 
 ``` r
 # List measurements
-xx %>% distinct(Element)
+xx %>% distinct(Measurement)
 ```
 
     ## # A tibble: 3 x 1
-    ##   Element       
+    ##   Measurement   
     ##   <fct>         
     ## 1 Area harvested
     ## 2 Yield         
@@ -105,11 +107,11 @@ xx %>% distinct(Area)
 
 ``` r
 # List crops
-xx %>% distinct(Item)
+xx %>% distinct(Crop)
 ```
 
     ## # A tibble: 180 x 1
-    ##    Item             
+    ##    Crop             
     ##    <fct>            
     ##  1 Apples           
     ##  2 Apricots         
@@ -123,9 +125,10 @@ xx %>% distinct(Item)
     ## 10 Fruit, stone nes 
     ## # ... with 170 more rows
 
------
+------------------------------------------------------------------------
 
-## Example 1: Rapeseed production
+Example 1: Rapeseed production
+------------------------------
 
 #### Improvments in oil quality, acheived through plant breeding has resulted in Rapeseed/Canola becoming one of the worlds major oil crops.
 
@@ -134,9 +137,9 @@ xx %>% distinct(Item)
 areas <- c("Europe", "China", "Canada", "India", "Australia")
 cols  <- c("darkblue", "darkred", "darkgoldenrod2", "darkgreen", "darkcyan")
 xx <- agData_FAO_Crops %>% 
-  filter(Item == "Rapeseed",
+  filter(Crop == "Rapeseed",
          Area %in% areas,
-         Element == "Production") %>%
+         Measurement == "Production") %>%
   mutate(Area = factor(Area, levels = areas))
 # Plot
 ggplot(xx, aes(x = Year, y = Value / 1000000, color = Area)) +
@@ -150,16 +153,16 @@ ggplot(xx, aes(x = Year, y = Value / 1000000, color = Area)) +
        y = "million tonnes", x = NULL)
 ```
 
-![](agDataVignette_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](agDataVignette_files/figure-markdown_github/unnamed-chunk-4-1.png)
 
 ``` r
 # Prep data
 areas <- c("Germany", "Canada", "China", "India")
 cols  <- c("darkblue", "darkgoldenrod2", "darkred", "darkgreen")
 xx <- agData_FAO_Crops %>% 
-  filter(Item == "Rapeseed",
+  filter(Crop == "Rapeseed",
          Area %in% areas,
-         Element == "Yield") %>%
+         Measurement == "Yield") %>%
   mutate(Area = factor(Area, levels = areas))
 # Plot
 ggplot(xx, aes(x = Year, y = Value, color = Area)) +
@@ -172,21 +175,22 @@ ggplot(xx, aes(x = Year, y = Value, color = Area)) +
        y = "million tonnes", x = NULL)
 ```
 
-![](agDataVignette_files/figure-gfm/unnamed-chunk-4-2.png)<!-- -->
+![](agDataVignette_files/figure-markdown_github/unnamed-chunk-4-2.png)
 
------
+------------------------------------------------------------------------
 
-## Example 2: Wheat production in India and Mexico
+Example 2: Wheat production in India and Mexico
+-----------------------------------------------
 
 #### Spurred by pioneers such as Norman Bourlag, Wheat production in Mexico and India increased significantly since 1961. During that same time period, the area devoted to wheat production has remained relativly constant. This increase in wheat yields has helped these countries avoid some major food security problems.
 
 ``` r
 # Prep data
 xx <- agData_FAO_Crops %>% 
-  filter(Item == "Wheat", 
+  filter(Crop == "Wheat", 
          Area == "Mexico")
 # Plot
-ggplot(xx %>% filter(Element != "Yield"), aes(x = Year, y = Value / 1000000, color = Element)) +
+ggplot(xx %>% filter(Measurement != "Yield"), aes(x = Year, y = Value / 1000000, color = Measurement)) +
   geom_line(size = 1.5) +
   theme(legend.position = "bottom") +
   scale_color_manual(name   = NULL,
@@ -201,11 +205,11 @@ ggplot(xx %>% filter(Element != "Yield"), aes(x = Year, y = Value / 1000000, col
        x       = NULL)
 ```
 
-![](agDataVignette_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](agDataVignette_files/figure-markdown_github/unnamed-chunk-5-1.png)
 
 ``` r
 # Plot
-ggplot(xx %>% filter(Element =="Yield"), aes(x = Year, y = Value) ) +
+ggplot(xx %>% filter(Measurement =="Yield"), aes(x = Year, y = Value) ) +
   geom_line(size = 1.5, color = "Dark Blue") +
   scale_x_continuous(breaks       = seq(1960, 2015, by = 5),
                      minor_breaks = seq(1960, 2015, by = 5)) +
@@ -215,15 +219,15 @@ ggplot(xx %>% filter(Element =="Yield"), aes(x = Year, y = Value) ) +
        x       = NULL)
 ```
 
-![](agDataVignette_files/figure-gfm/unnamed-chunk-5-2.png)<!-- -->
+![](agDataVignette_files/figure-markdown_github/unnamed-chunk-5-2.png)
 
 ``` r
 # Prep data
 xx <- agData_FAO_Crops %>% 
-  filter(Item == "Wheat", 
+  filter(Crop == "Wheat", 
          Area == "India")
 # Plot
-ggplot(xx %>% filter(Element != "Yield"), aes(x = Year, y = Value / 1000000, color = Element)) +
+ggplot(xx %>% filter(Measurement != "Yield"), aes(x = Year, y = Value / 1000000, color = Measurement)) +
   geom_line(size = 1.5) +
   theme(legend.position = "bottom") +
   scale_color_manual(name   = NULL,
@@ -238,11 +242,11 @@ ggplot(xx %>% filter(Element != "Yield"), aes(x = Year, y = Value / 1000000, col
        x       = NULL)
 ```
 
-![](agDataVignette_files/figure-gfm/unnamed-chunk-5-3.png)<!-- -->
+![](agDataVignette_files/figure-markdown_github/unnamed-chunk-5-3.png)
 
 ``` r
 # Plot
-ggplot(xx %>% filter(Element =="Yield"), aes(x = Year, y = Value) ) +
+ggplot(xx %>% filter(Measurement =="Yield"), aes(x = Year, y = Value) ) +
   geom_line(size = 1.5, color = "Dark Blue") +
   scale_x_continuous(breaks       = seq(1960, 2015, by = 5),
                      minor_breaks = seq(1960, 2015, by = 5)) +
@@ -252,48 +256,50 @@ ggplot(xx %>% filter(Element =="Yield"), aes(x = Year, y = Value) ) +
        x       = NULL)
 ```
 
-![](agDataVignette_files/figure-gfm/unnamed-chunk-5-4.png)<!-- -->
+![](agDataVignette_files/figure-markdown_github/unnamed-chunk-5-4.png)
 
------
+------------------------------------------------------------------------
 
-## Example 3: Wheat and Maize Yields in Germany vs Europe
+Example 3: Wheat and Maize Yields in Germany vs Europe
+------------------------------------------------------
 
-#### Germany…
+#### Germany...
 
 ``` r
 # Prep data
 xx <- agData_FAO_Crops %>% 
   filter(Area %in% c("Germany", "Europe"),
-         Item %in% c("Maize", "Wheat"),
-         Element == "Yield") %>%
+         Crop %in% c("Maize", "Wheat"),
+         Measurement == "Yield") %>%
   mutate(Area = factor(Area, levels = c("Germany", "Europe")))
 # Plot
 ggplot(xx, aes(x = Year, y = Value, color = Area)) +
   geom_line() +
   geom_smooth(method = "loess") +
-    facet_grid(Item~., scales = "free_y") + 
+    facet_grid(Crop~., scales = "free_y") + 
   scale_color_manual(values = c("darkgreen", "darkblue"))
 ```
 
-![](agDataVignette_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![](agDataVignette_files/figure-markdown_github/unnamed-chunk-6-1.png)
 
------
+------------------------------------------------------------------------
 
-## Example 4: FOA lentil data for Canada
+Example 4: FOA lentil data for Canada
+-------------------------------------
 
-#### Since the introduction of lentil as a crop for the Canadian Prairies (1973), Saskatchewan has become the worlds largest producer of lentils. The first variety, “Laird”, was registered in 1979.
+#### Since the introduction of lentil as a crop for the Canadian Prairies (1973), Saskatchewan has become the worlds largest producer of lentils. The first variety, "Laird", was registered in 1979.
 
 ``` r
 # Prep data
 xx <- agData_FAO_Crops %>% 
-  filter(Item    == "Lentils", 
-         Element != "Yield",
+  filter(Crop    == "Lentils", 
+         Measurement != "Yield",
          Area %in% c("Canada", "World") ) %>%
   mutate(Area = factor(Area, levels = c("World", "Canada")))
 # Plot
 ggplot(xx, aes(x = Year, y = Value / 1000000, fill = Area, color = I("Black"))) +
   geom_area(position = "identity", alpha = 0.7) +
-  facet_grid(Element+Unit~.) +
+  facet_grid(Measurement+Unit~.) +
   theme(legend.position = "bottom") +
   scale_fill_manual(values = alpha(c("Dark Green", "darkgoldenrod2"), 0.6)) +
   scale_x_continuous(breaks       = seq(1960, 2015, by = 5),
@@ -304,16 +310,16 @@ ggplot(xx, aes(x = Year, y = Value / 1000000, fill = Area, color = I("Black"))) 
        y = "Million", x = NULL)
 ```
 
-![](agDataVignette_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![](agDataVignette_files/figure-markdown_github/unnamed-chunk-7-1.png)
 
 ``` r
 # Prep data
 areas <- c("India", "Canada", "Turkey", "Bangladesh", "Syria", "Ethiopia")
 cols  <- c("darkgoldenrod2", "darkred", "darkgreen", "darkblue", "black", "darkcyan")
 xx <- agData_FAO_Crops %>%
-  filter(Item == "Lentils",
+  filter(Crop == "Lentils",
          Area %in% areas,
-         Element == "Yield") %>%
+         Measurement == "Yield") %>%
   mutate(Area = factor(Area, levels = areas))
 # Plot
 ggplot(xx, aes(x = Year, y = Value, color = Area)) +
@@ -327,18 +333,19 @@ ggplot(xx, aes(x = Year, y = Value, color = Area)) +
        y = "tonnes/ha", x = NULL)
 ```
 
-![](agDataVignette_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![](agDataVignette_files/figure-markdown_github/unnamed-chunk-8-1.png)
 
------
+------------------------------------------------------------------------
 
-## Example 5: USDA maize
+Example 5: USDA maize
+---------------------
 
 #### The development of hybrid seed production in maize has led to major increases in crop yield in the United States.
 
 ``` r
 # Prep data
 xx <- agData_USDA_Crops %>% 
-  filter(Item == "Maize", Element == "Yield") %>%
+  filter(Crop == "Maize", Measurement == "Yield") %>%
   mutate(Era = ifelse(Year < 1937, "Open-Pollination",
                 ifelse(Year < 1958, "Double-Cross Hybrids",
                  ifelse(Year < 1996, "Single-Cross Hybrids", "Biotech"))),
@@ -377,23 +384,24 @@ ggplot(xx, aes(fill = Era)) +
        x       = NULL) 
 ```
 
-![](agDataVignette_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
+![](agDataVignette_files/figure-markdown_github/unnamed-chunk-9-1.png)
 
------
+------------------------------------------------------------------------
 
-## Example 6: Maize yields in the developed vs developing world
+Example 6: Maize yields in the developed vs developing world
+------------------------------------------------------------
 
 #### Maize yields in developing countries have lagged behind those in developed countries. This is due to a conbination of factors, including lack of access to crop inputs, machinery, and improved crop varieties.
 
 ``` r
 # Prep data
 x1 <- agData_USDA_Crops %>% 
-  filter(Item    == "Maize", 
-         Element == "Yield",
+  filter(Crop    == "Maize", 
+         Measurement == "Yield",
          Year != 2017)
 x2 <- agData_FAO_Crops %>%
-  filter(Item    == "Maize",
-         Element == "Yield",
+  filter(Crop    == "Maize",
+         Measurement == "Yield",
          Area %in% c("Germany", "Mexico", "Africa"))
 xx <- bind_rows(x1, x2) %>%
   mutate(Area = factor(Area, levels = c("USA", "Germany", "Mexico", "Africa")))
@@ -413,34 +421,35 @@ ggplot(xx, aes(x = Year, y = Value, color = Area)) +
        x       = NULL)
 ```
 
-![](agDataVignette_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
+![](agDataVignette_files/figure-markdown_github/unnamed-chunk-10-1.png)
 
------
+------------------------------------------------------------------------
 
-## Example 7: USDA Maize vs Wheat yields
+Example 7: USDA Maize vs Wheat yields
+-------------------------------------
 
 #### Maize yeilds have increased on a much faster pace than wheat, in part due to the adoption of hybrid seed in Maize.
 
 ``` r
 # Prep data
 xx <- agData_USDA_Crops %>%
-  filter(Item %in% c("Maize", "Wheat"),
-         Element == "Yield") %>%
+  filter(Crop %in% c("Maize", "Wheat"),
+         Measurement == "Yield") %>%
   mutate(Era = ifelse(Year <= 1940, "Pre-1940", "Post-1940"))
 # 
 x2 <- xx %>% 
   group_by(Era) %>% 
   summarise(min = min(Year), max = max(Year))
 #
-c1 <- round(summary(lm(data = xx %>% filter(Item=="Maize",Era=="Post-1940"), Value~Year))$coefficients[2], 2)
-c2 <- round(summary(lm(data = xx %>% filter(Item=="Wheat",Era=="Post-1940"), Value~Year))$coefficients[2], 2)
+c1 <- round(summary(lm(data = xx %>% filter(Crop=="Maize",Era=="Post-1940"), Value~Year))$coefficients[2], 2)
+c2 <- round(summary(lm(data = xx %>% filter(Crop=="Wheat",Era=="Post-1940"), Value~Year))$coefficients[2], 2)
 # Plot
 ggplot(xx) +
-  geom_line(aes(x = Year, y = Value, color = Item)) +
-  geom_point(aes(x = Year, y = Value, color = Item, shape = Era)) +
-  geom_smooth(data = xx %>% filter(Item == "Wheat"),
+  geom_line(aes(x = Year, y = Value, color = Crop)) +
+  geom_point(aes(x = Year, y = Value, color = Crop, shape = Era)) +
+  geom_smooth(data = xx %>% filter(Crop == "Wheat"),
               method = "lm", se = F, colour = "Black", aes(x = Year, y = Value, group = Era)) +
-  geom_smooth(data = xx %>% filter(Item == "Maize"),
+  geom_smooth(data = xx %>% filter(Crop == "Maize"),
               method = "lm", se = F, colour = "Black", aes(x = Year, y = Value, group = Era)) +
   geom_rect(data = x2, aes(xmin = min-0.5, xmax = max+0.5, ymin = -Inf, ymax = Inf, fill = Era), alpha = 0.1) +
   annotate("text", x = 1985, y = 4.5, size = 5, label = paste("m =", c1)) +
@@ -455,11 +464,12 @@ ggplot(xx) +
        y = "tonnes/ha", x = NULL)
 ```
 
-![](agDataVignette_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
+![](agDataVignette_files/figure-markdown_github/unnamed-chunk-11-1.png)
 
------
+------------------------------------------------------------------------
 
-## Example 8: FAO and STATCAN honeybee data
+Example 8: FAO and STATCAN honeybee data
+----------------------------------------
 
 #### Neonicotinoids are often blamed for honeybee declines, but the data suggests a more complicated story.
 
@@ -467,7 +477,7 @@ ggplot(xx) +
 # Prep data
 areas <- c("World", "Europe", "Northern America", "South America", "Africa", "Asia")
 xx <- agData_FAO_Livestock %>% 
-  filter(Item == "Beehives") %>%
+  filter(Animal == "Beehives") %>%
   mutate(Era = ifelse(Year >= 1994, "NeoNic", "Pre-NeoNic"),
          Era = factor(Era, levels = c("Pre-NeoNic", "NeoNic") ) ) %>%
   filter(Area %in% areas) %>% 
@@ -488,9 +498,9 @@ ggplot(data = xx, aes(x = Year, y = Value / 1000000)) +
        x = NULL)
 ```
 
-![](agDataVignette_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
+![](agDataVignette_files/figure-markdown_github/unnamed-chunk-12-1.png)
 
------
+------------------------------------------------------------------------
 
 ``` r
 # Prep data
@@ -498,21 +508,21 @@ levs <- c("Beekeepers", "Colonies", "Colonies/Keeper",  "Production", "Yield", "
 xx <- agData_STATCAN_Beehives %>%
   filter(Area == "Canada") %>%
   select(-Unit) %>% 
-  spread(Element, Value) %>%
+  spread(Measurement, Value) %>%
   mutate(Colonies = Colonies / 1000,
          Production = Production / 1000000,
          Beekeepers = Beekeepers / 1000) %>% 
-  gather("Element", "Value", Colonies, Production, Beekeepers, ColoniesPerBeekeeper, Yield, Value) %>%
-  mutate(Element = plyr::mapvalues(Element, "ColoniesPerBeekeeper", "Colonies/Keeper"),
-         Element = factor(Element, levels = levs),
-         Unit = plyr::mapvalues(Element, levs, c("k","k","#","M tonnes","kg/Colony","M $")),
+  gather("Measurement", "Value", Colonies, Production, Beekeepers, ColoniesPerBeekeeper, Yield, Value) %>%
+  mutate(Measurement = plyr::mapvalues(Measurement, "ColoniesPerBeekeeper", "Colonies/Keeper"),
+         Measurement = factor(Measurement, levels = levs),
+         Unit = plyr::mapvalues(Measurement, levs, c("k","k","#","M tonnes","kg/Colony","M $")),
          Era = ifelse(Year >= 1994, "NeoNic", "Pre-NeoNic"),
          Era = factor(Era, levels = c("Pre-NeoNic", "NeoNic")))
 #
 ggplot(xx, aes(x = Year, y = Value)) + 
   geom_line() + 
   geom_line(aes(color = Era), size = 1.25) +
-  facet_grid(Element + Unit ~ ., scales = "free", switch = "y") +
+  facet_grid(Measurement + Unit ~ ., scales = "free", switch = "y") +
   scale_colour_manual(name = "Era:", values = c("darkgoldenrod2", "Dark Green")) +
   scale_x_continuous(breaks = seq(1925, 2015, by = 10)) + 
   coord_cartesian(xlim = c(min(xx$Year)+4, max(xx$Year)-4)) +
@@ -524,18 +534,19 @@ ggplot(xx, aes(x = Year, y = Value)) +
        y = NULL, x = NULL)
 ```
 
-![](agDataVignette_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
+![](agDataVignette_files/figure-markdown_github/unnamed-chunk-13-1.png)
 
------
+------------------------------------------------------------------------
 
-## Example 9: gganimate example
+Example 9: gganimate example
+----------------------------
 
 ``` r
 library(gganimate)
 # Prep data
 xx <- agData_STATCAN_Beehives %>% 
   filter(Area    == "Canada",
-         Element == "Colonies")
+         Measurement == "Colonies")
 # Create GIF
 mp <- ggplot(xx, aes(Year, Value / 1000, group = Area)) +
   geom_line() +
@@ -547,17 +558,18 @@ mp <- animate(mp, fps = 5)
 anim_save("anim.gif", mp)
 ```
 
------
+------------------------------------------------------------------------
 
-## HexSticker Creation
+HexSticker Creation
+-------------------
 
 ``` r
 library(hexSticker)
 # Prep data
 xx <- agData_FAO_Crops %>% 
   filter(Area    == "Canada", 
-         Item    == "Lentils", 
-         Element == "Production")
+         Crop    == "Lentils", 
+         Measurement == "Production")
 # Create sticker
 mp <- ggplot(xx, aes(x = Year, y = Value/1000000)) + 
   geom_line(size = 1) + 

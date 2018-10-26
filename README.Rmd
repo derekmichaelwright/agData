@@ -43,21 +43,29 @@ library(agData)
 library(tidyverse)
 ```
 
-```{r}
+```{r fig.width = 10, fig.height = 4}
 # Load data
 xx <- agData_FAO_Crops %>% as.tibble()
 xx
 # List measurements
-xx %>% distinct(Element)
+xx %>% distinct(Measurement)
 # List areas
 xx %>% distinct(Area)
 # List crops
-xx %>% distinct(Item)
+xx %>% distinct(Crop)
 # Spread data to wide format
 xx %>% 
-  unite(Element, Element, Unit) %>%
-  spread(Element, Value)
+  unite(Measurement, Measurement, Unit) %>%
+  spread(Measurement, Value)
 # Filter data for ploting
-xx <- xx %>% filter(Area == "Canada", Item = "Lentils")
+xx <- xx %>% 
+  filter(Area == "Canada", 
+         Crop == "Lentils", 
+         Measurement == "Production")
+# Plot
+ggplot(xx, aes(x = Year, y = Value / 1000000)) + 
+  geom_line() +
+  labs(title = "Lentil Production", 
+       y = "million tonnes",
+       x = NULL)
 ```
-
