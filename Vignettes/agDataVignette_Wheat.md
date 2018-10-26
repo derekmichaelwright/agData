@@ -120,7 +120,8 @@ Maize yeilds have increased on a much faster pace than wheat, in part due to the
 xx <- agData_USDA_Crops %>%
   filter(Crop %in% c("Maize", "Wheat"),
          Measurement == "Yield") %>%
-  mutate(Era = ifelse(Year <= 1940, "Pre-1940", "Post-1940"))
+  mutate(Era = ifelse(Year <= 1940, "Pre-1940", "Post-1940"),
+         Era = factor(Era, levels = c("Pre-1940", "Post-1940")))
 # 
 x2 <- xx %>% 
   group_by(Era) %>% 
