@@ -35,7 +35,7 @@ The agData package contains agriculture related data sets for quick access using
 ?agData_STATCAN_Beehives
 ```
 
-## A Quick Example
+## Explore Data
 
 ```{r warning = F, message = F}
 # Load libraries
@@ -43,7 +43,7 @@ library(agData)
 library(tidyverse)
 ```
 
-```{r fig.width = 10, fig.height = 4}
+```{r}
 # Load data
 xx <- agData_FAO_Crops %>% as.tibble()
 xx
@@ -57,6 +57,11 @@ xx %>% distinct(Crop)
 xx %>% 
   unite(Measurement, Measurement, Unit) %>%
   spread(Measurement, Value)
+```
+
+## A Quick Example
+
+```{r fig.width = 10, fig.height = 4}
 # Filter data for ploting
 xx <- xx %>% 
   filter(Area == "Canada", 
@@ -69,3 +74,4 @@ ggplot(xx, aes(x = Year, y = Value / 1000000)) +
        y = "million tonnes",
        x = NULL)
 ```
+
