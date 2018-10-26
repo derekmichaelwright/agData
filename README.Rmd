@@ -1,17 +1,17 @@
-agData
-================
-Derek Michael Wright <derek.wright@usask.ca>
-2018-10-26
+---
+title: "agData"
+author: "Derek Michael Wright <derek.wright@usask.ca>"
+date: "`r Sys.Date()`"
+output: github_document
+---
 
-Instalation
------------
+## Instalation
 
 Use the following code to install the `agdata` package in R
 
 `devtools::install_github("derekmichaelwright/agData")`
 
-Datasets
---------
+## Datasets
 
 The agData package contains agriculture related data sets for quick access using R:
 
