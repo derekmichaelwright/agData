@@ -16,12 +16,12 @@ A dataset from Statistics Canada on livestock production.
 
 \itemize{
   \item levels(agData_STATCAN_Livestock$Area)
-  \item levels(agData_STATCAN_Livestock$Item)
+  \item levels(agData_STATCAN_Livestock$Crop)
   \item add_Canada_Info(agData_STATCAN_Livestock)
 }
 }
 
-\section{Element}{
+\section{Measurement}{
 
 \itemize{
   \item Average number of animals (Number)

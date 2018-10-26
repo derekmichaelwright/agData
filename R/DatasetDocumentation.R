@@ -28,10 +28,10 @@ NULL
 #' @section Helpful Codes:
 #' \itemize{
 #'   \item levels(agData_FAO_Crops$Area)
-#'   \item levels(agData_FAO_Crops$Item)
+#'   \item levels(agData_FAO_Crops$Crop)
 #'   \item addRegionInfo(agData_FAO_Crops)
 #' }
-#' @section Elements:
+#' @section Measurement:
 #' \itemize{
 #'   \item Production     (tonnes)
 #'   \item Area harvested (ha)
@@ -47,10 +47,10 @@ NULL
 #' @section Helpful Codes:
 #' \itemize{
 #'   \item levels(agData_FAO_Livestock$Area)
-#'   \item levels(agData_FAO_Livestock$Item)
+#'   \item levels(agData_FAO_Livestock$Animal)
 #'   \item addRegionInfo(agData_FAO_Livestock)
 #' }
-#' @section Elements:
+#' @section Measurement:
 #' \itemize{
 #'   \item Stocks (head or 1000 head)
 #' }
@@ -64,10 +64,10 @@ NULL
 #' @section Items:
 #' \itemize{
 #'   \item levels(agData_FAO_LandUse$Area)
-#'   \item levels(agData_FAO_LandUse$Item)
+#'   \item levels(agData_FAO_LandUse$Type)
 #'   \item addRegionInfo(agData_FAO_LandUse)
 #' }
-#' @section Elements:
+#' @section Measurement:
 #' \itemize{
 #'   \item Area                           (1000 ha)
 #'   \item Carbon stock in living biomass (million tonnes)
@@ -90,7 +90,7 @@ NULL
 #'   \item levels(agData_STATCAN_Beehives$Area)
 #'   \item add_Canada_Info(agData_STATCAN_Beehives)
 #' }
-#' @section Elements:
+#' @section Measurement:
 #' \itemize{
 #'   \item Beekeepers         (number)
 #'   \item Colonies           (number)
@@ -110,10 +110,10 @@ NULL
 #' @section Helpful Codes:
 #' \itemize{
 #'   \item levels(agData_STATCAN_Crops$Area)
-#'   \item levels(agData_STATCAN_Crops$Item)
+#'   \item levels(agData_STATCAN_Crops$Crop)
 #'   \item add_Canada_Info(agData_STATCAN_Crops)
 #' }
-#' @section Elements:
+#' @section Measurement:
 #' \itemize{
 #'   \item Production         (tonnes)
 #'   \item Area seeded        (ha)
@@ -132,10 +132,10 @@ NULL
 #' @section Helpful Codes:
 #' \itemize{
 #'   \item levels(agData_STATCAN_Livestock$Area)
-#'   \item levels(agData_STATCAN_Livestock$Item)
+#'   \item levels(agData_STATCAN_Livestock$Crop)
 #'   \item add_Canada_Info(agData_STATCAN_Livestock)
 #' }
-#' @section Element:
+#' @section Measurement:
 #' \itemize{
 #'   \item Average number of animals (Number)
 #'   \item Number of animals         (Number)
@@ -149,7 +149,7 @@ NULL
 NULL
 #' USDA Crop Data
 #' A dataset from the USDA on crop production.
-#' @section Item:
+#' @section Crop:
 #' \itemize{
 #'   \item Barley
 #'   \item Maize
@@ -157,7 +157,7 @@ NULL
 #'   \item Sorghum
 #'   \item Wheat
 #' }
-#' @section Element:
+#' @section Measurement:
 #' \itemize{
 #'   \item Production     (tonnes)
 #'   \item Area seeded    (ha)

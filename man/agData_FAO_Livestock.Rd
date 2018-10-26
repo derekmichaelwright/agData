@@ -16,12 +16,12 @@ A dataset containing livestock data from FAOSTAT.
 
 \itemize{
   \item levels(agData_FAO_Livestock$Area)
-  \item levels(agData_FAO_Livestock$Item)
+  \item levels(agData_FAO_Livestock$Animal)
   \item addRegionInfo(agData_FAO_Livestock)
 }
 }
 
-\section{Elements}{
+\section{Measurement}{
 
 \itemize{
   \item Stocks (head or 1000 head)

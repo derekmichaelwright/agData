@@ -16,12 +16,12 @@ A dataset from Statistics Canada on crop production.
 
 \itemize{
   \item levels(agData_STATCAN_Crops$Area)
-  \item levels(agData_STATCAN_Crops$Item)
+  \item levels(agData_STATCAN_Crops$Crop)
   \item add_Canada_Info(agData_STATCAN_Crops)
 }
 }
 
-\section{Elements}{
+\section{Measurement}{
 
 \itemize{
   \item Production         (tonnes)

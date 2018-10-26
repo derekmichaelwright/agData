@@ -12,7 +12,7 @@ https://www.nass.usda.gov/
 USDA Crop Data
 A dataset from the USDA on crop production.
 }
-\section{Item}{
+\section{Crop}{
 
 \itemize{
   \item Barley
@@ -23,7 +23,7 @@ A dataset from the USDA on crop production.
 }
 }
 
-\section{Element}{
+\section{Measurement}{
 
 \itemize{
   \item Production     (tonnes)

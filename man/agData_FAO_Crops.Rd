@@ -16,12 +16,12 @@ A dataset containing crop data from FAOSTAT.
 
 \itemize{
   \item levels(agData_FAO_Crops$Area)
-  \item levels(agData_FAO_Crops$Item)
+  \item levels(agData_FAO_Crops$Crop)
   \item addRegionInfo(agData_FAO_Crops)
 }
 }
 
-\section{Elements}{
+\section{Measurement}{
 
 \itemize{
   \item Production     (tonnes)

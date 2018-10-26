@@ -16,12 +16,12 @@ A dataset containing land use data from FAOSTAT.
 
 \itemize{
   \item levels(agData_FAO_LandUse$Area)
-  \item levels(agData_FAO_LandUse$Item)
+  \item levels(agData_FAO_LandUse$Type)
   \item addRegionInfo(agData_FAO_LandUse)
 }
 }
 
-\section{Elements}{
+\section{Measurement}{
 
 \itemize{
   \item Area                           (1000 ha)

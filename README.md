@@ -26,8 +26,8 @@ The agData package contains agriculture related data sets for quick access using
 ?agData_STATCAN_Beehives
 ```
 
-A Quick Example
----------------
+Explore Data
+------------
 
 ``` r
 # Load libraries
@@ -130,6 +130,9 @@ xx %>%
     ## 10 Afghan~ Almonds,~  1984             5700            10500          1.84
     ## # ... with 785,107 more rows
 
+A Quick Example
+---------------
+
 ``` r
 # Filter data for ploting
 xx <- xx %>% 
@@ -144,4 +147,4 @@ ggplot(xx, aes(x = Year, y = Value / 1000000)) +
        x = NULL)
 ```
 
-![](README_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](README_files/figure-markdown_github/unnamed-chunk-6-1.png)

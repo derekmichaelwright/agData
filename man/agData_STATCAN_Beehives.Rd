@@ -20,7 +20,7 @@ A dataset from Statistics Canada on honeybee production.
 }
 }
 
-\section{Elements}{
+\section{Measurement}{
 
 \itemize{
   \item Beekeepers         (number)
