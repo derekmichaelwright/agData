@@ -1,13 +1,21 @@
 ---
-title: "agData"
-author: "Derek Michael Wright <derek.wright@usask.ca>"
-date: "`r Sys.Date()`"
 output: github_document
 ---
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = T)
 ```
+
+# agData <img src="Vignettes/agData.png" align="right" width = "200px" />
+
+`agData` contains various agricultural data sets for quick use in `R`:
+
+- `agData_STATCAN_Crops` ( 1908 - 2017 )
+- `agData_STATCAN_Livestock` ( 1921 - 2017 )
+- `agData_STATCAN_Beehives` ( 1924 - 2017 )
+- `agData_USDA_Crops` ( 1866 - 2017 )
+- `agData_FAO_Crops` ( 1961 - 2016 )
+- `agData_FAO_Livestock` ( 1961 - 2016 )
 
 ## Instalation
 
@@ -17,22 +25,14 @@ Use the following code to install the `agdata` package in R
 devtools::install_github("derekmichaelwright/agData")
 ```
 
+## Data Sources
+
+- `STATCAN` Statistics Canada [statcan.gc.ca/](statcan.gc.ca/)  
+- `USDA` United States Department of Agriculture [usda.gov/](usda.gov/)
+- `FAO` Food and Agriculture Organization of the United Nations [fao.org/faostat/](fao.org/faostat/)
+
 ```{r echo = F}
 library(agData)
-
-```
-
-## Datasets
-
-The agData package contains agriculture related data sets for quick access using R:
-
-```{r, eval = F}
-?agData_FAO_Crops
-?agData_FAO_Livestock
-?agData_USDA_Crops
-?agData_STATCAN_Crops
-?agData_STATCAN_Livestock
-?agData_STATCAN_Beehives
 ```
 
 ## Explore Data
@@ -74,4 +74,3 @@ ggplot(xx, aes(x = Year, y = Value / 1000000)) +
        y = "million tonnes",
        x = NULL)
 ```
-

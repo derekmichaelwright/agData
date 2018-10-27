@@ -1,10 +1,16 @@
-agData
-================
-Derek Michael Wright <derek.wright@usask.ca>
-2018-10-26
 
-Instalation
------------
+# agData <img src="Vignettes/agData.png" align="right" width = "200px" />
+
+`agData` contains various agricultural data sets for quick use in `R`:
+
+  - `agData_FAO_Crops` ( 1961 - 2016 )
+  - `agData_FAO_Livestock` ( 1961 - 2016 )
+  - `agData_USDA_Crops` ( 1866 - 2017 )
+  - `agData_STATCAN_Crops` ( 1908 - 2017 )
+  - `agData_STATCAN_Livestock` ( 1921 - 2017 )
+  - `agData_STATCAN_Beehives` ( 1924 - 2017 )
+
+## Instalation
 
 Use the following code to install the `agdata` package in R
 
@@ -12,22 +18,15 @@ Use the following code to install the `agdata` package in R
 devtools::install_github("derekmichaelwright/agData")
 ```
 
-Datasets
---------
+## Data Sources
 
-The agData package contains agriculture related data sets for quick access using R:
+  - `STATCAN` Statistics Canada [statcan.gc.ca/](statcan.gc.ca/)  
+  - `USDA` United States Department of Agriculture
+    [usda.gov/](usda.gov/)
+  - `FAO` Food and Agriculture Organization of the United Nations
+    [fao.org/faostat/](fao.org/faostat/)
 
-``` r
-?agData_FAO_Crops
-?agData_FAO_Livestock
-?agData_USDA_Crops
-?agData_STATCAN_Crops
-?agData_STATCAN_Livestock
-?agData_STATCAN_Beehives
-```
-
-Explore Data
-------------
+## Explore Data
 
 ``` r
 # Load libraries
@@ -130,8 +129,7 @@ xx %>%
     ## 10 Afghan~ Almonds,~  1984             5700            10500          1.84
     ## # ... with 785,107 more rows
 
-A Quick Example
----------------
+## A Quick Example
 
 ``` r
 # Filter data for ploting
@@ -147,4 +145,4 @@ ggplot(xx, aes(x = Year, y = Value / 1000000)) +
        x = NULL)
 ```
 
-![](README_files/figure-markdown_github/unnamed-chunk-6-1.png)
+![](README_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
