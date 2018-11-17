@@ -1,7 +1,7 @@
 agData HexSticker Vignette
 ================
 Derek Michael Wright <derek.wright@usask.ca>
-2018-10-26
+2018-11-17
 
 ``` r
 # devtools::install_github("derekmichaelwright/agData")
@@ -9,8 +9,7 @@ library(agData)
 library(tidyverse)
 ```
 
-HexSticker Creation
--------------------
+## HexSticker Creation
 
 ``` r
 library(hexSticker)
@@ -32,6 +31,6 @@ sticker(mp,
         h_fill = "#614105", h_color = "darkolivegreen", h_size = 3)
 ```
 
-[![Hex Sticker](agData.png)](#)
+![Hex Sticker](agData.png)
 
-------------------------------------------------------------------------
+-----

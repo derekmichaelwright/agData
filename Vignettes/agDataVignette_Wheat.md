@@ -1,7 +1,7 @@
 agData Wheat Vignette
 ================
 Derek Michael Wright <derek.wright@usask.ca>
-2018-10-26
+2018-11-17
 
 ``` r
 # devtools::install_github("derekmichaelwright/agData")
@@ -9,10 +9,13 @@ library(agData)
 library(tidyverse)
 ```
 
-Wheat production in India and Mexico
-------------------------------------
+## Wheat production in India and Mexico
 
-Spurred by pioneers such as Norman Bourlag, Wheat production in Mexico and India increased significantly since 1961. During that same time period, the area devoted to wheat production has remained relativly constant. This increase in wheat yields has helped these countries avoid some major food security problems.
+Spurred by pioneers such as Norman Bourlag, Wheat production in Mexico
+and India increased significantly since 1961. During that same time
+period, the area devoted to wheat production has remained relativly
+constant. This increase in wheat yields has helped these countries avoid
+some major food security problems.
 
 ``` r
 # Prep data
@@ -35,7 +38,7 @@ ggplot(xx %>% filter(Measurement != "Yield"), aes(x = Year, y = Value / 1000000,
        x       = NULL)
 ```
 
-![](agDataVignette_Wheat_files/figure-markdown_github/unnamed-chunk-2-1.png)
+![](agDataVignette_Wheat_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
 ``` r
 # Plot
@@ -49,7 +52,7 @@ ggplot(xx %>% filter(Measurement =="Yield"), aes(x = Year, y = Value) ) +
        x       = NULL)
 ```
 
-![](agDataVignette_Wheat_files/figure-markdown_github/unnamed-chunk-2-2.png)
+![](agDataVignette_Wheat_files/figure-gfm/unnamed-chunk-2-2.png)<!-- -->
 
 ``` r
 # Prep data
@@ -72,7 +75,7 @@ ggplot(xx %>% filter(Measurement != "Yield"), aes(x = Year, y = Value / 1000000,
        x       = NULL)
 ```
 
-![](agDataVignette_Wheat_files/figure-markdown_github/unnamed-chunk-2-3.png)
+![](agDataVignette_Wheat_files/figure-gfm/unnamed-chunk-2-3.png)<!-- -->
 
 ``` r
 # Plot
@@ -86,12 +89,11 @@ ggplot(xx %>% filter(Measurement =="Yield"), aes(x = Year, y = Value) ) +
        x       = NULL)
 ```
 
-![](agDataVignette_Wheat_files/figure-markdown_github/unnamed-chunk-2-4.png)
+![](agDataVignette_Wheat_files/figure-gfm/unnamed-chunk-2-4.png)<!-- -->
 
-Wheat and Maize Yields in Germany vs Europe
--------------------------------------------
+## Wheat and Maize Yields in Germany vs Europe
 
-Germany...
+Germany…
 
 ``` r
 # Prep data
@@ -108,12 +110,12 @@ ggplot(xx, aes(x = Year, y = Value, color = Area)) +
   scale_color_manual(values = c("darkgreen", "darkblue"))
 ```
 
-![](agDataVignette_Wheat_files/figure-markdown_github/unnamed-chunk-3-1.png)
+![](agDataVignette_Wheat_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
-Example 7: USDA Maize vs Wheat yields
--------------------------------------
+## Example 7: USDA Maize vs Wheat yields
 
-Maize yeilds have increased on a much faster pace than wheat, in part due to the adoption of hybrid seed in Maize.
+Maize yeilds have increased on a much faster pace than wheat, in part
+due to the adoption of hybrid seed in Maize.
 
 ``` r
 # Prep data
@@ -150,6 +152,6 @@ ggplot(xx) +
        y = "tonnes/ha", x = NULL)
 ```
 
-![](agDataVignette_Wheat_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](agDataVignette_Wheat_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
-------------------------------------------------------------------------
+-----
