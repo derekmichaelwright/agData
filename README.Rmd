@@ -1,5 +1,7 @@
 ---
-output: github_document
+output: 
+  pdf_document: default
+  github_document: default
 ---
 
 ```{r setup, include = FALSE}
@@ -49,8 +51,6 @@ xx <- agData_FAO_Crops %>% as.tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
-# List Areas
-xx %>% distinct(Area)
 # List Crops
 xx %>% distinct(Crop)
 # Spread data to wide format
@@ -78,13 +78,11 @@ xx <- agData_FAO_LandUse %>% as.tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
-# List Areas
-xx %>% distinct(Area)
 # List Crops
 xx %>% distinct(Type)
-# Spread data to wide format
-xx %>% select(-Unit) %>% spread(Type, Value) %>% arrange(Year)
 ```
+
+<em>\newpage</em>
 
 ```{r}
 # Prep data for an example plot
@@ -107,13 +105,11 @@ xx <- agData_FAO_Livestock %>% as.tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
-# List Areas
-xx %>% distinct(Area)
 # List Crops
 xx %>% distinct(Animal)
-# Spread data to wide format
-xx %>% select(-Measurement, -Unit) %>% spread(Animal, Value)
 ```
+
+<em>\newpage</em>
 
 ```{r}
 # Prep data for an example plot
@@ -136,12 +132,8 @@ xx <- agData_FAO_Trade %>% as.tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
-# List Areas
-xx %>% distinct(Area)
 # List Crops
 xx %>% distinct(Item)
-# Spread data to wide format
-xx %>% select(-Unit) %>% spread(Measurement, Value) %>% arrange(Year)
 ```
 
 ```{r}
@@ -165,8 +157,6 @@ xx <- agData_STATCAN_Beehives %>% as.tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
-# List Areas
-xx %>% distinct(Area)
 # Spread data to wide format
 xx %>% select(-Unit) %>% spread(Measurement, Value) %>% arrange(Year)
 ```
@@ -192,12 +182,8 @@ xx <- agData_STATCAN_Crops %>% as.tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
-# List Areas
-xx %>% distinct(Area)
 # List Crops
 xx %>% distinct(Crop)
-# Spread data to wide format
-xx %>% select(-Unit) %>% spread(Measurement, Value) %>% arrange(Year)
 ```
 
 ```{r}
@@ -221,8 +207,6 @@ xx <- agData_STATCAN_Livestock %>% as.tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
-# List Areas
-xx %>% distinct(Area)
 # List Crops
 xx %>% distinct(Animal)
 # Spread data to wide format
@@ -251,7 +235,7 @@ xx<- agData_USDA_Crops %>% as.tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
-# List Areas
+# List Area
 xx %>% distinct(Area)
 # List Crops
 xx %>% distinct(Crop)

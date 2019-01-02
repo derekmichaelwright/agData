@@ -72,26 +72,6 @@ xx %>% distinct(Measurement, Unit)
     ## 3 Production     tonnes
 
 ``` r
-# List Areas
-xx %>% distinct(Area)
-```
-
-    ## # A tibble: 258 x 1
-    ##    Area               
-    ##    <fct>              
-    ##  1 Afghanistan        
-    ##  2 Albania            
-    ##  3 Algeria            
-    ##  4 American Samoa     
-    ##  5 Angola             
-    ##  6 Antigua and Barbuda
-    ##  7 Argentina          
-    ##  8 Australia          
-    ##  9 Austria            
-    ## 10 Bahamas            
-    ## # ... with 248 more rows
-
-``` r
 # List Crops
 xx %>% distinct(Crop)
 ```
@@ -181,26 +161,6 @@ xx %>% distinct(Measurement, Unit)
     ## 2 Carbon stock in living biomass million tonnes
 
 ``` r
-# List Areas
-xx %>% distinct(Area)
-```
-
-    ## # A tibble: 274 x 1
-    ##    Area               
-    ##    <fct>              
-    ##  1 Afghanistan        
-    ##  2 Albania            
-    ##  3 Algeria            
-    ##  4 American Samoa     
-    ##  5 Andorra            
-    ##  6 Angola             
-    ##  7 Antigua and Barbuda
-    ##  8 Argentina          
-    ##  9 Aruba              
-    ## 10 Australia          
-    ## # ... with 264 more rows
-
-``` r
 # List Crops
 xx %>% distinct(Type)
 ```
@@ -220,49 +180,7 @@ xx %>% distinct(Type)
     ## 10 Forest                            
     ## # ... with 31 more rows
 
-``` r
-# Spread data to wide format
-xx %>% select(-Unit) %>% spread(Type, Value) %>% arrange(Year)
-```
-
-    ## # A tibble: 20,478 x 44
-    ##    Area  Measurement  Year `Agricultural a~ `Agricultural a~
-    ##    <fct> <fct>       <dbl>            <dbl>            <dbl>
-    ##  1 Afgh~ Area         1961           37700                NA
-    ##  2 Afri~ Area         1961         1041603.               NA
-    ##  3 Alba~ Area         1961            1232                NA
-    ##  4 Alge~ Area         1961           45471                NA
-    ##  5 Amer~ Area         1961               3                NA
-    ##  6 Amer~ Area         1961         1080219.               NA
-    ##  7 Ando~ Area         1961              26                NA
-    ##  8 Ango~ Area         1961           57170                NA
-    ##  9 Anti~ Area         1961              10                NA
-    ## 10 Arge~ Area         1961          137829                NA
-    ## # ... with 20,468 more rows, and 39 more variables: `Agricultural area
-    ## #   certified organic` <dbl>, `Agricultural area in conversion to
-    ## #   organic` <dbl>, `Agricultural area organic, total` <dbl>, `Arable
-    ## #   land` <dbl>, `Arable land and Permanent crops` <dbl>, `Arable land
-    ## #   area certified organic` <dbl>, `Arable land area in conversion to
-    ## #   organic` <dbl>, `Arable land organic, total` <dbl>, `Area of arable
-    ## #   land and permanent crops under protective cover` <dbl>, `Country
-    ## #   area` <dbl>, `Fallow land (temporary)` <dbl>, Forest <dbl>, `Inland
-    ## #   water` <dbl>, `Land area` <dbl>, `Other land` <dbl>, `Other naturally
-    ## #   regenerated forest` <dbl>, `Perm. crops actually irrigated` <dbl>,
-    ## #   `Perm. crops non-irrigated` <dbl>, `Perm. meadows & pastures -
-    ## #   Cultivated` <dbl>, `Perm. meadows & pastures - Nat. growing` <dbl>,
-    ## #   `Perm. meadows & pastures Cult. non-irrig` <dbl>, `Perm. meadows and
-    ## #   pastures - Cult. & actually irrig` <dbl>, `Permanent crops` <dbl>,
-    ## #   `Permanent crops area certified organic` <dbl>, `Permanent crops area
-    ## #   in conversion to organic` <dbl>, `Permanent crops organic,
-    ## #   total` <dbl>, `Permanent meadows and pastures` <dbl>, `Permanent
-    ## #   meadows and pastures area certified organic` <dbl>, `Permanent meadows
-    ## #   and pastures area in conversion to organic` <dbl>, `Permanent meadows
-    ## #   and pastures organic, total` <dbl>, `Planted forest` <dbl>, `Primary
-    ## #   forest` <dbl>, `Temp. crops actually irrigated` <dbl>, `Temp. crops
-    ## #   non-irrigated` <dbl>, `Temp. meadows & pastures non-irrig.` <dbl>,
-    ## #   `Temp. meadows and pastures actually irrigated` <dbl>, `Temporary
-    ## #   crops` <dbl>, `Temporary meadows and pastures` <dbl>, `Total area
-    ## #   equipped for irrigation` <dbl>
+<em></em>
 
 ``` r
 # Prep data for an example plot
@@ -313,26 +231,6 @@ xx %>% distinct(Measurement, Unit)
     ## 1 Stocks      number
 
 ``` r
-# List Areas
-xx %>% distinct(Area)
-```
-
-    ## # A tibble: 261 x 1
-    ##    Area               
-    ##    <fct>              
-    ##  1 Afghanistan        
-    ##  2 Albania            
-    ##  3 Algeria            
-    ##  4 American Samoa     
-    ##  5 Angola             
-    ##  6 Antigua and Barbuda
-    ##  7 Argentina          
-    ##  8 Australia          
-    ##  9 Austria            
-    ## 10 Bahamas            
-    ## # ... with 251 more rows
-
-``` r
 # List Crops
 xx %>% distinct(Animal)
 ```
@@ -352,30 +250,7 @@ xx %>% distinct(Animal)
     ## 10 Poultry Birds       
     ## # ... with 12 more rows
 
-``` r
-# Spread data to wide format
-xx %>% select(-Measurement, -Unit) %>% spread(Animal, Value)
-```
-
-    ## # A tibble: 13,220 x 24
-    ##    Area   Year `Animals live n~  Asses Beehives Buffaloes `Camelids, othe~
-    ##    <fct> <dbl>            <dbl>  <dbl>    <dbl>     <dbl>            <dbl>
-    ##  1 Afgh~  1961               NA 1.30e6       NA        NA               NA
-    ##  2 Afgh~  1962               NA 8.52e5       NA        NA               NA
-    ##  3 Afgh~  1963               NA 1.00e6       NA        NA               NA
-    ##  4 Afgh~  1964               NA 1.15e6       NA        NA               NA
-    ##  5 Afgh~  1965               NA 1.30e6       NA        NA               NA
-    ##  6 Afgh~  1966               NA 1.20e6       NA        NA               NA
-    ##  7 Afgh~  1967               NA 1.20e6       NA        NA               NA
-    ##  8 Afgh~  1968               NA 1.33e6       NA        NA               NA
-    ##  9 Afgh~  1969               NA 1.25e6       NA        NA               NA
-    ## 10 Afgh~  1970               NA 1.30e6       NA        NA               NA
-    ## # ... with 13,210 more rows, and 17 more variables: Camels <dbl>,
-    ## #   Cattle <dbl>, `Cattle and Buffaloes` <dbl>, Chickens <dbl>,
-    ## #   Ducks <dbl>, `Geese and guinea fowls` <dbl>, Goats <dbl>,
-    ## #   Horses <dbl>, Mules <dbl>, `Pigeons, other birds` <dbl>, Pigs <dbl>,
-    ## #   `Poultry Birds` <dbl>, `Rabbits and hares` <dbl>, `Rodents,
-    ## #   other` <dbl>, Sheep <dbl>, `Sheep and Goats` <dbl>, Turkeys <dbl>
+<em></em>
 
 ``` r
 # Prep data for an example plot
@@ -429,26 +304,6 @@ xx %>% distinct(Measurement, Unit)
     ## 4 Import Value    1000 $USD
 
 ``` r
-# List Areas
-xx %>% distinct(Area)
-```
-
-    ## # A tibble: 253 x 1
-    ##    Area               
-    ##    <fct>              
-    ##  1 Afghanistan        
-    ##  2 Albania            
-    ##  3 Algeria            
-    ##  4 American Samoa     
-    ##  5 Angola             
-    ##  6 Antigua and Barbuda
-    ##  7 Argentina          
-    ##  8 Aruba              
-    ##  9 Australia          
-    ## 10 Austria            
-    ## # ... with 243 more rows
-
-``` r
 # List Crops
 xx %>% distinct(Item)
 ```
@@ -467,26 +322,6 @@ xx %>% distinct(Item)
     ##  9 Bread                         
     ## 10 Butter, cow milk              
     ## # ... with 461 more rows
-
-``` r
-# Spread data to wide format
-xx %>% select(-Unit) %>% spread(Measurement, Value) %>% arrange(Year)
-```
-
-    ## # A tibble: 3,752,439 x 7
-    ##    Area  Item   Year `Export Quantit~ `Export Value` `Import Quantit~
-    ##    <fct> <fct> <dbl>            <dbl>          <dbl>            <dbl>
-    ##  1 Afgh~ Agri~  1961               NA          37421               NA
-    ##  2 Afgh~ Almo~  1961                0              0               NA
-    ##  3 Afgh~ Anim~  1961               NA             NA                0
-    ##  4 Afgh~ Anim~  1961               NA             NA                0
-    ##  5 Afgh~ Anim~  1961               NA             NA              319
-    ##  6 Afgh~ Appl~  1961                0              0                0
-    ##  7 Afgh~ Apri~  1961                0              0               NA
-    ##  8 Afgh~ Apri~  1961                0              0               NA
-    ##  9 Afgh~ Bana~  1961               NA             NA                0
-    ## 10 Afgh~ Bana~  1961               NA             NA                0
-    ## # ... with 3,752,429 more rows, and 1 more variable: `Import Value` <dbl>
 
 ``` r
 # Prep data for an example plot
@@ -540,25 +375,6 @@ xx %>% distinct(Measurement, Unit)
     ## 4 Value              million $CAD
     ## 5 Yield              kg/colony   
     ## 6 Colonies/Beekeeper number
-
-``` r
-# List Areas
-xx %>% distinct(Area)
-```
-
-    ## # A tibble: 10 x 1
-    ##    Area                
-    ##    <fct>               
-    ##  1 British Columbia    
-    ##  2 Alberta             
-    ##  3 Saskatchewan        
-    ##  4 Manitoba            
-    ##  5 Ontario             
-    ##  6 Quebec              
-    ##  7 New Brunswick       
-    ##  8 Prince Edward Island
-    ##  9 Nova Scotia         
-    ## 10 Canada
 
 ``` r
 # Spread data to wide format
@@ -631,26 +447,6 @@ xx %>% distinct(Measurement, Unit)
     ## 3 Production         tonnes  
     ## 4 Average farm price $CAD/t  
     ## 5 Area harvested     hectares
-
-``` r
-# List Areas
-xx %>% distinct(Area)
-```
-
-    ## # A tibble: 11 x 1
-    ##    Area                     
-    ##    <fct>                    
-    ##  1 Canada                   
-    ##  2 Prince Edward Island     
-    ##  3 Nova Scotia              
-    ##  4 New Brunswick            
-    ##  5 Quebec                   
-    ##  6 Ontario                  
-    ##  7 Manitoba                 
-    ##  8 Saskatchewan             
-    ##  9 Alberta                  
-    ## 10 British Columbia         
-    ## 11 Newfoundland and Labrador
 
 ``` r
 # List Crops
@@ -743,26 +539,6 @@ xx %>% distinct(Measurement, Unit)
     ## 3 Average number of animals number
 
 ``` r
-# List Areas
-xx %>% distinct(Area)
-```
-
-    ## # A tibble: 11 x 1
-    ##    Area                     
-    ##    <fct>                    
-    ##  1 Canada                   
-    ##  2 Prince Edward Island     
-    ##  3 Nova Scotia              
-    ##  4 New Brunswick            
-    ##  5 Quebec                   
-    ##  6 Ontario                  
-    ##  7 Manitoba                 
-    ##  8 Saskatchewan             
-    ##  9 Alberta                  
-    ## 10 British Columbia         
-    ## 11 Newfoundland and Labrador
-
-``` r
 # List Crops
 xx %>% distinct(Animal)
 ```
@@ -853,16 +629,6 @@ xx %>% distinct(Measurement, Unit)
     ## 2 Yield          t/ha    
     ## 3 Production     tonnes  
     ## 4 Area seeded    hectares
-
-``` r
-# List Areas
-xx %>% distinct(Area)
-```
-
-    ## # A tibble: 1 x 1
-    ##   Area 
-    ##   <fct>
-    ## 1 USA
 
 ``` r
 # List Crops
