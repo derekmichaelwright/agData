@@ -1,11 +1,5 @@
 #' FAO Country Table
 #' A table of country info from FAOSTAT.
-#' @section Helpful Codes:
-#' \itemize{
-#'   \item unique(agData_FAO_Country_Table$Name)
-#'   \item unique(agData_FAO_Country_Table$Region)
-#'   \item unique(agData_FAO_Country_Table$SubRegion)
-#' }
 #' @source http://www.fao.org/faostat/
 #' @docType data
 #' @keywords datasets
@@ -13,11 +7,6 @@
 NULL
 #' FAO Region Table
 #' A table of Region info from FAOSTAT.
-#' @section Helpful Codes:
-#' \itemize{
-#'   \item unique(agData_FAO_Region_Table$Region)
-#'   \item unique(agData_FAO_Region_Table$SubRegion)
-#' }
 #' @source http://www.fao.org/faostat/
 #' @docType data
 #' @keywords datasets
@@ -25,17 +14,11 @@ NULL
 NULL
 #' FAO Crop Production Data
 #' A dataset containing crop data from FAOSTAT.
-#' @section Helpful Codes:
-#' \itemize{
-#'   \item levels(agData_FAO_Crops$Area)
-#'   \item levels(agData_FAO_Crops$Crop)
-#'   \item addRegionInfo(agData_FAO_Crops)
-#' }
-#' @section Measurement:
+#' @section Measurement (Unit):
 #' \itemize{
 #'   \item Production     (tonnes)
-#'   \item Area harvested (ha)
-#'   \item Yield          (tonnes/ha)
+#'   \item Area harvested (hectares)
+#'   \item Yield          (t/ha)
 #' }
 #' @source http://www.fao.org/faostat/
 #' @docType data
@@ -44,13 +27,7 @@ NULL
 NULL
 #' FAO Livestock Data
 #' A dataset containing livestock data from FAOSTAT.
-#' @section Helpful Codes:
-#' \itemize{
-#'   \item levels(agData_FAO_Livestock$Area)
-#'   \item levels(agData_FAO_Livestock$Animal)
-#'   \item addRegionInfo(agData_FAO_Livestock)
-#' }
-#' @section Measurement:
+#' @section Measurement (Unit):
 #' \itemize{
 #'   \item Stocks (head or 1000 head)
 #' }
@@ -61,21 +38,29 @@ NULL
 NULL
 #' FAO Land Use Data
 #' A dataset containing land use data from FAOSTAT.
-#' @section Items:
+#' @section Measurement (Unit):
 #' \itemize{
-#'   \item levels(agData_FAO_LandUse$Area)
-#'   \item levels(agData_FAO_LandUse$Type)
-#'   \item addRegionInfo(agData_FAO_LandUse)
-#' }
-#' @section Measurement:
-#' \itemize{
-#'   \item Area                           (1000 ha)
+#'   \item Area                           (1000 hectares)
 #'   \item Carbon stock in living biomass (million tonnes)
 #' }
 #' @source http://www.fao.org/faostat/
 #' @docType data
 #' @keywords datasets
 #' @name agData_FAO_LandUse
+NULL
+#' FAO Trade Data
+#' A dataset containing trade data from FAOSTAT.
+#' @section Measurement (Unit):
+#' \itemize{
+#'   \item Export Quantity (tonnes)
+#'   \item Import Quantity (tonnes)
+#'   \item Export Value (1000 $USD)
+#'   \item Import Value (1000 $USD)
+#' }
+#' @source http://www.fao.org/faostat/
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Trade
 NULL
 #' Statistics Canada - Region Info
 #' A dataset of Region info for Canada.
@@ -85,19 +70,14 @@ NULL
 NULL
 #' Statistics Canada - HoneyBee Data
 #' A dataset from Statistics Canada on honeybee production.
-#' @section Helpful Codes:
-#' \itemize{
-#'   \item levels(agData_STATCAN_Beehives$Area)
-#'   \item add_Canada_Info(agData_STATCAN_Beehives)
-#' }
-#' @section Measurement:
+#' @section Measurement (Unit):
 #' \itemize{
 #'   \item Beekeepers         (number)
 #'   \item Colonies           (number)
 #'   \item Colonies/Beekeeper (number)
-#'   \item Production         (1000 kg)
-#'   \item Yield              (kg/Colony)
-#'   \item Value              (1000 $)
+#'   \item Production         (tonnes)
+#'   \item Yield              (kg/colony)
+#'   \item Value              (million $CAD)
 #' }
 #' @section Table: 32-10-0353-01 (formerly CANSIM 001-0007)
 #' @source https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035301
@@ -107,21 +87,14 @@ NULL
 NULL
 #' Crops Statistics Canada Data
 #' A dataset from Statistics Canada on crop production.
-#' @section Helpful Codes:
-#' \itemize{
-#'   \item levels(agData_STATCAN_Crops$Area)
-#'   \item levels(agData_STATCAN_Crops$Crop)
-#'   \item add_Canada_Info(agData_STATCAN_Crops)
-#' }
-#' @section Measurement:
+#' @section Measurement (Unit):
 #' \itemize{
 #'   \item Production         (tonnes)
-#'   \item Area seeded        (ha)
-#'   \item Area harvested     (ha)
+#'   \item Area seeded        (hectares)
+#'   \item Area harvested     (hectares)
 #'   \item Yield              (tonnes/ha)
 #'   \item Average farm price (dollars per tonne)
 #' }
-#' @section Table: ?
 #' @source https://www150.statcan.gc.ca/
 #' @docType data
 #' @keywords datasets
@@ -129,19 +102,12 @@ NULL
 NULL
 #' Statistics Canada Livestock Data
 #' A dataset from Statistics Canada on livestock production.
-#' @section Helpful Codes:
+#' @section Measurement (Unit):
 #' \itemize{
-#'   \item levels(agData_STATCAN_Livestock$Area)
-#'   \item levels(agData_STATCAN_Livestock$Crop)
-#'   \item add_Canada_Info(agData_STATCAN_Livestock)
+#'   \item Average number of animals (number)
+#'   \item Number of animals         (number)
+#'   \item Number of farms reporting (number)
 #' }
-#' @section Measurement:
-#' \itemize{
-#'   \item Average number of animals (Number)
-#'   \item Number of animals         (Number)
-#'   \item Number of farms reporting (Number)
-#' }
-#' @section Table: ?
 #' @source https://www150.statcan.gc.ca/
 #' @docType data
 #' @keywords datasets
@@ -149,20 +115,12 @@ NULL
 NULL
 #' USDA Crop Data
 #' A dataset from the USDA on crop production.
-#' @section Crop:
-#' \itemize{
-#'   \item Barley
-#'   \item Maize
-#'   \item Oats
-#'   \item Sorghum
-#'   \item Wheat
-#' }
-#' @section Measurement:
+#' @section Measurement (Unit):
 #' \itemize{
 #'   \item Production     (tonnes)
-#'   \item Area seeded    (ha)
-#'   \item Area harvested (ha)
-#'   \item Yield          (tonnes/ha)
+#'   \item Area seeded    (hectares)
+#'   \item Area harvested (hectares)
+#'   \item Yield          (t/ha)
 #' }
 #' @source https://www.nass.usda.gov/
 #' @docType data

@@ -12,16 +12,7 @@ http://www.fao.org/faostat/
 FAO Livestock Data
 A dataset containing livestock data from FAOSTAT.
 }
-\section{Helpful Codes}{
-
-\itemize{
-  \item levels(agData_FAO_Livestock$Area)
-  \item levels(agData_FAO_Livestock$Animal)
-  \item addRegionInfo(agData_FAO_Livestock)
-}
-}
-
-\section{Measurement}{
+\section{Measurement (Unit)}{
 
 \itemize{
   \item Stocks (head or 1000 head)

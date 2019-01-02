@@ -12,19 +12,10 @@ http://www.fao.org/faostat/
 FAO Land Use Data
 A dataset containing land use data from FAOSTAT.
 }
-\section{Items}{
+\section{Measurement (Unit)}{
 
 \itemize{
-  \item levels(agData_FAO_LandUse$Area)
-  \item levels(agData_FAO_LandUse$Type)
-  \item addRegionInfo(agData_FAO_LandUse)
-}
-}
-
-\section{Measurement}{
-
-\itemize{
-  \item Area                           (1000 ha)
+  \item Area                           (1000 hectares)
   \item Carbon stock in living biomass (million tonnes)
 }
 }

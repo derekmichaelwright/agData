@@ -12,26 +12,13 @@ https://www150.statcan.gc.ca/
 Statistics Canada Livestock Data
 A dataset from Statistics Canada on livestock production.
 }
-\section{Helpful Codes}{
+\section{Measurement (Unit)}{
 
 \itemize{
-  \item levels(agData_STATCAN_Livestock$Area)
-  \item levels(agData_STATCAN_Livestock$Crop)
-  \item add_Canada_Info(agData_STATCAN_Livestock)
+  \item Average number of animals (number)
+  \item Number of animals         (number)
+  \item Number of farms reporting (number)
 }
-}
-
-\section{Measurement}{
-
-\itemize{
-  \item Average number of animals (Number)
-  \item Number of animals         (Number)
-  \item Number of farms reporting (Number)
-}
-}
-
-\section{Table}{
- ?
 }
 
 \keyword{datasets}

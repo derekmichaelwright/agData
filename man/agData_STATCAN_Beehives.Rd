@@ -12,23 +12,15 @@ https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035301
 Statistics Canada - HoneyBee Data
 A dataset from Statistics Canada on honeybee production.
 }
-\section{Helpful Codes}{
-
-\itemize{
-  \item levels(agData_STATCAN_Beehives$Area)
-  \item add_Canada_Info(agData_STATCAN_Beehives)
-}
-}
-
-\section{Measurement}{
+\section{Measurement (Unit)}{
 
 \itemize{
   \item Beekeepers         (number)
   \item Colonies           (number)
   \item Colonies/Beekeeper (number)
-  \item Production         (1000 kg)
-  \item Yield              (kg/Colony)
-  \item Value              (1000 $)
+  \item Production         (tonnes)
+  \item Yield              (kg/colony)
+  \item Value              (million $CAD)
 }
 }
 

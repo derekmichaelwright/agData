@@ -12,21 +12,12 @@ http://www.fao.org/faostat/
 FAO Crop Production Data
 A dataset containing crop data from FAOSTAT.
 }
-\section{Helpful Codes}{
-
-\itemize{
-  \item levels(agData_FAO_Crops$Area)
-  \item levels(agData_FAO_Crops$Crop)
-  \item addRegionInfo(agData_FAO_Crops)
-}
-}
-
-\section{Measurement}{
+\section{Measurement (Unit)}{
 
 \itemize{
   \item Production     (tonnes)
-  \item Area harvested (ha)
-  \item Yield          (tonnes/ha)
+  \item Area harvested (hectares)
+  \item Yield          (t/ha)
 }
 }
 

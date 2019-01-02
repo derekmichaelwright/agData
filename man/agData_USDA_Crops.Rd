@@ -12,24 +12,13 @@ https://www.nass.usda.gov/
 USDA Crop Data
 A dataset from the USDA on crop production.
 }
-\section{Crop}{
-
-\itemize{
-  \item Barley
-  \item Maize
-  \item Oats
-  \item Sorghum
-  \item Wheat
-}
-}
-
-\section{Measurement}{
+\section{Measurement (Unit)}{
 
 \itemize{
   \item Production     (tonnes)
-  \item Area seeded    (ha)
-  \item Area harvested (ha)
-  \item Yield          (tonnes/ha)
+  \item Area seeded    (hectares)
+  \item Area harvested (hectares)
+  \item Yield          (t/ha)
 }
 }
 

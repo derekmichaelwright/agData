@@ -12,13 +12,4 @@ http://www.fao.org/faostat/
 FAO Country Table
 A table of country info from FAOSTAT.
 }
-\section{Helpful Codes}{
-
-\itemize{
-  \item unique(agData_FAO_Country_Table$Name)
-  \item unique(agData_FAO_Country_Table$Region)
-  \item unique(agData_FAO_Country_Table$SubRegion)
-}
-}
-
 \keyword{datasets}

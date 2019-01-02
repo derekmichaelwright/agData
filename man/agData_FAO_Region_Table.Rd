@@ -12,12 +12,4 @@ http://www.fao.org/faostat/
 FAO Region Table
 A table of Region info from FAOSTAT.
 }
-\section{Helpful Codes}{
-
-\itemize{
-  \item unique(agData_FAO_Region_Table$Region)
-  \item unique(agData_FAO_Region_Table$SubRegion)
-}
-}
-
 \keyword{datasets}
