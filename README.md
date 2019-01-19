@@ -1,5 +1,7 @@
+agData R Package
+================
 
-# agData <img src="agData.png" align="right" width = "200px" />
+<img src="agData.png" align="right" width = "200px" />
 
 `agData` contains various agricultural data sets for quick use in `R`:
 
@@ -14,7 +16,7 @@
 
 #### Data Sources
 
-  - `STATCAN` Statistics Canada [statcan.gc.ca/](statcan.gc.ca/)  
+  - `STATCAN` Statistics Canada [statcan.gc.ca/](statcan.gc.ca/)
   - `USDA` United States Department of Agriculture
     [usda.gov/](usda.gov/)
   - `FAO` Food and Agriculture Organization of the United Nations
@@ -40,7 +42,7 @@ library(agData)
 
 ``` r
 # Get Data
-xx <- agData_FAO_Crops %>% as.tibble()
+xx <- agData_FAO_Crops %>% as_tibble()
 xx
 ```
 
@@ -130,7 +132,7 @@ ggplot(xx, aes(x = Year, y = Value/1000000, group = Area)) + geom_line() +
 
 ``` r
 # Get Data
-xx <- agData_FAO_LandUse %>% as.tibble()
+xx <- agData_FAO_LandUse %>% as_tibble()
 xx
 ```
 
@@ -201,7 +203,7 @@ ggplot(xx, aes(x = Year, y = Value/1000000, group = Area)) + geom_line() +
 
 ``` r
 # Get Data
-xx <- agData_FAO_Livestock %>% as.tibble()
+xx <- agData_FAO_Livestock %>% as_tibble()
 xx
 ```
 
@@ -271,7 +273,7 @@ ggplot(xx, aes(x = Year, y = Value/1000000, group = Area)) + geom_line() +
 
 ``` r
 # Get Data
-xx <- agData_FAO_Trade %>% as.tibble()
+xx <- agData_FAO_Trade %>% as_tibble()
 xx
 ```
 
@@ -342,7 +344,7 @@ ggplot(xx, aes(x = Year, y = Value/1000000, group = Measurement)) + geom_line() 
 
 ``` r
 # Get Data
-xx <- agData_STATCAN_Beehives %>% as.tibble()
+xx <- agData_STATCAN_Beehives %>% as_tibble()
 xx
 ```
 
@@ -415,7 +417,7 @@ ggplot(xx, aes(x = Year, y = Value/1000, group = Area)) + geom_line() +
 
 ``` r
 # Get Data
-xx <- agData_STATCAN_Crops %>% as.tibble()
+xx <- agData_STATCAN_Crops %>% as_tibble()
 xx
 ```
 
@@ -469,26 +471,6 @@ xx %>% distinct(Crop)
     ## # ... with 34 more rows
 
 ``` r
-# Spread data to wide format
-xx %>% select(-Unit) %>% spread(Measurement, Value) %>% arrange(Year)
-```
-
-    ## # A tibble: 17,706 x 8
-    ##    Area  Crop   Year `Average farm p~  Yield `Area harvested` Production
-    ##    <fct> <fct> <int>            <dbl>  <dbl>            <dbl>      <dbl>
-    ##  1 Albe~ Barl~  1908            15     1.58                NA      84000
-    ##  2 Albe~ Flax~  1908            29     0.95                NA       1900
-    ##  3 Albe~ Oats   1908            18     1.68                NA     352000
-    ##  4 Albe~ Rye,~  1908            23     1.66                NA       5000
-    ##  5 Albe~ Suga~  1908             0.55 18.1                 NA      38100
-    ##  6 Albe~ Tame~  1908             0.84  5.05                NA     101000
-    ##  7 Albe~ Whea~  1908            25     1.69                NA     186000
-    ##  8 Albe~ Whea~  1908            NA     1.69                NA     186000
-    ##  9 Sask~ Barl~  1908            18     1.27                NA      42000
-    ## 10 Sask~ Flax~  1908            39     0.645               NA      29100
-    ## # ... with 17,696 more rows, and 1 more variable: `Area seeded` <dbl>
-
-``` r
 # Prep data for an example plot
 xx <- xx %>% filter(Area == "Saskatchewan", Crop == "Canola", Measurement == "Production")
 # Plot
@@ -507,7 +489,7 @@ ggplot(xx, aes(x = Year, y = Value/1000000, group = Area)) + geom_line() +
 
 ``` r
 # Get Data
-xx <- agData_STATCAN_Livestock %>% as.tibble()
+xx <- agData_STATCAN_Livestock %>% as_tibble()
 xx
 ```
 
@@ -598,7 +580,7 @@ ggplot(xx, aes(x = Year, y = Value/1000000)) + geom_line() +
 
 ``` r
 # Get Data
-xx<- agData_USDA_Crops %>% as.tibble()
+xx<- agData_USDA_Crops %>% as_tibble()
 xx
 ```
 
@@ -629,6 +611,16 @@ xx %>% distinct(Measurement, Unit)
     ## 2 Yield          t/ha    
     ## 3 Production     tonnes  
     ## 4 Area seeded    hectares
+
+``` r
+# List Area
+xx %>% distinct(Area)
+```
+
+    ## # A tibble: 1 x 1
+    ##   Area 
+    ##   <fct>
+    ## 1 USA
 
 ``` r
 # List Crops

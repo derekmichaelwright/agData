@@ -1,14 +1,15 @@
 ---
+title: agData R Package
 output: 
-  pdf_document: default
   github_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = T, fig.width = 10, fig.height = 4)
 ```
 
-# agData <img src="agData.png" align="right" width = "200px" />
+<img src="agData.png" align="right" width = "200px" />
 
 `agData` contains various agricultural data sets for quick use in `R`:
 
@@ -23,7 +24,7 @@ knitr::opts_chunk$set(echo = T, fig.width = 10, fig.height = 4)
 
 #### Data Sources
 
-- `STATCAN` Statistics Canada [statcan.gc.ca/](statcan.gc.ca/)  
+- `STATCAN` Statistics Canada [statcan.gc.ca/](statcan.gc.ca/)
 - `USDA` United States Department of Agriculture [usda.gov/](usda.gov/)
 - `FAO` Food and Agriculture Organization of the United Nations [fao.org/faostat/](fao.org/faostat/)
 
@@ -47,7 +48,7 @@ library(agData)
 
 ```{r}
 # Get Data
-xx <- agData_FAO_Crops %>% as.tibble()
+xx <- agData_FAO_Crops %>% as_tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
@@ -74,7 +75,7 @@ ggplot(xx, aes(x = Year, y = Value/1000000, group = Area)) + geom_line() +
 
 ```{r}
 # Get Data
-xx <- agData_FAO_LandUse %>% as.tibble()
+xx <- agData_FAO_LandUse %>% as_tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
@@ -101,7 +102,7 @@ ggplot(xx, aes(x = Year, y = Value/1000000, group = Area)) + geom_line() +
   
 ```{r}
 # Get Data
-xx <- agData_FAO_Livestock %>% as.tibble()
+xx <- agData_FAO_Livestock %>% as_tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
@@ -128,7 +129,7 @@ ggplot(xx, aes(x = Year, y = Value/1000000, group = Area)) + geom_line() +
   
 ```{r}
 # Get Data
-xx <- agData_FAO_Trade %>% as.tibble()
+xx <- agData_FAO_Trade %>% as_tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
@@ -153,7 +154,7 @@ ggplot(xx, aes(x = Year, y = Value/1000000, group = Measurement)) + geom_line() 
   
 ```{r}
 # Get Data
-xx <- agData_STATCAN_Beehives %>% as.tibble()
+xx <- agData_STATCAN_Beehives %>% as_tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
@@ -178,7 +179,7 @@ ggplot(xx, aes(x = Year, y = Value/1000, group = Area)) + geom_line() +
   
 ```{r}
 # Get Data
-xx <- agData_STATCAN_Crops %>% as.tibble()
+xx <- agData_STATCAN_Crops %>% as_tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
@@ -203,7 +204,7 @@ ggplot(xx, aes(x = Year, y = Value/1000000, group = Area)) + geom_line() +
   
 ```{r}
 # Get Data
-xx <- agData_STATCAN_Livestock %>% as.tibble()
+xx <- agData_STATCAN_Livestock %>% as_tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
@@ -231,7 +232,7 @@ ggplot(xx, aes(x = Year, y = Value/1000000)) + geom_line() +
   
 ```{r}
 # Get Data
-xx<- agData_USDA_Crops %>% as.tibble()
+xx<- agData_USDA_Crops %>% as_tibble()
 xx
 # List Measurements
 xx %>% distinct(Measurement, Unit)
