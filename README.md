@@ -46,7 +46,7 @@ xx <- agData_FAO_Crops %>% as_tibble()
 xx
 ```
 
-    ## # A tibble: 2,286,683 x 6
+    ## # A tibble: 2,265,832 x 6
     ##    Area        Crop        Measurement    Unit      Year     Value
     ##    <fct>       <fct>       <fct>          <fct>    <dbl>     <dbl>
     ##  1 Afghanistan Apples      Area harvested hectares  1961   2220   
@@ -59,7 +59,7 @@ xx
     ##  8 Afghanistan Barley      Yield          t/ha      1961      1.08
     ##  9 Afghanistan Barley      Production     tonnes    1961 378000   
     ## 10 Afghanistan Berries nes Area harvested hectares  1961   6800   
-    ## # ... with 2,286,673 more rows
+    ## # ... with 2,265,822 more rows
 
 ``` r
 # List Measurements
@@ -98,7 +98,7 @@ xx %>% distinct(Crop)
 xx %>% select(-Unit) %>% spread(Measurement, Value) %>% arrange(Year)
 ```
 
-    ## # A tibble: 800,096 x 6
+    ## # A tibble: 792,698 x 6
     ##    Area       Crop                   Year `Area harvested` Production Yield
     ##    <fct>      <fct>                 <dbl>            <dbl>      <dbl> <dbl>
     ##  1 Afghanist~ Apples                 1961             2220      15100  6.80
@@ -111,7 +111,7 @@ xx %>% select(-Unit) %>% spread(Measurement, Value) %>% arrange(Year)
     ##  8 Afghanist~ Coarse Grain, Total    1961           873500    1097000  1.26
     ##  9 Afghanist~ Cotton lint            1961               NA      17000 NA   
     ## 10 Afghanist~ Cottonseed             1961               NA      34000 NA   
-    ## # ... with 800,086 more rows
+    ## # ... with 792,688 more rows
 
 ``` r
 # Prep data for an example plot
@@ -136,7 +136,7 @@ xx <- agData_FAO_LandUse %>% as_tibble()
 xx
 ```
 
-    ## # A tibble: 164,284 x 6
+    ## # A tibble: 163,603 x 6
     ##    Area       Type                       Measurement Unit        Year Value
     ##    <fct>      <fct>                      <fct>       <fct>      <dbl> <dbl>
     ##  1 Afghanist~ Country area               Area        1000 hect~  1961 65286
@@ -149,7 +149,7 @@ xx
     ##  8 Afghanist~ Total area equipped for i~ Area        1000 hect~  1961  2380
     ##  9 Albania    Country area               Area        1000 hect~  1961  2875
     ## 10 Albania    Land area                  Area        1000 hect~  1961  2740
-    ## # ... with 164,274 more rows
+    ## # ... with 163,593 more rows
 
 ``` r
 # List Measurements
@@ -207,7 +207,7 @@ xx <- agData_FAO_Livestock %>% as_tibble()
 xx
 ```
 
-    ## # A tibble: 164,280 x 6
+    ## # A tibble: 166,100 x 6
     ##    Area        Animal               Measurement Unit    Year    Value
     ##    <fct>       <fct>                <fct>       <fct>  <dbl>    <dbl>
     ##  1 Afghanistan Asses                Stocks      number  1961  1300000
@@ -220,7 +220,7 @@ xx
     ##  8 Afghanistan Sheep                Stocks      number  1961 18000000
     ##  9 Afghanistan Cattle and Buffaloes Stocks      number  1961  2900000
     ## 10 Afghanistan Poultry Birds        Stocks      number  1961  4700000
-    ## # ... with 164,270 more rows
+    ## # ... with 166,090 more rows
 
 ``` r
 # List Measurements
@@ -277,7 +277,7 @@ xx <- agData_FAO_Trade %>% as_tibble()
 xx
 ```
 
-    ## # A tibble: 12,574,853 x 6
+    ## # A tibble: 12,488,329 x 6
     ##    Area        Item            Measurement     Unit       Year Value
     ##    <fct>       <fct>           <fct>           <fct>     <dbl> <dbl>
     ##  1 Afghanistan Almonds shelled Export Quantity tonnes     1961     0
@@ -290,7 +290,7 @@ xx
     ##  8 Afghanistan Apricots        Export Value    1000 $USD  1961     0
     ##  9 Afghanistan Apricots, dry   Export Quantity tonnes     1961     0
     ## 10 Afghanistan Apricots, dry   Export Value    1000 $USD  1961     0
-    ## # ... with 12,574,843 more rows
+    ## # ... with 12,488,319 more rows
 
 ``` r
 # List Measurements
