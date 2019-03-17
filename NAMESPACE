@@ -2,4 +2,5 @@
 
 export(addCanadaInfo)
 export(addRegionInfo)
+export(showmenorm)
 export(spread_agData)

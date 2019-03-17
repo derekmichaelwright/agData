@@ -6,7 +6,7 @@
 \title{FAO Trade Data
 A dataset containing trade data from FAOSTAT.}
 \source{
-http://www.fao.org/faostat/
+http://www.fao.org/faostat/en/#data/TP
 }
 \description{
 FAO Trade Data

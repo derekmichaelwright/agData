@@ -6,7 +6,7 @@
 \title{FAO Land Use Data
 A dataset containing land use data from FAOSTAT.}
 \source{
-http://www.fao.org/faostat/
+http://www.fao.org/faostat/en/#data/RL
 }
 \description{
 FAO Land Use Data

@@ -4,12 +4,9 @@
 \name{agData_FAO_Region_Table}
 \alias{agData_FAO_Region_Table}
 \title{FAO Region Table
-A table of Region info from FAOSTAT.}
-\source{
-http://www.fao.org/faostat/
-}
+A table of region information.}
 \description{
 FAO Region Table
-A table of Region info from FAOSTAT.
+A table of region information.
 }
 \keyword{datasets}

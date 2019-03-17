@@ -4,12 +4,9 @@
 \name{agData_FAO_Country_Table}
 \alias{agData_FAO_Country_Table}
 \title{FAO Country Table
-A table of country info from FAOSTAT.}
-\source{
-http://www.fao.org/faostat/
-}
+A table of country information.}
 \description{
 FAO Country Table
-A table of country info from FAOSTAT.
+A table of country information.
 }
 \keyword{datasets}

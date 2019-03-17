@@ -1,13 +1,11 @@
 #' FAO Country Table
-#' A table of country info from FAOSTAT.
-#' @source http://www.fao.org/faostat/
+#' A table of country information.
 #' @docType data
 #' @keywords datasets
 #' @name agData_FAO_Country_Table
 NULL
 #' FAO Region Table
-#' A table of Region info from FAOSTAT.
-#' @source http://www.fao.org/faostat/
+#' A table of region information.
 #' @docType data
 #' @keywords datasets
 #' @name agData_FAO_Region_Table
@@ -20,7 +18,7 @@ NULL
 #'   \item Area harvested (hectares)
 #'   \item Yield          (t/ha)
 #' }
-#' @source http://www.fao.org/faostat/
+#' @source http://www.fao.org/faostat/en/#data/QC
 #' @docType data
 #' @keywords datasets
 #' @name agData_FAO_Crops
@@ -31,7 +29,7 @@ NULL
 #' \itemize{
 #'   \item Stocks (head or 1000 head)
 #' }
-#' @source http://www.fao.org/faostat/
+#' @source http://www.fao.org/faostat/en/#data/QA
 #' @docType data
 #' @keywords datasets
 #' @name agData_FAO_Livestock
@@ -43,7 +41,7 @@ NULL
 #'   \item Area                           (1000 hectares)
 #'   \item Carbon stock in living biomass (million tonnes)
 #' }
-#' @source http://www.fao.org/faostat/
+#' @source http://www.fao.org/faostat/en/#data/RL
 #' @docType data
 #' @keywords datasets
 #' @name agData_FAO_LandUse
@@ -57,10 +55,38 @@ NULL
 #'   \item Export Value (1000 $USD)
 #'   \item Import Value (1000 $USD)
 #' }
-#' @source http://www.fao.org/faostat/
+#' @source http://www.fao.org/faostat/en/#data/TP
 #' @docType data
 #' @keywords datasets
 #' @name agData_FAO_Trade
+NULL
+#' FAO world population data
+#' @section Measurements:
+#' \itemize{
+#'   \item Total
+#'   \item Male
+#'   \item Female
+#'   \item Rural
+#'   \item Urban
+#' }
+#' @source http://www.fao.org/faostat/en/#data/OA
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Population
+NULL
+#' FAO world population data
+#' @section Measurements:
+#' \itemize{
+#'   \item Production
+#'   \item Import Quantity
+#'   \item Export Quantity
+#'   \item Agricultural Use
+#'   \item Prices Paid by Farmers
+#' }
+#' @source http://www.fao.org/faostat/en/#data/RFN
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Fertilizer
 NULL
 #' Statistics Canada - Region Info
 #' A dataset of Region info for Canada.
@@ -126,4 +152,107 @@ NULL
 #' @docType data
 #' @keywords datasets
 #' @name agData_USDA_Crops
+NULL
+#' People in Ag
+#' A dataset from people in ag.
+#' @section Measurements:
+#' \itemize{
+#'   \item Total
+#'   \item Percent
+#' }
+#' @source ?
+#' @docType data
+#' @keywords datasets
+#' @name agData_People
+NULL
+#' ISAAA GE Crop Data
+#' A dataset from ISAAA for total GE crop area.
+#' Note: this data set includes cultivation of GE tobacco in China for 1996 and 1997.
+#' @section Measurements:
+#' \itemize{
+#'   \item Hectares
+#'   \item Acres
+#' }
+#' @source https://www.isaaa.org/
+#' @docType data
+#' @keywords datasets
+#' @name agData_ISAAA_Area
+NULL
+#' ISAAA GE Crop Data
+#' A dataset from ISAAA for total GE crop area in industrialized and devloping nations.
+#' Note: this data set includes cultivation of GE tobacco in China for 1996 and 1997.
+#' @section Measurements:
+#' \itemize{
+#'   \item Hectares
+#'   \item Percent
+#' }
+#' @source https://www.isaaa.org/
+#' @docType data
+#' @keywords datasets
+#' @name agData_ISAAA_DVDDVG
+NULL
+#' ISAAA GE Country Data
+#' A dataset from ISAAA for total GE crop area by Country.
+#' Note: data is rounded to the nearest 100,000 hectares.
+#' @section Measurements:
+#' \itemize{
+#'   \item Hectares
+#'   \item Percent
+#'   \item plus_minus
+#'   \item Percent Change
+#' }
+#' @source https://www.isaaa.org/
+#' @docType data
+#' @keywords datasets
+#' @name agData_ISAAA_Country
+NULL
+#' ISAAA GE Crop Data
+#' A dataset from ISAAA for total GE crop area by Crop.
+#' @section Measurements:
+#' \itemize{
+#'   \item Hectares
+#'   \item Percent
+#'   \item plus_minus
+#'   \item Percent Change
+#' }
+#' @source https://www.isaaa.org/
+#' @docType data
+#' @keywords datasets
+#' @name agData_ISAAA_Crop
+NULL
+#' ISAAA GE Crop Data
+#' A dataset from ISAAA for total GE crop area by Crop percent.
+#' @section Measurements:
+#' \itemize{
+#'   \item Hectares
+#'   \item Acres
+#' }
+#' @source https://www.isaaa.org/
+#' @docType data
+#' @keywords datasets
+#' @name agData_ISAAA_CropPercent
+NULL
+#' ISAAA GE Crop Data
+#' A dataset from ISAAA for total value of GE crops.
+#' @section Measurements:
+#' \itemize{
+#'   \item Hectares
+#'   \item Acres
+#' }
+#' @source https://www.isaaa.org/
+#' @docType data
+#' @keywords datasets
+#' @name agData_ISAAA_Value
+NULL
+#' NBT limitations
+#' A dataset for survey data about limitation of NBT. Percentage of experts indicating that factor will be a barrier to NBT development.
+#' @section Measurements:
+#' \itemize{
+#'   \item Hectares
+#'   \item Acres
+#' }
+#' @source Lassoued R, Smyth SJ, Phillips PW & Hesseln H (2018) Regulatory uncertainty around new breeding techniques. Frontiers in plant science. 9.
+#' @docType data
+#' @keywords datasets
+#' @name agData_NBT_Limits
 NULL

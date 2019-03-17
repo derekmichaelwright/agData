@@ -6,7 +6,7 @@
 \title{FAO Livestock Data
 A dataset containing livestock data from FAOSTAT.}
 \source{
-http://www.fao.org/faostat/
+http://www.fao.org/faostat/en/#data/QA
 }
 \description{
 FAO Livestock Data
