@@ -36,6 +36,13 @@ NULL
 NULL
 #' FAO Land Use Data
 #' A dataset containing land use data from FAOSTAT.
+#' @section Item:
+#' \itemize{
+#'   \item Country area
+#'   \item Land area
+#'   \item Agricultural area
+#'   \item ...
+#' }
 #' @section Measurement (Unit):
 #' \itemize{
 #'   \item Area                           (1000 hectares)
@@ -74,8 +81,8 @@ NULL
 #' @keywords datasets
 #' @name agData_FAO_Population
 NULL
-#' FAO world population data
-#' @section Measurements:
+#' FAO fertilizer data
+#' @section Measurement:
 #' \itemize{
 #'   \item Production
 #'   \item Import Quantity
@@ -86,7 +93,7 @@ NULL
 #' @source http://www.fao.org/faostat/en/#data/RFN
 #' @docType data
 #' @keywords datasets
-#' @name agData_FAO_Fertilizer
+#' @name agData_FAO_Fertilizers
 NULL
 #' Statistics Canada - Region Info
 #' A dataset of Region info for Canada.
