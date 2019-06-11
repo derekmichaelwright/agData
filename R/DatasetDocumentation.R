@@ -263,3 +263,16 @@ NULL
 #' @keywords datasets
 #' @name agData_NBT_Limits
 NULL
+#' Lentil Barulina
+#' A dataset for lentil production from Barulina's Monograph.
+#' @section Measurements:
+#' \itemize{
+#'   \item Area harvested
+#'   \item Production
+#'   \item Yield
+#' }
+#' @source Barulina, Elena I. (1930) Lentils of the USSR and of other countries.
+#' @docType data
+#' @keywords datasets
+#' @name agData_Barulina
+NULL
