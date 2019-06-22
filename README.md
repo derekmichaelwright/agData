@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 agData R Package
 ================
 
@@ -5,17 +10,13 @@ agData R Package
 
 `agData`: an `R` package containing various agricultural data sets
 
-# Data Sources
+# Instalation
 
-  - `FAO` Food and Agriculture Organization of the United Nations
-    [fao.org/faostat/](fao.org/faostat/)
-  - `STATCAN` Statistics Canada [statcan.gc.ca/](statcan.gc.ca/)
-  - `USDA` United States Department of Agriculture
-    [usda.gov/](usda.gov/)
-  - `ISAAA` International Service for the Acquisition of Agri-biotech
-    Applications [isaaa.org/](isaaa.org/)
+Use the following code to install the `agdata` package in R
 
------
+`devtools::install_github("derekmichaelwright/agData")`
+
+---
 
 # Introduction
 
@@ -27,4 +28,4 @@ agData R Package
 [Click here for `agData`
 vignettes](https://dblog.netlify.com/#02_agData)
 
------
+---
