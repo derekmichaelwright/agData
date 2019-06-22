@@ -7,7 +7,7 @@ output: github_document
 knitr::opts_chunk$set(echo = T, fig.width = 10, fig.height = 4)
 ```
 
-<img src="agData.png" align="right" width = "200px" />
+<img src="hex_agData.png" align="right" width = "200px" />
 
 `agData`: an `R` package containing various agricultural data sets
 

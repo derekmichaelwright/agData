@@ -1,7 +1,7 @@
 agData R Package
 ================
 
-<img src="agData.png" align="right" width = "200px" />
+<img src="hex_agData.png" align="right" width = "200px" />
 
 `agData`: an `R` package containing various agricultural data sets
 
