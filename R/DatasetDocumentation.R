@@ -276,3 +276,15 @@ NULL
 #' @keywords datasets
 #' @name agData_Barulina
 NULL
+#' Maize Contest
+#' A dataset for Maize Yield Contest.
+#' @section Measurements:
+#' \itemize{
+#'   \item Irrigated
+#'   \item Non-Irrigated
+#' }
+#' @source Corn Growers Association.
+#' @docType data
+#' @keywords datasets
+#' @name agData_MaizeContest
+NULL
