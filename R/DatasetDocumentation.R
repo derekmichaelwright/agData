@@ -288,3 +288,27 @@ NULL
 #' @keywords datasets
 #' @name agData_MaizeContest
 NULL
+#' Long Term Maize Selection
+#' A dataset for Long Term Maize Selection Experiment.
+#' NOTES: This file contains years, generation numbers, ear numbers (from 1897-1921 ear numbers indicate
+#' the row (first two digits) and the ear within the row (last 3 digits); for other years the ears are numbered
+#' without a row designation), and individual ear data
+#' for each generation and each strain of the long-term selection experiment for oil and protein
+#' at the University of Illinois.  Data for strains selected for protein (IHP, etc.) are
+#' percent protein on a dry weight basis. Data for strains selected for oil (IHO, etc.) are
+#' percent oil on a dry weight basis.
+#' Abbreviations used are GEN=overall generation, IHP=Illinois high protein, ILP=Illinois
+#' low protein, IRHP=Illinois reverse high protein, IRLP=Illinois reverse low protein,
+#' IRLP2=Illinois reverse low protein 2, IHO=Illinois high oil, ILO=Illinois low oil, IRHO=Illinois
+#' reverse high oil, IRLO=Illinois reverse low oil, ISHO=Illinois switchback high oil.  Columns
+#' headed INIHP, INILP, etc. indicate whether an ear was selected as a parent for the next generation.
+#' A selected ear has a value of 1, a non-selected ear a value of 0.
+#' @section Measurements:
+#' \itemize{
+#'   \item IHO
+#' }
+#' @source ?.
+#' @docType data
+#' @keywords datasets
+#' @name agData_LongTermMaize
+NULL
