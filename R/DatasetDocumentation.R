@@ -146,6 +146,21 @@ NULL
 #' @keywords datasets
 #' @name agData_STATCAN_Crops
 NULL
+#' Crops Statistics Canada Data
+#' A dataset from Statistics Canada on crop aggregate data.
+#' @section Measurement (Unit):
+#' \itemize{
+#'   \item Production         (tonnes)
+#'   \item Area seeded        (hectares)
+#'   \item Area harvested     (hectares)
+#'   \item Yield              (tonnes/ha)
+#'   \item Average farm price (dollars per tonne)
+#' }
+#' @source https://www150.statcan.gc.ca/
+#' @docType data
+#' @keywords datasets
+#' @name agData_STATCAN_Crops2
+NULL
 #' Statistics Canada Livestock Data
 #' A dataset from Statistics Canada on livestock production.
 #' @section Measurement (Unit):
