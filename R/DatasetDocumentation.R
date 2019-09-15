@@ -23,6 +23,19 @@ NULL
 #' @keywords datasets
 #' @name agData_FAO_Crops
 NULL
+#' FAO Crop Production Data
+#' A dataset containing crop aggregate data from FAOSTAT.
+#' @section Measurement (Unit):
+#' \itemize{
+#'   \item Production     (tonnes)
+#'   \item Area harvested (hectares)
+#'   \item Yield          (t/ha)
+#' }
+#' @source http://www.fao.org/faostat/en/#data/QC
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Crops2
+NULL
 #' FAO Livestock Data
 #' A dataset containing livestock data from FAOSTAT.
 #' @section Measurement (Unit):
