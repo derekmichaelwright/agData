@@ -4,7 +4,7 @@
 \alias{theme_agData}
 \title{theme_agData.}
 \usage{
-theme_agData(x)
+theme_agData(x, linesize = 1)
 }
 \arguments{
 \item{x}{ggplot}
