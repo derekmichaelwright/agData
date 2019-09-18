@@ -8,6 +8,6 @@
 #' xx <- agData_FAO_Crops %>% agData_spread()
 
 theme_agData <- function(x) {
-  theme(panel.background = element_rect(colour = "black"),
-        strip.background = element_rect(colour = "black"))
+  theme(panel.background = element_rect(colour = "black", size = 2),
+        strip.background = element_rect(colour = "black", size = 2))
 }
