@@ -23,13 +23,13 @@ devtools::install_github("derekmichaelwright/agData")
 
 # Introduction
 
-[Click Here for an Introduction to `agData`](https://dblog.netlify.com/agdata/introduction_to_agdata/)
+[Click Here for an Introduction to `agData`]()
 
 ---
 
 # Vignettes
 
-[Click here for `agData` vignettes](https://dblog.netlify.com/#02_agData)
+[Click here for `agData` vignettes]()
 
 ---
 
