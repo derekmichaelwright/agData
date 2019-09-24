@@ -4,10 +4,19 @@
 \alias{theme_agData}
 \title{theme_agData.}
 \usage{
-theme_agData(x, linesize = 1)
+theme_agData(x, linesize = 0.75, bgFill = "grey95",
+  stripFill = "white", lineColor = "white")
 }
 \arguments{
 \item{x}{ggplot}
+
+\item{linesize}{border line size}
+
+\item{bgFill}{background fill color}
+
+\item{stripFill}{strip background color}
+
+\item{lineColor}{color of axis lines}
 }
 \value{
 ggplot
