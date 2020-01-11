@@ -4,8 +4,13 @@
 \alias{theme_agData}
 \title{theme_agData.}
 \usage{
-theme_agData(x, linesize = 0.75, bgFill = "grey95",
-  stripFill = "white", lineColor = "white")
+theme_agData(
+  x,
+  linesize = 0.75,
+  bgFill = "grey95",
+  stripFill = "white",
+  lineColor = "white"
+)
 }
 \arguments{
 \item{x}{ggplot}
@@ -23,7 +28,4 @@ ggplot
 }
 \description{
 ggplot theme.
-}
-\examples{
-xx <- agData_FAO_Crops \%>\% agData_spread()
 }
