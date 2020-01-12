@@ -9,7 +9,8 @@ theme_agData(
   linesize = 0.75,
   bgFill = "grey95",
   stripFill = "white",
-  lineColor = "white"
+  lineColor = "white",
+  rotx = F
 )
 }
 \arguments{
