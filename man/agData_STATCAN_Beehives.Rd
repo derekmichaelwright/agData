@@ -12,6 +12,18 @@ https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035301
 Statistics Canada - HoneyBee Data
 A dataset from Statistics Canada on honeybee production.
 }
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Crop
+  \item Year
+  \item Measurement
+  \item Unit
+  \item Value
+}
+}
+
 \section{Measurement (Unit)}{
 
 \itemize{

@@ -12,6 +12,18 @@ https://www.isaaa.org/
 ISAAA GE Crop Data
 A dataset from ISAAA for total GE crop area by Crop.
 }
+\section{Keys}{
+
+\itemize{
+  \item Year
+  \item Crop
+  \item Million.Hectares
+  \item Percent
+  \item plus_minus
+  \item Percent.Change
+}
+}
+
 \section{Measurements}{
 
 \itemize{

@@ -9,4 +9,14 @@ A table of region information.}
 FAO Region Table
 A table of region information.
 }
+\section{Keys}{
+
+\itemize{
+  \item FAO_TABLE_NAME
+  \item Region
+  \item SubRegion
+  \item Name
+}
+}
+
 \keyword{datasets}

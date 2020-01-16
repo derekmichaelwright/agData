@@ -109,8 +109,15 @@
     <p>ggplot theme.</p>
     </div>
 
-    <pre class="usage"><span class='fu'>theme_agData</span>(<span class='no'>x</span>, <span class='kw'>linesize</span> <span class='kw'>=</span> <span class='fl'>0.75</span>, <span class='kw'>bgFill</span> <span class='kw'>=</span> <span class='st'>"grey95"</span>,
-  <span class='kw'>stripFill</span> <span class='kw'>=</span> <span class='st'>"white"</span>, <span class='kw'>lineColor</span> <span class='kw'>=</span> <span class='st'>"white"</span>)</pre>
+    <pre class="usage"><span class='fu'>theme_agData</span>(
+  <span class='no'>x</span>,
+  <span class='kw'>linesize</span> <span class='kw'>=</span> <span class='fl'>0.75</span>,
+  <span class='kw'>bgFill</span> <span class='kw'>=</span> <span class='st'>"grey95"</span>,
+  <span class='kw'>stripFill</span> <span class='kw'>=</span> <span class='st'>"white"</span>,
+  <span class='kw'>lineColor</span> <span class='kw'>=</span> <span class='st'>"white"</span>,
+  <span class='kw'>rotx</span> <span class='kw'>=</span> <span class='no'>F</span>,
+  <span class='no'>...</span>
+)</pre>
 
     <h2 class="hasAnchor" id="arguments"><a class="anchor" href="#arguments"></a>Arguments</h2>
     <table class="ref-arguments">
@@ -141,15 +148,12 @@
 
     <p>ggplot</p>
 
-    <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='no'>xx</span> <span class='kw'>&lt;-</span> <span class='no'>agData_FAO_Crops</span> <span class='kw'>%&gt;%</span> <span class='fu'>agData_spread</span>()</div><div class='output co'>#&gt; <span class='error'>Error in agData_spread(.): could not find function "agData_spread"</span></div></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
     <h2>Contents</h2>
     <ul class="nav nav-pills nav-stacked">
       <li><a href="#arguments">Arguments</a></li>
       <li><a href="#value">Value</a></li>
-      <li><a href="#examples">Examples</a></li>
     </ul>
 
   </div>

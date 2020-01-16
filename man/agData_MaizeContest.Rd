@@ -12,6 +12,17 @@ Corn Growers Association.
 Maize Contest
 A dataset for Maize Yield Contest.
 }
+\section{Keys}{
+
+\itemize{
+  \item Crop
+  \item Year
+  \item Measurement
+  \item Unit
+  \item Value
+}
+}
+
 \section{Measurements}{
 
 \itemize{

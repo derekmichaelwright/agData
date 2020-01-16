@@ -1,17 +1,45 @@
 #' FAO Country Table
 #' A table of country information.
+#' @section Keys:
+#' \itemize{
+#'   \item Country
+#'   \item FAO_TABLE_NAME
+#'   \item ISO2
+#'   \item ISO3
+#'   \item Lat
+#'   \item Lon
+#'   \item Region
+#'   \item SubRegion
+#'   \item DVDDVG
+#' }
 #' @docType data
 #' @keywords datasets
 #' @name agData_FAO_Country_Table
 NULL
 #' FAO Region Table
 #' A table of region information.
+#' @section Keys:
+#' \itemize{
+#'   \item FAO_TABLE_NAME
+#'   \item Region
+#'   \item SubRegion
+#'   \item Name
+#' }
 #' @docType data
 #' @keywords datasets
 #' @name agData_FAO_Region_Table
 NULL
 #' FAO Crop Production Data
 #' A dataset containing crop data from FAOSTAT.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Crop
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
 #' @section Measurement (Unit):
 #' \itemize{
 #'   \item Production     (tonnes)
@@ -25,6 +53,15 @@ NULL
 NULL
 #' FAO Crop Production Data
 #' A dataset containing crop aggregate data from FAOSTAT.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Crop
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
 #' @section Measurement (Unit):
 #' \itemize{
 #'   \item Production     (tonnes)
@@ -38,6 +75,15 @@ NULL
 NULL
 #' FAO Livestock Data
 #' A dataset containing livestock data from FAOSTAT.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Animal
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
 #' @section Measurement (Unit):
 #' \itemize{
 #'   \item Stocks (head or 1000 head)
@@ -49,6 +95,15 @@ NULL
 NULL
 #' FAO Land Use Data
 #' A dataset containing land use data from FAOSTAT.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Item
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
 #' @section Item:
 #' \itemize{
 #'   \item Country area
@@ -68,6 +123,15 @@ NULL
 NULL
 #' FAO Trade Data
 #' A dataset containing trade data from FAOSTAT.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Crop
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
 #' @section Measurement (Unit):
 #' \itemize{
 #'   \item Export Quantity (tonnes)
@@ -81,6 +145,15 @@ NULL
 #' @name agData_FAO_Trade
 NULL
 #' FAO world population data
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Item
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
 #' @section Measurements:
 #' \itemize{
 #'   \item Total
@@ -95,6 +168,15 @@ NULL
 #' @name agData_FAO_Population
 NULL
 #' FAO fertilizer data
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Item
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
 #' @section Measurement:
 #' \itemize{
 #'   \item Production
@@ -110,12 +192,27 @@ NULL
 NULL
 #' Statistics Canada - Region Info
 #' A dataset of Region info for Canada.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Lat
+#'   \item Lon
+#' }
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_Region_Table
 NULL
 #' Statistics Canada - HoneyBee Data
 #' A dataset from Statistics Canada on honeybee production.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Crop
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
 #' @section Measurement (Unit):
 #' \itemize{
 #'   \item Beekeepers         (number)
@@ -133,6 +230,15 @@ NULL
 NULL
 #' Crops Statistics Canada Data
 #' A dataset from Statistics Canada on crop production.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Crop
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
 #' @section Measurement (Unit):
 #' \itemize{
 #'   \item Production         (tonnes)
@@ -148,6 +254,15 @@ NULL
 NULL
 #' Crops Statistics Canada Data
 #' A dataset from Statistics Canada on crop aggregate data.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Crop
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
 #' @section Measurement (Unit):
 #' \itemize{
 #'   \item Production         (tonnes)
@@ -163,6 +278,15 @@ NULL
 NULL
 #' Statistics Canada Livestock Data
 #' A dataset from Statistics Canada on livestock production.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Animal
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
 #' @section Measurement (Unit):
 #' \itemize{
 #'   \item Average number of animals (number)
@@ -176,6 +300,15 @@ NULL
 NULL
 #' USDA Crop Data
 #' A dataset from the USDA on crop production.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Crop
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
 #' @section Measurement (Unit):
 #' \itemize{
 #'   \item Production     (tonnes)
@@ -190,6 +323,14 @@ NULL
 NULL
 #' People in Ag
 #' A dataset from people in ag.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
 #' @section Measurements:
 #' \itemize{
 #'   \item Total
@@ -203,6 +344,13 @@ NULL
 #' ISAAA GE Crop Data
 #' A dataset from ISAAA for total GE crop area.
 #' Note: this data set includes cultivation of GE tobacco in China for 1996 and 1997.
+#' @section Keys:
+#' \itemize{
+#'   \item Year
+#'   \item Hectares
+#'   \item plus_minus
+#'   \item Percent.Change
+#' }
 #' @section Measurements:
 #' \itemize{
 #'   \item Hectares
@@ -216,6 +364,13 @@ NULL
 #' ISAAA GE Crop Data
 #' A dataset from ISAAA for total GE crop area in industrialized and devloping nations.
 #' Note: this data set includes cultivation of GE tobacco in China for 1996 and 1997.
+#' @section Keys:
+#' \itemize{
+#'   \item Year
+#'   \item Area
+#'   \item Hectares
+#'   \item Percent
+#' }
 #' @section Measurements:
 #' \itemize{
 #'   \item Hectares
@@ -229,6 +384,15 @@ NULL
 #' ISAAA GE Country Data
 #' A dataset from ISAAA for total GE crop area by Country.
 #' Note: data is rounded to the nearest 100,000 hectares.
+#' @section Keys:
+#' \itemize{
+#'   \item Year
+#'   \item Crop
+#'   \item Million.Hectares
+#'   \item Percent
+#'   \item plus_minus
+#'   \item Percent.Change
+#' }
 #' @section Measurements:
 #' \itemize{
 #'   \item Hectares
@@ -243,6 +407,15 @@ NULL
 NULL
 #' ISAAA GE Crop Data
 #' A dataset from ISAAA for total GE crop area by Crop.
+#' @section Keys:
+#' \itemize{
+#'   \item Year
+#'   \item Crop
+#'   \item Million.Hectares
+#'   \item Percent
+#'   \item plus_minus
+#'   \item Percent.Change
+#' }
 #' @section Measurements:
 #' \itemize{
 #'   \item Hectares
@@ -257,6 +430,14 @@ NULL
 NULL
 #' ISAAA GE Crop Data
 #' A dataset from ISAAA for total GE crop area by Crop percent.
+#' @section Keys:
+#' \itemize{
+#'   \item Year
+#'   \item Crop
+#'   \item Global.Area
+#'   \item Transgenic.Crop.Area
+#'   \item Percent.Transgenic
+#' }
 #' @section Measurements:
 #' \itemize{
 #'   \item Hectares
@@ -269,6 +450,12 @@ NULL
 NULL
 #' ISAAA GE Crop Data
 #' A dataset from ISAAA for total value of GE crops.
+#' @section Keys:
+#' \itemize{
+#'   \item Year
+#'   \item Value
+#'   \item Unit
+#' }
 #' @section Measurements:
 #' \itemize{
 #'   \item Hectares
@@ -293,6 +480,15 @@ NULL
 NULL
 #' Lentil Barulina
 #' A dataset for lentil production from Barulina's Monograph.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Crop
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
 #' @section Measurements:
 #' \itemize{
 #'   \item Area harvested
@@ -306,6 +502,14 @@ NULL
 NULL
 #' Maize Contest
 #' A dataset for Maize Yield Contest.
+#' @section Keys:
+#' \itemize{
+#'   \item Crop
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
 #' @section Measurements:
 #' \itemize{
 #'   \item Irrigated

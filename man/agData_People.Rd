@@ -12,6 +12,17 @@ A dataset from people in ag.}
 People in Ag
 A dataset from people in ag.
 }
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Year
+  \item Measurement
+  \item Unit
+  \item Value
+}
+}
+
 \section{Measurements}{
 
 \itemize{

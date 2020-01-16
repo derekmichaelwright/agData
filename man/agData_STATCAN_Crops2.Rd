@@ -12,6 +12,18 @@ https://www150.statcan.gc.ca/
 Crops Statistics Canada Data
 A dataset from Statistics Canada on crop aggregate data.
 }
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Crop
+  \item Year
+  \item Measurement
+  \item Unit
+  \item Value
+}
+}
+
 \section{Measurement (Unit)}{
 
 \itemize{

@@ -9,4 +9,19 @@ A table of country information.}
 FAO Country Table
 A table of country information.
 }
+\section{Keys}{
+
+\itemize{
+  \item Country
+  \item FAO_TABLE_NAME
+  \item ISO2
+  \item ISO3
+  \item Lat
+  \item Lon
+  \item Region
+  \item SubRegion
+  \item DVDDVG
+}
+}
+
 \keyword{datasets}

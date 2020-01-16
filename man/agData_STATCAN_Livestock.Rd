@@ -12,6 +12,18 @@ https://www150.statcan.gc.ca/
 Statistics Canada Livestock Data
 A dataset from Statistics Canada on livestock production.
 }
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Animal
+  \item Year
+  \item Measurement
+  \item Unit
+  \item Value
+}
+}
+
 \section{Measurement (Unit)}{
 
 \itemize{

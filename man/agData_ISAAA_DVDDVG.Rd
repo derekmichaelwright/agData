@@ -14,6 +14,16 @@ ISAAA GE Crop Data
 A dataset from ISAAA for total GE crop area in industrialized and devloping nations.
 Note: this data set includes cultivation of GE tobacco in China for 1996 and 1997.
 }
+\section{Keys}{
+
+\itemize{
+  \item Year
+  \item Area
+  \item Hectares
+  \item Percent
+}
+}
+
 \section{Measurements}{
 
 \itemize{

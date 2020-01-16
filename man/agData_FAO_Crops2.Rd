@@ -12,6 +12,18 @@ http://www.fao.org/faostat/en/#data/QC
 FAO Crop Production Data
 A dataset containing crop aggregate data from FAOSTAT.
 }
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Crop
+  \item Year
+  \item Measurement
+  \item Unit
+  \item Value
+}
+}
+
 \section{Measurement (Unit)}{
 
 \itemize{

@@ -12,6 +12,18 @@ http://www.fao.org/faostat/en/#data/RL
 FAO Land Use Data
 A dataset containing land use data from FAOSTAT.
 }
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Item
+  \item Year
+  \item Measurement
+  \item Unit
+  \item Value
+}
+}
+
 \section{Item}{
 
 \itemize{

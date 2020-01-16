@@ -12,6 +12,18 @@ http://www.fao.org/faostat/en/#data/QA
 FAO Livestock Data
 A dataset containing livestock data from FAOSTAT.
 }
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Animal
+  \item Year
+  \item Measurement
+  \item Unit
+  \item Value
+}
+}
+
 \section{Measurement (Unit)}{
 
 \itemize{

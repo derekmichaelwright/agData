@@ -12,6 +12,18 @@ https://www.nass.usda.gov/
 USDA Crop Data
 A dataset from the USDA on crop production.
 }
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Crop
+  \item Year
+  \item Measurement
+  \item Unit
+  \item Value
+}
+}
+
 \section{Measurement (Unit)}{
 
 \itemize{

@@ -10,6 +10,18 @@ http://www.fao.org/faostat/en/#data/OA
 \description{
 FAO world population data
 }
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Item
+  \item Year
+  \item Measurement
+  \item Unit
+  \item Value
+}
+}
+
 \section{Measurements}{
 
 \itemize{

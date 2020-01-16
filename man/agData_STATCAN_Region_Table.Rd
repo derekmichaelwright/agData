@@ -9,4 +9,13 @@ A dataset of Region info for Canada.}
 Statistics Canada - Region Info
 A dataset of Region info for Canada.
 }
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Lat
+  \item Lon
+}
+}
+
 \keyword{datasets}

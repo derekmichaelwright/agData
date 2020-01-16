@@ -12,6 +12,18 @@ Barulina, Elena I. (1930) Lentils of the USSR and of other countries.
 Lentil Barulina
 A dataset for lentil production from Barulina's Monograph.
 }
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Crop
+  \item Year
+  \item Measurement
+  \item Unit
+  \item Value
+}
+}
+
 \section{Measurements}{
 
 \itemize{

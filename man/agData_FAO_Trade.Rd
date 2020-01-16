@@ -12,6 +12,18 @@ http://www.fao.org/faostat/en/#data/TP
 FAO Trade Data
 A dataset containing trade data from FAOSTAT.
 }
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Crop
+  \item Year
+  \item Measurement
+  \item Unit
+  \item Value
+}
+}
+
 \section{Measurement (Unit)}{
 
 \itemize{

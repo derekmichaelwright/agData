@@ -10,6 +10,18 @@ http://www.fao.org/faostat/en/#data/RFN
 \description{
 FAO fertilizer data
 }
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Item
+  \item Year
+  \item Measurement
+  \item Unit
+  \item Value
+}
+}
+
 \section{Measurement}{
 
 \itemize{
