@@ -321,6 +321,28 @@ NULL
 #' @keywords datasets
 #' @name agData_USDA_Crops
 NULL
+#' USDA Agricultureal Productivity data
+#' A dataset from the USDA on agricultural productivity production.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @section Measurement (Unit):
+#' \itemize{
+#'   \item TFP
+#'   \item Inputs
+#'   \item Outputs
+#'   \item ...
+#' }
+#' @source https://www.nass.usda.gov/
+#' @docType data
+#' @keywords datasets
+#' @name agData_USDA_TFP
+NULL
 #' People in Ag
 #' A dataset from people in ag.
 #' @section Keys:
