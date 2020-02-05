@@ -6,7 +6,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>addCanadaInfo. — addCanadaInfo • agData</title>
+<title>USDA Agricultureal Productivity data
+A dataset from the USDA on agricultural productivity production. — agData_USDA_TFP • agData</title>
 
 
 <!-- jquery -->
@@ -35,8 +36,10 @@
 
 
 
-<meta property="og:title" content="addCanadaInfo. — addCanadaInfo" />
-<meta property="og:description" content="Adds Canada information to agData STATCAN datasets. Uses agData_STATCAN_Region_Table." />
+<meta property="og:title" content="USDA Agricultureal Productivity data
+A dataset from the USDA on agricultural productivity production. — agData_USDA_TFP" />
+<meta property="og:description" content="USDA Agricultureal Productivity data
+A dataset from the USDA on agricultural productivity production." />
 <meta name="twitter:card" content="summary" />
 
 
@@ -100,39 +103,53 @@
 <div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
-    <h1>addCanadaInfo.</h1>
+    <h1>USDA Agricultureal Productivity data
+A dataset from the USDA on agricultural productivity production.</h1>
     
-    <div class="hidden name"><code>addCanadaInfo.Rd</code></div>
+    <div class="hidden name"><code>agData_USDA_TFP.Rd</code></div>
     </div>
 
     <div class="ref-description">
-    <p>Adds Canada information to agData STATCAN datasets. Uses agData_STATCAN_Region_Table.</p>
+    <p>USDA Agricultureal Productivity data
+A dataset from the USDA on agricultural productivity production.</p>
     </div>
 
-    <pre class="usage"><span class='fu'>addCanadaInfo</span>(<span class='no'>x</span>)</pre>
 
-    <h2 class="hasAnchor" id="arguments"><a class="anchor" href="#arguments"></a>Arguments</h2>
-    <table class="ref-arguments">
-    <colgroup><col class="name" /><col class="desc" /></colgroup>
-    <tr>
-      <th>x</th>
-      <td><p>dataset.</p></td>
-    </tr>
-    </table>
 
-    <h2 class="hasAnchor" id="value"><a class="anchor" href="#value"></a>Value</h2>
+    <h2 class="hasAnchor" id="source"><a class="anchor" href="#source"></a>Source</h2>
 
-    <p>Table with region info added</p>
+    <p>https://www.nass.usda.gov/</p>
+    <h2 class="hasAnchor" id="keys"><a class="anchor" href="#keys"></a>Keys</h2>
 
-    <h2 class="hasAnchor" id="examples"><a class="anchor" href="#examples"></a>Examples</h2>
-    <pre class="examples"><div class='input'><span class='no'>xx</span> <span class='kw'>&lt;-</span> <span class='no'>agData_STATCAN_Crops</span> <span class='kw'>%&gt;%</span> <span class='fu'>addCanadaInfo</span>()</div><div class='output co'>#&gt; <span class='error'>Error: </span></div></pre>
+    
+
+<ul>
+<li><p>Area</p></li>
+<li><p>Year</p></li>
+<li><p>Measurement</p></li>
+<li><p>Unit</p></li>
+<li><p>Value</p></li>
+</ul>
+
+    <h2 class="hasAnchor" id="measurement-unit-"><a class="anchor" href="#measurement-unit-"></a>Measurement (Unit)</h2>
+
+    
+
+<ul>
+<li><p>TFP</p></li>
+<li><p>Inputs</p></li>
+<li><p>Outputs</p></li>
+<li><p>...</p></li>
+</ul>
+
+
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
     <h2>Contents</h2>
     <ul class="nav nav-pills nav-stacked">
-      <li><a href="#arguments">Arguments</a></li>
-      <li><a href="#value">Value</a></li>
-      <li><a href="#examples">Examples</a></li>
+      <li><a href="#source">Source</a></li>
+      <li><a href="#keys">Keys</a></li>
+      <li><a href="#measurement-unit-">Measurement (Unit)</a></li>
     </ul>
 
   </div>
