@@ -566,3 +566,18 @@ NULL
 #' @keywords datasets
 #' @name agData_LongTermMaize
 NULL
+#' Population with and without fertilizers
+#' A dataset of global population with and without fertilizers.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @source https://www.nature.com/articles/ngeo325
+#' @docType data
+#' @keywords datasets
+#' @name agData_PopFert
+NULL
