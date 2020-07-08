@@ -5,27 +5,19 @@ agData R Package
 
 `agData`: an `R` package containing various agricultural data sets
 
------
-
 # Installation
 
 ``` r
 devtools::install_github("derekmichaelwright/agData")
 ```
 
------
-
 # Introduction
 
 [Click Here for an Introduction to `agData`]()
 
------
-
 # Vignettes
 
 [Click here for `agData` vignettes]()
-
------
 
 # Data Sources
 

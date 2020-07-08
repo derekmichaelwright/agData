@@ -11,27 +11,19 @@ knitr::opts_chunk$set(echo = T, fig.width = 10, fig.height = 4)
 
 `agData`: an `R` package containing various agricultural data sets
 
----
-
 # Installation
 
 ```{r eval = F}
 devtools::install_github("derekmichaelwright/agData")
 ```
 
----
-
 # Introduction
 
 [Click Here for an Introduction to `agData`]()
 
----
-
 # Vignettes
 
 [Click here for `agData` vignettes]()
-
----
 
 # Data Sources
 
