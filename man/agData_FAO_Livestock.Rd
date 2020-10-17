@@ -16,8 +16,8 @@ A dataset containing livestock data from FAOSTAT.
 
 \itemize{
   \item Area
-  \item Animal
   \item Year
+  \item Animal
   \item Measurement
   \item Unit
   \item Value

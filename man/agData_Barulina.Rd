@@ -16,8 +16,8 @@ A dataset for lentil production from Barulina's Monograph.
 
 \itemize{
   \item Area
-  \item Crop
   \item Year
+  \item Crop
   \item Measurement
   \item Unit
   \item Value

@@ -13,11 +13,12 @@ devtools::install_github("derekmichaelwright/agData")
 
 # Introduction
 
-[Click Here for an Introduction to `agData`]()
+[Click Here for an Introduction to
+`agData`](https://derekmichaelwright.github.io/htmls/agdata/introduction_to_agdata.html)
 
 # Vignettes
 
-[Click here for `agData` vignettes]()
+[Click here for `agData` vignettes](https://dblogr.com/#posts_agdata)
 
 # Data Sources
 

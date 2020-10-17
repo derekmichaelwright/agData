@@ -16,8 +16,8 @@ A dataset containing trade data from FAOSTAT.
 
 \itemize{
   \item Area
-  \item Crop
   \item Year
+  \item Crop
   \item Measurement
   \item Unit
   \item Value

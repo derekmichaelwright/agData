@@ -16,8 +16,8 @@ A dataset from the USDA on crop production.
 
 \itemize{
   \item Area
-  \item Crop
   \item Year
+  \item Crop
   \item Measurement
   \item Unit
   \item Value

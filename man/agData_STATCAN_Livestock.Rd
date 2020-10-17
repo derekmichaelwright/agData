@@ -16,8 +16,8 @@ A dataset from Statistics Canada on livestock production.
 
 \itemize{
   \item Area
-  \item Animal
   \item Year
+  \item Animal
   \item Measurement
   \item Unit
   \item Value

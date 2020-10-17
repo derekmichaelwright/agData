@@ -16,8 +16,8 @@ A dataset containing land use data from FAOSTAT.
 
 \itemize{
   \item Area
-  \item Item
   \item Year
+  \item Item
   \item Measurement
   \item Unit
   \item Value

@@ -14,8 +14,8 @@ FAO fertilizer data
 
 \itemize{
   \item Area
-  \item Item
   \item Year
+  \item Item
   \item Measurement
   \item Unit
   \item Value
