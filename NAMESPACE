@@ -2,5 +2,6 @@
 
 export(addCanadaInfo)
 export(addRegionInfo)
+export(movingAverage)
 export(spread_agData)
 export(theme_agData)
