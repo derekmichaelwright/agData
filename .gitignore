@@ -3,3 +3,4 @@
 .RData
 /Vignettes/*.Rmd
 inst/doc
+docs
