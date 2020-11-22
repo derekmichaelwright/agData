@@ -6,7 +6,7 @@
 \title{Statistics Canada Livestock Data
 A dataset from Statistics Canada on livestock production.}
 \source{
-https://www150.statcan.gc.ca/
+https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015501
 }
 \description{
 Statistics Canada Livestock Data
@@ -31,6 +31,10 @@ A dataset from Statistics Canada on livestock production.
   \item Number of animals         (number)
   \item Number of farms reporting (number)
 }
+}
+
+\section{Table}{
+ 32-10-0155-01 (formerly CANSIM 004-0004)
 }
 
 \keyword{datasets}

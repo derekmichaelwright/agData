@@ -6,7 +6,7 @@
 \title{Statistics Canada population Data
 A dataset from Statistics Canada on population.}
 \source{
-https://www150.statcan.gc.ca/
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=1946&cubeTimeFrame.endMonth=10&cubeTimeFrame.endYear=2020&referencePeriods=19460101%2C20201001
 }
 \description{
 Statistics Canada population Data
@@ -20,6 +20,10 @@ A dataset from Statistics Canada on population.
   \item Unit
   \item Value
 }
+}
+
+\section{Table}{
+ 17-10-0009-01 (formerly CANSIM 051-0005)
 }
 
 \keyword{datasets}

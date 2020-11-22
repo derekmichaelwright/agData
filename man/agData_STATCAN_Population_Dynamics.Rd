@@ -6,7 +6,7 @@
 \title{Statistics Canada population Data
 A dataset from Statistics Canada on population dynamics.}
 \source{
-https://www150.statcan.gc.ca/
+https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1710000801
 }
 \description{
 Statistics Canada population Data
@@ -31,6 +31,10 @@ A dataset from Statistics Canada on population dynamics.
   \item Immigrants
   \item Emigrants
 }
+}
+
+\section{Table}{
+ 17-10-0008-01 (formerly CANSIM 051-0004)
 }
 
 \keyword{datasets}

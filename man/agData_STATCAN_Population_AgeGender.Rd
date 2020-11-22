@@ -6,7 +6,7 @@
 \title{Statistics Canada population Data
 A dataset from Statistics Canada on population by age and gender.}
 \source{
-https://www150.statcan.gc.ca/
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501
 }
 \description{
 Statistics Canada population Data
@@ -20,6 +20,10 @@ A dataset from Statistics Canada on population by age and gender.
   \item Year
   \item ...
 }
+}
+
+\section{Table}{
+ 17-10-0005-01 (formerly CANSIM 051-0001)
 }
 
 \keyword{datasets}

@@ -6,7 +6,7 @@
 \title{Crops Statistics Canada Data
 A dataset from Statistics Canada on crop aggregate data.}
 \source{
-https://www150.statcan.gc.ca/
+https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210035901
 }
 \description{
 Crops Statistics Canada Data
@@ -33,6 +33,10 @@ A dataset from Statistics Canada on crop aggregate data.
   \item Yield              (tonnes/ha)
   \item Average farm price (dollars per tonne)
 }
+}
+
+\section{Table}{
+ 32-10-0359-01 (formerly CANSIM 001-0017)
 }
 
 \keyword{datasets}

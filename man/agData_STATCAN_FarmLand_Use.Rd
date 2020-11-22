@@ -6,7 +6,7 @@
 \title{Statistics Canada Farmland Data
 A dataset from Statistics Canada on farm land use.}
 \source{
-https://www150.statcan.gc.ca/
+https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015301
 }
 \description{
 Statistics Canada Farmland Data
@@ -43,6 +43,10 @@ A dataset from Statistics Canada on farm land use.
   \item Area (Hectares)
   \item Area (Average area in acres per farm reporting)
 }
+}
+
+\section{Table}{
+ 32-10-0153-01 (formerly CANSIM 004-0002)
 }
 
 \keyword{datasets}

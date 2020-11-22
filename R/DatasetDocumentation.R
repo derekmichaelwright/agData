@@ -473,7 +473,8 @@ NULL
 #'   \item Yield              (tonnes/ha)
 #'   \item Average farm price (dollars per tonne)
 #' }
-#' @source https://www150.statcan.gc.ca/
+#' @section Table: 32-10-0359-01 (formerly CANSIM 001-0017)
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210035901
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_Crops
@@ -497,7 +498,8 @@ NULL
 #'   \item Yield              (tonnes/ha)
 #'   \item Average farm price (dollars per tonne)
 #' }
-#' @source https://www150.statcan.gc.ca/
+#' @section Table: 32-10-0359-01 (formerly CANSIM 001-0017)
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210035901
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_Crops2
@@ -505,25 +507,32 @@ NULL
 #' Statistics Canada Farmland Data
 #' A dataset from Statistics Canada on farm land use.
 #' @section Keys:
+#' @section Measurement:
 #' \itemize{
-#'   \item Area
-#'   \item Year
-#'   \item Item
-#'   \item Measurement
-#'   \item Unit
-#'   \item Value
+#'   \item Number of farms reporting
+#'   \item Hectares
 #' }
-#' @section Measurement (Unit):
-#' \itemize{
-#'   \item Area (Number of farms reporting)
-#'   \item Area (Acres)
-#'   \item Area (Hectares)
-#'   \item Area (Average area in acres per farm reporting)
-#' }
-#' @source https://www150.statcan.gc.ca/
+#' @section Table: 32-10-0154-01 (formerly CANSIM 004-0003)
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210015401
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_FarmLand_Crops
+NULL
+#' Statistics Canada Farmland Data
+#' A dataset from Statistics Canada on farm land use.
+#' @section Keys:
+#' @section Measurement:
+#' \itemize{
+#'   \item Total number of farms
+#'   \item Total area of farms
+#'   \item Area owned
+#'   \item Area rented or leased from others
+#' }
+#' @section Table: 32-10-0152-01 (formerly CANSIM 004-0001)
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210015201
+#' @docType data
+#' @keywords datasets
+#' @name agData_STATCAN_FarmLand_Farms
 NULL
 #' Statistics Canada Farmland Data
 #' A dataset from Statistics Canada on farm land use.
@@ -553,7 +562,8 @@ NULL
 #'   \item 2,880 to 3,519 acres
 #'   \item 3,520 acres and above
 #' }
-#' @source https://www150.statcan.gc.ca/
+#' @section Table: 32-10-0156-01 (formerly CANSIM 004-0005)
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015601
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_FarmLand_Size
@@ -584,7 +594,8 @@ NULL
 #'   \item Area (Hectares)
 #'   \item Area (Average area in acres per farm reporting)
 #' }
-#' @source https://www150.statcan.gc.ca/
+#' @section Table: 32-10-0153-01 (formerly CANSIM 004-0002)
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015301
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_FarmLand_Use
@@ -606,7 +617,8 @@ NULL
 #'   \item Number of animals         (number)
 #'   \item Number of farms reporting (number)
 #' }
-#' @source https://www150.statcan.gc.ca/
+#' @section Table: 32-10-0155-01 (formerly CANSIM 004-0004)
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015501
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_Livestock
@@ -620,7 +632,8 @@ NULL
 #'   \item Unit
 #'   \item Value
 #' }
-#' @source https://www150.statcan.gc.ca/
+#' @section Table: 17-10-0009-01 (formerly CANSIM 051-0005)
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=1946&cubeTimeFrame.endMonth=10&cubeTimeFrame.endYear=2020&referencePeriods=19460101%2C20201001
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_Population
@@ -634,7 +647,8 @@ NULL
 #'   \item Year
 #'   \item ...
 #' }
-#' @source https://www150.statcan.gc.ca/
+#' @section Table: 17-10-0005-01 (formerly CANSIM 051-0001)
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000501
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_Population_AgeGender
@@ -656,7 +670,8 @@ NULL
 #'   \item Immigrants
 #'   \item Emigrants
 #' }
-#' @source https://www150.statcan.gc.ca/
+#' @section Table: 17-10-0008-01 (formerly CANSIM 051-0004)
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1710000801
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_Population_Dynamics
