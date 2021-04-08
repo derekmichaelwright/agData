@@ -6,8 +6,10 @@
 #' @param bgFill background fill color
 #' @param stripFill strip background color
 #' @param lineColor color of axis lines
-#' @return ggplot
+#' @return ggplot with agData theme
 #' @export
+#' @examples
+#' mp <- ggplot(agData_FAO_Crops %>% filter(Crop == "Lentils, Area == "Canada"), aes(x = Year, y = Value, )) + geom_line() + theme_agData()
 
 theme_agData <- function(x, linesize = 0.75, bgFill = "grey95", stripFill = "white", lineColor = "white", rotx = F, ...) {
   if(rotx == T) {

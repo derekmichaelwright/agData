@@ -26,7 +26,7 @@ theme_agData(
 \item{lineColor}{color of axis lines}
 }
 \value{
-ggplot
+ggplot with agData theme
 }
 \description{
 ggplot theme.

@@ -2,7 +2,7 @@
 % Please edit documentation in R/addRegionInfo.R
 \name{addRegionInfo}
 \alias{addRegionInfo}
-\title{addRegionInfo.}
+\title{addRegionInfo}
 \usage{
 addRegionInfo(x)
 }

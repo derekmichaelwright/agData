@@ -1,4 +1,4 @@
-#' addRegionInfo.
+#' addRegionInfo
 #'
 #' Adds region information to agData datasets. Uses both agData_FAO_Country_Table and agData_FAO_Region_Table.
 #' @param x dataset.
