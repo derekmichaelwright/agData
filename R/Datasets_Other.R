@@ -23,6 +23,23 @@ NULL
 #' @keywords datasets
 #' @name agData_USDA_Crops
 NULL
+#' USDA GE Crop Data
+#' 
+#' A dataset from the USDA on GE crop production.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Crop
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @source https://www.ers.usda.gov/data-products/adoption-of-genetically-engineered-crops-in-the-us/
+#' @docType data
+#' @keywords datasets
+#' @name agData_USDA_GE_Crops
+NULL
 #' USDA Agricultureal Productivity data
 #' 
 #' A dataset from the USDA on agricultural productivity production.
@@ -282,4 +299,21 @@ NULL
 #' @docType data
 #' @keywords datasets
 #' @name agData_PopFert
+NULL
+#' Long term yield data for UK
+#' 
+#' A dataset of long term yield data in UK.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Crop
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @source ...
+#' @docType data
+#' @keywords datasets
+#' @name agData_UK_Yields
 NULL
