@@ -1,4 +1,4 @@
-#' renameByFolder
+#' folder_Renamer
 #'
 #' This function copies all files in the input folder to the output folder then renames them based on folder name.
 #' @param input Input folder
@@ -12,7 +12,7 @@
 #'                output = "J:/PhotoR/output",
 #'                pad.width =3 , start.num = 1)
 
-renameByFolder <- function(input, output, pad.width = 3, start.num = 1) {
+folder_Renamer <- function(input, output, pad.width = 3, start.num = 1) {
   # Copy all files
   foldernames <- list.files(input)
   # Loop to rename files

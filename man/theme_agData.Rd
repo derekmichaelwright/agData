@@ -11,6 +11,7 @@ theme_agData(
   stripFill = "white",
   lineColor = "white",
   rotx = F,
+  angle = 75,
   ...
 )
 }
