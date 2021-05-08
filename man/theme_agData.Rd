@@ -6,25 +6,23 @@
 \usage{
 theme_agData(
   x,
-  linesize = 0.75,
   bgFill = "grey95",
-  stripFill = "white",
   lineColor = "white",
-  rotx = F,
-  angle = 75,
+  linesize = 0.75,
+  stripFill = "white",
   ...
 )
 }
 \arguments{
 \item{x}{ggplot}
 
-\item{linesize}{border line size}
-
 \item{bgFill}{background fill color}
 
-\item{stripFill}{strip background color}
-
 \item{lineColor}{color of axis lines}
+
+\item{linesize}{border line size}
+
+\item{stripFill}{strip background color}
 }
 \value{
 ggplot with agData theme
