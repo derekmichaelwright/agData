@@ -30,3 +30,7 @@ devtools::install_github("derekmichaelwright/agData")
 - `STATCAN` Statistics Canada [statcan.gc.ca/](statcan.gc.ca/)
 - `USDA` United States Department of Agriculture [usda.gov/](usda.gov/)
 - `ISAAA` International Service for the Acquisition of Agri-biotech Applications [isaaa.org/](isaaa.org/)
+
+---
+
+&copy; Derek Michael Wright [www.dblogr.com/](https://dblogr.com/)
