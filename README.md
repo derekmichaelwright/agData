@@ -23,12 +23,12 @@ devtools::install_github("derekmichaelwright/agData")
 # Data Sources
 
 -   `FAO` Food and Agriculture Organization of the United Nations
-    [fao.org/faostat/](fao.org/faostat/)
--   `STATCAN` Statistics Canada [statcan.gc.ca/](statcan.gc.ca/)
+    [fao.org/faostat/](www.fao.org/faostat/)
+-   `STATCAN` Statistics Canada [statcan.gc.ca/](www.statcan.gc.ca/)
 -   `USDA` United States Department of Agriculture
-    [usda.gov/](usda.gov/)
+    [usda.gov/](www.usda.gov/)
 -   `ISAAA` International Service for the Acquisition of Agri-biotech
-    Applications [isaaa.org/](isaaa.org/)
+    Applications [isaaa.org/](www.isaaa.org/)
 
 ------------------------------------------------------------------------
 
