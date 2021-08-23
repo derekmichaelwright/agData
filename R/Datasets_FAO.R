@@ -1,6 +1,6 @@
 NULL
 #' FAO Country Table
-#' 
+#'
 #' A table of country information.
 #' @section Keys:
 #' \itemize{
@@ -19,7 +19,7 @@ NULL
 #' @name agData_FAO_Country_Table
 NULL
 #' FAO Region Table
-#' 
+#'
 #' A table of region information.
 #' @section Keys:
 #' \itemize{
@@ -33,7 +33,7 @@ NULL
 #' @name agData_FAO_Region_Table
 NULL
 #' FAO Crop Production Data
-#' 
+#'
 #' A dataset containing crop data from FAOSTAT.
 #' @section Keys:
 #' \itemize{
@@ -55,8 +55,31 @@ NULL
 #' @keywords datasets
 #' @name agData_FAO_Crops
 NULL
+#' FAO Consumer Price Indices
+#'
+#' A dataset containing consumer price indices from FAOSTAT.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Item
+#'   \item Months
+#'   \item Unit
+#'   \item Value
+#' }
+#' @section Item:
+#' \itemize{
+#'   \item Consumer Prices, Food Indices (2015 = 100)
+#'   \item Consumer Prices, General Indices (2015 = 100)
+#'   \item Food price inflation
+#' }
+#' @source http://www.fao.org/faostat/en/#data/CP
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Consumer_Price
+NULL
 #' FAO Crop Production Data
-#' 
+#'
 #' A dataset containing crop aggregate data from FAOSTAT.
 #' @section Keys:
 #' \itemize{
@@ -79,7 +102,7 @@ NULL
 #' @name agData_FAO_Crops2
 NULL
 #' FAO fertilizer data
-#' 
+#'
 #' FAO fertilizer data
 #' @section Keys:
 #' \itemize{
@@ -104,7 +127,7 @@ NULL
 #' @name agData_FAO_Fertilizers
 NULL
 #' FAO Land Use Data
-#' 
+#'
 #' A dataset containing land use data from FAOSTAT.
 #' @section Keys:
 #' \itemize{
@@ -133,7 +156,7 @@ NULL
 #' @name agData_FAO_LandUse
 NULL
 #' FAO Livestock Data
-#' 
+#'
 #' A dataset containing livestock data from FAOSTAT.
 #' @section Keys:
 #' \itemize{
@@ -154,7 +177,7 @@ NULL
 #' @name agData_FAO_Livestock
 NULL
 #' FAO world population data
-#' 
+#'
 #' FAO world population data
 #' @section Keys:
 #' \itemize{
@@ -179,7 +202,7 @@ NULL
 #' @name agData_FAO_Population
 NULL
 #' FAO Trade Data
-#' 
+#'
 #' A dataset containing trade data from FAOSTAT.
 #' @section Keys:
 #' \itemize{
