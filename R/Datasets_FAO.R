@@ -61,22 +61,50 @@ NULL
 #' @section Keys:
 #' \itemize{
 #'   \item Area
+#'   \item Date
 #'   \item Year
-#'   \item Item
-#'   \item Months
+#'   \item MonthNum
+#'   \item Month
+#'   \item Measurement
 #'   \item Unit
 #'   \item Value
 #' }
-#' @section Item:
+#' @section Measurement (Unit):
 #' \itemize{
 #'   \item Consumer Prices, Food Indices (2015 = 100)
 #'   \item Consumer Prices, General Indices (2015 = 100)
-#'   \item Food price inflation
+#'   \item Food price inflation (%)
 #' }
 #' @source http://www.fao.org/faostat/en/#data/CP
 #' @docType data
 #' @keywords datasets
-#' @name agData_FAO_Consumer_Price
+#' @name agData_FAO_Consumer_Prices
+NULL
+#' FAO Producer Price Indices
+#'
+#' A dataset containing producer price indices from FAOSTAT.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Item
+#'   \item Year
+#'   \item MonthNum
+#'   \item Month
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @section Measurement (Unit):
+#' \itemize{
+#'   \item Producer Price (LCU/tonne)
+#'   \item Producer Price (SLC/tonne)
+#'   \item Producer Price Index (2014-2016 = 100)
+#'   \item Producer Price (USD/tonne)
+#' }
+#' @source http://www.fao.org/faostat/en/#data/PP
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Producer_Prices
 NULL
 #' FAO Crop Production Data
 #'
