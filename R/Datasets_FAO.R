@@ -88,16 +88,12 @@ NULL
 #'   \item Area
 #'   \item Item
 #'   \item Year
-#'   \item MonthNum
-#'   \item Month
 #'   \item Measurement
 #'   \item Unit
 #'   \item Value
 #' }
 #' @section Measurement (Unit):
 #' \itemize{
-#'   \item Producer Price (LCU/tonne)
-#'   \item Producer Price (SLC/tonne)
 #'   \item Producer Price Index (2014-2016 = 100)
 #'   \item Producer Price (USD/tonne)
 #' }
