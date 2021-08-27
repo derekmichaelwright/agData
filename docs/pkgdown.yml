@@ -3,5 +3,7 @@ pkgdown: 1.6.1
 pkgdown_sha: ~
 articles:
   crops_world: crops_world.html
-last_built: 2021-08-27T00:53Z
+  intro: intro.html
+  lentil: lentil.html
+last_built: 2021-08-27T15:50Z
 
