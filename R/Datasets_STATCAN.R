@@ -1,6 +1,6 @@
 NULL
 #' Statistics Canada - Region Info
-#' 
+#'
 #' A dataset of Region info for Canada.
 #' @section Keys:
 #' \itemize{
@@ -13,7 +13,7 @@ NULL
 #' @name agData_STATCAN_Region_Table
 NULL
 #' Statistics Canada - HoneyBee Data
-#' 
+#'
 #' A dataset from Statistics Canada on honeybee production.
 #' @section Keys:
 #' \itemize{
@@ -40,7 +40,7 @@ NULL
 #' @name agData_STATCAN_Beehives
 NULL
 #' Crops Statistics Canada Data
-#' 
+#'
 #' A dataset from Statistics Canada on crop production.
 #' @section Keys:
 #' \itemize{
@@ -66,7 +66,7 @@ NULL
 #' @name agData_STATCAN_Crops
 NULL
 #' Crops Statistics Canada Data
-#' 
+#'
 #' A dataset from Statistics Canada on crop aggregate data.
 #' @section Keys:
 #' \itemize{
@@ -92,7 +92,7 @@ NULL
 #' @name agData_STATCAN_Crops2
 NULL
 #' Statistics Canada Farmland Data
-#' 
+#'
 #' A dataset from Statistics Canada on farm land use.
 #' @section Keys:
 #' @section Measurement:
@@ -107,7 +107,7 @@ NULL
 #' @name agData_STATCAN_FarmLand_Crops
 NULL
 #' Statistics Canada Farmland Data
-#' 
+#'
 #' A dataset from Statistics Canada on farm land use.
 #' @section Keys:
 #' @section Measurement:
@@ -124,7 +124,7 @@ NULL
 #' @name agData_STATCAN_FarmLand_Farms
 NULL
 #' Statistics Canada Farmland Data
-#' 
+#'
 #' A dataset from Statistics Canada on no till.
 #' @section Keys:
 #' @section Measurement:
@@ -148,7 +148,7 @@ NULL
 #' @name agData_STATCAN_FarmLand_NoTill
 NULL
 #' Statistics Canada Farmland Data
-#' 
+#'
 #' A dataset from Statistics Canada on farm land use.
 #' @section Keys:
 #' \itemize{
@@ -183,7 +183,7 @@ NULL
 #' @name agData_STATCAN_FarmLand_Size
 NULL
 #' Statistics Canada Farmland Data
-#' 
+#'
 #' A dataset from Statistics Canada on farm land use.
 #' @section Keys:
 #' \itemize{
@@ -215,8 +215,25 @@ NULL
 #' @keywords datasets
 #' @name agData_STATCAN_FarmLand_Use
 NULL
+#' Statistics Canada Consumer Prices Data
+#'
+#' A dataset from Statistics Canada on Consumer Food Prices.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Month
+#'   \item Product
+#'   \item Value
+#' }
+#' @section Table: 18-10-0002-01
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1810000201
+#' @docType data
+#' @keywords datasets
+#' @name agData_STATCAN_Consumer_Prices
+NULL
 #' Statistics Canada Livestock Data
-#' 
+#'
 #' A dataset from Statistics Canada on livestock production.
 #' @section Keys:
 #' \itemize{
@@ -240,7 +257,7 @@ NULL
 #' @name agData_STATCAN_Livestock
 NULL
 #' Statistics Canada population Data
-#' 
+#'
 #' A dataset from Statistics Canada on population.
 #' @section Keys:
 #' \itemize{
