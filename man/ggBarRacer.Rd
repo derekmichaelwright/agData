@@ -45,5 +45,5 @@ ggBarRacer(
 A bar chart race animation.
 }
 \description{
-Adopted from https://github.com/jl5000/barRacer/blob/master/R/bar_chart_race.R
+Adapted from https://github.com/jl5000/barRacer/blob/master/R/bar_chart_race.R
 }
