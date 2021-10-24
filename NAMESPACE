@@ -3,6 +3,5 @@
 export(dropNAcol)
 export(fill_NA)
 export(folder_Renamer)
-export(ggBarRacer)
 export(region_Info)
 export(theme_agData)
