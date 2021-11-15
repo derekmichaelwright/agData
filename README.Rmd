@@ -17,10 +17,6 @@ knitr::opts_chunk$set(echo = T, fig.width = 10, fig.height = 4)
 devtools::install_github("derekmichaelwright/agData")
 ```
 
-# Introduction
-
-[Click Here for an Introduction to `agData`](https://dblogr.com/agdata/introduction_to_agdata/introduction_to_agdata.html)
-
 # Vignettes
 
 [Click here for `agData` vignettes](https://dblogr.com/#agdata)
