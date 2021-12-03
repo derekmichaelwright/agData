@@ -11,11 +11,6 @@ agData R Package
 devtools::install_github("derekmichaelwright/agData")
 ```
 
-# Introduction
-
-[Click Here for an Introduction to
-`agData`](https://dblogr.com/agdata/introduction_to_agdata/introduction_to_agdata.html)
-
 # Vignettes
 
 [Click here for `agData` vignettes](https://dblogr.com/#agdata)
