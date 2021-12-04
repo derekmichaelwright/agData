@@ -1,13 +1,12 @@
 ---
 title: agData R Package
 output: github_document
+always_allow_html: true
 ---
 
 ```{r setup, include = FALSE}
-knitr::opts_chunk$set(echo = T, fig.width = 10, fig.height = 4)
+knitr::opts_chunk$set(echo = T)
 ```
-
-<img src="hex_agData.png" align="right" width = "200px" />
 
 `agData`: an `R` package containing various agricultural data sets
 
@@ -17,9 +16,24 @@ knitr::opts_chunk$set(echo = T, fig.width = 10, fig.height = 4)
 devtools::install_github("derekmichaelwright/agData")
 ```
 
+```{r eval = F}
+library(agData)
+```
+
+![](man/figures/hex_agdata.png)
+
 # Vignettes
 
-[Click here for `agData` vignettes](https://dblogr.com/#agdata)
+```{r echo = F}
+downloadthis::download_link(
+  link = "https://dblogr.com/#agdata",
+  button_label = "agData vignettes",
+  button_type = "success",
+  has_icon = TRUE,
+  icon = "fas fa-chart-line",
+  self_contained = FALSE
+)
+```
 
 # Data Sources
 

@@ -1,8 +1,6 @@
 agData R Package
 ================
 
-<img src="hex_agData.png" align="right" width = "200px" />
-
 `agData`: an `R` package containing various agricultural data sets
 
 # Installation
@@ -11,9 +9,17 @@ agData R Package
 devtools::install_github("derekmichaelwright/agData")
 ```
 
+``` r
+library(agData)
+```
+
+![](man/figures/hex_agdata.png)
+
 # Vignettes
 
-[Click here for `agData` vignettes](https://dblogr.com/#agdata)
+<a href="https://dblogr.com/#agdata">
+<button class="btn btn-success"><i class="fas fa-chart-line"></i> agData vignettes</button>
+</a>
 
 # Data Sources
 
