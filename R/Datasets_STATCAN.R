@@ -34,7 +34,7 @@ NULL
 #'   \item Value              (million $CAD)
 #' }
 #' @section Table: 32-10-0353-01 (formerly CANSIM 001-0007)
-#' @source https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035301
+#' @source [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035301](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035301)
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_Beehives
