@@ -20,7 +20,7 @@ devtools::install_github("derekmichaelwright/agData")
 library(agData)
 ```
 
-![](man/figures/hex_agdata.png)
+![](man/figures/hex_agData.png)
 
 # Vignettes
 
