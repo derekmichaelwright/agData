@@ -5,7 +5,7 @@ always_allow_html: true
 ---
 
 ```{r setup, include = FALSE}
-knitr::opts_chunk$set(echo = T)
+knitr::opts_chunk$set(echo = T, message = F, warning = F)
 ```
 
 `agData`: an `R` package containing various agricultural data sets
@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = T)
 devtools::install_github("derekmichaelwright/agData")
 ```
 
-```{r eval = F}
+```{r}
 library(agData)
 ```
 
@@ -41,6 +41,30 @@ downloadthis::download_link(
 - `STATCAN` Statistics Canada [statcan.gc.ca/](www.statcan.gc.ca/)
 - `USDA` United States Department of Agriculture [usda.gov/](www.usda.gov/)
 - `ISAAA` International Service for the Acquisition of Agri-biotech Applications [isaaa.org/](www.isaaa.org/)
+
+---
+
+# agData_Colors
+
+![](man/figures/agData_Colors.png)
+
+```{r}
+# Prep data
+xx <- data.frame(
+  Color = factor(agData_Colors, levels = agData_Colors),
+  Number = 1:length(agData_Colors),
+  Row = rep(1:10, each = 10, length.out = length(agData_Colors)),
+  Col = rep(1:10, times = 10, length.out = length(agData_Colors)) )
+# Plot
+mp <- ggplot(xx, aes(x = Row, y = Col)) +
+  geom_tile(aes(fill = Color)) +
+  geom_label(aes(label = paste(Number, Color, sep = " - "))) +
+  scale_fill_manual(values = agData_Colors) +
+  scale_y_reverse() +
+  theme_void() +
+  theme(legend.position = "none")
+ggsave("man/figures/agData_Colors.png", mp, width = 9, height = 9)
+```
 
 ---
 
