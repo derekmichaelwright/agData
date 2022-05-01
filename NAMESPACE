@@ -3,7 +3,6 @@
 export(dropNAcol)
 export(fill_NA)
 export(folder_Renamer)
-export(mapBubbles2)
 export(movingAverage)
 export(region_Info)
 export(theme_agData)
