@@ -88,7 +88,7 @@
 #' #add bubble edge of a single colour (also with option to set transparency
 #' mapBubbles(nameZColour = adjustcolor('black', alpha.f = 0.7), fill=FALSE, add=TRUE)
 #' 
-#' @export mapBubbles
+#' @export mapBubbles2
 
 mapBubbles2 <- function (dF = "", nameX = "longitude", nameY = "latitude", 
                          nameZSize = "", nameZColour = "", fill = TRUE, bg = NULL,
