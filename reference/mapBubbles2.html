@@ -193,42 +193,42 @@ parameters.</p>
     <div class="section level2">
     <h2 id="ref-examples">Examples<a class="anchor" aria-label="anchor" href="#ref-examples"></a></h2>
     <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"></span>
-<span class="r-in"><span class="fu">mapBubbles</span><span class="op">(</span><span class="op">)</span></span>
+<span class="r-in"><span class="fu"><a href="https://rdrr.io/pkg/rworldmap/man/mapBubbles.html" class="external-link">mapBubbles</a></span><span class="op">(</span><span class="op">)</span></span>
 <span class="r-msg co"><span class="r-pr">#&gt;</span> using example data because no file specified in mapBubbles</span>
 <span class="r-plt img"><img src="mapBubbles2-1.png" alt="" width="700" height="433"></span>
 <span class="r-in"><span class="co">#square symbols</span></span>
-<span class="r-in"><span class="fu">mapBubbles</span><span class="op">(</span>pch<span class="op">=</span><span class="fl">22</span><span class="op">)</span></span>
+<span class="r-in"><span class="fu"><a href="https://rdrr.io/pkg/rworldmap/man/mapBubbles.html" class="external-link">mapBubbles</a></span><span class="op">(</span>pch<span class="op">=</span><span class="fl">22</span><span class="op">)</span></span>
 <span class="r-msg co"><span class="r-pr">#&gt;</span> using example data because no file specified in mapBubbles</span>
 <span class="r-plt img"><img src="mapBubbles2-2.png" alt="" width="700" height="433"></span>
 <span class="r-in"></span>
-<span class="r-in"><span class="fu">mapBubbles</span><span class="op">(</span>dF<span class="op">=</span><span class="fu">getMap</span><span class="op">(</span><span class="op">)</span>, nameZSize<span class="op">=</span><span class="st">"POP_EST"</span>, nameZColour<span class="op">=</span><span class="st">"GEO3"</span><span class="op">)</span></span>
+<span class="r-in"><span class="fu"><a href="https://rdrr.io/pkg/rworldmap/man/mapBubbles.html" class="external-link">mapBubbles</a></span><span class="op">(</span>dF<span class="op">=</span><span class="fu"><a href="https://rdrr.io/pkg/rworldmap/man/getMap.html" class="external-link">getMap</a></span><span class="op">(</span><span class="op">)</span>, nameZSize<span class="op">=</span><span class="st">"POP_EST"</span>, nameZColour<span class="op">=</span><span class="st">"GEO3"</span><span class="op">)</span></span>
 <span class="r-wrn co"><span class="r-pr">#&gt;</span> <span class="warning">Warning: </span>with catMethod='categorical' you have &gt; 15 categories, you may want to try a different catMethod, e.g. quantile</span>
 <span class="r-plt img"><img src="mapBubbles2-3.png" alt="" width="700" height="433"></span>
 <span class="r-in"></span>
 <span class="r-in"><span class="co">#change colour</span></span>
-<span class="r-in"><span class="fu">mapBubbles</span><span class="op">(</span>dF<span class="op">=</span><span class="fu">getMap</span><span class="op">(</span><span class="op">)</span>, nameZSize<span class="op">=</span><span class="st">"POP_EST"</span>, nameZColour<span class="op">=</span><span class="st">"GEO3"</span></span>
+<span class="r-in"><span class="fu"><a href="https://rdrr.io/pkg/rworldmap/man/mapBubbles.html" class="external-link">mapBubbles</a></span><span class="op">(</span>dF<span class="op">=</span><span class="fu"><a href="https://rdrr.io/pkg/rworldmap/man/getMap.html" class="external-link">getMap</a></span><span class="op">(</span><span class="op">)</span>, nameZSize<span class="op">=</span><span class="st">"POP_EST"</span>, nameZColour<span class="op">=</span><span class="st">"GEO3"</span></span>
 <span class="r-in">          ,colourPalette<span class="op">=</span><span class="st">'rainbow'</span>, oceanCol<span class="op">=</span><span class="st">'lightblue'</span>, landCol<span class="op">=</span><span class="st">'wheat'</span><span class="op">)</span> </span>
 <span class="r-wrn co"><span class="r-pr">#&gt;</span> <span class="warning">Warning: </span>with catMethod='categorical' you have &gt; 15 categories, you may want to try a different catMethod, e.g. quantile</span>
 <span class="r-plt img"><img src="mapBubbles2-4.png" alt="" width="700" height="433"></span>
 <span class="r-in"></span>
 <span class="r-in"></span>
 <span class="r-in"><span class="fu"><a href="https://rdrr.io/r/utils/data.html" class="external-link">data</a></span><span class="op">(</span><span class="st">"countryExData"</span>,envir<span class="op">=</span><span class="fu"><a href="https://rdrr.io/r/base/environment.html" class="external-link">environment</a></span><span class="op">(</span><span class="op">)</span>,package<span class="op">=</span><span class="st">"rworldmap"</span><span class="op">)</span></span>
-<span class="r-in"><span class="va">sPDF</span> <span class="op">&lt;-</span> <span class="fu">joinCountryData2Map</span><span class="op">(</span><span class="va">countryExData</span>,joinCode <span class="op">=</span> <span class="st">"ISO3"</span></span>
+<span class="r-in"><span class="va">sPDF</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/pkg/rworldmap/man/joinCountryData2Map.html" class="external-link">joinCountryData2Map</a></span><span class="op">(</span><span class="va">countryExData</span>,joinCode <span class="op">=</span> <span class="st">"ISO3"</span></span>
 <span class="r-in">                           ,nameJoinColumn <span class="op">=</span> <span class="st">"ISO3V10"</span><span class="op">)</span></span>
 <span class="r-out co"><span class="r-pr">#&gt;</span> 149 codes from your data successfully matched countries in the map</span>
 <span class="r-out co"><span class="r-pr">#&gt;</span> 0 codes from your data failed to match with a country code in the map</span>
 <span class="r-out co"><span class="r-pr">#&gt;</span> 94 codes from the map weren't represented in your data</span>
 <span class="r-in">                           </span>
-<span class="r-in"><span class="fu">mapBubbles</span><span class="op">(</span><span class="va">sPDF</span>, nameZSize<span class="op">=</span><span class="st">"POP_EST"</span>,nameZColour<span class="op">=</span><span class="st">"BIODIVERSITY"</span></span>
+<span class="r-in"><span class="fu"><a href="https://rdrr.io/pkg/rworldmap/man/mapBubbles.html" class="external-link">mapBubbles</a></span><span class="op">(</span><span class="va">sPDF</span>, nameZSize<span class="op">=</span><span class="st">"POP_EST"</span>,nameZColour<span class="op">=</span><span class="st">"BIODIVERSITY"</span></span>
 <span class="r-in">          ,colourPalette<span class="op">=</span><span class="st">'topo'</span>,numCats<span class="op">=</span><span class="fl">5</span>,catMethod<span class="op">=</span><span class="st">"quantiles"</span><span class="op">)</span></span>
 <span class="r-plt img"><img src="mapBubbles2-5.png" alt="" width="700" height="433"></span>
 <span class="r-in"></span>
 <span class="r-in"><span class="co">#filled bubbles with set transparency</span></span>
-<span class="r-in"><span class="fu">mapBubbles</span><span class="op">(</span>fill<span class="op">=</span><span class="cn">TRUE</span>,colourPalette<span class="op">=</span><span class="fu"><a href="https://rdrr.io/r/grDevices/adjustcolor.html" class="external-link">adjustcolor</a></span><span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/grDevices/palette.html" class="external-link">palette</a></span><span class="op">(</span><span class="op">)</span>, alpha.f <span class="op">=</span> <span class="fl">0.5</span><span class="op">)</span><span class="op">)</span></span>
+<span class="r-in"><span class="fu"><a href="https://rdrr.io/pkg/rworldmap/man/mapBubbles.html" class="external-link">mapBubbles</a></span><span class="op">(</span>fill<span class="op">=</span><span class="cn">TRUE</span>,colourPalette<span class="op">=</span><span class="fu"><a href="https://rdrr.io/r/grDevices/adjustcolor.html" class="external-link">adjustcolor</a></span><span class="op">(</span><span class="fu"><a href="https://rdrr.io/r/grDevices/palette.html" class="external-link">palette</a></span><span class="op">(</span><span class="op">)</span>, alpha.f <span class="op">=</span> <span class="fl">0.5</span><span class="op">)</span><span class="op">)</span></span>
 <span class="r-msg co"><span class="r-pr">#&gt;</span> using example data because no file specified in mapBubbles</span>
 <span class="r-wrn co"><span class="r-pr">#&gt;</span> <span class="warning">Warning: </span>8 colours specified and 6 required, using interpolation to calculate colours</span>
 <span class="r-in"><span class="co">#add bubble edge of a single colour (also with option to set transparency</span></span>
-<span class="r-in"><span class="fu">mapBubbles</span><span class="op">(</span>nameZColour <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/grDevices/adjustcolor.html" class="external-link">adjustcolor</a></span><span class="op">(</span><span class="st">'black'</span>, alpha.f <span class="op">=</span> <span class="fl">0.7</span><span class="op">)</span>, fill<span class="op">=</span><span class="cn">FALSE</span>, add<span class="op">=</span><span class="cn">TRUE</span><span class="op">)</span></span>
+<span class="r-in"><span class="fu"><a href="https://rdrr.io/pkg/rworldmap/man/mapBubbles.html" class="external-link">mapBubbles</a></span><span class="op">(</span>nameZColour <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/grDevices/adjustcolor.html" class="external-link">adjustcolor</a></span><span class="op">(</span><span class="st">'black'</span>, alpha.f <span class="op">=</span> <span class="fl">0.7</span><span class="op">)</span>, fill<span class="op">=</span><span class="cn">FALSE</span>, add<span class="op">=</span><span class="cn">TRUE</span><span class="op">)</span></span>
 <span class="r-msg co"><span class="r-pr">#&gt;</span> using example data because no file specified in mapBubbles</span>
 <span class="r-plt img"><img src="mapBubbles2-6.png" alt="" width="700" height="433"></span>
 <span class="r-in"></span>
