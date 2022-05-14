@@ -4,7 +4,6 @@
 #' @param x ggplot
 #' @return ggplot with agData theme for pie graphs
 #' @export
-#' @examples
 
 theme_agData_pie <- function(x, ...) {
   theme(panel.background = element_blank(),

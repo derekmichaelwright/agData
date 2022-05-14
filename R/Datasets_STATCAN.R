@@ -91,6 +91,28 @@ NULL
 #' @keywords datasets
 #' @name agData_STATCAN_Crops2
 NULL
+#' Statistics Canada Farmer Data
+#'
+#' A dataset from Statistics Canada on farmer demographics.
+#' @section Keys:
+#' @section Measurement:
+#' \itemize{
+#'   \item Total number of operators
+#'   \item Male
+#'   \item Female
+#'   \item Under 35 years
+#'   \item 35 to 54 years
+#'   \item 55 years and over
+#'   \item Average age of farm operators
+#'   \item Operators with no paid non-farm work
+#'   \item Operators with paid non-farm work 
+#' }
+#' @section Table: 32-10-0230-01
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210023001
+#' @docType data
+#' @keywords datasets
+#' @name agData_STATCAN_Farmers
+NULL
 #' Statistics Canada Farmland Data
 #'
 #' A dataset from Statistics Canada on farm land use.
