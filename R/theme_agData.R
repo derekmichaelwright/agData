@@ -8,8 +8,6 @@
 #' @param lineColor color of axis lines
 #' @return ggplot with agData theme
 #' @export
-#' @examples
-#' mp <- ggplot(agData_FAO_Crops %>% filter(Crop == "Lentils, Area == "Canada"), aes(x = Year, y = Value)) + geom_line() + theme_agData()
 
 theme_agData <- function(x, bgFill = "grey95", lineColor = "white", linesize = 0.75, stripFill = "white", ...) {
   theme(panel.background = element_rect(colour = "black", fill = bgFill, size = linesize),

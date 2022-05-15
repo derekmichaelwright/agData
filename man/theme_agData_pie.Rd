@@ -4,7 +4,14 @@
 \alias{theme_agData_pie}
 \title{theme_agData_pie.}
 \usage{
-theme_agData_pie(x, ...)
+theme_agData_pie(
+  x,
+  bgFill = "grey95",
+  lineColor = "white",
+  linesize = 0.75,
+  stripFill = "white",
+  ...
+)
 }
 \arguments{
 \item{x}{ggplot}

@@ -5,9 +5,13 @@
 #' @return ggplot with agData theme for pie graphs
 #' @export
 
-theme_agData_pie <- function(x, ...) {
-  theme(panel.background = element_blank(),
-        panel.border = element_blank(),
+theme_agData_pie <- function(x, bgFill = "grey95", lineColor = "white", linesize = 0.75, stripFill = "white", ...) {
+  theme(panel.background = element_rect(colour = "black", fill = bgFill, size = linesize),
+        panel.grid = element_blank(), # panel.grid = element_line(color = lineColor),
+        panel.border = element_rect(colour = "black", fill=NA, size=linesize),
+        strip.background = element_rect(colour = "black", fill = stripFill, size = linesize),
+        #panel.background = element_blank(),
+        #panel.border = element_blank(),
         axis.title = element_blank(),
         axis.ticks = element_blank(),
         axis.text = element_blank(),
