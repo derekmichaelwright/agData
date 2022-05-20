@@ -237,23 +237,6 @@ NULL
 #' @keywords datasets
 #' @name agData_STATCAN_FarmLand_Use
 NULL
-#' Statistics Canada Consumer Prices Data
-#'
-#' A dataset from Statistics Canada on Consumer Food Prices.
-#' @section Keys:
-#' \itemize{
-#'   \item Area
-#'   \item Year
-#'   \item Month
-#'   \item Product
-#'   \item Value
-#' }
-#' @section Table: 18-10-0002-01
-#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1810000201
-#' @docType data
-#' @keywords datasets
-#' @name agData_STATCAN_Consumer_Prices
-NULL
 #' Statistics Canada Livestock Data
 #'
 #' A dataset from Statistics Canada on livestock production.
