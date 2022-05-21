@@ -147,7 +147,7 @@ NULL
 NULL
 #' Statistics Canada Farmland Data
 #'
-#' A dataset from Statistics Canada on no till.
+#' A dataset from Statistics Canada on farmland inputs.
 #' @section Keys:
 #' @section Measurement:
 #' \itemize{
@@ -167,7 +167,7 @@ NULL
 #' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210016201
 #' @docType data
 #' @keywords datasets
-#' @name agData_STATCAN_FarmLand_NoTill
+#' @name agData_STATCAN_FarmLand_Inputs
 NULL
 #' Statistics Canada Farmland Data
 #'
