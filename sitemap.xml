@@ -43,7 +43,10 @@
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Region_Table.html</loc>
   </url>
   <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade.html</loc>
+    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Quantity.html</loc>
+  </url>
+  <url>
+    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Value.html</loc>
   </url>
   <url>
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Area.html</loc>
