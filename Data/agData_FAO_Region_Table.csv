@@ -1,0 +1,30 @@
+FAO_TABLE_NAME,SubRegion,Region
+South America,South America,Americas
+Central America,Central America,Americas
+Caribbean,Caribbean,Americas
+Northern America,Northern America,Americas
+Western Europe,Western Europe,Europe
+Southern Europe,Southern Europe,Europe
+Northern Europe,Northern Europe,Europe
+Eastern Europe,Eastern Europe,Europe
+Western Africa,Western Africa,Africa
+Northern Africa,Northern Africa,Africa
+Middle Africa,Middle Africa,Africa
+Southern Africa,Southern Africa,Africa
+Eastern Africa,Eastern Africa,Africa
+Western Asia,Western Asia,Asia
+Central Asia,Central Asia,Asia
+Southern Asia,Southern Asia,Asia
+South-Eastern Asia,South-Eastern Asia,Asia
+Eastern Asia,Eastern Asia,Asia
+Polynesia,Polynesia,Oceania
+Australia and New Zealand,Australia and New Zealand,Oceania
+Melanesia,Melanesia,Oceania
+Micronesia,Micronesia,Oceania
+Asia,NA,Asia
+Europe,NA,Europe
+Africa,NA,Africa
+Oceania,NA,Oceania
+Americas,NA,Americas
+Unknown,NA,NA
+World,NA,NA

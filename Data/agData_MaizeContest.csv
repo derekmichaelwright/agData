@@ -1,0 +1,109 @@
+Year,Crop,Measurement,Unit,Value
+2010,Maize,A Non-Irrigated,Bushels/Acre,306.49
+2010,Maize,AA Non-Irrigated,Bushels/Acre,299.84
+2010,Maize,A No-Till/Strip-Till Non-Irrigated,Bushels/Acre,293.66
+2010,Maize,AA No-Till/Strip-Till Non-Irrigated,Bushels/Acre,299.67
+2010,Maize,No-Till/Strip-Till Irrigated,Bushels/Acre,368.44
+2010,Maize,Irrigated,Bushels/Acre,341
+2011,Maize,A Non-Irrigated,Bushels/Acre,288.48
+2011,Maize,AA Non-Irrigated,Bushels/Acre,322.17
+2011,Maize,A No-Till/Strip-Till Non-Irrigated,Bushels/Acre,293.59
+2011,Maize,AA No-Till/Strip-Till Non-Irrigated,Bushels/Acre,297.65
+2011,Maize,No-Till/Strip-Till Irrigated,Bushels/Acre,429.02
+2011,Maize,Irrigated,Bushels/Acre,341
+2012,Maize,A Non-Irrigated,Bushels/Acre,334.95
+2012,Maize,AA Non-Irrigated,Bushels/Acre,294.76
+2012,Maize,A No-Till/Strip-Till Non-Irrigated,Bushels/Acre,308.91
+2012,Maize,AA No-Till/Strip-Till Non-Irrigated,Bushels/Acre,297.13
+2012,Maize,No-Till/Strip-Till Irrigated,Bushels/Acre,372.34
+2012,Maize,Irrigated,Bushels/Acre,384.36
+2013,Maize,A Non-Irrigated,Bushels/Acre,302.21
+2013,Maize,AA Non-Irrigated,Bushels/Acre,374.62
+2013,Maize,A No-Till/Strip-Till Non-Irrigated,Bushels/Acre,332.79
+2013,Maize,AA No-Till/Strip-Till Non-Irrigated,Bushels/Acre,315.2
+2013,Maize,No-Till/Strip-Till Irrigated,Bushels/Acre,454.98
+2013,Maize,Irrigated,Bushels/Acre,418.34
+2014,Maize,A Non-Irrigated,Bushels/Acre,353.44
+2014,Maize,AA Non-Irrigated,Bushels/Acre,362.81
+2014,Maize,A No-Till/Strip-Till Non-Irrigated,Bushels/Acre,357.54
+2014,Maize,AA No-Till/Strip-Till Non-Irrigated,Bushels/Acre,349.1
+2014,Maize,No-Till/Strip-Till Irrigated,Bushels/Acre,476.22
+2014,Maize,Irrigated,Bushels/Acre,503.72
+2015,Maize,A Non-Irrigated,Bushels/Acre,348.98
+2015,Maize,AA Non-Irrigated,Bushels/Acre,286.75
+2015,Maize,A No-Till/Strip-Till Non-Irrigated,Bushels/Acre,368.78
+2015,Maize,AA No-Till/Strip-Till Non-Irrigated,Bushels/Acre,318.92
+2015,Maize,No-Till/Strip-Till Irrigated,Bushels/Acre,532.03
+2015,Maize,Irrigated,Bushels/Acre,486.16
+2016,Maize,A Non-Irrigated,Bushels/Acre,347.23
+2016,Maize,AA Non-Irrigated,Bushels/Acre,339.03
+2016,Maize,A No-Till/Strip-Till Non-Irrigated,Bushels/Acre,346.05
+2016,Maize,AA No-Till/Strip-Till Non-Irrigated,Bushels/Acre,333.5
+2016,Maize,No-Till/Strip-Till Irrigated,Bushels/Acre,521.4
+2016,Maize,Irrigated,Bushels/Acre,501.02
+2017,Maize,A Non-Irrigated,Bushels/Acre,357.06
+2017,Maize,AA Non-Irrigated,Bushels/Acre,386.16
+2017,Maize,A No-Till/Strip-Till Non-Irrigated,Bushels/Acre,353.58
+2017,Maize,AA No-Till/Strip-Till Non-Irrigated,Bushels/Acre,354.13
+2017,Maize,No-Till/Strip-Till Irrigated,Bushels/Acre,542.27
+2017,Maize,Irrigated,Bushels/Acre,407.22
+2018,Maize,A Non-Irrigated,Bushels/Acre,360.8
+2018,Maize,AA Non-Irrigated,Bushels/Acre,388.07
+2018,Maize,A No-Till/Strip-Till Non-Irrigated,Bushels/Acre,366.29
+2018,Maize,AA No-Till/Strip-Till Non-Irrigated,Bushels/Acre,343
+2018,Maize,No-Till/Strip-Till Irrigated,Bushels/Acre,360.34
+2018,Maize,Irrigated,Bushels/Acre,477.69
+2010,Maize,A Non-Irrigated,kg/ha,19237.616
+2010,Maize,AA Non-Irrigated,kg/ha,18820.212
+2010,Maize,A No-Till/Strip-Till Non-Irrigated,kg/ha,18432.309
+2010,Maize,AA No-Till/Strip-Till Non-Irrigated,kg/ha,18809.542
+2010,Maize,No-Till/Strip-Till Irrigated,kg/ha,23126.064
+2010,Maize,Irrigated,kg/ha,21403.723
+2011,Maize,A Non-Irrigated,kg/ha,18107.173
+2011,Maize,AA Non-Irrigated,kg/ha,20221.811
+2011,Maize,A No-Till/Strip-Till Non-Irrigated,kg/ha,18427.915
+2011,Maize,AA No-Till/Strip-Till Non-Irrigated,kg/ha,18682.751
+2011,Maize,No-Till/Strip-Till Irrigated,kg/ha,26928.52
+2011,Maize,Irrigated,kg/ha,21403.723
+2012,Maize,A Non-Irrigated,kg/ha,21023.98
+2012,Maize,AA Non-Irrigated,kg/ha,18501.353
+2012,Maize,A No-Till/Strip-Till Non-Irrigated,kg/ha,19389.514
+2012,Maize,AA No-Till/Strip-Till Non-Irrigated,kg/ha,18650.112
+2012,Maize,No-Till/Strip-Till Irrigated,kg/ha,23370.857
+2012,Maize,Irrigated,kg/ha,24125.323
+2013,Maize,A Non-Irrigated,kg/ha,18968.971
+2013,Maize,AA Non-Irrigated,kg/ha,23513.967
+2013,Maize,A No-Till/Strip-Till Non-Irrigated,kg/ha,20888.402
+2013,Maize,AA No-Till/Strip-Till Non-Irrigated,kg/ha,19784.321
+2013,Maize,No-Till/Strip-Till Irrigated,kg/ha,28557.965
+2013,Maize,Irrigated,kg/ha,26258.163
+2014,Maize,A Non-Irrigated,kg/ha,22184.551
+2014,Maize,AA Non-Irrigated,kg/ha,22772.683
+2014,Maize,A No-Till/Strip-Till Non-Irrigated,kg/ha,22441.898
+2014,Maize,AA No-Till/Strip-Till Non-Irrigated,kg/ha,21912.14
+2014,Maize,No-Till/Strip-Till Irrigated,kg/ha,29891.147
+2014,Maize,Irrigated,kg/ha,31617.253
+2015,Maize,A Non-Irrigated,kg/ha,21904.608
+2015,Maize,AA Non-Irrigated,kg/ha,17998.585
+2015,Maize,A No-Till/Strip-Till Non-Irrigated,kg/ha,23147.405
+2015,Maize,AA No-Till/Strip-Till Non-Irrigated,kg/ha,20017.816
+2015,Maize,No-Till/Strip-Till Irrigated,kg/ha,33394.202
+2015,Maize,Irrigated,kg/ha,30515.056
+2016,Maize,A Non-Irrigated,kg/ha,21794.765
+2016,Maize,AA Non-Irrigated,kg/ha,21280.071
+2016,Maize,A No-Till/Strip-Till Non-Irrigated,kg/ha,21720.699
+2016,Maize,AA No-Till/Strip-Till Non-Irrigated,kg/ha,20932.967
+2016,Maize,No-Till/Strip-Till Irrigated,kg/ha,32726.983
+2016,Maize,Irrigated,kg/ha,31447.781
+2017,Maize,A Non-Irrigated,kg/ha,22411.769
+2017,Maize,AA Non-Irrigated,kg/ha,24238.304
+2017,Maize,A No-Till/Strip-Till Non-Irrigated,kg/ha,22193.339
+2017,Maize,AA No-Till/Strip-Till Non-Irrigated,kg/ha,22227.861
+2017,Maize,No-Till/Strip-Till Irrigated,kg/ha,34036.941
+2017,Maize,Irrigated,kg/ha,25560.188
+2018,Maize,A Non-Irrigated,kg/ha,22646.52
+2018,Maize,AA Non-Irrigated,kg/ha,24358.19
+2018,Maize,A No-Till/Strip-Till Non-Irrigated,kg/ha,22991.114
+2018,Maize,AA No-Till/Strip-Till Non-Irrigated,kg/ha,21529.258
+2018,Maize,No-Till/Strip-Till Irrigated,kg/ha,22617.647
+2018,Maize,Irrigated,kg/ha,29983.415

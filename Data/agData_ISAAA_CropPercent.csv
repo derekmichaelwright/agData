@@ -1,0 +1,214 @@
+Year,Crop,Measurement,Unit,Value
+1999,Soybean,Area,Hectares,7.2e+07
+1999,Canola,Area,Hectares,2.5e+07
+1999,Cotton,Area,Hectares,3.4e+07
+1999,Maize,Area,Hectares,1.4e+08
+2000,Soybean,Area,Hectares,7.2e+07
+2000,Cotton,Area,Hectares,3.4e+07
+2000,Canola,Area,Hectares,2.5e+07
+2000,Maize,Area,Hectares,1.4e+08
+2001,Soybean,Area,Hectares,7.2e+07
+2001,Cotton,Area,Hectares,3.4e+07
+2001,Canola,Area,Hectares,2.5e+07
+2001,Maize,Area,Hectares,1.4e+08
+2002,Soybean,Area,Hectares,7.2e+07
+2002,Cotton,Area,Hectares,3.4e+07
+2002,Canola,Area,Hectares,2.5e+07
+2002,Maize,Area,Hectares,1.4e+08
+2003,Soybean,Area,Hectares,7.6e+07
+2003,Cotton,Area,Hectares,3.4e+07
+2003,Canola,Area,Hectares,2.2e+07
+2003,Maize,Area,Hectares,1.4e+08
+2004,Soybean,Area,Hectares,8.6e+07
+2004,Cotton,Area,Hectares,3.2e+07
+2004,Canola,Area,Hectares,2.3e+07
+2004,Maize,Area,Hectares,1.43e+08
+2005,Soybean,Area,Hectares,9.1e+07
+2005,Cotton,Area,Hectares,3.5e+07
+2005,Canola,Area,Hectares,2.6e+07
+2005,Maize,Area,Hectares,1.47e+08
+2006,Soybean,Area,Hectares,9.1e+07
+2006,Cotton,Area,Hectares,3.5e+07
+2006,Canola,Area,Hectares,2.7e+07
+2006,Maize,Area,Hectares,1.48e+08
+2007,Soybean,Area,Hectares,9.1e+07
+2007,Cotton,Area,Hectares,3.5e+07
+2007,Maize,Area,Hectares,1.48e+08
+2007,Canola,Area,Hectares,2.7e+07
+2008,Soybean,Area,Hectares,9.5e+07
+2008,Cotton,Area,Hectares,3.4e+07
+2008,Maize,Area,Hectares,1.57e+08
+2008,Canola,Area,Hectares,3e+07
+2009,Soybean,Area,Hectares,9e+07
+2009,Cotton,Area,Hectares,3.3e+07
+2009,Maize,Area,Hectares,1.58e+08
+2009,Canola,Area,Hectares,3.1e+07
+2010,Soybean,Area,Hectares,9e+07
+2010,Cotton,Area,Hectares,3.3e+07
+2010,Maize,Area,Hectares,1.58e+08
+2010,Canola,Area,Hectares,3.1e+07
+2011,Cotton,Area,Hectares,3e+07
+2011,Soybean,Area,Hectares,1e+08
+2011,Maize,Area,Hectares,1.59e+08
+2011,Canola,Area,Hectares,3.1e+07
+2012,Soybean,Area,Hectares,1e+08
+2012,Cotton,Area,Hectares,3e+07
+2012,Maize,Area,Hectares,1.59e+08
+2012,Canola,Area,Hectares,3.1e+07
+2013,Soybean,Area,Hectares,1.07e+08
+2013,Cotton,Area,Hectares,3.4e+07
+2013,Maize,Area,Hectares,1.77e+08
+2013,Canola,Area,Hectares,3.4e+07
+2014,Soybean,Area,Hectares,1.11e+08
+2014,Cotton,Area,Hectares,3.7e+07
+2014,Maize,Area,Hectares,1.84e+08
+2014,Canola,Area,Hectares,3.6e+07
+2015,Soybean,Area,Hectares,1.11e+08
+2015,Cotton,Area,Hectares,3.2e+07
+2015,Maize,Area,Hectares,1.85e+08
+2015,Canola,Area,Hectares,3.6e+07
+1999,Soybean,Transgenic Area,Hectares,21600000
+1999,Canola,Transgenic Area,Hectares,3400000
+1999,Cotton,Transgenic Area,Hectares,3700000
+1999,Maize,Transgenic Area,Hectares,11100000
+1999,Others,Transgenic Area,Hectares,1e+05
+2000,Soybean,Transgenic Area,Hectares,25800000
+2000,Cotton,Transgenic Area,Hectares,5300000
+2000,Canola,Transgenic Area,Hectares,2800000
+2000,Maize,Transgenic Area,Hectares,10300000
+2001,Soybean,Transgenic Area,Hectares,33300000
+2001,Cotton,Transgenic Area,Hectares,6800000
+2001,Canola,Transgenic Area,Hectares,2700000
+2001,Maize,Transgenic Area,Hectares,9800000
+2002,Soybean,Transgenic Area,Hectares,36500000
+2002,Cotton,Transgenic Area,Hectares,6800000
+2002,Canola,Transgenic Area,Hectares,3e+06
+2002,Maize,Transgenic Area,Hectares,12400000
+2003,Soybean,Transgenic Area,Hectares,41400000
+2003,Cotton,Transgenic Area,Hectares,7200000
+2003,Canola,Transgenic Area,Hectares,3600000
+2003,Maize,Transgenic Area,Hectares,15500000
+2004,Soybean,Transgenic Area,Hectares,48400000
+2004,Cotton,Transgenic Area,Hectares,9e+06
+2004,Canola,Transgenic Area,Hectares,4300000
+2004,Maize,Transgenic Area,Hectares,19300000
+2005,Soybean,Transgenic Area,Hectares,54400000
+2005,Cotton,Transgenic Area,Hectares,9800000
+2005,Canola,Transgenic Area,Hectares,4600000
+2005,Maize,Transgenic Area,Hectares,21200000
+2006,Soybean,Transgenic Area,Hectares,58600000
+2006,Cotton,Transgenic Area,Hectares,13400000
+2006,Canola,Transgenic Area,Hectares,4800000
+2006,Maize,Transgenic Area,Hectares,25200000
+2007,Soybean,Transgenic Area,Hectares,58600000
+2007,Cotton,Transgenic Area,Hectares,1.5e+07
+2007,Maize,Transgenic Area,Hectares,35200000
+2007,Canola,Transgenic Area,Hectares,5500000
+2008,Soybean,Transgenic Area,Hectares,65800000
+2008,Cotton,Transgenic Area,Hectares,15500000
+2008,Maize,Transgenic Area,Hectares,37300000
+2008,Canola,Transgenic Area,Hectares,5900000
+2008,Others,Transgenic Area,Hectares,5e+05
+2009,Soybean,Transgenic Area,Hectares,69200000
+2009,Cotton,Transgenic Area,Hectares,16100000
+2009,Maize,Transgenic Area,Hectares,41700000
+2009,Canola,Transgenic Area,Hectares,6400000
+2009,Others,Transgenic Area,Hectares,6e+05
+2010,Soybean,Transgenic Area,Hectares,73300000
+2010,Cotton,Transgenic Area,Hectares,2.1e+07
+2010,Maize,Transgenic Area,Hectares,4.6e+07
+2010,Canola,Transgenic Area,Hectares,7e+06
+2010,Others,Transgenic Area,Hectares,7e+05
+2011,Cotton,Transgenic Area,Hectares,24700000
+2011,Soybean,Transgenic Area,Hectares,75400000
+2011,Maize,Transgenic Area,Hectares,5.1e+07
+2011,Canola,Transgenic Area,Hectares,8200000
+2011,Others,Transgenic Area,Hectares,7e+05
+2012,Soybean,Transgenic Area,Hectares,80700000
+2012,Cotton,Transgenic Area,Hectares,24300000
+2012,Maize,Transgenic Area,Hectares,55100000
+2012,Canola,Transgenic Area,Hectares,9200000
+2012,Others,Transgenic Area,Hectares,1e+06
+2013,Soybean,Transgenic Area,Hectares,84500000
+2013,Cotton,Transgenic Area,Hectares,23900000
+2013,Maize,Transgenic Area,Hectares,57300000
+2013,Canola,Transgenic Area,Hectares,8200000
+2013,Others,Transgenic Area,Hectares,1300000
+2014,Soybean,Transgenic Area,Hectares,90700000
+2014,Cotton,Transgenic Area,Hectares,25100000
+2014,Maize,Transgenic Area,Hectares,55200000
+2014,Canola,Transgenic Area,Hectares,9e+06
+2014,Others,Transgenic Area,Hectares,1400000
+2015,Soybean,Transgenic Area,Hectares,92100000
+2015,Cotton,Transgenic Area,Hectares,2.4e+07
+2015,Maize,Transgenic Area,Hectares,53600000
+2015,Canola,Transgenic Area,Hectares,8500000
+2015,Others,Transgenic Area,Hectares,1500000
+1999,Soybean,Percent,Percent,30
+1999,Canola,Percent,Percent,14
+1999,Cotton,Percent,Percent,10
+1999,Maize,Percent,Percent,8
+2000,Soybean,Percent,Percent,36
+2000,Cotton,Percent,Percent,16
+2000,Canola,Percent,Percent,11
+2000,Maize,Percent,Percent,7
+2001,Soybean,Percent,Percent,46
+2001,Cotton,Percent,Percent,20
+2001,Canola,Percent,Percent,11
+2001,Maize,Percent,Percent,7
+2002,Soybean,Percent,Percent,51
+2002,Cotton,Percent,Percent,20
+2002,Canola,Percent,Percent,12
+2002,Maize,Percent,Percent,9
+2003,Soybean,Percent,Percent,55
+2003,Cotton,Percent,Percent,21
+2003,Canola,Percent,Percent,16
+2003,Maize,Percent,Percent,11
+2004,Soybean,Percent,Percent,56
+2004,Cotton,Percent,Percent,28
+2004,Canola,Percent,Percent,19
+2004,Maize,Percent,Percent,14
+2005,Soybean,Percent,Percent,60
+2005,Cotton,Percent,Percent,28
+2005,Canola,Percent,Percent,18
+2005,Maize,Percent,Percent,14
+2006,Soybean,Percent,Percent,64
+2006,Cotton,Percent,Percent,38
+2006,Canola,Percent,Percent,18
+2006,Maize,Percent,Percent,17
+2007,Soybean,Percent,Percent,64
+2007,Cotton,Percent,Percent,43
+2007,Maize,Percent,Percent,24
+2007,Canola,Percent,Percent,20
+2008,Soybean,Percent,Percent,70
+2008,Cotton,Percent,Percent,46
+2008,Maize,Percent,Percent,24
+2008,Canola,Percent,Percent,20
+2009,Soybean,Percent,Percent,77
+2009,Cotton,Percent,Percent,49
+2009,Maize,Percent,Percent,26
+2009,Canola,Percent,Percent,21
+2010,Soybean,Percent,Percent,81
+2010,Cotton,Percent,Percent,64
+2010,Maize,Percent,Percent,29
+2010,Canola,Percent,Percent,23
+2011,Cotton,Percent,Percent,82
+2011,Soybean,Percent,Percent,75
+2011,Maize,Percent,Percent,32
+2011,Canola,Percent,Percent,26
+2012,Soybean,Percent,Percent,81
+2012,Cotton,Percent,Percent,81
+2012,Maize,Percent,Percent,35
+2012,Canola,Percent,Percent,30
+2013,Soybean,Percent,Percent,79
+2013,Cotton,Percent,Percent,70
+2013,Maize,Percent,Percent,32
+2013,Canola,Percent,Percent,24
+2014,Soybean,Percent,Percent,82
+2014,Cotton,Percent,Percent,68
+2014,Maize,Percent,Percent,30
+2014,Canola,Percent,Percent,25
+2015,Soybean,Percent,Percent,83
+2015,Cotton,Percent,Percent,75
+2015,Maize,Percent,Percent,29
+2015,Canola,Percent,Percent,24

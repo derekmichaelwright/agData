@@ -1,0 +1,1651 @@
+Area,Year,Measurement,Unit,Value
+Canada,1976,Total number of farms,Number,338552
+Canada,1976,Under 10.00 acres,Number,14095
+Canada,1976,10.00 to 69.99 acres,Number,40573
+Canada,1976,70.00 to 129.99 acres,Number,44010
+Canada,1976,130.00 to 179.99 acres,Number,40693
+Canada,1976,180.00 to 239.99 acres,Number,24262
+Canada,1976,240.00 to 399.99 acres,Number,52859
+Canada,1976,400.00 to 559.99 acres,Number,31571
+Canada,1976,560.00 to 759.99 acres,Number,26616
+Canada,1976,760.00 to 1,119.99 acres,Number,29513
+Canada,1976,1,120.00 to 1,599.99 acres,Number,17909
+Canada,1976,1,600.00 to 2,239.99 acres,Number,8583
+Canada,1976,2,240.00 to 2,879.99 acres,Number,3257
+Canada,1976,2,880.00 to 3,519.99 acres,Number,1551
+Canada,1976,3,520.00 acres and over,Number,3060
+Newfoundland and Labrador,1976,Total number of farms,Number,878
+Newfoundland and Labrador,1976,Under 10.00 acres,Number,405
+Newfoundland and Labrador,1976,10.00 to 69.99 acres,Number,304
+Newfoundland and Labrador,1976,70.00 to 129.99 acres,Number,71
+Newfoundland and Labrador,1976,130.00 to 179.99 acres,Number,33
+Newfoundland and Labrador,1976,180.00 to 239.99 acres,Number,16
+Newfoundland and Labrador,1976,240.00 to 399.99 acres,Number,28
+Newfoundland and Labrador,1976,400.00 to 559.99 acres,Number,6
+Newfoundland and Labrador,1976,560.00 to 759.99 acres,Number,3
+Newfoundland and Labrador,1976,760.00 to 1,119.99 acres,Number,3
+Newfoundland and Labrador,1976,1,120.00 to 1,599.99 acres,Number,1
+Newfoundland and Labrador,1976,1,600.00 to 2,239.99 acres,Number,1
+Newfoundland and Labrador,1976,2,240.00 to 2,879.99 acres,Number,2
+Newfoundland and Labrador,1976,2,880.00 to 3,519.99 acres,Number,1
+Newfoundland and Labrador,1976,3,520.00 acres and over,Number,4
+Prince Edward Island,1976,Total number of farms,Number,3677
+Prince Edward Island,1976,Under 10.00 acres,Number,94
+Prince Edward Island,1976,10.00 to 69.99 acres,Number,575
+Prince Edward Island,1976,70.00 to 129.99 acres,Number,961
+Prince Edward Island,1976,130.00 to 179.99 acres,Number,562
+Prince Edward Island,1976,180.00 to 239.99 acres,Number,549
+Prince Edward Island,1976,240.00 to 399.99 acres,Number,585
+Prince Edward Island,1976,400.00 to 559.99 acres,Number,207
+Prince Edward Island,1976,560.00 to 759.99 acres,Number,76
+Prince Edward Island,1976,760.00 to 1,119.99 acres,Number,40
+Prince Edward Island,1976,1,120.00 to 1,599.99 acres,Number,18
+Prince Edward Island,1976,1,600.00 to 2,239.99 acres,Number,5
+Prince Edward Island,1976,2,240.00 to 2,879.99 acres,Number,1
+Prince Edward Island,1976,2,880.00 to 3,519.99 acres,Number,2
+Prince Edward Island,1976,3,520.00 acres and over,Number,2
+Nova Scotia,1976,Total number of farms,Number,5434
+Nova Scotia,1976,Under 10.00 acres,Number,365
+Nova Scotia,1976,10.00 to 69.99 acres,Number,935
+Nova Scotia,1976,70.00 to 129.99 acres,Number,1078
+Nova Scotia,1976,130.00 to 179.99 acres,Number,681
+Nova Scotia,1976,180.00 to 239.99 acres,Number,649
+Nova Scotia,1976,240.00 to 399.99 acres,Number,899
+Nova Scotia,1976,400.00 to 559.99 acres,Number,416
+Nova Scotia,1976,560.00 to 759.99 acres,Number,205
+Nova Scotia,1976,760.00 to 1,119.99 acres,Number,128
+Nova Scotia,1976,1,120.00 to 1,599.99 acres,Number,51
+Nova Scotia,1976,1,600.00 to 2,239.99 acres,Number,13
+Nova Scotia,1976,2,240.00 to 2,879.99 acres,Number,9
+Nova Scotia,1976,2,880.00 to 3,519.99 acres,Number,4
+Nova Scotia,1976,3,520.00 acres and over,Number,1
+New Brunswick,1976,Total number of farms,Number,4551
+New Brunswick,1976,Under 10.00 acres,Number,212
+New Brunswick,1976,10.00 to 69.99 acres,Number,555
+New Brunswick,1976,70.00 to 129.99 acres,Number,815
+New Brunswick,1976,130.00 to 179.99 acres,Number,506
+New Brunswick,1976,180.00 to 239.99 acres,Number,678
+New Brunswick,1976,240.00 to 399.99 acres,Number,955
+New Brunswick,1976,400.00 to 559.99 acres,Number,438
+New Brunswick,1976,560.00 to 759.99 acres,Number,208
+New Brunswick,1976,760.00 to 1,119.99 acres,Number,132
+New Brunswick,1976,1,120.00 to 1,599.99 acres,Number,31
+New Brunswick,1976,1,600.00 to 2,239.99 acres,Number,13
+New Brunswick,1976,2,240.00 to 2,879.99 acres,Number,3
+New Brunswick,1976,2,880.00 to 3,519.99 acres,Number,4
+New Brunswick,1976,3,520.00 acres and over,Number,1
+Quebec,1976,Total number of farms,Number,51587
+Quebec,1976,Under 10.00 acres,Number,1650
+Quebec,1976,10.00 to 69.99 acres,Number,6835
+Quebec,1976,70.00 to 129.99 acres,Number,12443
+Quebec,1976,130.00 to 179.99 acres,Number,8438
+Quebec,1976,180.00 to 239.99 acres,Number,8182
+Quebec,1976,240.00 to 399.99 acres,Number,9452
+Quebec,1976,400.00 to 559.99 acres,Number,3091
+Quebec,1976,560.00 to 759.99 acres,Number,1012
+Quebec,1976,760.00 to 1,119.99 acres,Number,381
+Quebec,1976,1,120.00 to 1,599.99 acres,Number,73
+Quebec,1976,1,600.00 to 2,239.99 acres,Number,18
+Quebec,1976,2,240.00 to 2,879.99 acres,Number,8
+Quebec,1976,2,880.00 to 3,519.99 acres,Number,3
+Quebec,1976,3,520.00 acres and over,Number,1
+Ontario,1976,Total number of farms,Number,88801
+Ontario,1976,Under 10.00 acres,Number,4813
+Ontario,1976,10.00 to 69.99 acres,Number,17857
+Ontario,1976,70.00 to 129.99 acres,Number,23035
+Ontario,1976,130.00 to 179.99 acres,Number,11579
+Ontario,1976,180.00 to 239.99 acres,Number,11200
+Ontario,1976,240.00 to 399.99 acres,Number,12782
+Ontario,1976,400.00 to 559.99 acres,Number,4457
+Ontario,1976,560.00 to 759.99 acres,Number,1782
+Ontario,1976,760.00 to 1,119.99 acres,Number,900
+Ontario,1976,1,120.00 to 1,599.99 acres,Number,268
+Ontario,1976,1,600.00 to 2,239.99 acres,Number,85
+Ontario,1976,2,240.00 to 2,879.99 acres,Number,26
+Ontario,1976,2,880.00 to 3,519.99 acres,Number,7
+Ontario,1976,3,520.00 acres and over,Number,10
+Manitoba,1976,Total number of farms,Number,32104
+Manitoba,1976,Under 10.00 acres,Number,595
+Manitoba,1976,10.00 to 69.99 acres,Number,1848
+Manitoba,1976,70.00 to 129.99 acres,Number,1333
+Manitoba,1976,130.00 to 179.99 acres,Number,3385
+Manitoba,1976,180.00 to 239.99 acres,Number,943
+Manitoba,1976,240.00 to 399.99 acres,Number,6189
+Manitoba,1976,400.00 to 559.99 acres,Number,5088
+Manitoba,1976,560.00 to 759.99 acres,Number,4604
+Manitoba,1976,760.00 to 1,119.99 acres,Number,4514
+Manitoba,1976,1,120.00 to 1,599.99 acres,Number,2134
+Manitoba,1976,1,600.00 to 2,239.99 acres,Number,841
+Manitoba,1976,2,240.00 to 2,879.99 acres,Number,289
+Manitoba,1976,2,880.00 to 3,519.99 acres,Number,136
+Manitoba,1976,3,520.00 acres and over,Number,205
+Saskatchewan,1976,Total number of farms,Number,70958
+Saskatchewan,1976,Under 10.00 acres,Number,387
+Saskatchewan,1976,10.00 to 69.99 acres,Number,956
+Saskatchewan,1976,70.00 to 129.99 acres,Number,786
+Saskatchewan,1976,130.00 to 179.99 acres,Number,5520
+Saskatchewan,1976,180.00 to 239.99 acres,Number,527
+Saskatchewan,1976,240.00 to 399.99 acres,Number,9894
+Saskatchewan,1976,400.00 to 559.99 acres,Number,9291
+Saskatchewan,1976,560.00 to 759.99 acres,Number,10843
+Saskatchewan,1976,760.00 to 1,119.99 acres,Number,14633
+Saskatchewan,1976,1,120.00 to 1,599.99 acres,Number,9910
+Saskatchewan,1976,1,600.00 to 2,239.99 acres,Number,4752
+Saskatchewan,1976,2,240.00 to 2,879.99 acres,Number,1615
+Saskatchewan,1976,2,880.00 to 3,519.99 acres,Number,692
+Saskatchewan,1976,3,520.00 acres and over,Number,1152
+Alberta,1976,Total number of farms,Number,61130
+Alberta,1976,Under 10.00 acres,Number,730
+Alberta,1976,10.00 to 69.99 acres,Number,3548
+Alberta,1976,70.00 to 129.99 acres,Number,1930
+Alberta,1976,130.00 to 179.99 acres,Number,8586
+Alberta,1976,180.00 to 239.99 acres,Number,1056
+Alberta,1976,240.00 to 399.99 acres,Number,10877
+Alberta,1976,400.00 to 559.99 acres,Number,7947
+Alberta,1976,560.00 to 759.99 acres,Number,7269
+Alberta,1976,760.00 to 1,119.99 acres,Number,8172
+Alberta,1976,1,120.00 to 1,599.99 acres,Number,5038
+Alberta,1976,1,600.00 to 2,239.99 acres,Number,2634
+Alberta,1976,2,240.00 to 2,879.99 acres,Number,1201
+Alberta,1976,2,880.00 to 3,519.99 acres,Number,640
+Alberta,1976,3,520.00 acres and over,Number,1502
+British Columbia,1976,Total number of farms,Number,19432
+British Columbia,1976,Under 10.00 acres,Number,4844
+British Columbia,1976,10.00 to 69.99 acres,Number,7160
+British Columbia,1976,70.00 to 129.99 acres,Number,1558
+British Columbia,1976,130.00 to 179.99 acres,Number,1403
+British Columbia,1976,180.00 to 239.99 acres,Number,462
+British Columbia,1976,240.00 to 399.99 acres,Number,1198
+British Columbia,1976,400.00 to 559.99 acres,Number,630
+British Columbia,1976,560.00 to 759.99 acres,Number,614
+British Columbia,1976,760.00 to 1,119.99 acres,Number,610
+British Columbia,1976,1,120.00 to 1,599.99 acres,Number,385
+British Columbia,1976,1,600.00 to 2,239.99 acres,Number,221
+British Columbia,1976,2,240.00 to 2,879.99 acres,Number,103
+British Columbia,1976,2,880.00 to 3,519.99 acres,Number,62
+British Columbia,1976,3,520.00 acres and over,Number,182
+Canada,1981,Total number of farms,Number,318361
+Canada,1981,Under 10.00 acres,Number,16413
+Canada,1981,10.00 to 69.99 acres,Number,40301
+Canada,1981,70.00 to 129.99 acres,Number,39691
+Canada,1981,130.00 to 179.99 acres,Number,38150
+Canada,1981,180.00 to 239.99 acres,Number,21159
+Canada,1981,240.00 to 399.99 acres,Number,47081
+Canada,1981,400.00 to 559.99 acres,Number,27759
+Canada,1981,560.00 to 759.99 acres,Number,23758
+Canada,1981,760.00 to 1,119.99 acres,Number,27788
+Canada,1981,1,120.00 to 1,599.99 acres,Number,18283
+Canada,1981,1,600.00 to 2,239.99 acres,Number,9572
+Canada,1981,2,240.00 to 2,879.99 acres,Number,3637
+Canada,1981,2,880.00 to 3,519.99 acres,Number,1700
+Canada,1981,3,520.00 acres and over,Number,3069
+Newfoundland and Labrador,1981,Total number of farms,Number,679
+Newfoundland and Labrador,1981,Under 10.00 acres,Number,244
+Newfoundland and Labrador,1981,10.00 to 69.99 acres,Number,257
+Newfoundland and Labrador,1981,70.00 to 129.99 acres,Number,90
+Newfoundland and Labrador,1981,130.00 to 179.99 acres,Number,28
+Newfoundland and Labrador,1981,180.00 to 239.99 acres,Number,14
+Newfoundland and Labrador,1981,240.00 to 399.99 acres,Number,19
+Newfoundland and Labrador,1981,400.00 to 559.99 acres,Number,6
+Newfoundland and Labrador,1981,560.00 to 759.99 acres,Number,6
+Newfoundland and Labrador,1981,760.00 to 1,119.99 acres,Number,6
+Newfoundland and Labrador,1981,1,120.00 to 1,599.99 acres,Number,1
+Newfoundland and Labrador,1981,1,600.00 to 2,239.99 acres,Number,1
+Newfoundland and Labrador,1981,2,240.00 to 2,879.99 acres,Number,2
+Newfoundland and Labrador,1981,2,880.00 to 3,519.99 acres,Number,1
+Newfoundland and Labrador,1981,3,520.00 acres and over,Number,4
+Prince Edward Island,1981,Total number of farms,Number,3154
+Prince Edward Island,1981,Under 10.00 acres,Number,149
+Prince Edward Island,1981,10.00 to 69.99 acres,Number,423
+Prince Edward Island,1981,70.00 to 129.99 acres,Number,735
+Prince Edward Island,1981,130.00 to 179.99 acres,Number,457
+Prince Edward Island,1981,180.00 to 239.99 acres,Number,414
+Prince Edward Island,1981,240.00 to 399.99 acres,Number,577
+Prince Edward Island,1981,400.00 to 559.99 acres,Number,217
+Prince Edward Island,1981,560.00 to 759.99 acres,Number,87
+Prince Edward Island,1981,760.00 to 1,119.99 acres,Number,57
+Prince Edward Island,1981,1,120.00 to 1,599.99 acres,Number,24
+Prince Edward Island,1981,1,600.00 to 2,239.99 acres,Number,8
+Prince Edward Island,1981,2,240.00 to 2,879.99 acres,Number,3
+Prince Edward Island,1981,2,880.00 to 3,519.99 acres,Number,2
+Prince Edward Island,1981,3,520.00 acres and over,Number,1
+Nova Scotia,1981,Total number of farms,Number,5045
+Nova Scotia,1981,Under 10.00 acres,Number,422
+Nova Scotia,1981,10.00 to 69.99 acres,Number,894
+Nova Scotia,1981,70.00 to 129.99 acres,Number,933
+Nova Scotia,1981,130.00 to 179.99 acres,Number,556
+Nova Scotia,1981,180.00 to 239.99 acres,Number,558
+Nova Scotia,1981,240.00 to 399.99 acres,Number,884
+Nova Scotia,1981,400.00 to 559.99 acres,Number,401
+Nova Scotia,1981,560.00 to 759.99 acres,Number,210
+Nova Scotia,1981,760.00 to 1,119.99 acres,Number,111
+Nova Scotia,1981,1,120.00 to 1,599.99 acres,Number,43
+Nova Scotia,1981,1,600.00 to 2,239.99 acres,Number,20
+Nova Scotia,1981,2,240.00 to 2,879.99 acres,Number,8
+Nova Scotia,1981,2,880.00 to 3,519.99 acres,Number,3
+Nova Scotia,1981,3,520.00 acres and over,Number,2
+New Brunswick,1981,Total number of farms,Number,4063
+New Brunswick,1981,Under 10.00 acres,Number,259
+New Brunswick,1981,10.00 to 69.99 acres,Number,478
+New Brunswick,1981,70.00 to 129.99 acres,Number,721
+New Brunswick,1981,130.00 to 179.99 acres,Number,413
+New Brunswick,1981,180.00 to 239.99 acres,Number,567
+New Brunswick,1981,240.00 to 399.99 acres,Number,834
+New Brunswick,1981,400.00 to 559.99 acres,Number,407
+New Brunswick,1981,560.00 to 759.99 acres,Number,200
+New Brunswick,1981,760.00 to 1,119.99 acres,Number,114
+New Brunswick,1981,1,120.00 to 1,599.99 acres,Number,39
+New Brunswick,1981,1,600.00 to 2,239.99 acres,Number,17
+New Brunswick,1981,2,240.00 to 2,879.99 acres,Number,8
+New Brunswick,1981,2,880.00 to 3,519.99 acres,Number,3
+New Brunswick,1981,3,520.00 acres and over,Number,3
+Quebec,1981,Total number of farms,Number,48144
+Quebec,1981,Under 10.00 acres,Number,2662
+Quebec,1981,10.00 to 69.99 acres,Number,7610
+Quebec,1981,70.00 to 129.99 acres,Number,10435
+Quebec,1981,130.00 to 179.99 acres,Number,7112
+Quebec,1981,180.00 to 239.99 acres,Number,6864
+Quebec,1981,240.00 to 399.99 acres,Number,8605
+Quebec,1981,400.00 to 559.99 acres,Number,3015
+Quebec,1981,560.00 to 759.99 acres,Number,1151
+Quebec,1981,760.00 to 1,119.99 acres,Number,534
+Quebec,1981,1,120.00 to 1,599.99 acres,Number,109
+Quebec,1981,1,600.00 to 2,239.99 acres,Number,31
+Quebec,1981,2,240.00 to 2,879.99 acres,Number,7
+Quebec,1981,2,880.00 to 3,519.99 acres,Number,1
+Quebec,1981,3,520.00 acres and over,Number,8
+Ontario,1981,Total number of farms,Number,82448
+Ontario,1981,Under 10.00 acres,Number,5248
+Ontario,1981,10.00 to 69.99 acres,Number,17129
+Ontario,1981,70.00 to 129.99 acres,Number,20319
+Ontario,1981,130.00 to 179.99 acres,Number,10018
+Ontario,1981,180.00 to 239.99 acres,Number,9730
+Ontario,1981,240.00 to 399.99 acres,Number,12022
+Ontario,1981,400.00 to 559.99 acres,Number,4425
+Ontario,1981,560.00 to 759.99 acres,Number,1918
+Ontario,1981,760.00 to 1,119.99 acres,Number,1107
+Ontario,1981,1,120.00 to 1,599.99 acres,Number,371
+Ontario,1981,1,600.00 to 2,239.99 acres,Number,101
+Ontario,1981,2,240.00 to 2,879.99 acres,Number,39
+Ontario,1981,2,880.00 to 3,519.99 acres,Number,7
+Ontario,1981,3,520.00 acres and over,Number,14
+Manitoba,1981,Total number of farms,Number,29442
+Manitoba,1981,Under 10.00 acres,Number,773
+Manitoba,1981,10.00 to 69.99 acres,Number,1832
+Manitoba,1981,70.00 to 129.99 acres,Number,1475
+Manitoba,1981,130.00 to 179.99 acres,Number,3024
+Manitoba,1981,180.00 to 239.99 acres,Number,890
+Manitoba,1981,240.00 to 399.99 acres,Number,4975
+Manitoba,1981,400.00 to 559.99 acres,Number,4113
+Manitoba,1981,560.00 to 759.99 acres,Number,3875
+Manitoba,1981,760.00 to 1,119.99 acres,Number,4203
+Manitoba,1981,1,120.00 to 1,599.99 acres,Number,2352
+Manitoba,1981,1,600.00 to 2,239.99 acres,Number,1123
+Manitoba,1981,2,240.00 to 2,879.99 acres,Number,387
+Manitoba,1981,2,880.00 to 3,519.99 acres,Number,156
+Manitoba,1981,3,520.00 acres and over,Number,264
+Saskatchewan,1981,Total number of farms,Number,67318
+Saskatchewan,1981,Under 10.00 acres,Number,505
+Saskatchewan,1981,10.00 to 69.99 acres,Number,1189
+Saskatchewan,1981,70.00 to 129.99 acres,Number,992
+Saskatchewan,1981,130.00 to 179.99 acres,Number,5905
+Saskatchewan,1981,180.00 to 239.99 acres,Number,541
+Saskatchewan,1981,240.00 to 399.99 acres,Number,8577
+Saskatchewan,1981,400.00 to 559.99 acres,Number,7718
+Saskatchewan,1981,560.00 to 759.99 acres,Number,9314
+Saskatchewan,1981,760.00 to 1,119.99 acres,Number,13510
+Saskatchewan,1981,1,120.00 to 1,599.99 acres,Number,10012
+Saskatchewan,1981,1,600.00 to 2,239.99 acres,Number,5190
+Saskatchewan,1981,2,240.00 to 2,879.99 acres,Number,1858
+Saskatchewan,1981,2,880.00 to 3,519.99 acres,Number,792
+Saskatchewan,1981,3,520.00 acres and over,Number,1215
+Alberta,1981,Total number of farms,Number,58056
+Alberta,1981,Under 10.00 acres,Number,910
+Alberta,1981,10.00 to 69.99 acres,Number,3352
+Alberta,1981,70.00 to 129.99 acres,Number,2353
+Alberta,1981,130.00 to 179.99 acres,Number,9023
+Alberta,1981,180.00 to 239.99 acres,Number,1050
+Alberta,1981,240.00 to 399.99 acres,Number,9383
+Alberta,1981,400.00 to 559.99 acres,Number,6844
+Alberta,1981,560.00 to 759.99 acres,Number,6404
+Alberta,1981,760.00 to 1,119.99 acres,Number,7600
+Alberta,1981,1,120.00 to 1,599.99 acres,Number,4978
+Alberta,1981,1,600.00 to 2,239.99 acres,Number,2849
+Alberta,1981,2,240.00 to 2,879.99 acres,Number,1222
+Alberta,1981,2,880.00 to 3,519.99 acres,Number,675
+Alberta,1981,3,520.00 acres and over,Number,1413
+British Columbia,1981,Total number of farms,Number,20012
+British Columbia,1981,Under 10.00 acres,Number,5241
+British Columbia,1981,10.00 to 69.99 acres,Number,7137
+British Columbia,1981,70.00 to 129.99 acres,Number,1638
+British Columbia,1981,130.00 to 179.99 acres,Number,1614
+British Columbia,1981,180.00 to 239.99 acres,Number,531
+British Columbia,1981,240.00 to 399.99 acres,Number,1205
+British Columbia,1981,400.00 to 559.99 acres,Number,613
+British Columbia,1981,560.00 to 759.99 acres,Number,593
+British Columbia,1981,760.00 to 1,119.99 acres,Number,546
+British Columbia,1981,1,120.00 to 1,599.99 acres,Number,354
+British Columbia,1981,1,600.00 to 2,239.99 acres,Number,232
+British Columbia,1981,2,240.00 to 2,879.99 acres,Number,103
+British Columbia,1981,2,880.00 to 3,519.99 acres,Number,60
+British Columbia,1981,3,520.00 acres and over,Number,145
+Canada,1986,Total number of farms,Number,293089
+Canada,1986,Under 10.00 acres,Number,14679
+Canada,1986,10.00 to 69.99 acres,Number,35561
+Canada,1986,70.00 to 129.99 acres,Number,33603
+Canada,1986,130.00 to 179.99 acres,Number,34544
+Canada,1986,180.00 to 239.99 acres,Number,18808
+Canada,1986,240.00 to 399.99 acres,Number,42799
+Canada,1986,400.00 to 559.99 acres,Number,25193
+Canada,1986,560.00 to 759.99 acres,Number,21897
+Canada,1986,760.00 to 1,119.99 acres,Number,26294
+Canada,1986,1,120.00 to 1,599.99 acres,Number,18637
+Canada,1986,1,600.00 to 2,239.99 acres,Number,10696
+Canada,1986,2,240.00 to 2,879.99 acres,Number,4396
+Canada,1986,2,880.00 to 3,519.99 acres,Number,2156
+Canada,1986,3,520.00 acres and over,Number,3826
+Newfoundland and Labrador,1986,Total number of farms,Number,651
+Newfoundland and Labrador,1986,Under 10.00 acres,Number,180
+Newfoundland and Labrador,1986,10.00 to 69.99 acres,Number,271
+Newfoundland and Labrador,1986,70.00 to 129.99 acres,Number,71
+Newfoundland and Labrador,1986,130.00 to 179.99 acres,Number,32
+Newfoundland and Labrador,1986,180.00 to 239.99 acres,Number,34
+Newfoundland and Labrador,1986,240.00 to 399.99 acres,Number,27
+Newfoundland and Labrador,1986,400.00 to 559.99 acres,Number,10
+Newfoundland and Labrador,1986,560.00 to 759.99 acres,Number,10
+Newfoundland and Labrador,1986,760.00 to 1,119.99 acres,Number,6
+Newfoundland and Labrador,1986,1,120.00 to 1,599.99 acres,Number,1
+Newfoundland and Labrador,1986,1,600.00 to 2,239.99 acres,Number,2
+Newfoundland and Labrador,1986,2,240.00 to 2,879.99 acres,Number,2
+Newfoundland and Labrador,1986,2,880.00 to 3,519.99 acres,Number,1
+Newfoundland and Labrador,1986,3,520.00 acres and over,Number,4
+Prince Edward Island,1986,Total number of farms,Number,2833
+Prince Edward Island,1986,Under 10.00 acres,Number,180
+Prince Edward Island,1986,10.00 to 69.99 acres,Number,380
+Prince Edward Island,1986,70.00 to 129.99 acres,Number,558
+Prince Edward Island,1986,130.00 to 179.99 acres,Number,383
+Prince Edward Island,1986,180.00 to 239.99 acres,Number,381
+Prince Edward Island,1986,240.00 to 399.99 acres,Number,512
+Prince Edward Island,1986,400.00 to 559.99 acres,Number,231
+Prince Edward Island,1986,560.00 to 759.99 acres,Number,101
+Prince Edward Island,1986,760.00 to 1,119.99 acres,Number,67
+Prince Edward Island,1986,1,120.00 to 1,599.99 acres,Number,20
+Prince Edward Island,1986,1,600.00 to 2,239.99 acres,Number,13
+Prince Edward Island,1986,2,240.00 to 2,879.99 acres,Number,3
+Prince Edward Island,1986,2,880.00 to 3,519.99 acres,Number,3
+Prince Edward Island,1986,3,520.00 acres and over,Number,1
+Nova Scotia,1986,Total number of farms,Number,4283
+Nova Scotia,1986,Under 10.00 acres,Number,387
+Nova Scotia,1986,10.00 to 69.99 acres,Number,720
+Nova Scotia,1986,70.00 to 129.99 acres,Number,676
+Nova Scotia,1986,130.00 to 179.99 acres,Number,456
+Nova Scotia,1986,180.00 to 239.99 acres,Number,504
+Nova Scotia,1986,240.00 to 399.99 acres,Number,764
+Nova Scotia,1986,400.00 to 559.99 acres,Number,395
+Nova Scotia,1986,560.00 to 759.99 acres,Number,196
+Nova Scotia,1986,760.00 to 1,119.99 acres,Number,120
+Nova Scotia,1986,1,120.00 to 1,599.99 acres,Number,38
+Nova Scotia,1986,1,600.00 to 2,239.99 acres,Number,17
+Nova Scotia,1986,2,240.00 to 2,879.99 acres,Number,4
+Nova Scotia,1986,2,880.00 to 3,519.99 acres,Number,4
+Nova Scotia,1986,3,520.00 acres and over,Number,2
+New Brunswick,1986,Total number of farms,Number,3554
+New Brunswick,1986,Under 10.00 acres,Number,270
+New Brunswick,1986,10.00 to 69.99 acres,Number,382
+New Brunswick,1986,70.00 to 129.99 acres,Number,527
+New Brunswick,1986,130.00 to 179.99 acres,Number,342
+New Brunswick,1986,180.00 to 239.99 acres,Number,458
+New Brunswick,1986,240.00 to 399.99 acres,Number,771
+New Brunswick,1986,400.00 to 559.99 acres,Number,402
+New Brunswick,1986,560.00 to 759.99 acres,Number,199
+New Brunswick,1986,760.00 to 1,119.99 acres,Number,122
+New Brunswick,1986,1,120.00 to 1,599.99 acres,Number,49
+New Brunswick,1986,1,600.00 to 2,239.99 acres,Number,20
+New Brunswick,1986,2,240.00 to 2,879.99 acres,Number,6
+New Brunswick,1986,2,880.00 to 3,519.99 acres,Number,4
+New Brunswick,1986,3,520.00 acres and over,Number,2
+Quebec,1986,Total number of farms,Number,41448
+Quebec,1986,Under 10.00 acres,Number,2067
+Quebec,1986,10.00 to 69.99 acres,Number,6016
+Quebec,1986,70.00 to 129.99 acres,Number,7901
+Quebec,1986,130.00 to 179.99 acres,Number,5806
+Quebec,1986,180.00 to 239.99 acres,Number,6003
+Quebec,1986,240.00 to 399.99 acres,Number,8182
+Quebec,1986,400.00 to 559.99 acres,Number,3205
+Quebec,1986,560.00 to 759.99 acres,Number,1372
+Quebec,1986,760.00 to 1,119.99 acres,Number,661
+Quebec,1986,1,120.00 to 1,599.99 acres,Number,174
+Quebec,1986,1,600.00 to 2,239.99 acres,Number,43
+Quebec,1986,2,240.00 to 2,879.99 acres,Number,9
+Quebec,1986,2,880.00 to 3,519.99 acres,Number,4
+Quebec,1986,3,520.00 acres and over,Number,5
+Ontario,1986,Total number of farms,Number,72713
+Ontario,1986,Under 10.00 acres,Number,4390
+Ontario,1986,10.00 to 69.99 acres,Number,14684
+Ontario,1986,70.00 to 129.99 acres,Number,17406
+Ontario,1986,130.00 to 179.99 acres,Number,8799
+Ontario,1986,180.00 to 239.99 acres,Number,8632
+Ontario,1986,240.00 to 399.99 acres,Number,10872
+Ontario,1986,400.00 to 559.99 acres,Number,4140
+Ontario,1986,560.00 to 759.99 acres,Number,1974
+Ontario,1986,760.00 to 1,119.99 acres,Number,1206
+Ontario,1986,1,120.00 to 1,599.99 acres,Number,414
+Ontario,1986,1,600.00 to 2,239.99 acres,Number,125
+Ontario,1986,2,240.00 to 2,879.99 acres,Number,33
+Ontario,1986,2,880.00 to 3,519.99 acres,Number,19
+Ontario,1986,3,520.00 acres and over,Number,19
+Manitoba,1986,Total number of farms,Number,27336
+Manitoba,1986,Under 10.00 acres,Number,766
+Manitoba,1986,10.00 to 69.99 acres,Number,1710
+Manitoba,1986,70.00 to 129.99 acres,Number,1358
+Manitoba,1986,130.00 to 179.99 acres,Number,2802
+Manitoba,1986,180.00 to 239.99 acres,Number,721
+Manitoba,1986,240.00 to 399.99 acres,Number,4270
+Manitoba,1986,400.00 to 559.99 acres,Number,3429
+Manitoba,1986,560.00 to 759.99 acres,Number,3484
+Manitoba,1986,760.00 to 1,119.99 acres,Number,3914
+Manitoba,1986,1,120.00 to 1,599.99 acres,Number,2493
+Manitoba,1986,1,600.00 to 2,239.99 acres,Number,1293
+Manitoba,1986,2,240.00 to 2,879.99 acres,Number,537
+Manitoba,1986,2,880.00 to 3,519.99 acres,Number,238
+Manitoba,1986,3,520.00 acres and over,Number,321
+Saskatchewan,1986,Total number of farms,Number,63431
+Saskatchewan,1986,Under 10.00 acres,Number,593
+Saskatchewan,1986,10.00 to 69.99 acres,Number,1107
+Saskatchewan,1986,70.00 to 129.99 acres,Number,1006
+Saskatchewan,1986,130.00 to 179.99 acres,Number,5509
+Saskatchewan,1986,180.00 to 239.99 acres,Number,502
+Saskatchewan,1986,240.00 to 399.99 acres,Number,7505
+Saskatchewan,1986,400.00 to 559.99 acres,Number,6514
+Saskatchewan,1986,560.00 to 759.99 acres,Number,7939
+Saskatchewan,1986,760.00 to 1,119.99 acres,Number,12323
+Saskatchewan,1986,1,120.00 to 1,599.99 acres,Number,9892
+Saskatchewan,1986,1,600.00 to 2,239.99 acres,Number,5793
+Saskatchewan,1986,2,240.00 to 2,879.99 acres,Number,2216
+Saskatchewan,1986,2,880.00 to 3,519.99 acres,Number,1034
+Saskatchewan,1986,3,520.00 acres and over,Number,1498
+Alberta,1986,Total number of farms,Number,57777
+Alberta,1986,Under 10.00 acres,Number,1031
+Alberta,1986,10.00 to 69.99 acres,Number,3365
+Alberta,1986,70.00 to 129.99 acres,Number,2624
+Alberta,1986,130.00 to 179.99 acres,Number,8853
+Alberta,1986,180.00 to 239.99 acres,Number,1111
+Alberta,1986,240.00 to 399.99 acres,Number,8726
+Alberta,1986,400.00 to 559.99 acres,Number,6267
+Alberta,1986,560.00 to 759.99 acres,Number,6103
+Alberta,1986,760.00 to 1,119.99 acres,Number,7341
+Alberta,1986,1,120.00 to 1,599.99 acres,Number,5164
+Alberta,1986,1,600.00 to 2,239.99 acres,Number,3154
+Alberta,1986,2,240.00 to 2,879.99 acres,Number,1477
+Alberta,1986,2,880.00 to 3,519.99 acres,Number,784
+Alberta,1986,3,520.00 acres and over,Number,1777
+British Columbia,1986,Total number of farms,Number,19063
+British Columbia,1986,Under 10.00 acres,Number,4815
+British Columbia,1986,10.00 to 69.99 acres,Number,6926
+British Columbia,1986,70.00 to 129.99 acres,Number,1476
+British Columbia,1986,130.00 to 179.99 acres,Number,1562
+British Columbia,1986,180.00 to 239.99 acres,Number,462
+British Columbia,1986,240.00 to 399.99 acres,Number,1170
+British Columbia,1986,400.00 to 559.99 acres,Number,600
+British Columbia,1986,560.00 to 759.99 acres,Number,519
+British Columbia,1986,760.00 to 1,119.99 acres,Number,534
+British Columbia,1986,1,120.00 to 1,599.99 acres,Number,392
+British Columbia,1986,1,600.00 to 2,239.99 acres,Number,236
+British Columbia,1986,2,240.00 to 2,879.99 acres,Number,109
+British Columbia,1986,2,880.00 to 3,519.99 acres,Number,65
+British Columbia,1986,3,520.00 acres and over,Number,197
+Canada,1991,Total number of farms,Number,280043
+Canada,1991,Under 10.00 acres,Number,13671
+Canada,1991,10.00 to 69.99 acres,Number,35216
+Canada,1991,70.00 to 129.99 acres,Number,32682
+Canada,1991,130.00 to 179.99 acres,Number,33401
+Canada,1991,180.00 to 239.99 acres,Number,17161
+Canada,1991,240.00 to 399.99 acres,Number,39100
+Canada,1991,400.00 to 559.99 acres,Number,23144
+Canada,1991,560.00 to 759.99 acres,Number,19983
+Canada,1991,760.00 to 1,119.99 acres,Number,24406
+Canada,1991,1,120.00 to 1,599.99 acres,Number,18396
+Canada,1991,1,600.00 to 2,239.99 acres,Number,11379
+Canada,1991,2,240.00 to 2,879.99 acres,Number,4816
+Canada,1991,2,880.00 to 3,519.99 acres,Number,2447
+Canada,1991,3,520.00 acres and over,Number,4241
+Newfoundland and Labrador,1991,Total number of farms,Number,725
+Newfoundland and Labrador,1991,Under 10.00 acres,Number,195
+Newfoundland and Labrador,1991,10.00 to 69.99 acres,Number,288
+Newfoundland and Labrador,1991,70.00 to 129.99 acres,Number,91
+Newfoundland and Labrador,1991,130.00 to 179.99 acres,Number,40
+Newfoundland and Labrador,1991,180.00 to 239.99 acres,Number,31
+Newfoundland and Labrador,1991,240.00 to 399.99 acres,Number,27
+Newfoundland and Labrador,1991,400.00 to 559.99 acres,Number,18
+Newfoundland and Labrador,1991,560.00 to 759.99 acres,Number,12
+Newfoundland and Labrador,1991,760.00 to 1,119.99 acres,Number,9
+Newfoundland and Labrador,1991,1,120.00 to 1,599.99 acres,Number,2
+Newfoundland and Labrador,1991,1,600.00 to 2,239.99 acres,Number,2
+Newfoundland and Labrador,1991,2,240.00 to 2,879.99 acres,Number,4
+Newfoundland and Labrador,1991,2,880.00 to 3,519.99 acres,Number,0
+Newfoundland and Labrador,1991,3,520.00 acres and over,Number,6
+Prince Edward Island,1991,Total number of farms,Number,2361
+Prince Edward Island,1991,Under 10.00 acres,Number,122
+Prince Edward Island,1991,10.00 to 69.99 acres,Number,328
+Prince Edward Island,1991,70.00 to 129.99 acres,Number,393
+Prince Edward Island,1991,130.00 to 179.99 acres,Number,305
+Prince Edward Island,1991,180.00 to 239.99 acres,Number,283
+Prince Edward Island,1991,240.00 to 399.99 acres,Number,461
+Prince Edward Island,1991,400.00 to 559.99 acres,Number,239
+Prince Edward Island,1991,560.00 to 759.99 acres,Number,110
+Prince Edward Island,1991,760.00 to 1,119.99 acres,Number,61
+Prince Edward Island,1991,1,120.00 to 1,599.99 acres,Number,34
+Prince Edward Island,1991,1,600.00 to 2,239.99 acres,Number,16
+Prince Edward Island,1991,2,240.00 to 2,879.99 acres,Number,7
+Prince Edward Island,1991,2,880.00 to 3,519.99 acres,Number,1
+Prince Edward Island,1991,3,520.00 acres and over,Number,1
+Nova Scotia,1991,Total number of farms,Number,3980
+Nova Scotia,1991,Under 10.00 acres,Number,354
+Nova Scotia,1991,10.00 to 69.99 acres,Number,716
+Nova Scotia,1991,70.00 to 129.99 acres,Number,613
+Nova Scotia,1991,130.00 to 179.99 acres,Number,404
+Nova Scotia,1991,180.00 to 239.99 acres,Number,452
+Nova Scotia,1991,240.00 to 399.99 acres,Number,694
+Nova Scotia,1991,400.00 to 559.99 acres,Number,371
+Nova Scotia,1991,560.00 to 759.99 acres,Number,189
+Nova Scotia,1991,760.00 to 1,119.99 acres,Number,118
+Nova Scotia,1991,1,120.00 to 1,599.99 acres,Number,43
+Nova Scotia,1991,1,600.00 to 2,239.99 acres,Number,13
+Nova Scotia,1991,2,240.00 to 2,879.99 acres,Number,3
+Nova Scotia,1991,2,880.00 to 3,519.99 acres,Number,4
+Nova Scotia,1991,3,520.00 acres and over,Number,6
+New Brunswick,1991,Total number of farms,Number,3252
+New Brunswick,1991,Under 10.00 acres,Number,271
+New Brunswick,1991,10.00 to 69.99 acres,Number,387
+New Brunswick,1991,70.00 to 129.99 acres,Number,479
+New Brunswick,1991,130.00 to 179.99 acres,Number,304
+New Brunswick,1991,180.00 to 239.99 acres,Number,391
+New Brunswick,1991,240.00 to 399.99 acres,Number,646
+New Brunswick,1991,400.00 to 559.99 acres,Number,378
+New Brunswick,1991,560.00 to 759.99 acres,Number,204
+New Brunswick,1991,760.00 to 1,119.99 acres,Number,124
+New Brunswick,1991,1,120.00 to 1,599.99 acres,Number,39
+New Brunswick,1991,1,600.00 to 2,239.99 acres,Number,18
+New Brunswick,1991,2,240.00 to 2,879.99 acres,Number,4
+New Brunswick,1991,2,880.00 to 3,519.99 acres,Number,6
+New Brunswick,1991,3,520.00 acres and over,Number,1
+Quebec,1991,Total number of farms,Number,38076
+Quebec,1991,Under 10.00 acres,Number,1971
+Quebec,1991,10.00 to 69.99 acres,Number,5922
+Quebec,1991,70.00 to 129.99 acres,Number,7131
+Quebec,1991,130.00 to 179.99 acres,Number,5028
+Quebec,1991,180.00 to 239.99 acres,Number,5359
+Quebec,1991,240.00 to 399.99 acres,Number,7300
+Quebec,1991,400.00 to 559.99 acres,Number,2970
+Quebec,1991,560.00 to 759.99 acres,Number,1368
+Quebec,1991,760.00 to 1,119.99 acres,Number,717
+Quebec,1991,1,120.00 to 1,599.99 acres,Number,220
+Quebec,1991,1,600.00 to 2,239.99 acres,Number,63
+Quebec,1991,2,240.00 to 2,879.99 acres,Number,13
+Quebec,1991,2,880.00 to 3,519.99 acres,Number,1
+Quebec,1991,3,520.00 acres and over,Number,13
+Ontario,1991,Total number of farms,Number,68633
+Ontario,1991,Under 10.00 acres,Number,3627
+Ontario,1991,10.00 to 69.99 acres,Number,14269
+Ontario,1991,70.00 to 129.99 acres,Number,17426
+Ontario,1991,130.00 to 179.99 acres,Number,8081
+Ontario,1991,180.00 to 239.99 acres,Number,7689
+Ontario,1991,240.00 to 399.99 acres,Number,9737
+Ontario,1991,400.00 to 559.99 acres,Number,3834
+Ontario,1991,560.00 to 759.99 acres,Number,1986
+Ontario,1991,760.00 to 1,119.99 acres,Number,1257
+Ontario,1991,1,120.00 to 1,599.99 acres,Number,457
+Ontario,1991,1,600.00 to 2,239.99 acres,Number,172
+Ontario,1991,2,240.00 to 2,879.99 acres,Number,41
+Ontario,1991,2,880.00 to 3,519.99 acres,Number,31
+Ontario,1991,3,520.00 acres and over,Number,26
+Manitoba,1991,Total number of farms,Number,25706
+Manitoba,1991,Under 10.00 acres,Number,604
+Manitoba,1991,10.00 to 69.99 acres,Number,1673
+Manitoba,1991,70.00 to 129.99 acres,Number,1374
+Manitoba,1991,130.00 to 179.99 acres,Number,2661
+Manitoba,1991,180.00 to 239.99 acres,Number,703
+Manitoba,1991,240.00 to 399.99 acres,Number,3734
+Manitoba,1991,400.00 to 559.99 acres,Number,3041
+Manitoba,1991,560.00 to 759.99 acres,Number,3076
+Manitoba,1991,760.00 to 1,119.99 acres,Number,3701
+Manitoba,1991,1,120.00 to 1,599.99 acres,Number,2538
+Manitoba,1991,1,600.00 to 2,239.99 acres,Number,1356
+Manitoba,1991,2,240.00 to 2,879.99 acres,Number,565
+Manitoba,1991,2,880.00 to 3,519.99 acres,Number,283
+Manitoba,1991,3,520.00 acres and over,Number,397
+Saskatchewan,1991,Total number of farms,Number,60840
+Saskatchewan,1991,Under 10.00 acres,Number,383
+Saskatchewan,1991,10.00 to 69.99 acres,Number,1186
+Saskatchewan,1991,70.00 to 129.99 acres,Number,984
+Saskatchewan,1991,130.00 to 179.99 acres,Number,5832
+Saskatchewan,1991,180.00 to 239.99 acres,Number,556
+Saskatchewan,1991,240.00 to 399.99 acres,Number,6898
+Saskatchewan,1991,400.00 to 559.99 acres,Number,5823
+Saskatchewan,1991,560.00 to 759.99 acres,Number,6848
+Saskatchewan,1991,760.00 to 1,119.99 acres,Number,11087
+Saskatchewan,1991,1,120.00 to 1,599.99 acres,Number,9491
+Saskatchewan,1991,1,600.00 to 2,239.99 acres,Number,6249
+Saskatchewan,1991,2,240.00 to 2,879.99 acres,Number,2553
+Saskatchewan,1991,2,880.00 to 3,519.99 acres,Number,1185
+Saskatchewan,1991,3,520.00 acres and over,Number,1765
+Alberta,1991,Total number of farms,Number,57245
+Alberta,1991,Under 10.00 acres,Number,1008
+Alberta,1991,10.00 to 69.99 acres,Number,3420
+Alberta,1991,70.00 to 129.99 acres,Number,2728
+Alberta,1991,130.00 to 179.99 acres,Number,9309
+Alberta,1991,180.00 to 239.99 acres,Number,1231
+Alberta,1991,240.00 to 399.99 acres,Number,8536
+Alberta,1991,400.00 to 559.99 acres,Number,5911
+Alberta,1991,560.00 to 759.99 acres,Number,5672
+Alberta,1991,760.00 to 1,119.99 acres,Number,6825
+Alberta,1991,1,120.00 to 1,599.99 acres,Number,5188
+Alberta,1991,1,600.00 to 2,239.99 acres,Number,3232
+Alberta,1991,2,240.00 to 2,879.99 acres,Number,1512
+Alberta,1991,2,880.00 to 3,519.99 acres,Number,859
+Alberta,1991,3,520.00 acres and over,Number,1814
+British Columbia,1991,Total number of farms,Number,19225
+British Columbia,1991,Under 10.00 acres,Number,5136
+British Columbia,1991,10.00 to 69.99 acres,Number,7027
+British Columbia,1991,70.00 to 129.99 acres,Number,1463
+British Columbia,1991,130.00 to 179.99 acres,Number,1437
+British Columbia,1991,180.00 to 239.99 acres,Number,466
+British Columbia,1991,240.00 to 399.99 acres,Number,1067
+British Columbia,1991,400.00 to 559.99 acres,Number,559
+British Columbia,1991,560.00 to 759.99 acres,Number,518
+British Columbia,1991,760.00 to 1,119.99 acres,Number,507
+British Columbia,1991,1,120.00 to 1,599.99 acres,Number,384
+British Columbia,1991,1,600.00 to 2,239.99 acres,Number,258
+British Columbia,1991,2,240.00 to 2,879.99 acres,Number,114
+British Columbia,1991,2,880.00 to 3,519.99 acres,Number,77
+British Columbia,1991,3,520.00 acres and over,Number,212
+Canada,1996,Total number of farms,Number,276548
+Canada,1996,Under 10.00 acres,Number,16654
+Canada,1996,10.00 to 69.99 acres,Number,37830
+Canada,1996,70.00 to 129.99 acres,Number,31427
+Canada,1996,130.00 to 179.99 acres,Number,33293
+Canada,1996,180.00 to 239.99 acres,Number,16295
+Canada,1996,240.00 to 399.99 acres,Number,37461
+Canada,1996,400.00 to 559.99 acres,Number,21520
+Canada,1996,560.00 to 759.99 acres,Number,18102
+Canada,1996,760.00 to 1,119.99 acres,Number,21908
+Canada,1996,1,120.00 to 1,599.99 acres,Number,17347
+Canada,1996,1,600.00 to 2,239.99 acres,Number,11787
+Canada,1996,2,240.00 to 2,879.99 acres,Number,5306
+Canada,1996,2,880.00 to 3,519.99 acres,Number,2817
+Canada,1996,3,520.00 acres and over,Number,4801
+Newfoundland and Labrador,1996,Total number of farms,Number,742
+Newfoundland and Labrador,1996,Under 10.00 acres,Number,197
+Newfoundland and Labrador,1996,10.00 to 69.99 acres,Number,306
+Newfoundland and Labrador,1996,70.00 to 129.99 acres,Number,83
+Newfoundland and Labrador,1996,130.00 to 179.99 acres,Number,34
+Newfoundland and Labrador,1996,180.00 to 239.99 acres,Number,37
+Newfoundland and Labrador,1996,240.00 to 399.99 acres,Number,33
+Newfoundland and Labrador,1996,400.00 to 559.99 acres,Number,26
+Newfoundland and Labrador,1996,560.00 to 759.99 acres,Number,7
+Newfoundland and Labrador,1996,760.00 to 1,119.99 acres,Number,7
+Newfoundland and Labrador,1996,1,120.00 to 1,599.99 acres,Number,4
+Newfoundland and Labrador,1996,1,600.00 to 2,239.99 acres,Number,1
+Newfoundland and Labrador,1996,2,240.00 to 2,879.99 acres,Number,1
+Newfoundland and Labrador,1996,2,880.00 to 3,519.99 acres,Number,3
+Newfoundland and Labrador,1996,3,520.00 acres and over,Number,3
+Prince Edward Island,1996,Total number of farms,Number,2217
+Prince Edward Island,1996,Under 10.00 acres,Number,156
+Prince Edward Island,1996,10.00 to 69.99 acres,Number,372
+Prince Edward Island,1996,70.00 to 129.99 acres,Number,348
+Prince Edward Island,1996,130.00 to 179.99 acres,Number,233
+Prince Edward Island,1996,180.00 to 239.99 acres,Number,223
+Prince Edward Island,1996,240.00 to 399.99 acres,Number,380
+Prince Edward Island,1996,400.00 to 559.99 acres,Number,225
+Prince Edward Island,1996,560.00 to 759.99 acres,Number,110
+Prince Edward Island,1996,760.00 to 1,119.99 acres,Number,93
+Prince Edward Island,1996,1,120.00 to 1,599.99 acres,Number,39
+Prince Edward Island,1996,1,600.00 to 2,239.99 acres,Number,16
+Prince Edward Island,1996,2,240.00 to 2,879.99 acres,Number,10
+Prince Edward Island,1996,2,880.00 to 3,519.99 acres,Number,10
+Prince Edward Island,1996,3,520.00 acres and over,Number,2
+Nova Scotia,1996,Total number of farms,Number,4453
+Nova Scotia,1996,Under 10.00 acres,Number,459
+Nova Scotia,1996,10.00 to 69.99 acres,Number,898
+Nova Scotia,1996,70.00 to 129.99 acres,Number,727
+Nova Scotia,1996,130.00 to 179.99 acres,Number,418
+Nova Scotia,1996,180.00 to 239.99 acres,Number,427
+Nova Scotia,1996,240.00 to 399.99 acres,Number,751
+Nova Scotia,1996,400.00 to 559.99 acres,Number,374
+Nova Scotia,1996,560.00 to 759.99 acres,Number,189
+Nova Scotia,1996,760.00 to 1,119.99 acres,Number,125
+Nova Scotia,1996,1,120.00 to 1,599.99 acres,Number,48
+Nova Scotia,1996,1,600.00 to 2,239.99 acres,Number,24
+Nova Scotia,1996,2,240.00 to 2,879.99 acres,Number,7
+Nova Scotia,1996,2,880.00 to 3,519.99 acres,Number,1
+Nova Scotia,1996,3,520.00 acres and over,Number,5
+New Brunswick,1996,Total number of farms,Number,3405
+New Brunswick,1996,Under 10.00 acres,Number,319
+New Brunswick,1996,10.00 to 69.99 acres,Number,524
+New Brunswick,1996,70.00 to 129.99 acres,Number,478
+New Brunswick,1996,130.00 to 179.99 acres,Number,312
+New Brunswick,1996,180.00 to 239.99 acres,Number,396
+New Brunswick,1996,240.00 to 399.99 acres,Number,576
+New Brunswick,1996,400.00 to 559.99 acres,Number,375
+New Brunswick,1996,560.00 to 759.99 acres,Number,208
+New Brunswick,1996,760.00 to 1,119.99 acres,Number,125
+New Brunswick,1996,1,120.00 to 1,599.99 acres,Number,58
+New Brunswick,1996,1,600.00 to 2,239.99 acres,Number,24
+New Brunswick,1996,2,240.00 to 2,879.99 acres,Number,5
+New Brunswick,1996,2,880.00 to 3,519.99 acres,Number,2
+New Brunswick,1996,3,520.00 acres and over,Number,3
+Quebec,1996,Total number of farms,Number,35991
+Quebec,1996,Under 10.00 acres,Number,2034
+Quebec,1996,10.00 to 69.99 acres,Number,5684
+Quebec,1996,70.00 to 129.99 acres,Number,6304
+Quebec,1996,130.00 to 179.99 acres,Number,4399
+Quebec,1996,180.00 to 239.99 acres,Number,4842
+Quebec,1996,240.00 to 399.99 acres,Number,6977
+Quebec,1996,400.00 to 559.99 acres,Number,2996
+Quebec,1996,560.00 to 759.99 acres,Number,1468
+Quebec,1996,760.00 to 1,119.99 acres,Number,869
+Quebec,1996,1,120.00 to 1,599.99 acres,Number,271
+Quebec,1996,1,600.00 to 2,239.99 acres,Number,98
+Quebec,1996,2,240.00 to 2,879.99 acres,Number,21
+Quebec,1996,2,880.00 to 3,519.99 acres,Number,7
+Quebec,1996,3,520.00 acres and over,Number,21
+Ontario,1996,Total number of farms,Number,67520
+Ontario,1996,Under 10.00 acres,Number,4133
+Ontario,1996,10.00 to 69.99 acres,Number,14553
+Ontario,1996,70.00 to 129.99 acres,Number,16120
+Ontario,1996,130.00 to 179.99 acres,Number,7566
+Ontario,1996,180.00 to 239.99 acres,Number,7123
+Ontario,1996,240.00 to 399.99 acres,Number,9504
+Ontario,1996,400.00 to 559.99 acres,Number,4022
+Ontario,1996,560.00 to 759.99 acres,Number,2082
+Ontario,1996,760.00 to 1,119.99 acres,Number,1450
+Ontario,1996,1,120.00 to 1,599.99 acres,Number,590
+Ontario,1996,1,600.00 to 2,239.99 acres,Number,219
+Ontario,1996,2,240.00 to 2,879.99 acres,Number,79
+Ontario,1996,2,880.00 to 3,519.99 acres,Number,37
+Ontario,1996,3,520.00 acres and over,Number,42
+Manitoba,1996,Total number of farms,Number,24383
+Manitoba,1996,Under 10.00 acres,Number,824
+Manitoba,1996,10.00 to 69.99 acres,Number,1886
+Manitoba,1996,70.00 to 129.99 acres,Number,1403
+Manitoba,1996,130.00 to 179.99 acres,Number,2566
+Manitoba,1996,180.00 to 239.99 acres,Number,705
+Manitoba,1996,240.00 to 399.99 acres,Number,3264
+Manitoba,1996,400.00 to 559.99 acres,Number,2458
+Manitoba,1996,560.00 to 759.99 acres,Number,2547
+Manitoba,1996,760.00 to 1,119.99 acres,Number,3306
+Manitoba,1996,1,120.00 to 1,599.99 acres,Number,2447
+Manitoba,1996,1,600.00 to 2,239.99 acres,Number,1464
+Manitoba,1996,2,240.00 to 2,879.99 acres,Number,696
+Manitoba,1996,2,880.00 to 3,519.99 acres,Number,308
+Manitoba,1996,3,520.00 acres and over,Number,509
+Saskatchewan,1996,Total number of farms,Number,56995
+Saskatchewan,1996,Under 10.00 acres,Number,482
+Saskatchewan,1996,10.00 to 69.99 acres,Number,1418
+Saskatchewan,1996,70.00 to 129.99 acres,Number,1144
+Saskatchewan,1996,130.00 to 179.99 acres,Number,5969
+Saskatchewan,1996,180.00 to 239.99 acres,Number,673
+Saskatchewan,1996,240.00 to 399.99 acres,Number,6431
+Saskatchewan,1996,400.00 to 559.99 acres,Number,4870
+Saskatchewan,1996,560.00 to 759.99 acres,Number,5632
+Saskatchewan,1996,760.00 to 1,119.99 acres,Number,8977
+Saskatchewan,1996,1,120.00 to 1,599.99 acres,Number,8671
+Saskatchewan,1996,1,600.00 to 2,239.99 acres,Number,6425
+Saskatchewan,1996,2,240.00 to 2,879.99 acres,Number,2776
+Saskatchewan,1996,2,880.00 to 3,519.99 acres,Number,1472
+Saskatchewan,1996,3,520.00 acres and over,Number,2055
+Alberta,1996,Total number of farms,Number,59007
+Alberta,1996,Under 10.00 acres,Number,1511
+Alberta,1996,10.00 to 69.99 acres,Number,4458
+Alberta,1996,70.00 to 129.99 acres,Number,3196
+Alberta,1996,130.00 to 179.99 acres,Number,10167
+Alberta,1996,180.00 to 239.99 acres,Number,1361
+Alberta,1996,240.00 to 399.99 acres,Number,8420
+Alberta,1996,400.00 to 559.99 acres,Number,5594
+Alberta,1996,560.00 to 759.99 acres,Number,5363
+Alberta,1996,760.00 to 1,119.99 acres,Number,6424
+Alberta,1996,1,120.00 to 1,599.99 acres,Number,4845
+Alberta,1996,1,600.00 to 2,239.99 acres,Number,3244
+Alberta,1996,2,240.00 to 2,879.99 acres,Number,1590
+Alberta,1996,2,880.00 to 3,519.99 acres,Number,898
+Alberta,1996,3,520.00 acres and over,Number,1936
+British Columbia,1996,Total number of farms,Number,21835
+British Columbia,1996,Under 10.00 acres,Number,6539
+British Columbia,1996,10.00 to 69.99 acres,Number,7731
+British Columbia,1996,70.00 to 129.99 acres,Number,1624
+British Columbia,1996,130.00 to 179.99 acres,Number,1629
+British Columbia,1996,180.00 to 239.99 acres,Number,508
+British Columbia,1996,240.00 to 399.99 acres,Number,1125
+British Columbia,1996,400.00 to 559.99 acres,Number,580
+British Columbia,1996,560.00 to 759.99 acres,Number,496
+British Columbia,1996,760.00 to 1,119.99 acres,Number,532
+British Columbia,1996,1,120.00 to 1,599.99 acres,Number,374
+British Columbia,1996,1,600.00 to 2,239.99 acres,Number,272
+British Columbia,1996,2,240.00 to 2,879.99 acres,Number,121
+British Columbia,1996,2,880.00 to 3,519.99 acres,Number,79
+British Columbia,1996,3,520.00 acres and over,Number,225
+Canada,2001,Total number of farms,Number,246923
+Canada,2001,Under 10.00 acres,Number,12600
+Canada,2001,10.00 to 69.99 acres,Number,33586
+Canada,2001,70.00 to 129.99 acres,Number,28006
+Canada,2001,130.00 to 179.99 acres,Number,29283
+Canada,2001,180.00 to 239.99 acres,Number,14511
+Canada,2001,240.00 to 399.99 acres,Number,33118
+Canada,2001,400.00 to 559.99 acres,Number,19543
+Canada,2001,560.00 to 759.99 acres,Number,16020
+Canada,2001,760.00 to 1,119.99 acres,Number,18949
+Canada,2001,1,120.00 to 1,599.99 acres,Number,15281
+Canada,2001,1,600.00 to 2,239.99 acres,Number,11128
+Canada,2001,2,240.00 to 2,879.99 acres,Number,5546
+Canada,2001,2,880.00 to 3,519.99 acres,Number,3197
+Canada,2001,3,520.00 acres and over,Number,6155
+Newfoundland and Labrador,2001,Total number of farms,Number,643
+Newfoundland and Labrador,2001,Under 10.00 acres,Number,147
+Newfoundland and Labrador,2001,10.00 to 69.99 acres,Number,262
+Newfoundland and Labrador,2001,70.00 to 129.99 acres,Number,78
+Newfoundland and Labrador,2001,130.00 to 179.99 acres,Number,30
+Newfoundland and Labrador,2001,180.00 to 239.99 acres,Number,34
+Newfoundland and Labrador,2001,240.00 to 399.99 acres,Number,36
+Newfoundland and Labrador,2001,400.00 to 559.99 acres,Number,22
+Newfoundland and Labrador,2001,560.00 to 759.99 acres,Number,13
+Newfoundland and Labrador,2001,760.00 to 1,119.99 acres,Number,6
+Newfoundland and Labrador,2001,1,120.00 to 1,599.99 acres,Number,5
+Newfoundland and Labrador,2001,1,600.00 to 2,239.99 acres,Number,4
+Newfoundland and Labrador,2001,2,240.00 to 2,879.99 acres,Number,2
+Newfoundland and Labrador,2001,2,880.00 to 3,519.99 acres,Number,2
+Newfoundland and Labrador,2001,3,520.00 acres and over,Number,2
+Prince Edward Island,2001,Total number of farms,Number,1845
+Prince Edward Island,2001,Under 10.00 acres,Number,78
+Prince Edward Island,2001,10.00 to 69.99 acres,Number,287
+Prince Edward Island,2001,70.00 to 129.99 acres,Number,282
+Prince Edward Island,2001,130.00 to 179.99 acres,Number,198
+Prince Edward Island,2001,180.00 to 239.99 acres,Number,186
+Prince Edward Island,2001,240.00 to 399.99 acres,Number,336
+Prince Edward Island,2001,400.00 to 559.99 acres,Number,164
+Prince Edward Island,2001,560.00 to 759.99 acres,Number,116
+Prince Edward Island,2001,760.00 to 1,119.99 acres,Number,94
+Prince Edward Island,2001,1,120.00 to 1,599.99 acres,Number,49
+Prince Edward Island,2001,1,600.00 to 2,239.99 acres,Number,25
+Prince Edward Island,2001,2,240.00 to 2,879.99 acres,Number,18
+Prince Edward Island,2001,2,880.00 to 3,519.99 acres,Number,9
+Prince Edward Island,2001,3,520.00 acres and over,Number,3
+Nova Scotia,2001,Total number of farms,Number,3923
+Nova Scotia,2001,Under 10.00 acres,Number,352
+Nova Scotia,2001,10.00 to 69.99 acres,Number,816
+Nova Scotia,2001,70.00 to 129.99 acres,Number,629
+Nova Scotia,2001,130.00 to 179.99 acres,Number,364
+Nova Scotia,2001,180.00 to 239.99 acres,Number,380
+Nova Scotia,2001,240.00 to 399.99 acres,Number,620
+Nova Scotia,2001,400.00 to 559.99 acres,Number,345
+Nova Scotia,2001,560.00 to 759.99 acres,Number,206
+Nova Scotia,2001,760.00 to 1,119.99 acres,Number,130
+Nova Scotia,2001,1,120.00 to 1,599.99 acres,Number,46
+Nova Scotia,2001,1,600.00 to 2,239.99 acres,Number,20
+Nova Scotia,2001,2,240.00 to 2,879.99 acres,Number,7
+Nova Scotia,2001,2,880.00 to 3,519.99 acres,Number,0
+Nova Scotia,2001,3,520.00 acres and over,Number,8
+New Brunswick,2001,Total number of farms,Number,3034
+New Brunswick,2001,Under 10.00 acres,Number,202
+New Brunswick,2001,10.00 to 69.99 acres,Number,473
+New Brunswick,2001,70.00 to 129.99 acres,Number,421
+New Brunswick,2001,130.00 to 179.99 acres,Number,267
+New Brunswick,2001,180.00 to 239.99 acres,Number,328
+New Brunswick,2001,240.00 to 399.99 acres,Number,546
+New Brunswick,2001,400.00 to 559.99 acres,Number,326
+New Brunswick,2001,560.00 to 759.99 acres,Number,225
+New Brunswick,2001,760.00 to 1,119.99 acres,Number,140
+New Brunswick,2001,1,120.00 to 1,599.99 acres,Number,61
+New Brunswick,2001,1,600.00 to 2,239.99 acres,Number,21
+New Brunswick,2001,2,240.00 to 2,879.99 acres,Number,11
+New Brunswick,2001,2,880.00 to 3,519.99 acres,Number,7
+New Brunswick,2001,3,520.00 acres and over,Number,6
+Quebec,2001,Total number of farms,Number,32139
+Quebec,2001,Under 10.00 acres,Number,1660
+Quebec,2001,10.00 to 69.99 acres,Number,4884
+Quebec,2001,70.00 to 129.99 acres,Number,5232
+Quebec,2001,130.00 to 179.99 acres,Number,3636
+Quebec,2001,180.00 to 239.99 acres,Number,4118
+Quebec,2001,240.00 to 399.99 acres,Number,6373
+Quebec,2001,400.00 to 559.99 acres,Number,3022
+Quebec,2001,560.00 to 759.99 acres,Number,1588
+Quebec,2001,760.00 to 1,119.99 acres,Number,1041
+Quebec,2001,1,120.00 to 1,599.99 acres,Number,383
+Quebec,2001,1,600.00 to 2,239.99 acres,Number,137
+Quebec,2001,2,240.00 to 2,879.99 acres,Number,34
+Quebec,2001,2,880.00 to 3,519.99 acres,Number,13
+Quebec,2001,3,520.00 acres and over,Number,18
+Ontario,2001,Total number of farms,Number,59728
+Ontario,2001,Under 10.00 acres,Number,2860
+Ontario,2001,10.00 to 69.99 acres,Number,12516
+Ontario,2001,70.00 to 129.99 acres,Number,14262
+Ontario,2001,130.00 to 179.99 acres,Number,6531
+Ontario,2001,180.00 to 239.99 acres,Number,6192
+Ontario,2001,240.00 to 399.99 acres,Number,8556
+Ontario,2001,400.00 to 559.99 acres,Number,3936
+Ontario,2001,560.00 to 759.99 acres,Number,2173
+Ontario,2001,760.00 to 1,119.99 acres,Number,1548
+Ontario,2001,1,120.00 to 1,599.99 acres,Number,665
+Ontario,2001,1,600.00 to 2,239.99 acres,Number,288
+Ontario,2001,2,240.00 to 2,879.99 acres,Number,83
+Ontario,2001,2,880.00 to 3,519.99 acres,Number,55
+Ontario,2001,3,520.00 acres and over,Number,63
+Manitoba,2001,Total number of farms,Number,21071
+Manitoba,2001,Under 10.00 acres,Number,509
+Manitoba,2001,10.00 to 69.99 acres,Number,1614
+Manitoba,2001,70.00 to 129.99 acres,Number,1264
+Manitoba,2001,130.00 to 179.99 acres,Number,2121
+Manitoba,2001,180.00 to 239.99 acres,Number,663
+Manitoba,2001,240.00 to 399.99 acres,Number,2609
+Manitoba,2001,400.00 to 559.99 acres,Number,1989
+Manitoba,2001,560.00 to 759.99 acres,Number,2074
+Manitoba,2001,760.00 to 1,119.99 acres,Number,2748
+Manitoba,2001,1,120.00 to 1,599.99 acres,Number,2198
+Manitoba,2001,1,600.00 to 2,239.99 acres,Number,1468
+Manitoba,2001,2,240.00 to 2,879.99 acres,Number,755
+Manitoba,2001,2,880.00 to 3,519.99 acres,Number,417
+Manitoba,2001,3,520.00 acres and over,Number,642
+Saskatchewan,2001,Total number of farms,Number,50598
+Saskatchewan,2001,Under 10.00 acres,Number,422
+Saskatchewan,2001,10.00 to 69.99 acres,Number,1218
+Saskatchewan,2001,70.00 to 129.99 acres,Number,1100
+Saskatchewan,2001,130.00 to 179.99 acres,Number,5529
+Saskatchewan,2001,180.00 to 239.99 acres,Number,698
+Saskatchewan,2001,240.00 to 399.99 acres,Number,5633
+Saskatchewan,2001,400.00 to 559.99 acres,Number,4210
+Saskatchewan,2001,560.00 to 759.99 acres,Number,4565
+Saskatchewan,2001,760.00 to 1,119.99 acres,Number,7132
+Saskatchewan,2001,1,120.00 to 1,599.99 acres,Number,7107
+Saskatchewan,2001,1,600.00 to 2,239.99 acres,Number,5610
+Saskatchewan,2001,2,240.00 to 2,879.99 acres,Number,2908
+Saskatchewan,2001,2,880.00 to 3,519.99 acres,Number,1647
+Saskatchewan,2001,3,520.00 acres and over,Number,2819
+Alberta,2001,Total number of farms,Number,53652
+Alberta,2001,Under 10.00 acres,Number,1118
+Alberta,2001,10.00 to 69.99 acres,Number,4098
+Alberta,2001,70.00 to 129.99 acres,Number,3041
+Alberta,2001,130.00 to 179.99 acres,Number,8945
+Alberta,2001,180.00 to 239.99 acres,Number,1388
+Alberta,2001,240.00 to 399.99 acres,Number,7299
+Alberta,2001,400.00 to 559.99 acres,Number,4986
+Alberta,2001,560.00 to 759.99 acres,Number,4600
+Alberta,2001,760.00 to 1,119.99 acres,Number,5625
+Alberta,2001,1,120.00 to 1,599.99 acres,Number,4382
+Alberta,2001,1,600.00 to 2,239.99 acres,Number,3297
+Alberta,2001,2,240.00 to 2,879.99 acres,Number,1594
+Alberta,2001,2,880.00 to 3,519.99 acres,Number,971
+Alberta,2001,3,520.00 acres and over,Number,2308
+British Columbia,2001,Total number of farms,Number,20290
+British Columbia,2001,Under 10.00 acres,Number,5252
+British Columbia,2001,10.00 to 69.99 acres,Number,7418
+British Columbia,2001,70.00 to 129.99 acres,Number,1697
+British Columbia,2001,130.00 to 179.99 acres,Number,1662
+British Columbia,2001,180.00 to 239.99 acres,Number,524
+British Columbia,2001,240.00 to 399.99 acres,Number,1110
+British Columbia,2001,400.00 to 559.99 acres,Number,543
+British Columbia,2001,560.00 to 759.99 acres,Number,460
+British Columbia,2001,760.00 to 1,119.99 acres,Number,485
+British Columbia,2001,1,120.00 to 1,599.99 acres,Number,385
+British Columbia,2001,1,600.00 to 2,239.99 acres,Number,258
+British Columbia,2001,2,240.00 to 2,879.99 acres,Number,134
+British Columbia,2001,2,880.00 to 3,519.99 acres,Number,76
+British Columbia,2001,3,520.00 acres and over,Number,286
+Canada,2006,Total number of farms,Number,229373
+Canada,2006,Under 10.00 acres,Number,13167
+Canada,2006,10.00 to 69.99 acres,Number,35355
+Canada,2006,70.00 to 129.99 acres,Number,26090
+Canada,2006,130.00 to 179.99 acres,Number,24401
+Canada,2006,180.00 to 239.99 acres,Number,13104
+Canada,2006,240.00 to 399.99 acres,Number,28997
+Canada,2006,400.00 to 559.99 acres,Number,17306
+Canada,2006,560.00 to 759.99 acres,Number,14035
+Canada,2006,760.00 to 1,119.99 acres,Number,16128
+Canada,2006,1,120.00 to 1,599.99 acres,Number,13177
+Canada,2006,1,600.00 to 2,239.99 acres,Number,10611
+Canada,2006,2,240.00 to 2,879.99 acres,Number,5820
+Canada,2006,2,880.00 to 3,519.99 acres,Number,3534
+Canada,2006,3,520.00 acres and over,Number,7648
+Newfoundland and Labrador,2006,Total number of farms,Number,558
+Newfoundland and Labrador,2006,Under 10.00 acres,Number,115
+Newfoundland and Labrador,2006,10.00 to 69.99 acres,Number,221
+Newfoundland and Labrador,2006,70.00 to 129.99 acres,Number,77
+Newfoundland and Labrador,2006,130.00 to 179.99 acres,Number,32
+Newfoundland and Labrador,2006,180.00 to 239.99 acres,Number,22
+Newfoundland and Labrador,2006,240.00 to 399.99 acres,Number,38
+Newfoundland and Labrador,2006,400.00 to 559.99 acres,Number,17
+Newfoundland and Labrador,2006,560.00 to 759.99 acres,Number,14
+Newfoundland and Labrador,2006,760.00 to 1,119.99 acres,Number,10
+Newfoundland and Labrador,2006,1,120.00 to 1,599.99 acres,Number,7
+Newfoundland and Labrador,2006,1,600.00 to 2,239.99 acres,Number,2
+Newfoundland and Labrador,2006,2,240.00 to 2,879.99 acres,Number,0
+Newfoundland and Labrador,2006,2,880.00 to 3,519.99 acres,Number,1
+Newfoundland and Labrador,2006,3,520.00 acres and over,Number,2
+Prince Edward Island,2006,Total number of farms,Number,1700
+Prince Edward Island,2006,Under 10.00 acres,Number,85
+Prince Edward Island,2006,10.00 to 69.99 acres,Number,297
+Prince Edward Island,2006,70.00 to 129.99 acres,Number,264
+Prince Edward Island,2006,130.00 to 179.99 acres,Number,155
+Prince Edward Island,2006,180.00 to 239.99 acres,Number,159
+Prince Edward Island,2006,240.00 to 399.99 acres,Number,290
+Prince Edward Island,2006,400.00 to 559.99 acres,Number,148
+Prince Edward Island,2006,560.00 to 759.99 acres,Number,97
+Prince Edward Island,2006,760.00 to 1,119.99 acres,Number,97
+Prince Edward Island,2006,1,120.00 to 1,599.99 acres,Number,45
+Prince Edward Island,2006,1,600.00 to 2,239.99 acres,Number,25
+Prince Edward Island,2006,2,240.00 to 2,879.99 acres,Number,26
+Prince Edward Island,2006,2,880.00 to 3,519.99 acres,Number,10
+Prince Edward Island,2006,3,520.00 acres and over,Number,2
+Nova Scotia,2006,Total number of farms,Number,3795
+Nova Scotia,2006,Under 10.00 acres,Number,319
+Nova Scotia,2006,10.00 to 69.99 acres,Number,845
+Nova Scotia,2006,70.00 to 129.99 acres,Number,568
+Nova Scotia,2006,130.00 to 179.99 acres,Number,328
+Nova Scotia,2006,180.00 to 239.99 acres,Number,353
+Nova Scotia,2006,240.00 to 399.99 acres,Number,609
+Nova Scotia,2006,400.00 to 559.99 acres,Number,345
+Nova Scotia,2006,560.00 to 759.99 acres,Number,183
+Nova Scotia,2006,760.00 to 1,119.99 acres,Number,155
+Nova Scotia,2006,1,120.00 to 1,599.99 acres,Number,51
+Nova Scotia,2006,1,600.00 to 2,239.99 acres,Number,23
+Nova Scotia,2006,2,240.00 to 2,879.99 acres,Number,9
+Nova Scotia,2006,2,880.00 to 3,519.99 acres,Number,1
+Nova Scotia,2006,3,520.00 acres and over,Number,6
+New Brunswick,2006,Total number of farms,Number,2776
+New Brunswick,2006,Under 10.00 acres,Number,193
+New Brunswick,2006,10.00 to 69.99 acres,Number,387
+New Brunswick,2006,70.00 to 129.99 acres,Number,378
+New Brunswick,2006,130.00 to 179.99 acres,Number,240
+New Brunswick,2006,180.00 to 239.99 acres,Number,260
+New Brunswick,2006,240.00 to 399.99 acres,Number,503
+New Brunswick,2006,400.00 to 559.99 acres,Number,307
+New Brunswick,2006,560.00 to 759.99 acres,Number,192
+New Brunswick,2006,760.00 to 1,119.99 acres,Number,188
+New Brunswick,2006,1,120.00 to 1,599.99 acres,Number,65
+New Brunswick,2006,1,600.00 to 2,239.99 acres,Number,39
+New Brunswick,2006,2,240.00 to 2,879.99 acres,Number,8
+New Brunswick,2006,2,880.00 to 3,519.99 acres,Number,6
+New Brunswick,2006,3,520.00 acres and over,Number,10
+Quebec,2006,Total number of farms,Number,30675
+Quebec,2006,Under 10.00 acres,Number,1895
+Quebec,2006,10.00 to 69.99 acres,Number,5188
+Quebec,2006,70.00 to 129.99 acres,Number,4732
+Quebec,2006,130.00 to 179.99 acres,Number,3110
+Quebec,2006,180.00 to 239.99 acres,Number,3535
+Quebec,2006,240.00 to 399.99 acres,Number,5697
+Quebec,2006,400.00 to 559.99 acres,Number,2908
+Quebec,2006,560.00 to 759.99 acres,Number,1595
+Quebec,2006,760.00 to 1,119.99 acres,Number,1175
+Quebec,2006,1,120.00 to 1,599.99 acres,Number,507
+Quebec,2006,1,600.00 to 2,239.99 acres,Number,198
+Quebec,2006,2,240.00 to 2,879.99 acres,Number,79
+Quebec,2006,2,880.00 to 3,519.99 acres,Number,32
+Quebec,2006,3,520.00 acres and over,Number,24
+Ontario,2006,Total number of farms,Number,57211
+Ontario,2006,Under 10.00 acres,Number,3163
+Ontario,2006,10.00 to 69.99 acres,Number,13690
+Ontario,2006,70.00 to 129.99 acres,Number,12857
+Ontario,2006,130.00 to 179.99 acres,Number,5622
+Ontario,2006,180.00 to 239.99 acres,Number,5472
+Ontario,2006,240.00 to 399.99 acres,Number,7554
+Ontario,2006,400.00 to 559.99 acres,Number,3635
+Ontario,2006,560.00 to 759.99 acres,Number,2175
+Ontario,2006,760.00 to 1,119.99 acres,Number,1640
+Ontario,2006,1,120.00 to 1,599.99 acres,Number,762
+Ontario,2006,1,600.00 to 2,239.99 acres,Number,361
+Ontario,2006,2,240.00 to 2,879.99 acres,Number,120
+Ontario,2006,2,880.00 to 3,519.99 acres,Number,66
+Ontario,2006,3,520.00 acres and over,Number,94
+Manitoba,2006,Total number of farms,Number,19054
+Manitoba,2006,Under 10.00 acres,Number,568
+Manitoba,2006,10.00 to 69.99 acres,Number,1629
+Manitoba,2006,70.00 to 129.99 acres,Number,1242
+Manitoba,2006,130.00 to 179.99 acres,Number,1707
+Manitoba,2006,180.00 to 239.99 acres,Number,605
+Manitoba,2006,240.00 to 399.99 acres,Number,2198
+Manitoba,2006,400.00 to 559.99 acres,Number,1673
+Manitoba,2006,560.00 to 759.99 acres,Number,1710
+Manitoba,2006,760.00 to 1,119.99 acres,Number,2123
+Manitoba,2006,1,120.00 to 1,599.99 acres,Number,1879
+Manitoba,2006,1,600.00 to 2,239.99 acres,Number,1567
+Manitoba,2006,2,240.00 to 2,879.99 acres,Number,792
+Manitoba,2006,2,880.00 to 3,519.99 acres,Number,471
+Manitoba,2006,3,520.00 acres and over,Number,890
+Saskatchewan,2006,Total number of farms,Number,44329
+Saskatchewan,2006,Under 10.00 acres,Number,431
+Saskatchewan,2006,10.00 to 69.99 acres,Number,1254
+Saskatchewan,2006,70.00 to 129.99 acres,Number,1084
+Saskatchewan,2006,130.00 to 179.99 acres,Number,4447
+Saskatchewan,2006,180.00 to 239.99 acres,Number,732
+Saskatchewan,2006,240.00 to 399.99 acres,Number,4698
+Saskatchewan,2006,400.00 to 559.99 acres,Number,3542
+Saskatchewan,2006,560.00 to 759.99 acres,Number,3668
+Saskatchewan,2006,760.00 to 1,119.99 acres,Number,5448
+Saskatchewan,2006,1,120.00 to 1,599.99 acres,Number,5589
+Saskatchewan,2006,1,600.00 to 2,239.99 acres,Number,5103
+Saskatchewan,2006,2,240.00 to 2,879.99 acres,Number,2946
+Saskatchewan,2006,2,880.00 to 3,519.99 acres,Number,1795
+Saskatchewan,2006,3,520.00 acres and over,Number,3592
+Alberta,2006,Total number of farms,Number,49431
+Alberta,2006,Under 10.00 acres,Number,1063
+Alberta,2006,10.00 to 69.99 acres,Number,4593
+Alberta,2006,70.00 to 129.99 acres,Number,3262
+Alberta,2006,130.00 to 179.99 acres,Number,7315
+Alberta,2006,180.00 to 239.99 acres,Number,1463
+Alberta,2006,240.00 to 399.99 acres,Number,6386
+Alberta,2006,400.00 to 559.99 acres,Number,4209
+Alberta,2006,560.00 to 759.99 acres,Number,3979
+Alberta,2006,760.00 to 1,119.99 acres,Number,4807
+Alberta,2006,1,120.00 to 1,599.99 acres,Number,3924
+Alberta,2006,1,600.00 to 2,239.99 acres,Number,3012
+Alberta,2006,2,240.00 to 2,879.99 acres,Number,1681
+Alberta,2006,2,880.00 to 3,519.99 acres,Number,1064
+Alberta,2006,3,520.00 acres and over,Number,2673
+British Columbia,2006,Total number of farms,Number,19844
+British Columbia,2006,Under 10.00 acres,Number,5335
+British Columbia,2006,10.00 to 69.99 acres,Number,7251
+British Columbia,2006,70.00 to 129.99 acres,Number,1626
+British Columbia,2006,130.00 to 179.99 acres,Number,1445
+British Columbia,2006,180.00 to 239.99 acres,Number,503
+British Columbia,2006,240.00 to 399.99 acres,Number,1024
+British Columbia,2006,400.00 to 559.99 acres,Number,522
+British Columbia,2006,560.00 to 759.99 acres,Number,422
+British Columbia,2006,760.00 to 1,119.99 acres,Number,485
+British Columbia,2006,1,120.00 to 1,599.99 acres,Number,348
+British Columbia,2006,1,600.00 to 2,239.99 acres,Number,281
+British Columbia,2006,2,240.00 to 2,879.99 acres,Number,159
+British Columbia,2006,2,880.00 to 3,519.99 acres,Number,88
+British Columbia,2006,3,520.00 acres and over,Number,355
+Canada,2011,Total number of farms,Number,205730
+Canada,2011,Under 10.00 acres,Number,12991
+Canada,2011,10.00 to 69.99 acres,Number,32705
+Canada,2011,70.00 to 129.99 acres,Number,24205
+Canada,2011,130.00 to 179.99 acres,Number,21705
+Canada,2011,180.00 to 239.99 acres,Number,11719
+Canada,2011,240.00 to 399.99 acres,Number,24974
+Canada,2011,400.00 to 559.99 acres,Number,15053
+Canada,2011,560.00 to 759.99 acres,Number,11781
+Canada,2011,760.00 to 1,119.99 acres,Number,13413
+Canada,2011,1,120.00 to 1,599.99 acres,Number,10831
+Canada,2011,1,600.00 to 2,239.99 acres,Number,9222
+Canada,2011,2,240.00 to 2,879.99 acres,Number,5230
+Canada,2011,2,880.00 to 3,519.99 acres,Number,3482
+Canada,2011,3,520.00 acres and over,Number,8419
+Newfoundland and Labrador,2011,Total number of farms,Number,510
+Newfoundland and Labrador,2011,Under 10.00 acres,Number,121
+Newfoundland and Labrador,2011,10.00 to 69.99 acres,Number,203
+Newfoundland and Labrador,2011,70.00 to 129.99 acres,Number,72
+Newfoundland and Labrador,2011,130.00 to 179.99 acres,Number,23
+Newfoundland and Labrador,2011,180.00 to 239.99 acres,Number,17
+Newfoundland and Labrador,2011,240.00 to 399.99 acres,Number,26
+Newfoundland and Labrador,2011,400.00 to 559.99 acres,Number,20
+Newfoundland and Labrador,2011,560.00 to 759.99 acres,Number,6
+Newfoundland and Labrador,2011,760.00 to 1,119.99 acres,Number,11
+Newfoundland and Labrador,2011,1,120.00 to 1,599.99 acres,Number,2
+Newfoundland and Labrador,2011,1,600.00 to 2,239.99 acres,Number,3
+Newfoundland and Labrador,2011,2,240.00 to 2,879.99 acres,Number,4
+Newfoundland and Labrador,2011,2,880.00 to 3,519.99 acres,Number,1
+Newfoundland and Labrador,2011,3,520.00 acres and over,Number,1
+Prince Edward Island,2011,Total number of farms,Number,1495
+Prince Edward Island,2011,Under 10.00 acres,Number,70
+Prince Edward Island,2011,10.00 to 69.99 acres,Number,275
+Prince Edward Island,2011,70.00 to 129.99 acres,Number,225
+Prince Edward Island,2011,130.00 to 179.99 acres,Number,141
+Prince Edward Island,2011,180.00 to 239.99 acres,Number,128
+Prince Edward Island,2011,240.00 to 399.99 acres,Number,238
+Prince Edward Island,2011,400.00 to 559.99 acres,Number,110
+Prince Edward Island,2011,560.00 to 759.99 acres,Number,89
+Prince Edward Island,2011,760.00 to 1,119.99 acres,Number,99
+Prince Edward Island,2011,1,120.00 to 1,599.99 acres,Number,47
+Prince Edward Island,2011,1,600.00 to 2,239.99 acres,Number,36
+Prince Edward Island,2011,2,240.00 to 2,879.99 acres,Number,21
+Prince Edward Island,2011,2,880.00 to 3,519.99 acres,Number,11
+Prince Edward Island,2011,3,520.00 acres and over,Number,5
+Nova Scotia,2011,Total number of farms,Number,3905
+Nova Scotia,2011,Under 10.00 acres,Number,406
+Nova Scotia,2011,10.00 to 69.99 acres,Number,907
+Nova Scotia,2011,70.00 to 129.99 acres,Number,637
+Nova Scotia,2011,130.00 to 179.99 acres,Number,317
+Nova Scotia,2011,180.00 to 239.99 acres,Number,343
+Nova Scotia,2011,240.00 to 399.99 acres,Number,574
+Nova Scotia,2011,400.00 to 559.99 acres,Number,302
+Nova Scotia,2011,560.00 to 759.99 acres,Number,192
+Nova Scotia,2011,760.00 to 1,119.99 acres,Number,137
+Nova Scotia,2011,1,120.00 to 1,599.99 acres,Number,48
+Nova Scotia,2011,1,600.00 to 2,239.99 acres,Number,21
+Nova Scotia,2011,2,240.00 to 2,879.99 acres,Number,6
+Nova Scotia,2011,2,880.00 to 3,519.99 acres,Number,4
+Nova Scotia,2011,3,520.00 acres and over,Number,11
+New Brunswick,2011,Total number of farms,Number,2611
+New Brunswick,2011,Under 10.00 acres,Number,187
+New Brunswick,2011,10.00 to 69.99 acres,Number,420
+New Brunswick,2011,70.00 to 129.99 acres,Number,389
+New Brunswick,2011,130.00 to 179.99 acres,Number,198
+New Brunswick,2011,180.00 to 239.99 acres,Number,249
+New Brunswick,2011,240.00 to 399.99 acres,Number,408
+New Brunswick,2011,400.00 to 559.99 acres,Number,290
+New Brunswick,2011,560.00 to 759.99 acres,Number,174
+New Brunswick,2011,760.00 to 1,119.99 acres,Number,154
+New Brunswick,2011,1,120.00 to 1,599.99 acres,Number,70
+New Brunswick,2011,1,600.00 to 2,239.99 acres,Number,41
+New Brunswick,2011,2,240.00 to 2,879.99 acres,Number,11
+New Brunswick,2011,2,880.00 to 3,519.99 acres,Number,3
+New Brunswick,2011,3,520.00 acres and over,Number,17
+Quebec,2011,Total number of farms,Number,29437
+Quebec,2011,Under 10.00 acres,Number,1956
+Quebec,2011,10.00 to 69.99 acres,Number,5152
+Quebec,2011,70.00 to 129.99 acres,Number,4617
+Quebec,2011,130.00 to 179.99 acres,Number,2914
+Quebec,2011,180.00 to 239.99 acres,Number,3221
+Quebec,2011,240.00 to 399.99 acres,Number,5291
+Quebec,2011,400.00 to 559.99 acres,Number,2735
+Quebec,2011,560.00 to 759.99 acres,Number,1522
+Quebec,2011,760.00 to 1,119.99 acres,Number,1165
+Quebec,2011,1,120.00 to 1,599.99 acres,Number,503
+Quebec,2011,1,600.00 to 2,239.99 acres,Number,217
+Quebec,2011,2,240.00 to 2,879.99 acres,Number,83
+Quebec,2011,2,880.00 to 3,519.99 acres,Number,27
+Quebec,2011,3,520.00 acres and over,Number,34
+Ontario,2011,Total number of farms,Number,51950
+Ontario,2011,Under 10.00 acres,Number,2741
+Ontario,2011,10.00 to 69.99 acres,Number,12681
+Ontario,2011,70.00 to 129.99 acres,Number,11779
+Ontario,2011,130.00 to 179.99 acres,Number,4969
+Ontario,2011,180.00 to 239.99 acres,Number,4801
+Ontario,2011,240.00 to 399.99 acres,Number,6460
+Ontario,2011,400.00 to 559.99 acres,Number,3359
+Ontario,2011,560.00 to 759.99 acres,Number,2026
+Ontario,2011,760.00 to 1,119.99 acres,Number,1587
+Ontario,2011,1,120.00 to 1,599.99 acres,Number,788
+Ontario,2011,1,600.00 to 2,239.99 acres,Number,436
+Ontario,2011,2,240.00 to 2,879.99 acres,Number,152
+Ontario,2011,2,880.00 to 3,519.99 acres,Number,79
+Ontario,2011,3,520.00 acres and over,Number,92
+Manitoba,2011,Total number of farms,Number,15877
+Manitoba,2011,Under 10.00 acres,Number,462
+Manitoba,2011,10.00 to 69.99 acres,Number,1324
+Manitoba,2011,70.00 to 129.99 acres,Number,957
+Manitoba,2011,130.00 to 179.99 acres,Number,1421
+Manitoba,2011,180.00 to 239.99 acres,Number,520
+Manitoba,2011,240.00 to 399.99 acres,Number,1674
+Manitoba,2011,400.00 to 559.99 acres,Number,1296
+Manitoba,2011,560.00 to 759.99 acres,Number,1311
+Manitoba,2011,760.00 to 1,119.99 acres,Number,1777
+Manitoba,2011,1,120.00 to 1,599.99 acres,Number,1557
+Manitoba,2011,1,600.00 to 2,239.99 acres,Number,1359
+Manitoba,2011,2,240.00 to 2,879.99 acres,Number,716
+Manitoba,2011,2,880.00 to 3,519.99 acres,Number,508
+Manitoba,2011,3,520.00 acres and over,Number,995
+Saskatchewan,2011,Total number of farms,Number,36952
+Saskatchewan,2011,Under 10.00 acres,Number,345
+Saskatchewan,2011,10.00 to 69.99 acres,Number,967
+Saskatchewan,2011,70.00 to 129.99 acres,Number,975
+Saskatchewan,2011,130.00 to 179.99 acres,Number,3780
+Saskatchewan,2011,180.00 to 239.99 acres,Number,632
+Saskatchewan,2011,240.00 to 399.99 acres,Number,3969
+Saskatchewan,2011,400.00 to 559.99 acres,Number,2755
+Saskatchewan,2011,560.00 to 759.99 acres,Number,2808
+Saskatchewan,2011,760.00 to 1,119.99 acres,Number,4066
+Saskatchewan,2011,1,120.00 to 1,599.99 acres,Number,4146
+Saskatchewan,2011,1,600.00 to 2,239.99 acres,Number,4152
+Saskatchewan,2011,2,240.00 to 2,879.99 acres,Number,2521
+Saskatchewan,2011,2,880.00 to 3,519.99 acres,Number,1724
+Saskatchewan,2011,3,520.00 acres and over,Number,4112
+Alberta,2011,Total number of farms,Number,43234
+Alberta,2011,Under 10.00 acres,Number,879
+Alberta,2011,10.00 to 69.99 acres,Number,3638
+Alberta,2011,70.00 to 129.99 acres,Number,3030
+Alberta,2011,130.00 to 179.99 acres,Number,6581
+Alberta,2011,180.00 to 239.99 acres,Number,1336
+Alberta,2011,240.00 to 399.99 acres,Number,5395
+Alberta,2011,400.00 to 559.99 acres,Number,3653
+Alberta,2011,560.00 to 759.99 acres,Number,3258
+Alberta,2011,760.00 to 1,119.99 acres,Number,3997
+Alberta,2011,1,120.00 to 1,599.99 acres,Number,3335
+Alberta,2011,1,600.00 to 2,239.99 acres,Number,2694
+Alberta,2011,2,240.00 to 2,879.99 acres,Number,1575
+Alberta,2011,2,880.00 to 3,519.99 acres,Number,1025
+Alberta,2011,3,520.00 acres and over,Number,2838
+British Columbia,2011,Total number of farms,Number,19759
+British Columbia,2011,Under 10.00 acres,Number,5824
+British Columbia,2011,10.00 to 69.99 acres,Number,7138
+British Columbia,2011,70.00 to 129.99 acres,Number,1524
+British Columbia,2011,130.00 to 179.99 acres,Number,1361
+British Columbia,2011,180.00 to 239.99 acres,Number,472
+British Columbia,2011,240.00 to 399.99 acres,Number,939
+British Columbia,2011,400.00 to 559.99 acres,Number,533
+British Columbia,2011,560.00 to 759.99 acres,Number,395
+British Columbia,2011,760.00 to 1,119.99 acres,Number,420
+British Columbia,2011,1,120.00 to 1,599.99 acres,Number,335
+British Columbia,2011,1,600.00 to 2,239.99 acres,Number,263
+British Columbia,2011,2,240.00 to 2,879.99 acres,Number,141
+British Columbia,2011,2,880.00 to 3,519.99 acres,Number,100
+British Columbia,2011,3,520.00 acres and over,Number,314
+Canada,2016,Total number of farms,Number,193492
+Canada,2016,Under 10.00 acres,Number,13193
+Canada,2016,10.00 to 69.99 acres,Number,32036
+Canada,2016,70.00 to 129.99 acres,Number,22494
+Canada,2016,130.00 to 179.99 acres,Number,20148
+Canada,2016,180.00 to 239.99 acres,Number,10644
+Canada,2016,240.00 to 399.99 acres,Number,22986
+Canada,2016,400.00 to 559.99 acres,Number,13645
+Canada,2016,560.00 to 759.99 acres,Number,10792
+Canada,2016,760.00 to 1,119.99 acres,Number,12143
+Canada,2016,1,120.00 to 1,599.99 acres,Number,9640
+Canada,2016,1,600.00 to 2,239.99 acres,Number,8335
+Canada,2016,2,240.00 to 2,879.99 acres,Number,4982
+Canada,2016,2,880.00 to 3,519.99 acres,Number,3365
+Canada,2016,3,520.00 acres and over,Number,9089
+Newfoundland and Labrador,2016,Total number of farms,Number,407
+Newfoundland and Labrador,2016,Under 10.00 acres,Number,93
+Newfoundland and Labrador,2016,10.00 to 69.99 acres,Number,144
+Newfoundland and Labrador,2016,70.00 to 129.99 acres,Number,62
+Newfoundland and Labrador,2016,130.00 to 179.99 acres,Number,24
+Newfoundland and Labrador,2016,180.00 to 239.99 acres,Number,21
+Newfoundland and Labrador,2016,240.00 to 399.99 acres,Number,24
+Newfoundland and Labrador,2016,400.00 to 559.99 acres,Number,12
+Newfoundland and Labrador,2016,560.00 to 759.99 acres,Number,5
+Newfoundland and Labrador,2016,760.00 to 1,119.99 acres,Number,10
+Newfoundland and Labrador,2016,1,120.00 to 1,599.99 acres,Number,2
+Newfoundland and Labrador,2016,1,600.00 to 2,239.99 acres,Number,6
+Newfoundland and Labrador,2016,2,240.00 to 2,879.99 acres,Number,2
+Newfoundland and Labrador,2016,2,880.00 to 3,519.99 acres,Number,1
+Newfoundland and Labrador,2016,3,520.00 acres and over,Number,1
+Prince Edward Island,2016,Total number of farms,Number,1353
+Prince Edward Island,2016,Under 10.00 acres,Number,64
+Prince Edward Island,2016,10.00 to 69.99 acres,Number,253
+Prince Edward Island,2016,70.00 to 129.99 acres,Number,195
+Prince Edward Island,2016,130.00 to 179.99 acres,Number,116
+Prince Edward Island,2016,180.00 to 239.99 acres,Number,115
+Prince Edward Island,2016,240.00 to 399.99 acres,Number,207
+Prince Edward Island,2016,400.00 to 559.99 acres,Number,106
+Prince Edward Island,2016,560.00 to 759.99 acres,Number,87
+Prince Edward Island,2016,760.00 to 1,119.99 acres,Number,82
+Prince Edward Island,2016,1,120.00 to 1,599.99 acres,Number,53
+Prince Edward Island,2016,1,600.00 to 2,239.99 acres,Number,29
+Prince Edward Island,2016,2,240.00 to 2,879.99 acres,Number,27
+Prince Edward Island,2016,2,880.00 to 3,519.99 acres,Number,13
+Prince Edward Island,2016,3,520.00 acres and over,Number,6
+Nova Scotia,2016,Total number of farms,Number,3478
+Nova Scotia,2016,Under 10.00 acres,Number,413
+Nova Scotia,2016,10.00 to 69.99 acres,Number,856
+Nova Scotia,2016,70.00 to 129.99 acres,Number,501
+Nova Scotia,2016,130.00 to 179.99 acres,Number,280
+Nova Scotia,2016,180.00 to 239.99 acres,Number,295
+Nova Scotia,2016,240.00 to 399.99 acres,Number,471
+Nova Scotia,2016,400.00 to 559.99 acres,Number,310
+Nova Scotia,2016,560.00 to 759.99 acres,Number,148
+Nova Scotia,2016,760.00 to 1,119.99 acres,Number,111
+Nova Scotia,2016,1,120.00 to 1,599.99 acres,Number,43
+Nova Scotia,2016,1,600.00 to 2,239.99 acres,Number,28
+Nova Scotia,2016,2,240.00 to 2,879.99 acres,Number,6
+Nova Scotia,2016,2,880.00 to 3,519.99 acres,Number,8
+Nova Scotia,2016,3,520.00 acres and over,Number,8
+New Brunswick,2016,Total number of farms,Number,2255
+New Brunswick,2016,Under 10.00 acres,Number,200
+New Brunswick,2016,10.00 to 69.99 acres,Number,402
+New Brunswick,2016,70.00 to 129.99 acres,Number,280
+New Brunswick,2016,130.00 to 179.99 acres,Number,184
+New Brunswick,2016,180.00 to 239.99 acres,Number,202
+New Brunswick,2016,240.00 to 399.99 acres,Number,362
+New Brunswick,2016,400.00 to 559.99 acres,Number,211
+New Brunswick,2016,560.00 to 759.99 acres,Number,143
+New Brunswick,2016,760.00 to 1,119.99 acres,Number,136
+New Brunswick,2016,1,120.00 to 1,599.99 acres,Number,60
+New Brunswick,2016,1,600.00 to 2,239.99 acres,Number,39
+New Brunswick,2016,2,240.00 to 2,879.99 acres,Number,14
+New Brunswick,2016,2,880.00 to 3,519.99 acres,Number,3
+New Brunswick,2016,3,520.00 acres and over,Number,19
+Quebec,2016,Total number of farms,Number,28919
+Quebec,2016,Under 10.00 acres,Number,2137
+Quebec,2016,10.00 to 69.99 acres,Number,5514
+Quebec,2016,70.00 to 129.99 acres,Number,4704
+Quebec,2016,130.00 to 179.99 acres,Number,2728
+Quebec,2016,180.00 to 239.99 acres,Number,2875
+Quebec,2016,240.00 to 399.99 acres,Number,4779
+Quebec,2016,400.00 to 559.99 acres,Number,2539
+Quebec,2016,560.00 to 759.99 acres,Number,1514
+Quebec,2016,760.00 to 1,119.99 acres,Number,1195
+Quebec,2016,1,120.00 to 1,599.99 acres,Number,514
+Quebec,2016,1,600.00 to 2,239.99 acres,Number,261
+Quebec,2016,2,240.00 to 2,879.99 acres,Number,96
+Quebec,2016,2,880.00 to 3,519.99 acres,Number,34
+Quebec,2016,3,520.00 acres and over,Number,29
+Ontario,2016,Total number of farms,Number,49600
+Ontario,2016,Under 10.00 acres,Number,3051
+Ontario,2016,10.00 to 69.99 acres,Number,12625
+Ontario,2016,70.00 to 129.99 acres,Number,10742
+Ontario,2016,130.00 to 179.99 acres,Number,4592
+Ontario,2016,180.00 to 239.99 acres,Number,4282
+Ontario,2016,240.00 to 399.99 acres,Number,6008
+Ontario,2016,400.00 to 559.99 acres,Number,3093
+Ontario,2016,560.00 to 759.99 acres,Number,1990
+Ontario,2016,760.00 to 1,119.99 acres,Number,1593
+Ontario,2016,1,120.00 to 1,599.99 acres,Number,801
+Ontario,2016,1,600.00 to 2,239.99 acres,Number,457
+Ontario,2016,2,240.00 to 2,879.99 acres,Number,168
+Ontario,2016,2,880.00 to 3,519.99 acres,Number,88
+Ontario,2016,3,520.00 acres and over,Number,110
+Manitoba,2016,Total number of farms,Number,14791
+Manitoba,2016,Under 10.00 acres,Number,396
+Manitoba,2016,10.00 to 69.99 acres,Number,1273
+Manitoba,2016,70.00 to 129.99 acres,Number,930
+Manitoba,2016,130.00 to 179.99 acres,Number,1323
+Manitoba,2016,180.00 to 239.99 acres,Number,488
+Manitoba,2016,240.00 to 399.99 acres,Number,1676
+Manitoba,2016,400.00 to 559.99 acres,Number,1171
+Manitoba,2016,560.00 to 759.99 acres,Number,1061
+Manitoba,2016,760.00 to 1,119.99 acres,Number,1569
+Manitoba,2016,1,120.00 to 1,599.99 acres,Number,1388
+Manitoba,2016,1,600.00 to 2,239.99 acres,Number,1275
+Manitoba,2016,2,240.00 to 2,879.99 acres,Number,674
+Manitoba,2016,2,880.00 to 3,519.99 acres,Number,494
+Manitoba,2016,3,520.00 acres and over,Number,1073
+Saskatchewan,2016,Total number of farms,Number,34523
+Saskatchewan,2016,Under 10.00 acres,Number,334
+Saskatchewan,2016,10.00 to 69.99 acres,Number,1069
+Saskatchewan,2016,70.00 to 129.99 acres,Number,1008
+Saskatchewan,2016,130.00 to 179.99 acres,Number,3722
+Saskatchewan,2016,180.00 to 239.99 acres,Number,668
+Saskatchewan,2016,240.00 to 399.99 acres,Number,3664
+Saskatchewan,2016,400.00 to 559.99 acres,Number,2501
+Saskatchewan,2016,560.00 to 759.99 acres,Number,2580
+Saskatchewan,2016,760.00 to 1,119.99 acres,Number,3521
+Saskatchewan,2016,1,120.00 to 1,599.99 acres,Number,3490
+Saskatchewan,2016,1,600.00 to 2,239.99 acres,Number,3516
+Saskatchewan,2016,2,240.00 to 2,879.99 acres,Number,2360
+Saskatchewan,2016,2,880.00 to 3,519.99 acres,Number,1595
+Saskatchewan,2016,3,520.00 acres and over,Number,4495
+Alberta,2016,Total number of farms,Number,40638
+Alberta,2016,Under 10.00 acres,Number,1018
+Alberta,2016,10.00 to 69.99 acres,Number,3702
+Alberta,2016,70.00 to 129.99 acres,Number,2824
+Alberta,2016,130.00 to 179.99 acres,Number,6045
+Alberta,2016,180.00 to 239.99 acres,Number,1289
+Alberta,2016,240.00 to 399.99 acres,Number,4918
+Alberta,2016,400.00 to 559.99 acres,Number,3257
+Alberta,2016,560.00 to 759.99 acres,Number,2947
+Alberta,2016,760.00 to 1,119.99 acres,Number,3565
+Alberta,2016,1,120.00 to 1,599.99 acres,Number,3012
+Alberta,2016,1,600.00 to 2,239.99 acres,Number,2529
+Alberta,2016,2,240.00 to 2,879.99 acres,Number,1497
+Alberta,2016,2,880.00 to 3,519.99 acres,Number,1027
+Alberta,2016,3,520.00 acres and over,Number,3008
+British Columbia,2016,Total number of farms,Number,17528
+British Columbia,2016,Under 10.00 acres,Number,5487
+British Columbia,2016,10.00 to 69.99 acres,Number,6198
+British Columbia,2016,70.00 to 129.99 acres,Number,1248
+British Columbia,2016,130.00 to 179.99 acres,Number,1134
+British Columbia,2016,180.00 to 239.99 acres,Number,409
+British Columbia,2016,240.00 to 399.99 acres,Number,877
+British Columbia,2016,400.00 to 559.99 acres,Number,445
+British Columbia,2016,560.00 to 759.99 acres,Number,317
+British Columbia,2016,760.00 to 1,119.99 acres,Number,361
+British Columbia,2016,1,120.00 to 1,599.99 acres,Number,277
+British Columbia,2016,1,600.00 to 2,239.99 acres,Number,195
+British Columbia,2016,2,240.00 to 2,879.99 acres,Number,138
+British Columbia,2016,2,880.00 to 3,519.99 acres,Number,102
+British Columbia,2016,3,520.00 acres and over,Number,340
+Canada,2021,Total number of farms,Number,189874
+Canada,2021,Under 10.00 acres,Number,13607
+Canada,2021,10.00 to 69.99 acres,Number,32001
+Canada,2021,70.00 to 129.99 acres,Number,23470
+Canada,2021,130.00 to 179.99 acres,Number,19838
+Canada,2021,180.00 to 239.99 acres,Number,10365
+Canada,2021,240.00 to 399.99 acres,Number,21587
+Canada,2021,400.00 to 559.99 acres,Number,13235
+Canada,2021,560.00 to 759.99 acres,Number,10338
+Canada,2021,760.00 to 1,119.99 acres,Number,11684
+Canada,2021,1,120.00 to 1,599.99 acres,Number,8962
+Canada,2021,1,600.00 to 2,239.99 acres,Number,7821
+Canada,2021,2,240.00 to 2,879.99 acres,Number,4619
+Canada,2021,2,880.00 to 3,519.99 acres,Number,3227
+Canada,2021,3,520.00 acres and over,Number,9120
+Newfoundland and Labrador,2021,Total number of farms,Number,344
+Newfoundland and Labrador,2021,Under 10.00 acres,Number,101
+Newfoundland and Labrador,2021,10.00 to 69.99 acres,Number,135
+Newfoundland and Labrador,2021,70.00 to 129.99 acres,Number,28
+Newfoundland and Labrador,2021,130.00 to 179.99 acres,Number,13
+Newfoundland and Labrador,2021,180.00 to 239.99 acres,Number,10
+Newfoundland and Labrador,2021,240.00 to 399.99 acres,Number,21
+Newfoundland and Labrador,2021,400.00 to 559.99 acres,Number,14
+Newfoundland and Labrador,2021,560.00 to 759.99 acres,Number,9
+Newfoundland and Labrador,2021,760.00 to 1,119.99 acres,Number,5
+Newfoundland and Labrador,2021,1,120.00 to 1,599.99 acres,Number,4
+Newfoundland and Labrador,2021,1,600.00 to 2,239.99 acres,Number,3
+Newfoundland and Labrador,2021,2,240.00 to 2,879.99 acres,Number,0
+Newfoundland and Labrador,2021,2,880.00 to 3,519.99 acres,Number,0
+Newfoundland and Labrador,2021,3,520.00 acres and over,Number,1
+Prince Edward Island,2021,Total number of farms,Number,1195
+Prince Edward Island,2021,Under 10.00 acres,Number,82
+Prince Edward Island,2021,10.00 to 69.99 acres,Number,221
+Prince Edward Island,2021,70.00 to 129.99 acres,Number,183
+Prince Edward Island,2021,130.00 to 179.99 acres,Number,106
+Prince Edward Island,2021,180.00 to 239.99 acres,Number,82
+Prince Edward Island,2021,240.00 to 399.99 acres,Number,169
+Prince Edward Island,2021,400.00 to 559.99 acres,Number,93
+Prince Edward Island,2021,560.00 to 759.99 acres,Number,67
+Prince Edward Island,2021,760.00 to 1,119.99 acres,Number,73
+Prince Edward Island,2021,1,120.00 to 1,599.99 acres,Number,50
+Prince Edward Island,2021,1,600.00 to 2,239.99 acres,Number,30
+Prince Edward Island,2021,2,240.00 to 2,879.99 acres,Number,22
+Prince Edward Island,2021,2,880.00 to 3,519.99 acres,Number,10
+Prince Edward Island,2021,3,520.00 acres and over,Number,7
+Nova Scotia,2021,Total number of farms,Number,2741
+Nova Scotia,2021,Under 10.00 acres,Number,333
+Nova Scotia,2021,10.00 to 69.99 acres,Number,710
+Nova Scotia,2021,70.00 to 129.99 acres,Number,387
+Nova Scotia,2021,130.00 to 179.99 acres,Number,215
+Nova Scotia,2021,180.00 to 239.99 acres,Number,229
+Nova Scotia,2021,240.00 to 399.99 acres,Number,364
+Nova Scotia,2021,400.00 to 559.99 acres,Number,211
+Nova Scotia,2021,560.00 to 759.99 acres,Number,112
+Nova Scotia,2021,760.00 to 1,119.99 acres,Number,114
+Nova Scotia,2021,1,120.00 to 1,599.99 acres,Number,30
+Nova Scotia,2021,1,600.00 to 2,239.99 acres,Number,20
+Nova Scotia,2021,2,240.00 to 2,879.99 acres,Number,6
+Nova Scotia,2021,2,880.00 to 3,519.99 acres,Number,2
+Nova Scotia,2021,3,520.00 acres and over,Number,8
+New Brunswick,2021,Total number of farms,Number,1851
+New Brunswick,2021,Under 10.00 acres,Number,194
+New Brunswick,2021,10.00 to 69.99 acres,Number,361
+New Brunswick,2021,70.00 to 129.99 acres,Number,222
+New Brunswick,2021,130.00 to 179.99 acres,Number,133
+New Brunswick,2021,180.00 to 239.99 acres,Number,151
+New Brunswick,2021,240.00 to 399.99 acres,Number,287
+New Brunswick,2021,400.00 to 559.99 acres,Number,159
+New Brunswick,2021,560.00 to 759.99 acres,Number,126
+New Brunswick,2021,760.00 to 1,119.99 acres,Number,106
+New Brunswick,2021,1,120.00 to 1,599.99 acres,Number,51
+New Brunswick,2021,1,600.00 to 2,239.99 acres,Number,31
+New Brunswick,2021,2,240.00 to 2,879.99 acres,Number,10
+New Brunswick,2021,2,880.00 to 3,519.99 acres,Number,8
+New Brunswick,2021,3,520.00 acres and over,Number,12
+Quebec,2021,Total number of farms,Number,29380
+Quebec,2021,Under 10.00 acres,Number,2668
+Quebec,2021,10.00 to 69.99 acres,Number,6117
+Quebec,2021,70.00 to 129.99 acres,Number,4923
+Quebec,2021,130.00 to 179.99 acres,Number,2780
+Quebec,2021,180.00 to 239.99 acres,Number,2854
+Quebec,2021,240.00 to 399.99 acres,Number,4199
+Quebec,2021,400.00 to 559.99 acres,Number,2303
+Quebec,2021,560.00 to 759.99 acres,Number,1431
+Quebec,2021,760.00 to 1,119.99 acres,Number,1179
+Quebec,2021,1,120.00 to 1,599.99 acres,Number,519
+Quebec,2021,1,600.00 to 2,239.99 acres,Number,250
+Quebec,2021,2,240.00 to 2,879.99 acres,Number,91
+Quebec,2021,2,880.00 to 3,519.99 acres,Number,33
+Quebec,2021,3,520.00 acres and over,Number,33
+Ontario,2021,Total number of farms,Number,48346
+Ontario,2021,Under 10.00 acres,Number,3217
+Ontario,2021,10.00 to 69.99 acres,Number,12686
+Ontario,2021,70.00 to 129.99 acres,Number,10924
+Ontario,2021,130.00 to 179.99 acres,Number,4422
+Ontario,2021,180.00 to 239.99 acres,Number,3981
+Ontario,2021,240.00 to 399.99 acres,Number,5396
+Ontario,2021,400.00 to 559.99 acres,Number,2865
+Ontario,2021,560.00 to 759.99 acres,Number,1698
+Ontario,2021,760.00 to 1,119.99 acres,Number,1600
+Ontario,2021,1,120.00 to 1,599.99 acres,Number,720
+Ontario,2021,1,600.00 to 2,239.99 acres,Number,451
+Ontario,2021,2,240.00 to 2,879.99 acres,Number,173
+Ontario,2021,2,880.00 to 3,519.99 acres,Number,95
+Ontario,2021,3,520.00 acres and over,Number,118
+Manitoba,2021,Total number of farms,Number,14543
+Manitoba,2021,Under 10.00 acres,Number,475
+Manitoba,2021,10.00 to 69.99 acres,Number,1274
+Manitoba,2021,70.00 to 129.99 acres,Number,1014
+Manitoba,2021,130.00 to 179.99 acres,Number,1233
+Manitoba,2021,180.00 to 239.99 acres,Number,493
+Manitoba,2021,240.00 to 399.99 acres,Number,1631
+Manitoba,2021,400.00 to 559.99 acres,Number,1191
+Manitoba,2021,560.00 to 759.99 acres,Number,1111
+Manitoba,2021,760.00 to 1,119.99 acres,Number,1374
+Manitoba,2021,1,120.00 to 1,599.99 acres,Number,1309
+Manitoba,2021,1,600.00 to 2,239.99 acres,Number,1195
+Manitoba,2021,2,240.00 to 2,879.99 acres,Number,690
+Manitoba,2021,2,880.00 to 3,519.99 acres,Number,481
+Manitoba,2021,3,520.00 acres and over,Number,1072
+Saskatchewan,2021,Total number of farms,Number,34128
+Saskatchewan,2021,Under 10.00 acres,Number,386
+Saskatchewan,2021,10.00 to 69.99 acres,Number,1310
+Saskatchewan,2021,70.00 to 129.99 acres,Number,1456
+Saskatchewan,2021,130.00 to 179.99 acres,Number,3639
+Saskatchewan,2021,180.00 to 239.99 acres,Number,767
+Saskatchewan,2021,240.00 to 399.99 acres,Number,3629
+Saskatchewan,2021,400.00 to 559.99 acres,Number,2522
+Saskatchewan,2021,560.00 to 759.99 acres,Number,2504
+Saskatchewan,2021,760.00 to 1,119.99 acres,Number,3432
+Saskatchewan,2021,1,120.00 to 1,599.99 acres,Number,3124
+Saskatchewan,2021,1,600.00 to 2,239.99 acres,Number,3157
+Saskatchewan,2021,2,240.00 to 2,879.99 acres,Number,2014
+Saskatchewan,2021,2,880.00 to 3,519.99 acres,Number,1544
+Saskatchewan,2021,3,520.00 acres and over,Number,4644
+Alberta,2021,Total number of farms,Number,41505
+Alberta,2021,Under 10.00 acres,Number,1050
+Alberta,2021,10.00 to 69.99 acres,Number,3865
+Alberta,2021,70.00 to 129.99 acres,Number,3132
+Alberta,2021,130.00 to 179.99 acres,Number,6200
+Alberta,2021,180.00 to 239.99 acres,Number,1424
+Alberta,2021,240.00 to 399.99 acres,Number,5094
+Alberta,2021,400.00 to 559.99 acres,Number,3462
+Alberta,2021,560.00 to 759.99 acres,Number,2974
+Alberta,2021,760.00 to 1,119.99 acres,Number,3466
+Alberta,2021,1,120.00 to 1,599.99 acres,Number,2919
+Alberta,2021,1,600.00 to 2,239.99 acres,Number,2465
+Alberta,2021,2,240.00 to 2,879.99 acres,Number,1500
+Alberta,2021,2,880.00 to 3,519.99 acres,Number,979
+Alberta,2021,3,520.00 acres and over,Number,2975
+British Columbia,2021,Total number of farms,Number,15841
+British Columbia,2021,Under 10.00 acres,Number,5101
+British Columbia,2021,10.00 to 69.99 acres,Number,5322
+British Columbia,2021,70.00 to 129.99 acres,Number,1201
+British Columbia,2021,130.00 to 179.99 acres,Number,1097
+British Columbia,2021,180.00 to 239.99 acres,Number,374
+British Columbia,2021,240.00 to 399.99 acres,Number,797
+British Columbia,2021,400.00 to 559.99 acres,Number,415
+British Columbia,2021,560.00 to 759.99 acres,Number,306
+British Columbia,2021,760.00 to 1,119.99 acres,Number,335
+British Columbia,2021,1,120.00 to 1,599.99 acres,Number,236
+British Columbia,2021,1,600.00 to 2,239.99 acres,Number,219
+British Columbia,2021,2,240.00 to 2,879.99 acres,Number,113
+British Columbia,2021,2,880.00 to 3,519.99 acres,Number,75
+British Columbia,2021,3,520.00 acres and over,Number,250

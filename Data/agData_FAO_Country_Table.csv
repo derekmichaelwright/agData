@@ -1,0 +1,254 @@
+FAO_TABLE_NAME,Country,ISO2,ISO3,Lat,Lon,Region,SubRegion,DVDDVG
+Afghanistan,Afghanistan,AF,AFG,33.83523216,66.00473115,Asia,Southern Asia,Developing
+Åland Islands,Åland Islands,AX,ALA,NA,NA,Europe,Northern Europe,Developed
+Albania,Albania,AL,ALB,41.14245128,20.04983034,Europe,Southern Europe,Developed
+Algeria,Algeria,DZ,DZA,28.15893844,2.61732102,Africa,Northern Africa,Developing
+American Samoa,American Samoa,AS,ASM,-14.30448922,-170.7180186,Oceania,Polynesia,Developing
+Andorra,Andorra,AD,AND,42.54229174,1.56053368,Europe,Southern Europe,Developed
+Angola,Angola,AO,AGO,-12.29336112,17.53736149,Africa,Middle Africa,Developing
+Anguilla,Anguilla,AI,AIA,18.22396692,-63.06498464,Americas,Caribbean,Developing
+Antigua and Barbuda,Antigua and Barbuda,AG,ATG,17.27754256,-61.7946956,Americas,Caribbean,Developing
+Argentina,Argentina,AR,ARG,-35.38135347,-65.17980881,Americas,South America,Developing
+Armenia,Armenia,AM,ARM,40.28952206,44.9299343,Asia,Western Asia,Developing
+Aruba,Aruba,AW,ABW,12.52088881,-69.98267466,Americas,Caribbean,Developing
+Australia,Australia,AU,AUS,-25.73288736,134.49099877,Oceania,Australia and New Zealand,Developed
+Austria,Austria,AT,AUT,47.58549847,14.12647809,Europe,Western Europe,Developed
+Azerbaijan,Azerbaijan,AZ,AZE,40.28827674,47.54599646,Asia,Western Asia,Developing
+Bahamas,Bahamas,BS,BHS,24.59,-77.96,Americas,Caribbean,Developing
+Bahrain,Bahrain,BH,BHR,26.04200845,50.54197759,Asia,Western Asia,Developing
+Bangladesh,Bangladesh,BD,BGD,23.86730412,90.23812793,Asia,Southern Asia,Developing
+Barbados,Barbados,BB,BRB,13.18145371,-59.55980198,Americas,Caribbean,Developing
+Belarus,Belarus,BY,BLR,53.53131155,28.03208711,Europe,Eastern Europe,Developed
+Belgium,Belgium,BE,BEL,50.63981435,4.64064572,Europe,Western Europe,Developed
+Belgium-Luxembourg,Belgium-Luxembourg,BE,BEL,49.95,5.46,Europe,Western Europe,Developed
+Belize,Belize,BZ,BLZ,17.20027475,-88.71010228,Americas,Central America,Developing
+Benin,Benin,BJ,BEN,9.6417533,2.32784527,Africa,Western Africa,Developing
+Bermuda,Bermuda,BM,BMU,32.31368594,-64.75454185,Americas,Northern America,Developed
+Bhutan,Bhutan,BT,BTN,27.4110619,90.401895,Asia,Southern Asia,Developing
+Bolivia (Plurinational State of),Bolivia,BO,BOL,-16.35,-64.57,Americas,South America,Developing
+Bonaire, Sint Eustatius and Saba,Bonaire, Sint Eustatius and Saba,BQ,BES,NA,NA,Americas,Caribbean,Developing
+Bosnia and Herzegovina,Bosnia and Herzegovina,BA,BIH,44.17449912,17.76876588,Europe,Southern Europe,Developed
+Botswana,Botswana,BW,BWA,-22.18402031,23.7985373,Africa,Southern Africa,Developing
+Brazil,Brazil,BR,BRA,-10.78777567,-53.09783199,Americas,South America,Developing
+British Virgin Islands,British Virgin Islands,VG,VGB,18.52593375,-64.47140241,Americas,Caribbean,Developing
+Brunei Darussalam,Brunei Darussalam,BN,BRN,4.44,114.6,Asia,South-Eastern Asia,Developing
+Bulgaria,Bulgaria,BG,BGR,42.76889988,25.21552327,Europe,Eastern Europe,Developed
+Burkina Faso,Burkina Faso,BF,BFA,12.26953681,-1.7545684,Africa,Western Africa,Developing
+Burundi,Burundi,BI,BDI,-3.35939257,29.8751201,Africa,Eastern Africa,Developing
+Cabo Verde,Cabo Verde,CV,CPV,16.74,-22.93,Africa,Western Africa,Developing
+Cambodia,Cambodia,KH,KHM,12.72004932,104.90694312,Asia,South-Eastern Asia,Developing
+Cameroon,Cameroon,CM,CMR,5.69110296,12.73964266,Africa,Middle Africa,Developing
+Canada,Canada,CA,CAN,52.137,-106.622,Americas,Northern America,Developed
+Cayman Islands,Cayman Islands,KY,CYM,19.42896455,-80.91213058,Americas,Caribbean,Developing
+Central African Republic,Central African Republic,CF,CAF,6.56823003,20.46826364,Africa,Middle Africa,Developing
+Chad,Chad,TD,TCD,15.33333336,18.64493211,Africa,Middle Africa,Developing
+Chile,Chile,CL,CHL,-37.73069754,-71.38255879,Americas,South America,Developing
+China, mainland,China,CN,CHN,33.5,102.1,Asia,Eastern Asia,Developing
+Colombia,Colombia,CO,COL,3.91383156,-73.08114936,Americas,South America,Developing
+Comoros,Comoros,KM,COM,-11.87777573,43.68238096,Africa,Eastern Africa,Developing
+Congo,Congo,CG,COG,-3.22,24.99,Africa,Middle Africa,Developing
+Cook Islands,Cook Islands,CK,COK,-21.21926813,-159.7872415,Oceania,Polynesia,Developing
+Costa Rica,Costa Rica,CR,CRI,9.9763424,-84.19208786,Americas,Central America,Developing
+Côte d'Ivoire,Côte d'Ivoire,CI,CIV,7.85,-5.5,Africa,Western Africa,Developing
+Croatia,Croatia,HR,HRV,45.08047284,16.40413079,Europe,Southern Europe,Developed
+Cuba,Cuba,CU,CUB,21.62290023,-79.01606913,Americas,Caribbean,Developing
+Curaçao,Curaçao,CW,CUW,NA,NA,Americas,Caribbean,Developing
+Cyprus,Cyprus,CY,CYP,34.91666932,33.00600358,Asia,Western Asia,Developing
+Czechia,Czech Republic,CZ,CZE,49.69,15.6,Europe,Eastern Europe,Developed
+Czechoslovakia,Czechoslovakia,CZ,CZE,49.3,17.36,Europe,Eastern Europe,Developed
+Democratic Yemen,Democratic Yemen,YE,YEM,15.57,47.39,Asia,Western Asia,Developing
+Denmark,Denmark,DK,DNK,55.98126391,10.02799418,Europe,Northern Europe,Developed
+Djibouti,Djibouti,DJ,DJI,11.74872052,42.56067681,Africa,Eastern Africa,Developing
+Dominica,Dominica,DM,DMA,15.43947211,-61.35773122,Americas,Caribbean,Developing
+Dominican Republic,Dominican Republic,DO,DOM,18.8943308,-70.50569086,Americas,Caribbean,Developing
+Democratic Republic of the Congo,DR Congo,CD,COD,-2.87746013,23.64395637,Africa,Middle Africa,Developing
+Ecuador,Ecuador,EC,ECU,-1.42381949,-78.75203573,Americas,South America,Developing
+Egypt,Egypt,EG,EGY,26.49593108,29.8618993,Africa,Northern Africa,Developing
+El Salvador,El Salvador,SV,SLV,13.73944008,-88.87164456,Americas,Central America,Developing
+Equatorial Guinea,Equatorial Guinea,GQ,GNQ,1.70554042,10.34138898,Africa,Middle Africa,Developing
+Eritrea,Eritrea,ER,ERI,15.36186881,38.84615444,Africa,Eastern Africa,Developing
+Estonia,Estonia,EE,EST,58.67192416,25.54248555,Europe,Northern Europe,Developed
+Ethiopia,Ethiopia,ET,ETH,8.62278417,39.6008014,Africa,Eastern Africa,Developing
+Ethiopia PDR,Ethiopia,ET,ETH,9.41,39.53,Africa,Eastern Africa,Developing
+Falkland Islands (Malvinas),Falkland Islands (Malvinas),FK,FLK,NA,NA,Americas,South America,Developing
+Faroe Islands,Faroe Islands,FO,FRO,62.05386227,-6.88096322,Europe,Northern Europe,Developed
+Fiji,Fiji,FJ,FJI,-17.4285609,165.45055475,Oceania,Melanesia,Developing
+Finland,Finland,FI,FIN,64.49884844,26.27467024,Europe,Northern Europe,Developed
+France,France,FR,FRA,46.18700581,2.53618475,Europe,Western Europe,Developed
+French Guiana,French Guiana,GF,GUF,3.92595718,-53.2484462,Americas,South America,Developing
+French Polynesia,French Polynesia,PF,PYF,-14.72228068,-144.90488761,Oceania,Polynesia,Developing
+Gabon,Gabon,GA,GAB,-0.58660329,11.78863005,Africa,Middle Africa,Developing
+Gambia,Gambia,GM,GMB,13.44965377,-15.39601809,Africa,Western Africa,Developing
+Georgia,Georgia,GE,GEO,42.16855944,43.50778995,Asia,Western Asia,Developing
+Germany,Germany,DE,DEU,51.10697903,10.38577693,Europe,Western Europe,Developed
+Ghana,Ghana,GH,GHA,7.95345124,-1.21676901,Africa,Western Africa,Developing
+Gibraltar,Gibraltar,GI,GIB,NA,NA,Europe,Southern Europe,Developed
+Greece,Greece,GR,GRC,39.07466973,22.95556207,Europe,Southern Europe,Developed
+Greenland,Greenland,GL,GRL,74.71051369,-41.34191035,Americas,Northern America,Developed
+Grenada,Grenada,GD,GRD,12.1172555,-61.68219415,Americas,Caribbean,Developing
+Guadeloupe,Guadeloupe,GP,GLP,16.21,-61.69,Americas,Caribbean,Developing
+Guam,Guam,GU,GUM,13.4416655,144.76792243,Oceania,Micronesia,Developing
+Guatemala,Guatemala,GT,GTM,15.69404158,-90.36482288,Americas,Central America,Developing
+Guernsey,Guernsey,GG,GCY,49.46809855,-2.57240158,Europe,Northern Europe,Developed
+Guinea,Guinea,GN,GIN,10.43621595,-10.94066379,Africa,Western Africa,Developing
+Guinea-Bissau,Guinea-Bissau,GW,GNB,12.04,-14.8,Africa,Western Africa,Developing
+Guyana,Guyana,GY,GUY,4.79378052,-58.98202596,Americas,South America,Developing
+Haiti,Haiti,HT,HTI,18.93500961,-72.68527364,Americas,Caribbean,Developing
+Holy See,Holy See,VA,VAT,NA,NA,Europe,Southern Europe,Developed
+Honduras,Honduras,HN,HND,14.82688225,-86.61516846,Americas,Central America,Developing
+China, Hong Kong SAR,Hong Kong,HK,HKG,22.41,114.15,Asia,NA,Developing
+Hungary,Hungary,HU,HUN,47.16277712,19.39559381,Europe,Eastern Europe,Developed
+Iceland,Iceland,IS,ISL,64.99575263,-18.57397086,Europe,Northern Europe,Developed
+India,India,IN,IND,22.88578035,79.61197355,Asia,Southern Asia,Developing
+Indonesia,Indonesia,ID,IDN,-2.21505018,117.24009764,Asia,South-Eastern Asia,Developing
+Iran (Islamic Republic of),Iran,IR,IRN,32.41,54.41,Asia,Southern Asia,Developing
+Iraq,Iraq,IQ,IRQ,33.03970511,43.74353204,Asia,Western Asia,Developing
+Ireland,Ireland,IE,IRL,53.1754426,-8.13793167,Europe,Northern Europe,Developed
+Isle of Man,Isle of Man,IM,IMN,54.2241965,-4.53873822,Europe,Northern Europe,Developed
+Israel,Israel,IL,ISR,31.4611019,35.00444995,Asia,Western Asia,Developing
+Italy,Italy,IT,ITA,42.79663568,12.07000946,Europe,Southern Europe,Developed
+Jamaica,Jamaica,JM,JAM,18.15695476,-77.31482556,Americas,Caribbean,Developing
+Japan,Japan,JP,JPN,37.59230065,138.03089212,Asia,Eastern Asia,Developed
+Jersey,Jersey,JE,JEY,49.21837488,-2.12687655,Europe,Northern Europe,Developed
+Jordan,Jordan,JO,JOR,31.24579389,36.77137251,Asia,Western Asia,Developing
+Kazakhstan,Kazakhstan,KZ,KAZ,48.15687954,67.29149657,Asia,Central Asia,Developing
+Kenya,Kenya,KE,KEN,0.5998746,37.79594437,Africa,Eastern Africa,Developing
+Kiribati,Kiribati,KI,KIR,0.86052252,-45.6220913,Oceania,Micronesia,Developing
+Kuwait,Kuwait,KW,KWT,29.33431677,47.58699362,Asia,Western Asia,Developing
+Kyrgyzstan,Kyrgyzstan,KG,KGZ,41.46221785,74.54165548,Asia,Central Asia,Developing
+Lao People's Democratic Republic,Laos,LA,LAO,19.61,102.89,Asia,South-Eastern Asia,Developing
+Latvia,Latvia,LV,LVA,56.85085306,24.9123704,Europe,Northern Europe,Developed
+Lebanon,Lebanon,LB,LBN,33.92306993,35.88016327,Asia,Western Asia,Developing
+Lesotho,Lesotho,LS,LSO,-29.5800467,28.22722773,Africa,Southern Africa,Developing
+Liberia,Liberia,LR,LBR,6.45278273,-9.32207781,Africa,Western Africa,Developing
+Libya,Libya,LY,LBY,27.03094247,18.00865782,Africa,Northern Africa,Developing
+Liechtenstein,Liechtenstein,LI,LIE,47.13665447,9.53573593,Europe,Western Europe,Developed
+Lithuania,Lithuania,LT,LTU,55.32611078,23.88720035,Europe,Northern Europe,Developed
+Luxembourg,Luxembourg,LU,LUX,49.76724687,6.07182681,Europe,Western Europe,Developed
+China, Macao SAR,Macao,MO,MAC,22.2,113.55,Asia,NA,Developing
+The former Yugoslav Republic of Macedonia,Macedonia,MK,MKD,43.56,21.71,Europe,Southern Europe,Developed
+Republic of Macedonia,Macedonia,MK,MKD,41.64,21.72,Europe,NA,Developed
+Madagascar,Madagascar,MG,MDG,-19.37189599,46.70473751,Africa,Eastern Africa,Developing
+Malawi,Malawi,MW,MWI,-13.2180697,34.2893585,Africa,Eastern Africa,Developing
+Malaysia,Malaysia,MY,MYS,3.78987255,109.69761552,Asia,South-Eastern Asia,Developing
+Maldives,Maldives,MV,MDV,3.72854733,73.45711081,Asia,Southern Asia,Developing
+Mali,Mali,ML,MLI,17.34581461,-3.54268794,Africa,Western Africa,Developing
+Malta,Malta,MT,MLT,35.92151315,14.40522042,Europe,Southern Europe,Developed
+Marshall Islands,Marshall Islands,MH,MHL,7.00352799,170.33963635,Oceania,Micronesia,Developing
+Martinique,Martinique,MQ,MTQ,14.68,-61.01,Americas,Caribbean,Developing
+Mauritania,Mauritania,MR,MRT,20.25736926,-10.3477974,Africa,Western Africa,Developing
+Mauritius,Mauritius,MU,MUS,-20.2777156,57.57120758,Africa,Eastern Africa,Developing
+Mayotte,Mayotte,YT,MYT,NA,NA,Africa,Eastern Africa,Developing
+Mexico,Mexico,MX,MEX,23.94753932,-102.52345042,Americas,Central America,Developing
+Micronesia (Federated States of),Micronesia (Federated States of),FM,FSM,6.87,158.23,Oceania,Micronesia,Developing
+Monaco,Monaco,MC,MCO,43.75276115,7.40628055,Europe,Western Europe,Developed
+Mongolia,Mongolia,MN,MNG,46.82681435,103.05299651,Asia,Eastern Asia,Developing
+Montenegro,Montenegro,ME,MNE,42.7889115,19.2388382,Europe,Southern Europe,Developed
+Montserrat,Montserrat,MS,MSR,16.73941361,-62.18519807,Americas,Caribbean,Developing
+Morocco,Morocco,MA,MAR,29.83762793,-8.45616045,Africa,Northern Africa,Developing
+Mozambique,Mozambique,MZ,MOZ,-17.27381898,35.53367351,Africa,Eastern Africa,Developing
+Myanmar,Myanmar,MM,MMR,21.18566514,96.48843207,Asia,South-Eastern Asia,Developing
+Namibia,Namibia,NA,NAM,-22.13030791,17.20962769,Africa,Southern Africa,Developing
+Nauru,Nauru,NR,NRU,-0.51914199,166.93258517,Oceania,Micronesia,Developing
+Nepal,Nepal,NP,NPL,28.24891362,83.9158367,Asia,Southern Asia,Developing
+Netherlands,Netherlands,NL,NLD,52.10080804,5.2814735,Europe,Western Europe,Developed
+Netherlands Antilles,Netherlands Antilles,AN,ANT,NA,NA,Americas,Caribbean,Developing
+New Caledonia,New Caledonia,NC,NCL,-21.29990206,165.68492075,Oceania,Melanesia,Developing
+New Zealand,New Zealand,NZ,NZL,-41.81112825,171.48495391,Oceania,Australia and New Zealand,Developed
+Nicaragua,Nicaragua,NI,NIC,12.84709633,-85.03052894,Americas,Central America,Developing
+Niger,Niger,NE,NER,17.41912605,9.38546454,Africa,Western Africa,Developing
+Nigeria,Nigeria,NG,NGA,9.59411807,8.08944243,Africa,Western Africa,Developing
+Niue,Niue,NU,NIU,-19.0494623,-169.8699537,Oceania,Polynesia,Developing
+Norfolk Island,Norfolk Island,NF,NFK,-29.05143845,167.94920199,Oceania,Australia and New Zealand,Developed
+Democratic People's Republic of Korea,North Korea,KP,PRK,39.7,126.42,Asia,Eastern Asia,Developing
+Northern Mariana Islands,Northern Mariana Islands,MP,MNP,15.82873009,145.61961878,Oceania,Micronesia,Developing
+Norway,Norway,NO,NOR,68.75014407,15.34832968,Europe,Northern Europe,Developed
+Occupied Palestinian Territory,Occupied Palestinian Territory,PS,PSE,32.13,35.24,Asia,Western Asia,Developing
+Oman,Oman,OM,OMN,20.60515412,56.09165967,Asia,Western Asia,Developing
+Pacific Islands, Trust Territory of,Pacific Islands,PC,PCI,NA,NA,Oceania,Micronesia,Developing
+Pakistan,Pakistan,PK,PAK,29.94975221,69.33958027,Asia,Southern Asia,Developing
+Palau,Palau,PW,PLW,7.28760993,134.40822154,Oceania,Micronesia,Developing
+Panama,Panama,PA,PAN,8.5175119,-80.11915152,Americas,Central America,Developing
+Papua New Guinea,Papua New Guinea,PG,PNG,-6.46416276,145.20744918,Oceania,Melanesia,Developing
+Paraguay,Paraguay,PY,PRY,-23.22823896,-58.40014084,Americas,South America,Developing
+Peru,Peru,PE,PER,-9.15280281,-74.38242889,Americas,South America,Developing
+Philippines,Philippines,PH,PHL,11.77539737,122.88392153,Asia,South-Eastern Asia,Developing
+Pitcairn Islands,Pitcairn Islands,PN,PCN,-24.36498595,-128.31704094,Oceania,Polynesia,Developing
+Poland,Poland,PL,POL,52.12759537,19.39011841,Europe,Eastern Europe,Developed
+Portugal,Portugal,PT,PRT,39.59550247,-8.50105506,Europe,Southern Europe,Developed
+Puerto Rico,Puerto Rico,PR,PRI,18.22812711,-66.47307314,Americas,Caribbean,Developing
+Qatar,Qatar,QA,QAT,25.30600936,51.18478512,Asia,Western Asia,Developing
+Republic of Korea,Republic of Korea,KR,KOR,38.14,127.13,Asia,Eastern Asia,Developing
+Republic of Moldova,Republic of Moldova,MD,MDA,47.32,28.58,Europe,Eastern Europe,Developed
+Réunion,Réunion,RE,REU,NA,NA,Africa,Eastern Africa,Developing
+Romania,Romania,RO,ROU,45.85242939,24.97293286,Europe,Eastern Europe,Developed
+Russian Federation,Russia,RU,RUS,58.9,51.31,Europe,Eastern Europe,Developed
+Rwanda,Rwanda,RW,RWA,-1.99033199,29.91989113,Africa,Eastern Africa,Developing
+Saint-Martin (French Part),Saint-Martin (French Part),MF,MAF,NA,NA,Americas,Caribbean,Developing
+Saint Barthélemy,Saint Barthélemy,BL,BLM,NA,NA,Americas,Caribbean,Developing
+Saint Helena, Ascension and Tristan da Cunha,Saint Helena, Ascension and Tristan da Cunha,SH,SHN,-15.97,-5.71,Africa,Western Africa,Developing
+Saint Kitts and Nevis,Saint Kitts and Nevis,KN,KNA,17.26458594,-62.68754242,Americas,Caribbean,Developing
+Saint Lucia,Saint Lucia,LC,LCA,13.8947837,-60.96969329,Americas,Caribbean,Developing
+Saint Pierre and Miquelon,Saint Pierre and Miquelon,PM,SPM,46.91919986,-56.30319339,Americas,Northern America,Developed
+Saint Vincent and Grenadines,Saint Vincent and the Grenadines,VC,VCT,NA,NA,Americas,Caribbean,Developing
+Samoa,Samoa,WS,WSM,-13.75327339,-172.16481475,Oceania,Polynesia,Developing
+San Marino,San Marino,SM,SMR,43.94186939,12.45923029,Europe,Southern Europe,Developed
+Sao Tome and Principe,Sao Tome and Principe,ST,STP,0.44390851,6.72429635,Africa,Middle Africa,Developing
+Sark,Sark,NA,NA,NA,NA,Europe,Northern Europe,Developed
+Saudi Arabia,Saudi Arabia,SA,SAU,24.12245467,44.53687041,Asia,Western Asia,Developing
+Senegal,Senegal,SN,SEN,14.36624381,-14.47348904,Africa,Western Africa,Developing
+Serbia,Serbia,RS,SRB,43.95,20.83,Europe,Southern Europe,Developed
+Serbia and Montenegro,Serbia and Montenegro,CS,SCG,43.26,19.67,Europe,Southern Europe,Developed
+Seychelles,Seychelles,SC,SYC,-4.66097821,55.47601997,Africa,Eastern Africa,Developing
+Sierra Leone,Sierra Leone,SL,SLE,8.56329069,-11.79271209,Africa,Western Africa,Developing
+Singapore,Singapore,SG,SGP,1.35877066,103.8172532,Asia,South-Eastern Asia,Developing
+Sint Maarten (Dutch Part),Sint Maarten (Dutch Part),SX,SXM,NA,NA,Americas,Caribbean,Developing
+Slovakia,Slovakia,SK,SVK,48.70547175,19.47905212,Europe,Eastern Europe,Developed
+Slovenia,Slovenia,SI,SVN,46.11555444,14.8044464,Europe,Southern Europe,Developed
+Solomon Islands,Solomon Islands,SB,SLB,-8.92175696,159.63284711,Oceania,Melanesia,Developing
+Somalia,Somalia,SO,SOM,4.75065195,45.70716243,Africa,Eastern Africa,Developing
+South Africa,South Africa,ZA,ZAF,-29.0003377,25.08388384,Africa,Southern Africa,Developing
+South Sudan,South Sudan,SS,SSD,7.30877585,30.24790056,Africa,Eastern Africa,Developing
+Spain,Spain,ES,ESP,40.24448626,-3.64754874,Europe,Southern Europe,Developed
+Sri Lanka,Sri Lanka,LK,LKA,7.61266309,80.70107795,Asia,Southern Asia,Developing
+Sudan,Sudan,SD,SDN,15.99035431,29.94047226,Africa,Northern Africa,Developing
+Sudan (former),Sudan,SD,SDN,15.08,28.56,Africa,Northern Africa,Developing
+Suriname,Suriname,SR,SUR,4.13055377,-55.91234833,Americas,South America,Developing
+Svalbard and Jan Mayen Islands,Svalbard and Jan Mayen Islands,SJ,SJM,NA,NA,Europe,Northern Europe,Developed
+Swaziland,Swaziland,SZ,SWZ,-26.55842734,31.48193159,Africa,Southern Africa,Developing
+Sweden,Sweden,SE,SWE,62.79232016,16.74371219,Europe,Northern Europe,Developed
+Switzerland,Switzerland,CH,CHE,46.79785296,8.20866006,Europe,Western Europe,Developed
+Syrian Arab Republic,Syria,SY,SYR,35.24,38.59,Asia,Western Asia,Developing
+China, Taiwan Province of,Taiwan,TW,TWN,23.75,120.89,Asia,Eastern Asia,Developing
+Tajikistan,Tajikistan,TJ,TJK,38.53045125,71.01363312,Asia,Central Asia,Developing
+United Republic of Tanzania,Tanzania,TZ,TZA,-6.27565815,34.81310214,Africa,Eastern Africa,Developing
+Thailand,Thailand,TH,THA,15.11816347,101.00288352,Asia,South-Eastern Asia,Developing
+Timor-Leste,Timor-Leste,TL,TLS,-8.83,125.77,Asia,South-Eastern Asia,Developing
+Togo,Togo,TG,TGO,8.52529798,0.96232118,Africa,Western Africa,Developing
+Tokelau,Tokelau,TK,TKL,NA,NA,Oceania,Polynesia,Developing
+Tonga,Tonga,TO,TON,-20.42814141,-174.80975436,Oceania,Polynesia,Developing
+Trinidad and Tobago,Trinidad and Tobago,TT,TTO,10.45735757,-61.26565805,Americas,Caribbean,Developing
+Tunisia,Tunisia,TN,TUN,34.11956663,9.55288287,Africa,Northern Africa,Developing
+Turkey,Turkey,TR,TUR,39.06160342,35.16895529,Asia,Western Asia,Developing
+Turkmenistan,Turkmenistan,TM,TKM,39.11554017,59.37099935,Asia,Central Asia,Developing
+Turks and Caicos Islands,Turks and Caicos Islands,TC,TCA,21.83047424,-71.97385725,Americas,Caribbean,Developing
+Tuvalu,Tuvalu,TV,TUV,-7.76005828,178.51989487,Oceania,Polynesia,Developing
+Uganda,Uganda,UG,UGA,1.27469024,32.36907536,Africa,Eastern Africa,Developing
+Ukraine,Ukraine,UA,UKR,48.99656784,31.38325794,Europe,Eastern Europe,Developed
+United Arab Emirates,United Arab Emirates,AE,ARE,23.90527175,54.30015737,Asia,Western Asia,Developing
+United Kingdom,United Kingdom,GB,GBR,54.12387156,-2.86563362,Europe,Northern Europe,Developed
+United States Virgin Islands,United States Virgin Islands,VI,VIR,17.95501398,-64.80300497,Americas,Caribbean,Developing
+Uruguay,Uruguay,UY,URY,-32.79951982,-56.01806795,Americas,South America,Developing
+United States of America,USA,US,USA,39,-101.5,Americas,Northern America,Developed
+USSR,USSR,RU,RUS,51.84,43.65,Europe,Eastern Europe,Developed
+Uzbekistan,Uzbekistan,UZ,UZB,41.75554081,63.14001799,Asia,Central Asia,Developing
+Vanuatu,Vanuatu,VU,VUT,-16.22630588,167.68636735,Oceania,Melanesia,Developing
+Venezuela (Bolivarian Republic of),Venezuela,VE,VEN,8.34,-66.15,Americas,South America,Developing
+Vietnam,Vietnam,VN,VNM,16.64601451,106.29913857,Asia,South-Eastern Asia,Developing
+Wallis and Futuna Islands,Wallis and Futuna Islands,WF,WLF,NA,NA,Oceania,Polynesia,Developing
+Western Sahara,Western Sahara,EH,ESH,24.22956358,-12.2198297,Africa,Northern Africa,Developing
+Yemen,Yemen,YE,YEM,15.90927655,47.58676005,Asia,Western Asia,Developing
+Yemen (old),Yemen (old),YE,YEM,15.57,47.39,Asia,Western Asia,Developing
+Yugoslav SFR,Yugoslav SFR,MK,MKD,43.62,18.69,Europe,Southern Europe,Developed
+Zambia,Zambia,ZM,ZMB,-13.45824537,27.77475082,Africa,Eastern Africa,Developing
+Zimbabwe,Zimbabwe,ZW,ZWE,-19.00420587,29.85145031,Africa,Eastern Africa,Developing

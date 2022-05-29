@@ -254,7 +254,7 @@ NULL
 #'   \item Irrigated
 #'   \item Non-Irrigated
 #' }
-#' @source Corn Growers Association.
+#' @source https://www.ncga.com/
 #' @docType data
 #' @keywords datasets
 #' @name agData_MaizeContest

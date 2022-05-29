@@ -5,7 +5,7 @@
 \alias{agData_STATCAN_Population}
 \title{Statistics Canada population Data}
 \source{
-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=1946&cubeTimeFrame.endMonth=10&cubeTimeFrame.endYear=2020&referencePeriods=19460101%2C20201001
+https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1710000901
 }
 \description{
 A dataset from Statistics Canada on population.

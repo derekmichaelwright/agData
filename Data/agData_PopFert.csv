@@ -1,0 +1,159 @@
+Area,Year,Measurement,Value
+World,1900,Actual,1.65e+09
+World,1901,Actual,1659947572
+World,1902,Actual,1669996608
+World,1903,Actual,1680114897
+World,1904,Actual,1690269397
+World,1905,Actual,1700426220
+World,1906,Actual,1710550627
+World,1907,Actual,1720607035
+World,1908,Actual,1730559024
+World,1909,Actual,1740369356
+World,1910,Actual,1.75e+09
+World,1911,Actual,1759443033
+World,1912,Actual,1768814621
+World,1913,Actual,1778264825
+World,1914,Actual,1787947089
+World,1915,Actual,1798018386
+World,1916,Actual,1808639504
+World,1917,Actual,1819975472
+World,1918,Actual,1832196157
+World,1919,Actual,1845477011
+World,1920,Actual,1.86e+09
+World,1921,Actual,1875909155
+World,1922,Actual,1893171642
+World,1923,Actual,1911708727
+World,1924,Actual,1931439861
+World,1925,Actual,1952282002
+World,1926,Actual,1974148984
+World,1927,Actual,1996950908
+World,1928,Actual,2020593592
+World,1929,Actual,2044978045
+World,1930,Actual,2.07e+09
+World,1931,Actual,2095524322
+World,1932,Actual,2121306518
+World,1933,Actual,2147063356
+World,1934,Actual,2172497229
+World,1935,Actual,2197296392
+World,1936,Actual,2221135654
+World,1937,Actual,2243677560
+World,1938,Actual,2264574084
+World,1939,Actual,2283468864
+World,1940,Actual,2.3e+09
+World,1941,Actual,2314055062
+World,1942,Actual,2326540535
+World,1943,Actual,2338643871
+World,1944,Actual,2351580095
+World,1945,Actual,2366593074
+World,1946,Actual,2384963558
+World,1947,Actual,2408024366
+World,1948,Actual,2437183278
+World,1949,Actual,2473954492
+World,1950,Actual,2536274721
+World,1951,Actual,2583816786
+World,1952,Actual,2630584384
+World,1953,Actual,2677230358
+World,1954,Actual,2724302468
+World,1955,Actual,2772242535
+World,1956,Actual,2821383444
+World,1957,Actual,2871952278
+World,1958,Actual,2924081243
+World,1959,Actual,2977824686
+World,1960,Actual,3033212527
+World,1961,Actual,3090305279
+World,1962,Actual,3149244245
+World,1963,Actual,3210271352
+World,1964,Actual,3273670772
+World,1965,Actual,3339592688
+World,1966,Actual,3408121405
+World,1967,Actual,3479053821
+World,1968,Actual,3551880700
+World,1969,Actual,3625905514
+World,1970,Actual,3700577650
+World,1971,Actual,3775790900
+World,1972,Actual,3851545181
+World,1973,Actual,3927538695
+World,1974,Actual,4003448151
+World,1975,Actual,4079087198
+World,1976,Actual,4154287594
+World,1977,Actual,4229201257
+World,1978,Actual,4304377112
+World,1979,Actual,4380585755
+World,1980,Actual,4458411534
+World,1981,Actual,4537845777
+World,1982,Actual,4618776168
+World,1983,Actual,4701530843
+World,1984,Actual,4786483862
+World,1985,Actual,4873781796
+World,1986,Actual,4963633228
+World,1987,Actual,5055636132
+World,1988,Actual,5148556956
+World,1989,Actual,5240735117
+World,1990,Actual,5330943460
+World,1991,Actual,5418758803
+World,1992,Actual,5504401149
+World,1993,Actual,5588094837
+World,1994,Actual,5670319703
+World,1995,Actual,5751474416
+World,1996,Actual,5831565020
+World,1997,Actual,5910566295
+World,1998,Actual,5988846103
+World,1999,Actual,6066867391
+World,2000,Actual,6145006989
+World,2001,Actual,6223412158
+World,2002,Actual,6302149639
+World,2003,Actual,6381408987
+World,2004,Actual,6461370865
+World,2005,Actual,6542159383
+World,2006,Actual,6623847913
+World,2007,Actual,6706418593
+World,2008,Actual,6789771253
+World,2009,Actual,6873741054
+World,2010,Actual,6958169159
+World,2011,Actual,7043008586
+World,2012,Actual,7128176935
+World,2013,Actual,7213426452
+World,2014,Actual,7298453033
+World,2015,Actual,7383008820
+World,1900,Without Fertilizers,1.65e+09
+World,1901,Without Fertilizers,1659947572
+World,1902,Without Fertilizers,1669996608
+World,1903,Without Fertilizers,1680114897
+World,1904,Without Fertilizers,1690269397
+World,1905,Without Fertilizers,1700426220
+World,1906,Without Fertilizers,1710550627
+World,1907,Without Fertilizers,1720607035
+World,1908,Without Fertilizers,1730559024
+World,1910,Without Fertilizers,1741250000
+World,1930,Without Fertilizers,1966500000
+World,1940,Without Fertilizers,2.139e+09
+World,1950,Without Fertilizers,2333372743
+World,1955,Without Fertilizers,2467295856
+World,1960,Without Fertilizers,2638894898
+World,1970,Without Fertilizers,2812439014
+World,1980,Without Fertilizers,3120888074
+World,1990,Without Fertilizers,3198566076
+World,2000,Without Fertilizers,3441203914
+World,2008,Without Fertilizers,3530681052
+World,2015,Without Fertilizers,3839164586
+World,1900,Fed by Fertilizers,0
+World,1901,Fed by Fertilizers,0
+World,1902,Fed by Fertilizers,0
+World,1903,Fed by Fertilizers,0
+World,1904,Fed by Fertilizers,0
+World,1905,Fed by Fertilizers,0
+World,1906,Fed by Fertilizers,0
+World,1907,Fed by Fertilizers,0
+World,1908,Fed by Fertilizers,0
+World,1910,Fed by Fertilizers,8750000
+World,1930,Fed by Fertilizers,103500000
+World,1940,Fed by Fertilizers,1.61e+08
+World,1950,Fed by Fertilizers,202901977.7
+World,1955,Fed by Fertilizers,304946678.9
+World,1960,Fed by Fertilizers,394317628.5
+World,1970,Fed by Fertilizers,888138636
+World,1980,Fed by Fertilizers,1337523460
+World,1990,Fed by Fertilizers,2132377384
+World,2000,Fed by Fertilizers,2703803075
+World,2008,Fed by Fertilizers,3259090201
+World,2015,Fed by Fertilizers,3543844234

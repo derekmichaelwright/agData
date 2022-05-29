@@ -5,7 +5,7 @@
 \alias{agData_STATCAN_Beehives}
 \title{Statistics Canada - HoneyBee Data}
 \source{
-[https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035301](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035301)
+https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210035301
 }
 \description{
 A dataset from Statistics Canada on honeybee production.

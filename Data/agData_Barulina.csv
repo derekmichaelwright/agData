@@ -1,0 +1,111 @@
+Area,Year,Crop,Measurement,Unit,Value
+USSR,1926,Lentils,Area Harvested,Tonnes,424615
+USSR,1927,Lentils,Area Harvested,Tonnes,345627
+Spain,1923,Lentils,Area Harvested,Tonnes,34923
+Spain,1926,Lentils,Area Harvested,Tonnes,32369
+Spain,1927,Lentils,Area Harvested,Tonnes,33819
+Egypt,1923,Lentils,Area Harvested,Tonnes,33500
+Egypt,1926,Lentils,Area Harvested,Tonnes,26642
+Egypt,1927,Lentils,Area Harvested,Tonnes,34092
+Romania,1923,Lentils,Area Harvested,Tonnes,8346
+Romania,1926,Lentils,Area Harvested,Tonnes,16621
+Romania,1927,Lentils,Area Harvested,Tonnes,17832
+Chile,1923,Lentils,Area Harvested,Tonnes,3265
+Chile,1926,Lentils,Area Harvested,Tonnes,7422
+Syria,1926,Lentils,Area Harvested,Tonnes,2600
+Syria,1927,Lentils,Area Harvested,Tonnes,2700
+Greece,1926,Lentils,Area Harvested,Tonnes,5098
+Czechoslovakia,1923,Lentils,Area Harvested,Tonnes,5205
+Czechoslovakia,1926,Lentils,Area Harvested,Tonnes,5791
+Czechoslovakia,1927,Lentils,Area Harvested,Tonnes,5447
+Bulgaria,1926,Lentils,Area Harvested,Tonnes,4582
+Yugoslavia,1923,Lentils,Area Harvested,Tonnes,3616
+Yugoslavia,1926,Lentils,Area Harvested,Tonnes,3868
+Yugoslavia,1927,Lentils,Area Harvested,Tonnes,4185
+Morocco,1923,Lentils,Area Harvested,Tonnes,3204
+Morocco,1926,Lentils,Area Harvested,Tonnes,2882
+Morocco,1927,Lentils,Area Harvested,Tonnes,3776
+France,1923,Lentils,Area Harvested,Tonnes,5550
+France,1926,Lentils,Area Harvested,Tonnes,3810
+France,1927,Lentils,Area Harvested,Tonnes,6440
+Hungary,1923,Lentils,Area Harvested,Tonnes,3778
+Hungary,1926,Lentils,Area Harvested,Tonnes,2975
+Hungary,1927,Lentils,Area Harvested,Tonnes,2076
+Austria,1923,Lentils,Area Harvested,Tonnes,839
+Austria,1926,Lentils,Area Harvested,Tonnes,1408
+Austria,1927,Lentils,Area Harvested,Tonnes,1326
+Algeria,1926,Lentils,Area Harvested,Tonnes,1318
+Tunisia,1923,Lentils,Area Harvested,Tonnes,3204
+Italy,1926,Pulses,Area Harvested,Tonnes,370000
+Italy,1927,Pulses,Area Harvested,Tonnes,380000
+Spain,1923,Lentils,Production,Hectares,16814.8
+Spain,1926,Lentils,Production,Hectares,17006.2
+Spain,1927,Lentils,Production,Hectares,26903.9
+Egypt,1923,Lentils,Production,Hectares,388.8
+Egypt,1926,Lentils,Production,Hectares,33037.9
+Egypt,1927,Lentils,Production,Hectares,53453.9
+Romania,1926,Lentils,Production,Hectares,8948.2
+Romania,1927,Lentils,Production,Hectares,12958.5
+Chile,1923,Lentils,Production,Hectares,3092.8
+Chile,1926,Lentils,Production,Hectares,6553.6
+Chile,1927,Lentils,Production,Hectares,4300
+Syria,1926,Lentils,Production,Hectares,1950
+Syria,1927,Lentils,Production,Hectares,2400
+Greece,1926,Lentils,Production,Hectares,2234.9
+Czechoslovakia,1923,Lentils,Production,Hectares,5264.1
+Czechoslovakia,1926,Lentils,Production,Hectares,5193.6
+Czechoslovakia,1927,Lentils,Production,Hectares,4930.7
+Bulgaria,1926,Lentils,Production,Hectares,1809
+Yugoslavia,1923,Lentils,Production,Hectares,2166.3
+Yugoslavia,1926,Lentils,Production,Hectares,2373.3
+Yugoslavia,1927,Lentils,Production,Hectares,1973.5
+Morocco,1926,Lentils,Production,Hectares,1400
+Morocco,1927,Lentils,Production,Hectares,2114.6
+France,1923,Lentils,Production,Hectares,4218.5
+France,1926,Lentils,Production,Hectares,5082
+France,1927,Lentils,Production,Hectares,6213
+Hungary,1926,Lentils,Production,Hectares,1896.9
+Hungary,1927,Lentils,Production,Hectares,1536.5
+Austria,1923,Lentils,Production,Hectares,702.1
+Austria,1926,Lentils,Production,Hectares,922.2
+Austria,1927,Lentils,Production,Hectares,1152.6
+Algeria,1923,Lentils,Production,Hectares,462.4
+Algeria,1926,Lentils,Production,Hectares,493.8
+Tunisia,1923,Lentils,Production,Hectares,941.7
+Italy,1923,Pulses,Production,Hectares,4800
+Italy,1926,Pulses,Production,Hectares,5200
+Italy,1927,Pulses,Production,Hectares,4370
+Spain,1923,Lentils,Yield,kg/ha,481.5
+Spain,1926,Lentils,Yield,kg/ha,525.4
+Spain,1927,Lentils,Yield,kg/ha,795.5
+Egypt,1923,Lentils,Yield,kg/ha,11.6
+Egypt,1926,Lentils,Yield,kg/ha,1240.1
+Egypt,1927,Lentils,Yield,kg/ha,1567.9
+Romania,1926,Lentils,Yield,kg/ha,538.4
+Romania,1927,Lentils,Yield,kg/ha,726.7
+Chile,1923,Lentils,Yield,kg/ha,947.3
+Chile,1926,Lentils,Yield,kg/ha,883
+Syria,1926,Lentils,Yield,kg/ha,750
+Syria,1927,Lentils,Yield,kg/ha,888.9
+Greece,1926,Lentils,Yield,kg/ha,438.4
+Czechoslovakia,1923,Lentils,Yield,kg/ha,1011.4
+Czechoslovakia,1926,Lentils,Yield,kg/ha,896.8
+Czechoslovakia,1927,Lentils,Yield,kg/ha,905.2
+Bulgaria,1926,Lentils,Yield,kg/ha,394.8
+Yugoslavia,1923,Lentils,Yield,kg/ha,599.1
+Yugoslavia,1926,Lentils,Yield,kg/ha,613.6
+Yugoslavia,1927,Lentils,Yield,kg/ha,471.6
+Morocco,1926,Lentils,Yield,kg/ha,485.8
+Morocco,1927,Lentils,Yield,kg/ha,560
+France,1923,Lentils,Yield,kg/ha,760.1
+France,1926,Lentils,Yield,kg/ha,1333.9
+France,1927,Lentils,Yield,kg/ha,964.8
+Hungary,1926,Lentils,Yield,kg/ha,637.6
+Hungary,1927,Lentils,Yield,kg/ha,740.1
+Austria,1923,Lentils,Yield,kg/ha,836.8
+Austria,1926,Lentils,Yield,kg/ha,655
+Austria,1927,Lentils,Yield,kg/ha,869.2
+Algeria,1926,Lentils,Yield,kg/ha,374.7
+Tunisia,1923,Lentils,Yield,kg/ha,293.9
+Italy,1926,Pulses,Yield,kg/ha,14.1
+Italy,1927,Pulses,Yield,kg/ha,11.5

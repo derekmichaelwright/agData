@@ -5,7 +5,7 @@
 \alias{agData_STATCAN_FarmLand_Farms}
 \title{Statistics Canada Farmland Data}
 \source{
-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210015201
+https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015201
 }
 \description{
 A dataset from Statistics Canada on farm land use.

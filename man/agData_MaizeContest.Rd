@@ -5,7 +5,7 @@
 \alias{agData_MaizeContest}
 \title{Maize Contest}
 \source{
-Corn Growers Association.
+https://www.ncga.com/
 }
 \description{
 A dataset for Maize Yield Contest.

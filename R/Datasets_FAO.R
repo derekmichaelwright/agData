@@ -232,7 +232,7 @@ NULL
 #' \itemize{
 #'   \item Area
 #'   \item Year
-#'   \item Crop
+#'   \item Item
 #'   \item Measurement
 #'   \item Unit
 #'   \item Value
@@ -241,11 +241,31 @@ NULL
 #' \itemize{
 #'   \item Export Quantity (tonnes)
 #'   \item Import Quantity (tonnes)
+#' }
+#' @source http://www.fao.org/faostat/en/#data/TP
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Trade_Quantity
+NULL
+#' FAO Trade Data
+#'
+#' A dataset containing trade data from FAOSTAT.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Item
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @section Measurement (Unit):
+#' \itemize{
 #'   \item Export Value (1000 $USD)
 #'   \item Import Value (1000 $USD)
 #' }
 #' @source http://www.fao.org/faostat/en/#data/TP
 #' @docType data
 #' @keywords datasets
-#' @name agData_FAO_Trade
+#' @name agData_FAO_Trade_Value
 NULL

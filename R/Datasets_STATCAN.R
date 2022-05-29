@@ -34,7 +34,7 @@ NULL
 #'   \item Value              (million $CAD)
 #' }
 #' @section Table: 32-10-0353-01 (formerly CANSIM 001-0007)
-#' @source [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035301](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035301)
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210035301
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_Beehives
@@ -123,7 +123,7 @@ NULL
 #'   \item Hectares
 #' }
 #' @section Table: 32-10-0154-01 (formerly CANSIM 004-0003)
-#' @source https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210015401
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015401
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_FarmLand_Crops
@@ -140,7 +140,7 @@ NULL
 #'   \item Area rented or leased from others
 #' }
 #' @section Table: 32-10-0152-01 (formerly CANSIM 004-0001)
-#' @source https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210015201
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015201
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_FarmLand_Farms
@@ -272,7 +272,7 @@ NULL
 #'   \item Value
 #' }
 #' @section Table: 17-10-0009-01 (formerly CANSIM 051-0005)
-#' @source https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=1946&cubeTimeFrame.endMonth=10&cubeTimeFrame.endYear=2020&referencePeriods=19460101%2C20201001
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1710000901
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_Population
