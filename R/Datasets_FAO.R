@@ -102,6 +102,24 @@ NULL
 #' @keywords datasets
 #' @name agData_FAO_Producer_Prices
 NULL
+#' FAO Food Price Index
+#'
+#' A dataset containing food price indices from FAOSTAT.
+#' @section Keys:
+#' \itemize{
+#'   \item Date
+#'   \item Year
+#'   \item Month
+#'   \item Item
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @source https://www.fao.org/worldfoodsituation/foodpricesindex/en/
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Food_Prices
+NULL
 #' FAO Crop Production Data
 #'
 #' A dataset containing crop aggregate data from FAOSTAT.

@@ -1,6 +1,6 @@
 FAO_TABLE_NAME,Country,ISO2,ISO3,Lat,Lon,Region,SubRegion,DVDDVG
 Afghanistan,Afghanistan,AF,AFG,33.83523216,66.00473115,Asia,Southern Asia,Developing
-Åland Islands,Åland Islands,AX,ALA,NA,NA,Europe,Northern Europe,Developed
+Ã…land Islands,Ã…land Islands,AX,ALA,NA,NA,Europe,Northern Europe,Developed
 Albania,Albania,AL,ALB,41.14245128,20.04983034,Europe,Southern Europe,Developed
 Algeria,Algeria,DZ,DZA,28.15893844,2.61732102,Africa,Northern Africa,Developing
 American Samoa,American Samoa,AS,ASM,-14.30448922,-170.7180186,Oceania,Polynesia,Developing
@@ -49,10 +49,10 @@ Comoros,Comoros,KM,COM,-11.87777573,43.68238096,Africa,Eastern Africa,Developing
 Congo,Congo,CG,COG,-3.22,24.99,Africa,Middle Africa,Developing
 Cook Islands,Cook Islands,CK,COK,-21.21926813,-159.7872415,Oceania,Polynesia,Developing
 Costa Rica,Costa Rica,CR,CRI,9.9763424,-84.19208786,Americas,Central America,Developing
-Côte d'Ivoire,Côte d'Ivoire,CI,CIV,7.85,-5.5,Africa,Western Africa,Developing
+CÃ´te d'Ivoire,CÃ´te d'Ivoire,CI,CIV,7.85,-5.5,Africa,Western Africa,Developing
 Croatia,Croatia,HR,HRV,45.08047284,16.40413079,Europe,Southern Europe,Developed
 Cuba,Cuba,CU,CUB,21.62290023,-79.01606913,Americas,Caribbean,Developing
-Curaçao,Curaçao,CW,CUW,NA,NA,Americas,Caribbean,Developing
+CuraÃ§ao,CuraÃ§ao,CW,CUW,NA,NA,Americas,Caribbean,Developing
 Cyprus,Cyprus,CY,CYP,34.91666932,33.00600358,Asia,Western Asia,Developing
 Czechia,Czech Republic,CZ,CZE,49.69,15.6,Europe,Eastern Europe,Developed
 Czechoslovakia,Czechoslovakia,CZ,CZE,49.3,17.36,Europe,Eastern Europe,Developed
@@ -180,12 +180,12 @@ Puerto Rico,Puerto Rico,PR,PRI,18.22812711,-66.47307314,Americas,Caribbean,Devel
 Qatar,Qatar,QA,QAT,25.30600936,51.18478512,Asia,Western Asia,Developing
 Republic of Korea,Republic of Korea,KR,KOR,38.14,127.13,Asia,Eastern Asia,Developing
 Republic of Moldova,Republic of Moldova,MD,MDA,47.32,28.58,Europe,Eastern Europe,Developed
-Réunion,Réunion,RE,REU,NA,NA,Africa,Eastern Africa,Developing
+RÃ©union,RÃ©union,RE,REU,NA,NA,Africa,Eastern Africa,Developing
 Romania,Romania,RO,ROU,45.85242939,24.97293286,Europe,Eastern Europe,Developed
 Russian Federation,Russia,RU,RUS,58.9,51.31,Europe,Eastern Europe,Developed
 Rwanda,Rwanda,RW,RWA,-1.99033199,29.91989113,Africa,Eastern Africa,Developing
 Saint-Martin (French Part),Saint-Martin (French Part),MF,MAF,NA,NA,Americas,Caribbean,Developing
-Saint Barthélemy,Saint Barthélemy,BL,BLM,NA,NA,Americas,Caribbean,Developing
+Saint BarthÃ©lemy,Saint BarthÃ©lemy,BL,BLM,NA,NA,Americas,Caribbean,Developing
 Saint Helena, Ascension and Tristan da Cunha,Saint Helena, Ascension and Tristan da Cunha,SH,SHN,-15.97,-5.71,Africa,Western Africa,Developing
 Saint Kitts and Nevis,Saint Kitts and Nevis,KN,KNA,17.26458594,-62.68754242,Americas,Caribbean,Developing
 Saint Lucia,Saint Lucia,LC,LCA,13.8947837,-60.96969329,Americas,Caribbean,Developing
