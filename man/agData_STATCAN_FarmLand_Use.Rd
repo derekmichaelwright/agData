@@ -37,9 +37,7 @@ A dataset from Statistics Canada on farm land use.
 
 \itemize{
   \item Area (Number of farms reporting)
-  \item Area (Acres)
   \item Area (Hectares)
-  \item Area (Average area in acres per farm reporting)
 }
 }
 

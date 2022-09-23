@@ -25,8 +25,8 @@ A dataset containing trade data from FAOSTAT.
 \section{Measurement (Unit)}{
 
 \itemize{
-  \item Export Quantity (tonnes)
-  \item Import Quantity (tonnes)
+  \item Export Quantity (Tonnes)
+  \item Import Quantity (Tonnes)
 }
 }
 

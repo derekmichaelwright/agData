@@ -46,9 +46,9 @@ NULL
 #' }
 #' @section Measurement (Unit):
 #' \itemize{
-#'   \item Production     (tonnes)
-#'   \item Area harvested (hectares)
-#'   \item Yield          (t/ha)
+#'   \item Production     (Tonnes)
+#'   \item Area Harvested (Hectares)
+#'   \item Yield          (kg/ha)
 #' }
 #' @source http://www.fao.org/faostat/en/#data/QC
 #' @docType data
@@ -95,7 +95,7 @@ NULL
 #' @section Measurement (Unit):
 #' \itemize{
 #'   \item Producer Price Index (2014-2016 = 100)
-#'   \item Producer Price (USD/tonne)
+#'   \item Producer Price (USD/Tonne)
 #' }
 #' @source http://www.fao.org/faostat/en/#data/PP
 #' @docType data
@@ -134,9 +134,9 @@ NULL
 #' }
 #' @section Measurement (Unit):
 #' \itemize{
-#'   \item Production     (tonnes)
-#'   \item Area harvested (hectares)
-#'   \item Yield          (t/ha)
+#'   \item Production     (Tonnes)
+#'   \item Area Harvested (Hectares)
+#'   \item Yield          (kg/ha)
 #' }
 #' @source http://www.fao.org/faostat/en/#data/QC
 #' @docType data
@@ -257,8 +257,8 @@ NULL
 #' }
 #' @section Measurement (Unit):
 #' \itemize{
-#'   \item Export Quantity (tonnes)
-#'   \item Import Quantity (tonnes)
+#'   \item Export Quantity (Tonnes)
+#'   \item Import Quantity (Tonnes)
 #' }
 #' @source http://www.fao.org/faostat/en/#data/TP
 #' @docType data
@@ -279,8 +279,8 @@ NULL
 #' }
 #' @section Measurement (Unit):
 #' \itemize{
-#'   \item Export Value (1000 $USD)
-#'   \item Import Value (1000 $USD)
+#'   \item Export Value (USD)
+#'   \item Import Value (USD)
 #' }
 #' @source http://www.fao.org/faostat/en/#data/TP
 #' @docType data

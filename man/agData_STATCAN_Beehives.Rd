@@ -25,12 +25,13 @@ A dataset from Statistics Canada on honeybee production.
 \section{Measurement (Unit)}{
 
 \itemize{
-  \item Beekeepers         (number)
-  \item Colonies           (number)
-  \item Colonies/Beekeeper (number)
-  \item Production         (tonnes)
-  \item Yield              (kg/colony)
-  \item Value              (million $CAD)
+  \item Beekeepers           (Thousand)
+  \item Colonies             (Thousand)
+  \item Colonies / Beekeeper (Number)
+  \item Production           (Tonnes)
+  \item Yield                (kg/colony)
+  \item Value of Honey       (Million CAD)
+  \item Value / Colony       (CAD/colony)
 }
 }
 

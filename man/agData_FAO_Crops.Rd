@@ -25,9 +25,9 @@ A dataset containing crop data from FAOSTAT.
 \section{Measurement (Unit)}{
 
 \itemize{
-  \item Production     (tonnes)
-  \item Area harvested (hectares)
-  \item Yield          (t/ha)
+  \item Production     (Tonnes)
+  \item Area Harvested (Hectares)
+  \item Yield          (kg/ha)
 }
 }
 

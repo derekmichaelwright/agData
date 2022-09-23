@@ -22,12 +22,12 @@ A dataset for lentil production from Barulina's Monograph.
 }
 }
 
-\section{Measurements}{
+\section{Measurements (Unit)}{
 
 \itemize{
-  \item Area harvested
-  \item Production
-  \item Yield
+  \item Area Harvested (Hectares)
+  \item Production     (Tonnes)
+  \item Yield          (kg/ha)
 }
 }
 

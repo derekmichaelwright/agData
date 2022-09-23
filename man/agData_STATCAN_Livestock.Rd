@@ -25,9 +25,9 @@ A dataset from Statistics Canada on livestock production.
 \section{Measurement (Unit)}{
 
 \itemize{
-  \item Average number of animals (number)
-  \item Number of animals         (number)
-  \item Number of farms reporting (number)
+  \item Average number of animals (Number)
+  \item Number of animals         (Number)
+  \item Number of farms reporting (Number)
 }
 }
 

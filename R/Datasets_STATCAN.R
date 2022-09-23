@@ -1,4 +1,47 @@
 NULL
+#' Lentil Export Destinations
+#'
+#' A dataset from SK AG for the top 20 Lentil export countries each year.
+#' @section Keys:
+#' \itemize{
+#'   \item Year
+#'   \item Crop
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @section Measurement (Unit):
+#' \itemize{
+#'   \item Exports (Tonnes)
+#' }
+#' @source https://publications.saskatchewan.ca/#/categories/4426
+#' @docType data
+#' @keywords datasets
+#' @name agData_SKAG_Lentil_Exports
+NULL
+#' Sask AG Specialty Crop Data
+#'
+#' A dataset from Sask Ag on specialty crop production.
+#' @section Keys:
+#' \itemize{
+#'   \item Year
+#'   \item Crop
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @section Measurement (Unit):
+#' \itemize{
+#'   \item Production     (Tonnes)
+#'   \item Area Seeded    (Hectares)
+#'   \item Area Harvested (Hectares)
+#'   \item Yield          (kg/ha)
+#' }
+#' @source https://publications.saskatchewan.ca/#/categories/4426
+#' @docType data
+#' @keywords datasets
+#' @name agData_SKAG_Specialty_Crops
+NULL
 #' Statistics Canada - Region Info
 #'
 #' A dataset of Region info for Canada.
@@ -26,12 +69,13 @@ NULL
 #' }
 #' @section Measurement (Unit):
 #' \itemize{
-#'   \item Beekeepers         (number)
-#'   \item Colonies           (number)
-#'   \item Colonies/Beekeeper (number)
-#'   \item Production         (tonnes)
-#'   \item Yield              (kg/colony)
-#'   \item Value              (million $CAD)
+#'   \item Beekeepers           (Thousand)
+#'   \item Colonies             (Thousand)
+#'   \item Colonies / Beekeeper (Number)
+#'   \item Production           (Tonnes)
+#'   \item Yield                (kg/colony)
+#'   \item Value of Honey       (Million CAD)
+#'   \item Value / Colony       (CAD/colony)
 #' }
 #' @section Table: 32-10-0353-01 (formerly CANSIM 001-0007)
 #' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210035301
@@ -53,11 +97,11 @@ NULL
 #' }
 #' @section Measurement (Unit):
 #' \itemize{
-#'   \item Production         (tonnes)
-#'   \item Area seeded        (hectares)
-#'   \item Area harvested     (hectares)
-#'   \item Yield              (tonnes/ha)
-#'   \item Average farm price (dollars per tonne)
+#'   \item Area Seeded      (Hectares)
+#'   \item Area Harvested   (Hectares)
+#'   \item Production       (Tonnes)
+#'   \item Yield            (kg/ha)
+#'   \item Total Farm Value (CAD)
 #' }
 #' @section Table: 32-10-0359-01 (formerly CANSIM 001-0017)
 #' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210035901
@@ -79,11 +123,11 @@ NULL
 #' }
 #' @section Measurement (Unit):
 #' \itemize{
-#'   \item Production         (tonnes)
-#'   \item Area seeded        (hectares)
-#'   \item Area harvested     (hectares)
-#'   \item Yield              (tonnes/ha)
-#'   \item Average farm price (dollars per tonne)
+#'   \item Area Seeded      (Hectares)
+#'   \item Area Harvested   (Hectares)
+#'   \item Production       (Tonnes)
+#'   \item Yield            (kg/ha)
+#'   \item Total Farm Value (CAD)
 #' }
 #' @section Table: 32-10-0359-01 (formerly CANSIM 001-0017)
 #' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210035901
@@ -227,9 +271,7 @@ NULL
 #' @section Measurement (Unit):
 #' \itemize{
 #'   \item Area (Number of farms reporting)
-#'   \item Area (Acres)
 #'   \item Area (Hectares)
-#'   \item Area (Average area in acres per farm reporting)
 #' }
 #' @section Table: 32-10-0153-01 (formerly CANSIM 004-0002)
 #' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015301
@@ -251,9 +293,9 @@ NULL
 #' }
 #' @section Measurement (Unit):
 #' \itemize{
-#'   \item Average number of animals (number)
-#'   \item Number of animals         (number)
-#'   \item Number of farms reporting (number)
+#'   \item Average number of animals (Number)
+#'   \item Number of animals         (Number)
+#'   \item Number of farms reporting (Number)
 #' }
 #' @section Table: 32-10-0155-01 (formerly CANSIM 004-0004)
 #' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015501

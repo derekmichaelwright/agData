@@ -26,7 +26,7 @@ A dataset containing producer price indices from FAOSTAT.
 
 \itemize{
   \item Producer Price Index (2014-2016 = 100)
-  \item Producer Price (USD/tonne)
+  \item Producer Price (USD/Tonne)
 }
 }
 

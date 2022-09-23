@@ -25,10 +25,10 @@ A dataset from the USDA on crop production.
 \section{Measurement (Unit)}{
 
 \itemize{
-  \item Production     (tonnes)
-  \item Area seeded    (hectares)
-  \item Area harvested (hectares)
-  \item Yield          (t/ha)
+  \item Production     (Tonnes)
+  \item Area Seeded    (Hectares)
+  \item Area Harvested (Hectares)
+  \item Yield          (kg/ha)
 }
 }
 

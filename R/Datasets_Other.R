@@ -13,10 +13,10 @@ NULL
 #' }
 #' @section Measurement (Unit):
 #' \itemize{
-#'   \item Production     (tonnes)
-#'   \item Area seeded    (hectares)
-#'   \item Area harvested (hectares)
-#'   \item Yield          (t/ha)
+#'   \item Production     (Tonnes)
+#'   \item Area Seeded    (Hectares)
+#'   \item Area Harvested (Hectares)
+#'   \item Yield          (kg/ha)
 #' }
 #' @source https://www.nass.usda.gov/
 #' @docType data
@@ -227,11 +227,11 @@ NULL
 #'   \item Unit
 #'   \item Value
 #' }
-#' @section Measurements:
+#' @section Measurements (Unit):
 #' \itemize{
-#'   \item Area harvested
-#'   \item Production
-#'   \item Yield
+#'   \item Area Harvested (Hectares)
+#'   \item Production     (Tonnes)
+#'   \item Yield          (kg/ha)
 #' }
 #' @source Barulina, Elena I. (1930) Lentils of the USSR and of other countries.
 #' @docType data

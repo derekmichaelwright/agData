@@ -25,11 +25,11 @@ A dataset from Statistics Canada on crop aggregate data.
 \section{Measurement (Unit)}{
 
 \itemize{
-  \item Production         (tonnes)
-  \item Area seeded        (hectares)
-  \item Area harvested     (hectares)
-  \item Yield              (tonnes/ha)
-  \item Average farm price (dollars per tonne)
+  \item Area Seeded      (Hectares)
+  \item Area Harvested   (Hectares)
+  \item Production       (Tonnes)
+  \item Yield            (kg/ha)
+  \item Total Farm Value (CAD)
 }
 }
 
