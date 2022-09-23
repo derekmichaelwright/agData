@@ -1,4 +1,4 @@
-#' theme_agData.
+#' theme_agData2.
 #'
 #' ggplot theme.
 #' @param x ggplot
@@ -9,7 +9,7 @@
 #' @return ggplot with agData theme
 #' @export
 
-theme_agData <- function(x, bgFill = "white", lineColor = "grey95", linesize = 0.75, stripFill = "white", ...) {
+theme_agData <- function(x, bgFill = "grey95", lineColor = "white", linesize = 0.75, stripFill = "white", ...) {
   theme(panel.background = element_rect(colour = "black", fill = bgFill, size = linesize),
         panel.grid = element_line(color = lineColor),
         panel.border = element_rect(colour = "black", fill=NA, size=linesize),

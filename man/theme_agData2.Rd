@@ -2,12 +2,12 @@
 % Please edit documentation in R/theme_agData2.R
 \name{theme_agData2}
 \alias{theme_agData2}
-\title{theme_agData2.}
+\title{theme_agData.}
 \usage{
 theme_agData2(
   x,
-  bgFill = "grey95",
-  lineColor = "white",
+  bgFill = "white",
+  lineColor = "grey80",
   linesize = 0.75,
   stripFill = "white",
   ...
