@@ -82,6 +82,12 @@
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_PopFert.html</loc>
   </url>
   <url>
+    <loc>https://derekmichaelwright.github.io/agData/reference/agData_SKAG_Lentil_Exports.html</loc>
+  </url>
+  <url>
+    <loc>https://derekmichaelwright.github.io/agData/reference/agData_SKAG_Specialty_Crops.html</loc>
+  </url>
+  <url>
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Beehives.html</loc>
   </url>
   <url>
@@ -149,6 +155,9 @@
   </url>
   <url>
     <loc>https://derekmichaelwright.github.io/agData/reference/theme_agData.html</loc>
+  </url>
+  <url>
+    <loc>https://derekmichaelwright.github.io/agData/reference/theme_agData2.html</loc>
   </url>
   <url>
     <loc>https://derekmichaelwright.github.io/agData/reference/theme_agData_pie.html</loc>
