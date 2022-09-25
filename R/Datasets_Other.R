@@ -1,7 +1,7 @@
 NULL
-#' USDA Crop Data
+#' Lentil Barulina
 #' 
-#' A dataset from the USDA on crop production.
+#' A dataset for lentil production from Barulina's Monograph.
 #' @section Keys:
 #' \itemize{
 #'   \item Area
@@ -11,57 +11,16 @@ NULL
 #'   \item Unit
 #'   \item Value
 #' }
-#' @section Measurement (Unit):
+#' @section Measurements (Unit):
 #' \itemize{
-#'   \item Production     (Tonnes)
-#'   \item Area Seeded    (Hectares)
 #'   \item Area Harvested (Hectares)
+#'   \item Production     (Tonnes)
 #'   \item Yield          (kg/ha)
 #' }
-#' @source https://www.nass.usda.gov/
+#' @source Barulina, Elena I. (1930) Lentils of the USSR and of other countries.
 #' @docType data
 #' @keywords datasets
-#' @name agData_USDA_Crops
-NULL
-#' USDA GE Crop Data
-#' 
-#' A dataset from the USDA on GE crop production.
-#' @section Keys:
-#' \itemize{
-#'   \item Area
-#'   \item Year
-#'   \item Crop
-#'   \item Measurement
-#'   \item Unit
-#'   \item Value
-#' }
-#' @source https://www.ers.usda.gov/data-products/adoption-of-genetically-engineered-crops-in-the-us/
-#' @docType data
-#' @keywords datasets
-#' @name agData_USDA_GE_Crops
-NULL
-#' USDA Agricultureal Productivity data
-#' 
-#' A dataset from the USDA on agricultural productivity production.
-#' @section Keys:
-#' \itemize{
-#'   \item Area
-#'   \item Year
-#'   \item Measurement
-#'   \item Unit
-#'   \item Value
-#' }
-#' @section Measurement (Unit):
-#' \itemize{
-#'   \item TFP
-#'   \item Inputs
-#'   \item Outputs
-#'   \item ...
-#' }
-#' @source https://www.nass.usda.gov/
-#' @docType data
-#' @keywords datasets
-#' @name agData_USDA_TFP
+#' @name agData_Barulina
 NULL
 #' ISAAA GE Crop Data
 #' 
@@ -194,71 +153,6 @@ NULL
 #' @keywords datasets
 #' @name agData_ISAAA_Value
 NULL
-#' People in Ag
-#' 
-#' A dataset from people in ag.
-#' @section Keys:
-#' \itemize{
-#'   \item Area
-#'   \item Year
-#'   \item Measurement
-#'   \item Unit
-#'   \item Value
-#' }
-#' @section Measurements:
-#' \itemize{
-#'   \item Total
-#'   \item Percent
-#' }
-#' @source ?
-#' @docType data
-#' @keywords datasets
-#' @name agData_PeopleInAg
-NULL
-#' Lentil Barulina
-#' 
-#' A dataset for lentil production from Barulina's Monograph.
-#' @section Keys:
-#' \itemize{
-#'   \item Area
-#'   \item Year
-#'   \item Crop
-#'   \item Measurement
-#'   \item Unit
-#'   \item Value
-#' }
-#' @section Measurements (Unit):
-#' \itemize{
-#'   \item Area Harvested (Hectares)
-#'   \item Production     (Tonnes)
-#'   \item Yield          (kg/ha)
-#' }
-#' @source Barulina, Elena I. (1930) Lentils of the USSR and of other countries.
-#' @docType data
-#' @keywords datasets
-#' @name agData_Barulina
-NULL
-#' Maize Contest
-#' 
-#' A dataset for Maize Yield Contest.
-#' @section Keys:
-#' \itemize{
-#'   \item Crop
-#'   \item Year
-#'   \item Measurement
-#'   \item Unit
-#'   \item Value
-#' }
-#' @section Measurements:
-#' \itemize{
-#'   \item Irrigated
-#'   \item Non-Irrigated
-#' }
-#' @source https://www.ncga.com/
-#' @docType data
-#' @keywords datasets
-#' @name agData_MaizeContest
-NULL
 #' Long Term Maize Selection
 #' 
 #' A dataset for Long Term Maize Selection Experiment.
@@ -283,6 +177,48 @@ NULL
 #' @docType data
 #' @keywords datasets
 #' @name agData_LongTermMaize
+NULL
+#' Maize Contest
+#' 
+#' A dataset for Maize Yield Contest.
+#' @section Keys:
+#' \itemize{
+#'   \item Crop
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @section Measurements:
+#' \itemize{
+#'   \item Irrigated
+#'   \item Non-Irrigated
+#' }
+#' @source https://www.ncga.com/
+#' @docType data
+#' @keywords datasets
+#' @name agData_MaizeContest
+NULL
+#' People in Ag
+#' 
+#' A dataset from people in ag.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @section Measurements:
+#' \itemize{
+#'   \item Total
+#'   \item Percent
+#' }
+#' @source ?
+#' @docType data
+#' @keywords datasets
+#' @name agData_PeopleInAg
 NULL
 #' Population with and without fertilizers
 #' 
@@ -316,4 +252,68 @@ NULL
 #' @docType data
 #' @keywords datasets
 #' @name agData_UK_Yields
+NULL
+#' USDA Crop Data
+#' 
+#' A dataset from the USDA on crop production.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Crop
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @section Measurement (Unit):
+#' \itemize{
+#'   \item Production     (Tonnes)
+#'   \item Area Seeded    (Hectares)
+#'   \item Area Harvested (Hectares)
+#'   \item Yield          (kg/ha)
+#' }
+#' @source https://www.nass.usda.gov/
+#' @docType data
+#' @keywords datasets
+#' @name agData_USDA_Crops
+NULL
+#' USDA GE Crop Data
+#' 
+#' A dataset from the USDA on GE crop production.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Crop
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @source https://www.ers.usda.gov/data-products/adoption-of-genetically-engineered-crops-in-the-us/
+#' @docType data
+#' @keywords datasets
+#' @name agData_USDA_GE_Crops
+NULL
+#' USDA Agricultureal Productivity data
+#' 
+#' A dataset from the USDA on agricultural productivity production.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @section Measurement (Unit):
+#' \itemize{
+#'   \item TFP
+#'   \item Inputs
+#'   \item Outputs
+#'   \item ...
+#' }
+#' @source https://www.nass.usda.gov/
+#' @docType data
+#' @keywords datasets
+#' @name agData_USDA_TFP
 NULL

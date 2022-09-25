@@ -236,8 +236,8 @@ downloadthis::download_link(
 
 ```{r echo = F}
 downloadthis::download_link(
-  link = "Data/agData_FAO_Crops.csv.gz",
-  button_label = "agData_FAO_Crops.csv.gz",
+  link = "Data/agData_FAO_Crops.csv",
+  button_label = "agData_FAO_Crops.csv",
   button_type = "success",
   has_icon = TRUE,
   icon = "fa fa-save",
@@ -249,8 +249,8 @@ downloadthis::download_link(
 
 ```{r echo = F}
 downloadthis::download_link(
-  link = "Data/agData_FAO_Crops2.csv.gz",
-  button_label = "agData_FAO_Crops2.csv.gz",
+  link = "Data/agData_FAO_Crops2.csv",
+  button_label = "agData_FAO_Crops2.csv",
   button_type = "success",
   has_icon = TRUE,
   icon = "fa fa-save",
@@ -262,8 +262,8 @@ downloadthis::download_link(
 
 ```{r echo = F}
 downloadthis::download_link(
-  link = "Data/agData_FAO_Livestock.csv.gz",
-  button_label = "agData_FAO_Livestock.csv.gz",
+  link = "Data/agData_FAO_Livestock.csv",
+  button_label = "agData_FAO_Livestock.csv",
   button_type = "success",
   has_icon = TRUE,
   icon = "fa fa-save",
@@ -301,8 +301,8 @@ downloadthis::download_link(
 
 ```{r echo = F}
 downloadthis::download_link(
-  link = "Data/agData_FAO_Fertilizers.csv.gz",
-  button_label = "agData_FAO_Fertilizers.csv.gz",
+  link = "Data/agData_FAO_Fertilizers.csv",
+  button_label = "agData_FAO_Fertilizers.csv",
   button_type = "success",
   has_icon = TRUE,
   icon = "fa fa-save",
@@ -314,8 +314,8 @@ downloadthis::download_link(
 
 ```{r echo = F}
 downloadthis::download_link(
-  link = "Data/agData_FAO_LandUse.csv.gz",
-  button_label = "agData_FAO_LandUse.csv.gz",
+  link = "Data/agData_FAO_LandUse.csv",
+  button_label = "agData_FAO_LandUse.csv",
   button_type = "success",
   has_icon = TRUE,
   icon = "fa fa-save",
@@ -327,8 +327,8 @@ downloadthis::download_link(
 
 ```{r echo = F}
 downloadthis::download_link(
-  link = "Data/agData_FAO_Population.csv.gz",
-  button_label = "agData_FAO_Population.csv.gz",
+  link = "Data/agData_FAO_Population.csv",
+  button_label = "agData_FAO_Population.csv",
   button_type = "success",
   has_icon = TRUE,
   icon = "fa fa-save",
@@ -340,8 +340,8 @@ downloadthis::download_link(
 
 ```{r echo = F}
 downloadthis::download_link(
-  link = "Data/agData_FAO_Producer_Prices.csv.gz",
-  button_label = "agData_FAO_Producer_Prices.csv.gz",
+  link = "Data/agData_FAO_Producer_Prices.csv",
+  button_label = "agData_FAO_Producer_Prices.csv",
   button_type = "success",
   has_icon = TRUE,
   icon = "fa fa-save",
@@ -353,8 +353,8 @@ downloadthis::download_link(
 
 ```{r echo = F}
 downloadthis::download_link(
-  link = "Data/agData_FAO_Consumer_Prices.csv.gz",
-  button_label = "agData_FAO_Consumer_Prices.csv.gz",
+  link = "Data/agData_FAO_Consumer_Prices.csv",
+  button_label = "agData_FAO_Consumer_Prices.csv",
   button_type = "success",
   has_icon = TRUE,
   icon = "fa fa-save",

@@ -42,19 +42,6 @@ NULL
 #' @keywords datasets
 #' @name agData_SKAG_Specialty_Crops
 NULL
-#' Statistics Canada - Region Info
-#'
-#' A dataset of Region info for Canada.
-#' @section Keys:
-#' \itemize{
-#'   \item Area
-#'   \item Lat
-#'   \item Lon
-#' }
-#' @docType data
-#' @keywords datasets
-#' @name agData_STATCAN_Region_Table
-NULL
 #' Statistics Canada - HoneyBee Data
 #'
 #' A dataset from Statistics Canada on honeybee production.
@@ -318,4 +305,17 @@ NULL
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_Population
+NULL
+#' Statistics Canada - Region Info
+#'
+#' A dataset of Region info for Canada.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Lat
+#'   \item Lon
+#' }
+#' @docType data
+#' @keywords datasets
+#' @name agData_STATCAN_Region_Table
 NULL

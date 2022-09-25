@@ -33,7 +33,7 @@ library(agData)
 
 ------------------------------------------------------------------------
 
-# agData\_Colors
+# agData_Colors
 
 ![](man/figures/agData_Colors.png)
 
@@ -139,20 +139,20 @@ ggsave("man/figures/agData_Colors.png", mp, width = 9, height = 9)
 
 <br>
 
-<a href="Data/agData_FAO_Crops.csv.gz">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Crops.csv.gz</button>
+<a href="Data/agData_FAO_Crops.csv">
+<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Crops.csv</button>
 </a>
 
 <br>
 
-<a href="Data/agData_FAO_Crops2.csv.gz">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Crops2.csv.gz</button>
+<a href="Data/agData_FAO_Crops2.csv">
+<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Crops2.csv</button>
 </a>
 
 <br>
 
-<a href="Data/agData_FAO_Livestock.csv.gz">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Livestock.csv.gz</button>
+<a href="Data/agData_FAO_Livestock.csv">
+<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Livestock.csv</button>
 </a>
 
 <br>
@@ -169,32 +169,32 @@ ggsave("man/figures/agData_Colors.png", mp, width = 9, height = 9)
 
 <br>
 
-<a href="Data/agData_FAO_Fertilizers.csv.gz">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Fertilizers.csv.gz</button>
+<a href="Data/agData_FAO_Fertilizers.csv">
+<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Fertilizers.csv</button>
 </a>
 
 <br>
 
-<a href="Data/agData_FAO_LandUse.csv.gz">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_LandUse.csv.gz</button>
+<a href="Data/agData_FAO_LandUse.csv">
+<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_LandUse.csv</button>
 </a>
 
 <br>
 
-<a href="Data/agData_FAO_Population.csv.gz">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Population.csv.gz</button>
+<a href="Data/agData_FAO_Population.csv">
+<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Population.csv</button>
 </a>
 
 <br>
 
-<a href="Data/agData_FAO_Producer_Prices.csv.gz">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Producer_Prices.csv.gz</button>
+<a href="Data/agData_FAO_Producer_Prices.csv">
+<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Producer_Prices.csv</button>
 </a>
 
 <br>
 
-<a href="Data/agData_FAO_Consumer_Prices.csv.gz">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Consumer_Prices.csv.gz</button>
+<a href="Data/agData_FAO_Consumer_Prices.csv">
+<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Consumer_Prices.csv</button>
 </a>
 
 <br>

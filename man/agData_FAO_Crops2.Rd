@@ -8,7 +8,7 @@
 http://www.fao.org/faostat/en/#data/QC
 }
 \description{
-A dataset containing crop aggregate data from FAOSTAT.
+A dataset containing crop data from FAOSTAT.
 }
 \section{Keys}{
 

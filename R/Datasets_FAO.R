@@ -1,60 +1,4 @@
 NULL
-#' FAO Country Table
-#'
-#' A table of country information.
-#' @section Keys:
-#' \itemize{
-#'   \item Country
-#'   \item FAO_TABLE_NAME
-#'   \item ISO2
-#'   \item ISO3
-#'   \item Lat
-#'   \item Lon
-#'   \item Region
-#'   \item SubRegion
-#'   \item DVDDVG
-#' }
-#' @docType data
-#' @keywords datasets
-#' @name agData_FAO_Country_Table
-NULL
-#' FAO Region Table
-#'
-#' A table of region information.
-#' @section Keys:
-#' \itemize{
-#'   \item FAO_TABLE_NAME
-#'   \item Region
-#'   \item SubRegion
-#'   \item Name
-#' }
-#' @docType data
-#' @keywords datasets
-#' @name agData_FAO_Region_Table
-NULL
-#' FAO Crop Production Data
-#'
-#' A dataset containing crop data from FAOSTAT.
-#' @section Keys:
-#' \itemize{
-#'   \item Area
-#'   \item Year
-#'   \item Crop
-#'   \item Measurement
-#'   \item Unit
-#'   \item Value
-#' }
-#' @section Measurement (Unit):
-#' \itemize{
-#'   \item Production     (Tonnes)
-#'   \item Area Harvested (Hectares)
-#'   \item Yield          (kg/ha)
-#' }
-#' @source http://www.fao.org/faostat/en/#data/QC
-#' @docType data
-#' @keywords datasets
-#' @name agData_FAO_Crops
-NULL
 #' FAO Consumer Price Indices
 #'
 #' A dataset containing consumer price indices from FAOSTAT.
@@ -80,49 +24,51 @@ NULL
 #' @keywords datasets
 #' @name agData_FAO_Consumer_Prices
 NULL
-#' FAO Producer Price Indices
+#' FAO Country Table
 #'
-#' A dataset containing producer price indices from FAOSTAT.
+#' A table of country information.
+#' @section Keys:
+#' \itemize{
+#'   \item Country
+#'   \item FAO_TABLE_NAME
+#'   \item ISO2
+#'   \item ISO3
+#'   \item Lat
+#'   \item Lon
+#'   \item Region
+#'   \item SubRegion
+#'   \item DVDDVG
+#' }
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Country_Table
+NULL
+#' FAO Crop Production Data
+#'
+#' A dataset containing crop data from FAOSTAT.
 #' @section Keys:
 #' \itemize{
 #'   \item Area
-#'   \item Item
 #'   \item Year
+#'   \item Crop
 #'   \item Measurement
 #'   \item Unit
 #'   \item Value
 #' }
 #' @section Measurement (Unit):
 #' \itemize{
-#'   \item Producer Price Index (2014-2016 = 100)
-#'   \item Producer Price (USD/Tonne)
+#'   \item Production     (Tonnes)
+#'   \item Area Harvested (Hectares)
+#'   \item Yield          (kg/ha)
 #' }
-#' @source http://www.fao.org/faostat/en/#data/PP
+#' @source http://www.fao.org/faostat/en/#data/QC
 #' @docType data
 #' @keywords datasets
-#' @name agData_FAO_Producer_Prices
-NULL
-#' FAO Food Price Index
-#'
-#' A dataset containing food price indices from FAOSTAT.
-#' @section Keys:
-#' \itemize{
-#'   \item Date
-#'   \item Year
-#'   \item Month
-#'   \item Item
-#'   \item Measurement
-#'   \item Unit
-#'   \item Value
-#' }
-#' @source https://www.fao.org/worldfoodsituation/foodpricesindex/en/
-#' @docType data
-#' @keywords datasets
-#' @name agData_FAO_Food_Prices
+#' @name agData_FAO_Crops
 NULL
 #' FAO Crop Production Data
 #'
-#' A dataset containing crop aggregate data from FAOSTAT.
+#' A dataset containing crop data from FAOSTAT.
 #' @section Keys:
 #' \itemize{
 #'   \item Area
@@ -142,6 +88,29 @@ NULL
 #' @docType data
 #' @keywords datasets
 #' @name agData_FAO_Crops2
+NULL
+#' FAO Crop Production Data
+#'
+#' A dataset containing crop data from FAOSTAT.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Crop
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @section Measurement (Unit):
+#' \itemize{
+#'   \item Production     (Tonnes)
+#'   \item Area Harvested (Hectares)
+#'   \item Yield          (kg/ha)
+#' }
+#' @source http://www.fao.org/faostat/en/#data/QC
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Crops3
 NULL
 #' FAO fertilizer data
 #'
@@ -167,6 +136,24 @@ NULL
 #' @docType data
 #' @keywords datasets
 #' @name agData_FAO_Fertilizers
+NULL
+#' FAO Food Price Index
+#'
+#' A dataset containing food price indices from FAOSTAT.
+#' @section Keys:
+#' \itemize{
+#'   \item Date
+#'   \item Year
+#'   \item Month
+#'   \item Item
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @source https://www.fao.org/worldfoodsituation/foodpricesindex/en/
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Food_Prices
 NULL
 #' FAO Land Use Data
 #'
@@ -242,6 +229,42 @@ NULL
 #' @docType data
 #' @keywords datasets
 #' @name agData_FAO_Population
+NULL
+#' FAO Producer Price Indices
+#'
+#' A dataset containing producer price indices from FAOSTAT.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Item
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @section Measurement (Unit):
+#' \itemize{
+#'   \item Producer Price Index (2014-2016 = 100)
+#'   \item Producer Price (USD/Tonne)
+#' }
+#' @source http://www.fao.org/faostat/en/#data/PP
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Producer_Prices
+NULL
+#' FAO Region Table
+#'
+#' A table of region information.
+#' @section Keys:
+#' \itemize{
+#'   \item FAO_TABLE_NAME
+#'   \item Region
+#'   \item SubRegion
+#'   \item Name
+#' }
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Region_Table
 NULL
 #' FAO Trade Data
 #'
