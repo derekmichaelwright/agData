@@ -5,7 +5,7 @@
 #' @return ggplot with agData theme for pie graphs
 #' @export
 
-theme_agData_pie <- function(x, bgFill = "grey95", lineColor = "white", linesize = 0.75, stripFill = "white", ...) {
+theme_agData_pie <- function(x, bgFill = "white", lineColor = "grey95", linesize = 0.75, stripFill = "white", ...) {
   theme(panel.background = element_rect(colour = "black", fill = bgFill, size = linesize),
         panel.grid = element_blank(), # panel.grid = element_line(color = lineColor),
         panel.border = element_rect(colour = "black", fill=NA, size=linesize),
