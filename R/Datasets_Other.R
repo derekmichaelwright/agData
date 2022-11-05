@@ -275,7 +275,7 @@ NULL
 #' @source https://www.nass.usda.gov/
 #' @docType data
 #' @keywords datasets
-#' @name agData_USDA_Crops
+#' @name agData_USDA_Grains
 NULL
 #' USDA GE Crop Data
 #' 
@@ -317,3 +317,82 @@ NULL
 #' @keywords datasets
 #' @name agData_USDA_TFP
 NULL
+#' USDA Crop data
+#' 
+#' A dataset from the USDA on crop production.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @source https://www.nass.usda.gov/
+#' @docType data
+#' @keywords datasets
+#' @name agData_USDA_Crops
+NULL
+#' USDA lentil data
+#' 
+#' A dataset from the USDA on lentil production.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @source https://www.nass.usda.gov/
+#' @docType data
+#' @keywords datasets
+#' @name agData_USDA_Lentil
+NULL
+#' USDA Sugarbeet data
+#' 
+#' A dataset from the USDA on sugarbeet production.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @source https://www.nass.usda.gov/
+#' @docType data
+#' @keywords datasets
+#' @name agData_USDA_SugarBeet
+NULL
+#' USDA organic data
+#' 
+#' A dataset from the USDA on organic production.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @source https://www.nass.usda.gov/
+#' @docType data
+#' @keywords datasets
+#' @name agData_USDA_Organic
+NULL
+#' USDA food security data
+#' 
+#' A dataset from the USDA on food security.
+#' \itemize{
+#'   \item Year
+#'   \item Region
+#'   \item SubRegion
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @source https://www.ers.usda.gov/data-products/international-food-security/
+#' @docType data
+#' @keywords datasets
+#' @name agData_USDA_Food_Security

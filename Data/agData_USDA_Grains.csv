@@ -1,0 +1,2556 @@
+Area,Year,Crop,Measurement,Unit,Value
+USA,1866,Wheat,Area Harvested,Hectares,6235401.888
+USA,1866,Wheat,Yield,kg/ha,740
+USA,1866,Wheat,Production,Tonnes,4618555.39056
+USA,1866,Maize,Area Harvested,Hectares,12147459.662
+USA,1866,Maize,Yield,kg/ha,1525
+USA,1866,Maize,Production,Tonnes,18563517.497728
+USA,1866,Barley,Area Harvested,Hectares,305133.244
+USA,1866,Barley,Yield,kg/ha,1291
+USA,1866,Barley,Production,Tonnes,393971.86752
+USA,1866,Oats,Area Harvested,Hectares,3211183.41
+USA,1866,Oats,Yield,kg/ha,1117
+USA,1866,Oats,Production,Tonnes,3583485.66208
+USA,1867,Wheat,Area Harvested,Hectares,6773634.268
+USA,1867,Wheat,Yield,kg/ha,847
+USA,1867,Wheat,Production,Tonnes,5739154.42656
+USA,1867,Maize,Area Harvested,Hectares,12996895.576
+USA,1867,Maize,Yield,kg/ha,1550
+USA,1867,Maize,Production,Tonnes,20166101.57856
+USA,1867,Barley,Area Harvested,Hectares,428157.788
+USA,1867,Barley,Yield,kg/ha,1211
+USA,1867,Barley,Production,Tonnes,519272.1216
+USA,1867,Oats,Area Harvested,Hectares,3308712.736
+USA,1867,Oats,Yield,kg/ha,1037
+USA,1867,Oats,Production,Tonnes,3433042.80344
+USA,1868,Wheat,Area Harvested,Hectares,7745690.04
+USA,1868,Wheat,Yield,kg/ha,868
+USA,1868,Wheat,Production,Tonnes,6702420.54144
+USA,1868,Maize,Area Harvested,Hectares,14210953.576
+USA,1868,Maize,Yield,kg/ha,1645
+USA,1868,Maize,Production,Tonnes,23358645.36768
+USA,1868,Barley,Area Harvested,Hectares,430585.904
+USA,1868,Barley,Yield,kg/ha,1173
+USA,1868,Barley,Production,Tonnes,505120.0512
+USA,1868,Oats,Area Harvested,Hectares,3600491.342
+USA,1868,Oats,Yield,kg/ha,983
+USA,1868,Oats,Production,Tonnes,3542092.670528
+USA,1869,Wheat,Area Harvested,Hectares,8576915.084
+USA,1869,Wheat,Yield,kg/ha,921
+USA,1869,Wheat,Production,Tonnes,7879600.64352
+USA,1869,Maize,Area Harvested,Hectares,14501113.438
+USA,1869,Maize,Yield,kg/ha,1368
+USA,1869,Maize,Production,Tonnes,19865834.560768
+USA,1869,Barley,Area Harvested,Hectares,501001.268
+USA,1869,Barley,Yield,kg/ha,1264
+USA,1869,Barley,Production,Tonnes,633555.533184
+USA,1869,Oats,Area Harvested,Hectares,3866774.73
+USA,1869,Oats,Yield,kg/ha,1132
+USA,1869,Oats,Production,Tonnes,4379946.040512
+USA,1870,Wheat,Area Harvested,Hectares,8476148.27
+USA,1870,Wheat,Yield,kg/ha,814
+USA,1870,Wheat,Production,Tonnes,6924417.53808
+USA,1870,Maize,Area Harvested,Hectares,15535086.168
+USA,1870,Maize,Yield,kg/ha,1839
+USA,1870,Maize,Production,Tonnes,28570580.7408
+USA,1870,Barley,Area Harvested,Hectares,538637.066
+USA,1870,Barley,Yield,kg/ha,1173
+USA,1870,Barley,Production,Tonnes,632423.367552
+USA,1870,Oats,Area Harvested,Hectares,4187690.728
+USA,1870,Oats,Yield,kg/ha,987
+USA,1870,Oats,Production,Tonnes,4132312.931216
+USA,1871,Wheat,Area Harvested,Hectares,8996169.78
+USA,1871,Wheat,Yield,kg/ha,820
+USA,1871,Wheat,Production,Tonnes,7399382.79312
+USA,1871,Maize,Area Harvested,Hectares,16997621.372
+USA,1871,Maize,Yield,kg/ha,1707
+USA,1871,Maize,Production,Tonnes,29000876.25568
+USA,1871,Barley,Area Harvested,Hectares,545516.728
+USA,1871,Barley,Yield,kg/ha,1103
+USA,1871,Barley,Production,Tonnes,602878.19904
+USA,1871,Oats,Area Harvested,Hectares,4476231.846
+USA,1871,Oats,Yield,kg/ha,1056
+USA,1871,Oats,Production,Tonnes,4722533.191904
+USA,1872,Wheat,Area Harvested,Hectares,9292399.932
+USA,1872,Wheat,Yield,kg/ha,794
+USA,1872,Wheat,Production,Tonnes,7388523.80064
+USA,1872,Maize,Area Harvested,Hectares,17637834.624
+USA,1872,Maize,Yield,kg/ha,1845
+USA,1872,Maize,Production,Tonnes,32497446.433088
+USA,1872,Barley,Area Harvested,Hectares,575058.806
+USA,1872,Barley,Yield,kg/ha,1211
+USA,1872,Barley,Production,Tonnes,696826.17408
+USA,1872,Oats,Area Harvested,Hectares,4770843.254
+USA,1872,Oats,Yield,kg/ha,1056
+USA,1872,Oats,Production,Tonnes,5039319.123152
+USA,1873,Wheat,Area Harvested,Hectares,10062922.076
+USA,1873,Wheat,Yield,kg/ha,868
+USA,1873,Wheat,Production,Tonnes,8761519.56912
+USA,1873,Maize,Area Harvested,Hectares,17840177.624
+USA,1873,Maize,Yield,kg/ha,1437
+USA,1873,Maize,Production,Tonnes,25612641.991552
+USA,1873,Barley,Area Harvested,Hectares,596102.478
+USA,1873,Barley,Yield,kg/ha,1114
+USA,1873,Barley,Production,Tonnes,664842.494976
+USA,1873,Oats,Area Harvested,Hectares,4860278.86
+USA,1873,Oats,Yield,kg/ha,976
+USA,1873,Oats,Production,Tonnes,4733143.615968
+USA,1874,Wheat,Area Harvested,Hectares,11051974.66
+USA,1874,Wheat,Yield,kg/ha,874
+USA,1874,Wheat,Production,Tonnes,9691854.9048
+USA,1874,Maize,Area Harvested,Hectares,19279241.04
+USA,1874,Maize,Yield,kg/ha,1393
+USA,1874,Maize,Production,Tonnes,26894180.912256
+USA,1874,Barley,Area Harvested,Hectares,658828.808
+USA,1874,Barley,Yield,kg/ha,1194
+USA,1874,Barley,Production,Tonnes,786528.528
+USA,1874,Oats,Area Harvested,Hectares,5169863.65
+USA,1874,Oats,Yield,kg/ha,812
+USA,1874,Oats,Production,Tonnes,4202545.302128
+USA,1875,Wheat,Area Harvested,Hectares,11485798.052
+USA,1875,Wheat,Yield,kg/ha,746
+USA,1875,Wheat,Production,Tonnes,8538270.65856
+USA,1875,Maize,Area Harvested,Hectares,21224161.956
+USA,1875,Maize,Yield,kg/ha,1739
+USA,1875,Maize,Production,Tonnes,36838681.117952
+USA,1875,Barley,Area Harvested,Hectares,688775.572
+USA,1875,Barley,Yield,kg/ha,1038
+USA,1875,Barley,Production,Tonnes,714396.513792
+USA,1875,Oats,Area Harvested,Hectares,5510204.576
+USA,1875,Oats,Yield,kg/ha,1021
+USA,1875,Oats,Production,Tonnes,5628567.789776
+USA,1876,Wheat,Area Harvested,Hectares,11445734.138
+USA,1876,Wheat,Yield,kg/ha,733
+USA,1876,Wheat,Production,Tonnes,8412752.68032
+USA,1876,Maize,Area Harvested,Hectares,22369828.022
+USA,1876,Maize,Yield,kg/ha,1676
+USA,1876,Maize,Production,Tonnes,37547297.055296
+USA,1876,Barley,Area Harvested,Hectares,798445.478
+USA,1876,Barley,Yield,kg/ha,1108
+USA,1876,Barley,Production,Tonnes,886376.827776
+USA,1876,Oats,Area Harvested,Hectares,5903964.054
+USA,1876,Oats,Yield,kg/ha,854
+USA,1876,Oats,Production,Tonnes,5046305.347136
+USA,1877,Wheat,Area Harvested,Hectares,11316234.618
+USA,1877,Wheat,Yield,kg/ha,948
+USA,1877,Wheat,Production,Tonnes,10764010.3152
+USA,1877,Maize,Area Harvested,Hectares,23795132.114
+USA,1877,Maize,Yield,kg/ha,1619
+USA,1877,Maize,Production,Tonnes,38504641.073024
+USA,1877,Barley,Area Harvested,Hectares,793993.932
+USA,1877,Barley,Yield,kg/ha,1076
+USA,1877,Barley,Production,Tonnes,852890.851968
+USA,1877,Oats,Area Harvested,Hectares,5995827.776
+USA,1877,Oats,Yield,kg/ha,1120
+USA,1877,Oats,Production,Tonnes,6713714.98224
+USA,1878,Wheat,Area Harvested,Hectares,13508013.994
+USA,1878,Wheat,Yield,kg/ha,908
+USA,1878,Wheat,Production,Tonnes,12224531.196
+USA,1878,Maize,Area Harvested,Hectares,24143162.074
+USA,1878,Maize,Yield,kg/ha,1645
+USA,1878,Maize,Production,Tonnes,39741042.146624
+USA,1878,Barley,Area Harvested,Hectares,747859.728
+USA,1878,Barley,Yield,kg/ha,1092
+USA,1878,Barley,Production,Tonnes,815333.434368
+USA,1878,Oats,Area Harvested,Hectares,6406179.38
+USA,1878,Oats,Yield,kg/ha,1067
+USA,1878,Oats,Production,Tonnes,6837631.78072
+USA,1879,Wheat,Area Harvested,Hectares,14304436.042
+USA,1879,Wheat,Yield,kg/ha,874
+USA,1879,Wheat,Production,Tonnes,12498292.11168
+USA,1879,Maize,Area Harvested,Hectares,25183205.094
+USA,1879,Maize,Yield,kg/ha,1770
+USA,1879,Maize,Production,Tonnes,44502411.885568
+USA,1879,Barley,Area Harvested,Hectares,779425.236
+USA,1879,Barley,Yield,kg/ha,1184
+USA,1879,Barley,Production,Tonnes,922475.493504
+USA,1879,Oats,Area Harvested,Hectares,6456765.13
+USA,1879,Oats,Yield,kg/ha,991
+USA,1879,Oats,Production,Tonnes,6406968.85632
+USA,1880,Wheat,Area Harvested,Hectares,15416917.856
+USA,1880,Wheat,Yield,kg/ha,888
+USA,1880,Wheat,Production,Tonnes,13669185.42864
+USA,1880,Maize,Area Harvested,Hectares,25311085.87
+USA,1880,Maize,Yield,kg/ha,1714
+USA,1880,Maize,Production,Tonnes,43351460.287296
+USA,1880,Barley,Area Harvested,Hectares,805325.14
+USA,1880,Barley,Yield,kg/ha,1221
+USA,1880,Barley,Production,Tonnes,985441.320576
+USA,1880,Oats,Area Harvested,Hectares,6642516.004
+USA,1880,Oats,Yield,kg/ha,972
+USA,1880,Oats,Production,Tonnes,6445555.020576
+USA,1881,Wheat,Area Harvested,Hectares,14890421.37
+USA,1881,Wheat,Yield,kg/ha,740
+USA,1881,Wheat,Production,Tonnes,11046398.55072
+USA,1881,Maize,Area Harvested,Hectares,25505739.836
+USA,1881,Maize,Yield,kg/ha,1243
+USA,1881,Maize,Production,Tonnes,31619430.213056
+USA,1881,Barley,Area Harvested,Hectares,890713.886
+USA,1881,Barley,Yield,kg/ha,1200
+USA,1881,Barley,Production,Tonnes,1066500.025344
+USA,1881,Oats,Area Harvested,Hectares,6845668.376
+USA,1881,Oats,Yield,kg/ha,1006
+USA,1881,Oats,Production,Tonnes,6880196.854
+USA,1882,Wheat,Area Harvested,Hectares,14769420.256
+USA,1882,Wheat,Yield,kg/ha,1015
+USA,1882,Wheat,Production,Tonnes,15028600.65264
+USA,1882,Maize,Area Harvested,Hectares,26772811.702
+USA,1882,Maize,Yield,kg/ha,1663
+USA,1882,Maize,Production,Tonnes,44585930.873344
+USA,1882,Barley,Area Harvested,Hectares,985005.724
+USA,1882,Barley,Yield,kg/ha,1329
+USA,1882,Barley,Production,Tonnes,1307912.573952
+USA,1882,Oats,Area Harvested,Hectares,7719385.45
+USA,1882,Oats,Yield,kg/ha,1078
+USA,1882,Oats,Production,Tonnes,8335074.143136
+USA,1883,Wheat,Area Harvested,Hectares,14401560.682
+USA,1883,Wheat,Yield,kg/ha,827
+USA,1883,Wheat,Production,Tonnes,11941135.98624
+USA,1883,Maize,Area Harvested,Hectares,27586635.248
+USA,1883,Maize,Yield,kg/ha,1519
+USA,1883,Maize,Production,Tonnes,41966462.474496
+USA,1883,Barley,Area Harvested,Hectares,1001193.164
+USA,1883,Barley,Yield,kg/ha,1243
+USA,1883,Barley,Production,Tonnes,1243771.036416
+USA,1883,Oats,Area Harvested,Hectares,8345030.006
+USA,1883,Oats,Yield,kg/ha,1120
+USA,1883,Oats,Production,Tonnes,9339270.585728
+USA,1884,Wheat,Area Harvested,Hectares,15574340.71
+USA,1884,Wheat,Yield,kg/ha,995
+USA,1884,Wheat,Production,Tonnes,15548008.85184
+USA,1884,Maize,Area Harvested,Hectares,27856156.124
+USA,1884,Maize,Yield,kg/ha,1776
+USA,1884,Maize,Production,Tonnes,49477329.109376
+USA,1884,Barley,Area Harvested,Hectares,1090224.084
+USA,1884,Barley,Yield,kg/ha,1356
+USA,1884,Barley,Production,Tonnes,1478760.722304
+USA,1884,Oats,Area Harvested,Hectares,8892570.164
+USA,1884,Oats,Yield,kg/ha,1109
+USA,1884,Oats,Production,Tonnes,9878181.42656
+USA,1885,Wheat,Area Harvested,Hectares,14202455.17
+USA,1885,Wheat,Yield,kg/ha,767
+USA,1885,Wheat,Production,Tonnes,10884330.12912
+USA,1885,Maize,Area Harvested,Hectares,29078307.844
+USA,1885,Maize,Yield,kg/ha,1795
+USA,1885,Maize,Production,Tonnes,52270668.393664
+USA,1885,Barley,Area Harvested,Hectares,1158211.332
+USA,1885,Barley,Yield,kg/ha,1200
+USA,1885,Barley,Production,Tonnes,1392629.044608
+USA,1885,Oats,Area Harvested,Hectares,9449822.786
+USA,1885,Oats,Yield,kg/ha,1101
+USA,1885,Oats,Production,Tonnes,10396843.013328
+USA,1886,Wheat,Area Harvested,Hectares,14694958.032
+USA,1886,Wheat,Yield,kg/ha,948
+USA,1886,Wheat,Production,Tonnes,13976258.1408
+USA,1886,Maize,Area Harvested,Hectares,29910746.946
+USA,1886,Maize,Yield,kg/ha,1513
+USA,1886,Maize,Production,Tonnes,45284335.547584
+USA,1886,Barley,Area Harvested,Hectares,1224984.522
+USA,1886,Barley,Yield,kg/ha,1307
+USA,1886,Barley,Production,Tonnes,1600337.893248
+USA,1886,Oats,Area Harvested,Hectares,9884860.236
+USA,1886,Oats,Yield,kg/ha,1063
+USA,1886,Oats,Production,Tonnes,10522702.999936
+USA,1887,Wheat,Area Harvested,Hectares,14921986.878
+USA,1887,Wheat,Yield,kg/ha,894
+USA,1887,Wheat,Production,Tonnes,13356315.81072
+USA,1887,Maize,Area Harvested,Hectares,29661865.056
+USA,1887,Maize,Yield,kg/ha,1375
+USA,1887,Maize,Production,Tonnes,40757393.040448
+USA,1887,Barley,Area Harvested,Hectares,1318466.988
+USA,1887,Barley,Yield,kg/ha,1194
+USA,1887,Barley,Production,Tonnes,1576214.05632
+USA,1887,Oats,Area Harvested,Hectares,10631910.592
+USA,1887,Oats,Yield,kg/ha,1010
+USA,1887,Oats,Production,Tonnes,10736499.9604
+USA,1888,Wheat,Area Harvested,Hectares,14151464.734
+USA,1888,Wheat,Yield,kg/ha,814
+USA,1888,Wheat,Production,Tonnes,11535760.81584
+USA,1888,Maize,Area Harvested,Hectares,31352643.164
+USA,1888,Maize,Yield,kg/ha,1827
+USA,1888,Maize,Production,Tonnes,57168645.528064
+USA,1888,Barley,Area Harvested,Hectares,1328584.138
+USA,1888,Barley,Yield,kg/ha,1243
+USA,1888,Barley,Production,Tonnes,1654268.16768
+USA,1888,Oats,Area Harvested,Hectares,11253103.602
+USA,1888,Oats,Yield,kg/ha,1059
+USA,1888,Oats,Production,Tonnes,11923448.619792
+USA,1889,Wheat,Area Harvested,Hectares,14608355.228
+USA,1889,Wheat,Yield,kg/ha,942
+USA,1889,Wheat,Production,Tonnes,13726691.8224
+USA,1889,Maize,Area Harvested,Hectares,31426296.016
+USA,1889,Maize,Yield,kg/ha,1852
+USA,1889,Maize,Production,Tonnes,58277583.620928
+USA,1889,Barley,Area Harvested,Hectares,1356507.472
+USA,1889,Barley,Yield,kg/ha,1297
+USA,1889,Barley,Production,Tonnes,1758993.48864
+USA,1889,Oats,Area Harvested,Hectares,11613274.142
+USA,1889,Oats,Yield,kg/ha,1105
+USA,1889,Oats,Production,Tonnes,12816513.208016
+USA,1890,Wheat,Area Harvested,Hectares,14846310.596
+USA,1890,Wheat,Yield,kg/ha,820
+USA,1890,Wheat,Production,Tonnes,12220911.53184
+USA,1890,Maize,Area Harvested,Hectares,30264442.51
+USA,1890,Maize,Yield,kg/ha,1387
+USA,1890,Maize,Production,Tonnes,41923229.713792
+USA,1890,Barley,Area Harvested,Hectares,1315229.5
+USA,1890,Barley,Yield,kg/ha,1157
+USA,1890,Barley,Production,Tonnes,1521456.43008
+USA,1890,Oats,Area Harvested,Hectares,11442496.65
+USA,1890,Oats,Yield,kg/ha,819
+USA,1890,Oats,Production,Tonnes,9393957.451616
+USA,1891,Wheat,Area Harvested,Hectares,16628547.74
+USA,1891,Wheat,Yield,kg/ha,1110
+USA,1891,Wheat,Production,Tonnes,18439685.06736
+USA,1891,Maize,Area Harvested,Hectares,31911514.53
+USA,1891,Maize,Yield,kg/ha,1858
+USA,1891,Maize,Production,Tonnes,59332112.446208
+USA,1891,Barley,Area Harvested,Hectares,1452822.74
+USA,1891,Barley,Yield,kg/ha,1410
+USA,1891,Barley,Production,Tonnes,2050090.69056
+USA,1891,Oats,Area Harvested,Hectares,11232464.616
+USA,1891,Oats,Yield,kg/ha,1147
+USA,1891,Oats,Production,Tonnes,12905067.066992
+USA,1892,Wheat,Area Harvested,Hectares,17392999.594
+USA,1892,Wheat,Yield,kg/ha,955
+USA,1892,Wheat,Production,Tonnes,16651924.77408
+USA,1892,Maize,Area Harvested,Hectares,31126019.004
+USA,1892,Maize,Yield,kg/ha,1550
+USA,1892,Maize,Production,Tonnes,48196450.618624
+USA,1892,Barley,Area Harvested,Hectares,1560873.902
+USA,1892,Barley,Yield,kg/ha,1329
+USA,1892,Barley,Production,Tonnes,2072080.83072
+USA,1892,Oats,Area Harvested,Hectares,11399195.248
+USA,1892,Oats,Yield,kg/ha,976
+USA,1892,Oats,Production,Tonnes,11132062.121472
+USA,1893,Wheat,Area Harvested,Hectares,16507141.94
+USA,1893,Wheat,Yield,kg/ha,834
+USA,1893,Wheat,Production,Tonnes,13765473.9384
+USA,1893,Maize,Area Harvested,Hectares,32306892.752
+USA,1893,Maize,Yield,kg/ha,1494
+USA,1893,Maize,Production,Tonnes,48272374.661952
+USA,1893,Barley,Area Harvested,Hectares,1492886.654
+USA,1893,Barley,Yield,kg/ha,1270
+USA,1893,Barley,Production,Tonnes,1896573.385344
+USA,1893,Oats,Area Harvested,Hectares,11843540.476
+USA,1893,Oats,Yield,kg/ha,922
+USA,1893,Oats,Production,Tonnes,10905433.950512
+USA,1894,Wheat,Area Harvested,Hectares,16255022.562
+USA,1894,Wheat,Yield,kg/ha,908
+USA,1894,Wheat,Production,Tonnes,14747355.46896
+USA,1894,Maize,Area Harvested,Hectares,32402803.334
+USA,1894,Maize,Yield,kg/ha,1268
+USA,1894,Maize,Production,Tonnes,41023266.898432
+USA,1894,Barley,Area Harvested,Hectares,1472652.354
+USA,1894,Barley,Yield,kg/ha,1098
+USA,1894,Barley,Production,Tonnes,1615752.763776
+USA,1894,Oats,Area Harvested,Hectares,11960899.416
+USA,1894,Oats,Yield,kg/ha,968
+USA,1894,Oats,Production,Tonnes,11566734.799152
+USA,1895,Wheat,Area Harvested,Hectares,15781944.628
+USA,1895,Wheat,Yield,kg/ha,935
+USA,1895,Wheat,Production,Tonnes,14754050.48688
+USA,1895,Maize,Area Harvested,Hectares,36615584.594
+USA,1895,Maize,Yield,kg/ha,1757
+USA,1895,Maize,Production,Tonnes,64385874.845824
+USA,1895,Barley,Area Harvested,Hectares,1693610.91
+USA,1895,Barley,Yield,kg/ha,1345
+USA,1895,Barley,Production,Tonnes,2274673.1616
+USA,1895,Oats,Area Harvested,Hectares,12506820.83
+USA,1895,Oats,Yield,kg/ha,1139
+USA,1895,Oats,Production,Tonnes,14263278.457824
+USA,1896,Wheat,Area Harvested,Hectares,16522520.008
+USA,1896,Wheat,Yield,kg/ha,861
+USA,1896,Wheat,Production,Tonnes,14232709.98576
+USA,1896,Maize,Area Harvested,Hectares,36047000.764
+USA,1896,Maize,Yield,kg/ha,1883
+USA,1896,Maize,Production,Tonnes,67847696.247296
+USA,1896,Barley,Area Harvested,Hectares,1671757.866
+USA,1896,Barley,Yield,kg/ha,1270
+USA,1896,Barley,Production,Tonnes,2122353.339264
+USA,1896,Oats,Area Harvested,Hectares,12240942.128
+USA,1896,Oats,Yield,kg/ha,976
+USA,1896,Oats,Production,Tonnes,11951054.228912
+USA,1897,Wheat,Area Harvested,Hectares,17568633.318
+USA,1897,Wheat,Yield,kg/ha,942
+USA,1897,Wheat,Production,Tonnes,16498102.65504
+USA,1897,Maize,Area Harvested,Hectares,36407575.99
+USA,1897,Maize,Yield,kg/ha,1594
+USA,1897,Maize,Production,Tonnes,58108386.547456
+USA,1897,Barley,Area Harvested,Hectares,1667306.32
+USA,1897,Barley,Yield,kg/ha,1340
+USA,1897,Barley,Production,Tonnes,2233305.5712
+USA,1897,Oats,Area Harvested,Hectares,11666692.694
+USA,1897,Oats,Yield,kg/ha,1098
+USA,1897,Oats,Production,Tonnes,12793040.7292
+USA,1898,Wheat,Area Harvested,Hectares,20439071.116
+USA,1898,Wheat,Yield,kg/ha,1022
+USA,1898,Wheat,Production,Tonnes,20905547.25696
+USA,1898,Maize,Area Harvested,Hectares,35524955.824
+USA,1898,Maize,Yield,kg/ha,1682
+USA,1898,Maize,Production,Tonnes,59726312.924096
+USA,1898,Barley,Area Harvested,Hectares,1664473.518
+USA,1898,Barley,Yield,kg/ha,1286
+USA,1898,Barley,Production,Tonnes,2137485.168384
+USA,1898,Oats,Area Harvested,Hectares,11868226.322
+USA,1898,Oats,Yield,kg/ha,1094
+USA,1898,Oats,Production,Tonnes,12988593.31224
+USA,1899,Wheat,Area Harvested,Hectares,21182074.612
+USA,1899,Wheat,Yield,kg/ha,841
+USA,1899,Wheat,Production,Tonnes,17830057.41936
+USA,1899,Maize,Area Harvested,Hectares,38279653.426
+USA,1899,Maize,Yield,kg/ha,1757
+USA,1899,Maize,Production,Tonnes,67206266.356992
+USA,1899,Barley,Area Harvested,Hectares,1809755.792
+USA,1899,Barley,Yield,kg/ha,1420
+USA,1899,Barley,Production,Tonnes,2572650.446976
+USA,1899,Oats,Area Harvested,Hectares,11838684.244
+USA,1899,Oats,Yield,kg/ha,1219
+USA,1899,Oats,Production,Tonnes,14453201.964144
+USA,1900,Wheat,Area Harvested,Hectares,19911765.258
+USA,1900,Wheat,Yield,kg/ha,820
+USA,1900,Wheat,Production,Tonnes,16310669.3688
+USA,1900,Maize,Area Harvested,Hectares,38385276.472
+USA,1900,Maize,Yield,kg/ha,1764
+USA,1900,Maize,Production,Tonnes,67617307.798656
+USA,1900,Barley,Area Harvested,Hectares,1903238.258
+USA,1900,Barley,Yield,kg/ha,1103
+USA,1900,Barley,Production,Tonnes,2102954.116608
+USA,1900,Oats,Area Harvested,Hectares,12565095.614
+USA,1900,Oats,Yield,kg/ha,1162
+USA,1900,Oats,Production,Tonnes,14581359.847824
+USA,1901,Wheat,Area Harvested,Hectares,20577069.042
+USA,1901,Wheat,Yield,kg/ha,1009
+USA,1901,Wheat,Production,Tonnes,20753085.91392
+USA,1901,Maize,Area Harvested,Hectares,38211261.492
+USA,1901,Maize,Yield,kg/ha,1142
+USA,1901,Maize,Production,Tonnes,43582077.346304
+USA,1901,Barley,Area Harvested,Hectares,2008456.618
+USA,1901,Barley,Yield,kg/ha,1340
+USA,1901,Barley,Production,Tonnes,2695425.1008
+USA,1901,Oats,Area Harvested,Hectares,12501155.226
+USA,1901,Oats,Yield,kg/ha,987
+USA,1901,Oats,Production,Tonnes,12334803.039936
+USA,1902,Wheat,Area Harvested,Hectares,18714299.384
+USA,1902,Wheat,Yield,kg/ha,1002
+USA,1902,Wheat,Production,Tonnes,18695946.40368
+USA,1902,Maize,Area Harvested,Hectares,39326171.422
+USA,1902,Maize,Yield,kg/ha,1789
+USA,1902,Maize,Production,Tonnes,70461627.195008
+USA,1902,Barley,Area Harvested,Hectares,2215251.164
+USA,1902,Barley,Yield,kg/ha,1436
+USA,1902,Barley,Production,Tonnes,3183279.626112
+USA,1902,Oats,Area Harvested,Hectares,12690143.588
+USA,1902,Oats,Yield,kg/ha,1307
+USA,1902,Oats,Production,Tonnes,16608074.221072
+USA,1903,Wheat,Area Harvested,Hectares,19609464.816
+USA,1903,Wheat,Yield,kg/ha,921
+USA,1903,Wheat,Production,Tonnes,18047019.5448
+USA,1903,Maize,Area Harvested,Hectares,37860398.73
+USA,1903,Maize,Yield,kg/ha,1688
+USA,1903,Maize,Production,Tonnes,63886259.587136
+USA,1903,Barley,Area Harvested,Hectares,2521598.466
+USA,1903,Barley,Yield,kg/ha,1291
+USA,1903,Barley,Production,Tonnes,3251383.74336
+USA,1903,Oats,Area Harvested,Hectares,13025628.282
+USA,1903,Oats,Yield,kg/ha,1048
+USA,1903,Oats,Production,Tonnes,13655816.258032
+USA,1904,Wheat,Area Harvested,Hectares,17464224.33
+USA,1904,Wheat,Yield,kg/ha,868
+USA,1904,Wheat,Production,Tonnes,15120153.66192
+USA,1904,Maize,Area Harvested,Hectares,38537438.408
+USA,1904,Maize,Yield,kg/ha,1770
+USA,1904,Maize,Production,Tonnes,68243344.590848
+USA,1904,Barley,Area Harvested,Hectares,2662429.194
+USA,1904,Barley,Yield,kg/ha,1356
+USA,1904,Barley,Production,Tonnes,3616463.614848
+USA,1904,Oats,Area Harvested,Hectares,13253061.814
+USA,1904,Oats,Yield,kg/ha,1178
+USA,1904,Oats,Production,Tonnes,15600346.111168
+USA,1905,Wheat,Area Harvested,Hectares,18739389.916
+USA,1905,Wheat,Yield,kg/ha,1022
+USA,1905,Wheat,Production,Tonnes,19214864.72352
+USA,1905,Maize,Area Harvested,Hectares,38747065.756
+USA,1905,Maize,Yield,kg/ha,1940
+USA,1905,Maize,Production,Tonnes,75038762.378496
+USA,1905,Barley,Area Harvested,Hectares,2694399.388
+USA,1905,Barley,Yield,kg/ha,1388
+USA,1905,Barley,Production,Tonnes,3736995.709824
+USA,1905,Oats,Area Harvested,Hectares,13527034.236
+USA,1905,Oats,Yield,kg/ha,1258
+USA,1905,Oats,Production,Tonnes,17032121.05256
+USA,1906,Wheat,Area Harvested,Hectares,18708633.78
+USA,1906,Wheat,Yield,kg/ha,1076
+USA,1906,Wheat,Production,Tonnes,20153337.49968
+USA,1906,Maize,Area Harvested,Hectares,38697694.064
+USA,1906,Maize,Yield,kg/ha,1990
+USA,1906,Maize,Production,Tonnes,77039407.91232
+USA,1906,Barley,Area Harvested,Hectares,2729202.384
+USA,1906,Barley,Yield,kg/ha,1431
+USA,1906,Barley,Production,Tonnes,3900484.781568
+USA,1906,Oats,Area Harvested,Hectares,13633061.968
+USA,1906,Oats,Yield,kg/ha,1159
+USA,1906,Oats,Production,Tonnes,15772441.63752
+USA,1907,Wheat,Area Harvested,Hectares,17862435.354
+USA,1907,Wheat,Yield,kg/ha,955
+USA,1907,Wheat,Production,Tonnes,17112139.21728
+USA,1907,Maize,Area Harvested,Hectares,38887896.484
+USA,1907,Maize,Yield,kg/ha,1707
+USA,1907,Maize,Production,Tonnes,66393454.894144
+USA,1907,Barley,Area Harvested,Hectares,2773717.844
+USA,1907,Barley,Yield,kg/ha,1184
+USA,1907,Barley,Production,Tonnes,3278577.490944
+USA,1907,Oats,Area Harvested,Hectares,13936981.154
+USA,1907,Oats,Yield,kg/ha,888
+USA,1907,Oats,Production,Tonnes,12355345.314432
+USA,1908,Wheat,Area Harvested,Hectares,18252147.972
+USA,1908,Wheat,Yield,kg/ha,962
+USA,1908,Wheat,Production,Tonnes,17494626.13536
+USA,1908,Maize,Area Harvested,Hectares,38560505.51
+USA,1908,Maize,Yield,kg/ha,1688
+USA,1908,Maize,Production,Tonnes,65198203.686784
+USA,1908,Barley,Area Harvested,Hectares,2998318.574
+USA,1908,Barley,Yield,kg/ha,1243
+USA,1908,Barley,Production,Tonnes,3718293.20448
+USA,1908,Oats,Area Harvested,Hectares,13884776.66
+USA,1908,Oats,Yield,kg/ha,922
+USA,1908,Oats,Production,Tonnes,12789694.127424
+USA,1909,Wheat,Area Harvested,Hectares,17912211.732
+USA,1909,Wheat,Yield,kg/ha,1042
+USA,1909,Wheat,Production,Tonnes,18613428.94704
+USA,1909,Maize,Area Harvested,Hectares,40549537.2
+USA,1909,Maize,Yield,kg/ha,1638
+USA,1909,Maize,Production,Tonnes,66326395.852864
+USA,1909,Barley,Area Harvested,Hectares,3114868.142
+USA,1909,Barley,Yield,kg/ha,1211
+USA,1909,Barley,Production,Tonnes,3768130.264704
+USA,1909,Oats,Area Harvested,Hectares,14189100.532
+USA,1909,Oats,Yield,kg/ha,1101
+USA,1909,Oats,Production,Tonnes,15636634.378352
+USA,1910,Wheat,Area Harvested,Hectares,18531785.998
+USA,1910,Wheat,Yield,kg/ha,921
+USA,1910,Wheat,Production,Tonnes,17022654.58752
+USA,1910,Maize,Area Harvested,Hectares,41386023.162
+USA,1910,Maize,Yield,kg/ha,1751
+USA,1910,Maize,Production,Tonnes,72464254.018688
+USA,1910,Barley,Area Harvested,Hectares,3053760.556
+USA,1910,Barley,Yield,kg/ha,1017
+USA,1910,Barley,Production,Tonnes,3100805.714304
+USA,1910,Oats,Area Harvested,Hectares,14910250.984
+USA,1910,Oats,Yield,kg/ha,1143
+USA,1910,Oats,Production,Tonnes,17059371.952736
+USA,1911,Wheat,Area Harvested,Hectares,20191403.284
+USA,1911,Wheat,Yield,kg/ha,834
+USA,1911,Wheat,Production,Tonnes,16823709.13632
+USA,1911,Maize,Area Harvested,Hectares,41032327.598
+USA,1911,Maize,Yield,kg/ha,1532
+USA,1911,Maize,Production,Tonnes,62858579.77952
+USA,1911,Barley,Area Harvested,Hectares,3080874.518
+USA,1911,Barley,Yield,kg/ha,1028
+USA,1911,Barley,Production,Tonnes,3158611.478784
+USA,1911,Oats,Area Harvested,Hectares,15033680.214
+USA,1911,Oats,Yield,kg/ha,907
+USA,1911,Oats,Production,Tonnes,13656710.741456
+USA,1912,Wheat,Area Harvested,Hectares,19592063.318
+USA,1912,Wheat,Yield,kg/ha,1015
+USA,1912,Wheat,Production,Tonnes,19867628.97072
+USA,1912,Maize,Area Harvested,Hectares,41055799.386
+USA,1912,Maize,Yield,kg/ha,1827
+USA,1912,Maize,Production,Tonnes,74878582.713984
+USA,1912,Barley,Area Harvested,Hectares,3052141.812
+USA,1912,Barley,Yield,kg/ha,1404
+USA,1912,Barley,Production,Tonnes,4287576.565632
+USA,1912,Oats,Area Harvested,Hectares,15072125.384
+USA,1912,Oats,Yield,kg/ha,1383
+USA,1912,Oats,Production,Tonnes,20870349.424944
+USA,1913,Wheat,Area Harvested,Hectares,21048528.232
+USA,1913,Wheat,Yield,kg/ha,968
+USA,1913,Wheat,Production,Tonnes,20441604.28752
+USA,1913,Maize,Area Harvested,Hectares,40551965.316
+USA,1913,Maize,Yield,kg/ha,1425
+USA,1913,Maize,Production,Tonnes,57725133.96608
+USA,1913,Barley,Area Harvested,Hectares,3105155.678
+USA,1913,Barley,Yield,kg/ha,1114
+USA,1913,Barley,Production,Tonnes,3457895.10912
+USA,1913,Oats,Area Harvested,Hectares,15072530.07
+USA,1913,Oats,Yield,kg/ha,1063
+USA,1913,Oats,Production,Tonnes,16025611.290768
+USA,1914,Wheat,Area Harvested,Hectares,22505802.518
+USA,1914,Wheat,Yield,kg/ha,1083
+USA,1914,Wheat,Production,Tonnes,24425575.39824
+USA,1914,Maize,Area Harvested,Hectares,39576672.056
+USA,1914,Maize,Yield,kg/ha,1619
+USA,1914,Maize,Production,Tonnes,64106157.36
+USA,1914,Barley,Area Harvested,Hectares,3097061.958
+USA,1914,Barley,Yield,kg/ha,1248
+USA,1914,Barley,Production,Tonnes,3869219.592192
+USA,1914,Oats,Area Harvested,Hectares,15059580.118
+USA,1914,Oats,Yield,kg/ha,1094
+USA,1914,Oats,Production,Tonnes,16445046.905984
+USA,1915,Wheat,Area Harvested,Hectares,24403779.858
+USA,1915,Wheat,Yield,kg/ha,1123
+USA,1915,Wheat,Production,Tonnes,27450580.44624
+USA,1915,Maize,Area Harvested,Hectares,40720719.378
+USA,1915,Maize,Yield,kg/ha,1764
+USA,1915,Maize,Production,Tonnes,71860976.658688
+USA,1915,Barley,Area Harvested,Hectares,2945709.394
+USA,1915,Barley,Yield,kg/ha,1528
+USA,1915,Barley,Production,Tonnes,4506367.574016
+USA,1915,Oats,Area Harvested,Hectares,15702626.172
+USA,1915,Oats,Yield,kg/ha,1410
+USA,1915,Oats,Production,Tonnes,22134917.65456
+USA,1916,Wheat,Area Harvested,Hectares,21654747.86
+USA,1916,Wheat,Yield,kg/ha,800
+USA,1916,Wheat,Production,Tonnes,17270206.95744
+USA,1916,Maize,Area Harvested,Hectares,40695628.846
+USA,1916,Maize,Yield,kg/ha,1513
+USA,1916,Maize,Production,Tonnes,61603026.237312
+USA,1916,Barley,Area Harvested,Hectares,3084921.378
+USA,1916,Barley,Yield,kg/ha,1124
+USA,1916,Barley,Production,Tonnes,3465232.413312
+USA,1916,Oats,Area Harvested,Hectares,15822413.228
+USA,1916,Oats,Yield,kg/ha,1109
+USA,1916,Oats,Production,Tonnes,17565325.706032
+USA,1917,Wheat,Area Harvested,Hectares,18934043.882
+USA,1917,Wheat,Yield,kg/ha,888
+USA,1917,Wheat,Production,Tonnes,16867907.1408
+USA,1917,Maize,Area Harvested,Hectares,44876844.598
+USA,1917,Maize,Yield,kg/ha,1645
+USA,1917,Maize,Production,Tonnes,73872697.094784
+USA,1917,Barley,Area Harvested,Hectares,3420810.758
+USA,1917,Barley,Yield,kg/ha,1162
+USA,1917,Barley,Production,Tonnes,3967130.146944
+USA,1917,Oats,Area Harvested,Hectares,16836556.344
+USA,1917,Oats,Yield,kg/ha,1322
+USA,1917,Oats,Production,Tonnes,22246712.660432
+USA,1918,Wheat,Area Harvested,Hectares,24713364.648
+USA,1918,Wheat,Yield,kg/ha,995
+USA,1918,Wheat,Production,Tonnes,24606368.0976
+USA,1918,Maize,Area Harvested,Hectares,41356885.77
+USA,1918,Maize,Yield,kg/ha,1500
+USA,1918,Maize,Production,Tonnes,62010536.918848
+USA,1918,Barley,Area Harvested,Hectares,3722301.828
+USA,1918,Barley,Yield,kg/ha,1318
+USA,1918,Barley,Production,Tonnes,4900252.351872
+USA,1918,Oats,Area Harvested,Hectares,17184586.304
+USA,1918,Oats,Yield,kg/ha,1280
+USA,1918,Oats,Production,Tonnes,22032221.704208
+USA,1919,Wheat,Area Seeded,Hectares,31338883.84
+USA,1919,Wheat,Area Harvested,Hectares,29825358.2
+USA,1919,Wheat,Yield,kg/ha,868
+USA,1919,Wheat,Production,Tonnes,25911814.94544
+USA,1919,Maize,Area Harvested,Hectares,35404764.082
+USA,1919,Maize,Yield,kg/ha,1682
+USA,1919,Maize,Production,Tonnes,59486195.83424
+USA,1919,Barley,Area Harvested,Hectares,2662429.194
+USA,1919,Barley,Yield,kg/ha,1071
+USA,1919,Barley,Production,Tonnes,2854058.923776
+USA,1919,Oats,Area Harvested,Hectares,16025970.286
+USA,1919,Oats,Yield,kg/ha,1063
+USA,1919,Oats,Production,Tonnes,17066173.111184
+USA,1920,Wheat,Area Seeded,Hectares,27509340.222
+USA,1920,Wheat,Area Harvested,Hectares,25235409.588
+USA,1920,Wheat,Yield,kg/ha,908
+USA,1920,Wheat,Production,Tonnes,22950222.05904
+USA,1920,Maize,Area Harvested,Hectares,36482038.214
+USA,1920,Maize,Yield,kg/ha,1877
+USA,1920,Maize,Production,Tonnes,68458263.73792
+USA,1920,Barley,Area Harvested,Hectares,3010459.154
+USA,1920,Barley,Yield,kg/ha,1237
+USA,1920,Barley,Production,Tonnes,3723997.577472
+USA,1920,Oats,Area Harvested,Hectares,17293042.152
+USA,1920,Oats,Yield,kg/ha,1288
+USA,1920,Oats,Production,Tonnes,22274040.671248
+USA,1921,Wheat,Area Seeded,Hectares,27389553.166
+USA,1921,Wheat,Area Harvested,Hectares,26128956.276
+USA,1921,Wheat,Yield,kg/ha,854
+USA,1921,Wheat,Production,Tonnes,22288531.12128
+USA,1921,Maize,Area Harvested,Hectares,37206426.154
+USA,1921,Maize,Yield,kg/ha,1745
+USA,1921,Maize,Production,Tonnes,64948815.176448
+USA,1921,Barley,Area Harvested,Hectares,2862748.764
+USA,1921,Barley,Yield,kg/ha,1011
+USA,1921,Barley,Production,Tonnes,2889243.148032
+USA,1921,Oats,Area Harvested,Hectares,18428995.754
+USA,1921,Oats,Yield,kg/ha,877
+USA,1921,Oats,Production,Tonnes,16120287.73456
+USA,1922,Wheat,Area Seeded,Hectares,27179925.818
+USA,1922,Wheat,Area Harvested,Hectares,24846506.342
+USA,1922,Wheat,Yield,kg/ha,928
+USA,1922,Wheat,Production,Tonnes,23041992.79248
+USA,1922,Maize,Area Harvested,Hectares,34340844.588
+USA,1922,Maize,Yield,kg/ha,1651
+USA,1922,Maize,Production,Tonnes,56631766.779392
+USA,1922,Barley,Area Harvested,Hectares,2671332.286
+USA,1922,Barley,Yield,kg/ha,1248
+USA,1922,Barley,Production,Tonnes,3329176.585728
+USA,1922,Oats,Area Harvested,Hectares,16318558.264
+USA,1922,Oats,Yield,kg/ha,1086
+USA,1922,Oats,Production,Tonnes,17703137.84184
+USA,1923,Wheat,Area Seeded,Hectares,26138668.74
+USA,1923,Wheat,Area Harvested,Hectares,23034727.12
+USA,1923,Wheat,Yield,kg/ha,894
+USA,1923,Wheat,Production,Tonnes,20669697.56064
+USA,1923,Maize,Area Harvested,Hectares,35407192.198
+USA,1923,Maize,Yield,kg/ha,1745
+USA,1923,Maize,Production,Tonnes,61713394.242752
+USA,1923,Barley,Area Harvested,Hectares,2893909.586
+USA,1923,Barley,Yield,kg/ha,1194
+USA,1923,Barley,Production,Tonnes,3461683.509504
+USA,1923,Oats,Area Harvested,Hectares,16286588.07
+USA,1923,Oats,Yield,kg/ha,1162
+USA,1923,Oats,Production,Tonnes,18925788.727552
+USA,1924,Wheat,Area Seeded,Hectares,22543438.316
+USA,1924,Wheat,Area Harvested,Hectares,21231041.618
+USA,1924,Wheat,Yield,kg/ha,1076
+USA,1924,Wheat,Production,Tonnes,22905044.29584
+USA,1924,Maize,Area Harvested,Hectares,34041781.634
+USA,1924,Maize,Yield,kg/ha,1387
+USA,1924,Maize,Production,Tonnes,47248987.649024
+USA,1924,Barley,Area Harvested,Hectares,2848180.068
+USA,1924,Barley,Yield,kg/ha,1264
+USA,1924,Barley,Production,Tonnes,3599372.268288
+USA,1924,Oats,Area Harvested,Hectares,16938941.902
+USA,1924,Oats,Yield,kg/ha,1288
+USA,1924,Oats,Production,Tonnes,21839583.90336
+USA,1925,Wheat,Area Seeded,Hectares,24984504.268
+USA,1925,Wheat,Area Harvested,Hectares,21222947.898
+USA,1925,Wheat,Yield,kg/ha,861
+USA,1925,Wheat,Production,Tonnes,18199018.224
+USA,1925,Maize,Area Harvested,Hectares,35136861.95
+USA,1925,Maize,Yield,kg/ha,1720
+USA,1925,Maize,Production,Tonnes,60512859.595776
+USA,1925,Barley,Area Harvested,Hectares,3312759.596
+USA,1925,Barley,Yield,kg/ha,1264
+USA,1925,Barley,Production,Tonnes,4190449.817856
+USA,1925,Oats,Area Harvested,Hectares,17903308.64
+USA,1925,Oats,Yield,kg/ha,1212
+USA,1925,Oats,Production,Tonnes,21672222.970304
+USA,1926,Wheat,Area Seeded,Hectares,24569296.432
+USA,1926,Wheat,Area Harvested,Hectares,22911702.576
+USA,1926,Wheat,Yield,kg/ha,989
+USA,1926,Wheat,Production,Tonnes,22649109.54576
+USA,1926,Maize,Area Seeded,Hectares,40331006.76
+USA,1926,Maize,Area Harvested,Hectares,33700226.65
+USA,1926,Maize,Yield,kg/ha,1613
+USA,1926,Maize,Production,Tonnes,54363723.318464
+USA,1926,Barley,Area Seeded,Hectares,3559618.056
+USA,1926,Barley,Area Harvested,Hectares,3203899.062
+USA,1926,Barley,Yield,kg/ha,1130
+USA,1926,Barley,Production,Tonnes,3614874.22848
+USA,1926,Oats,Area Seeded,Hectares,17783116.898
+USA,1926,Oats,Area Harvested,Hectares,17342413.844
+USA,1926,Oats,Yield,kg/ha,1025
+USA,1926,Oats,Production,Tonnes,17780341.014608
+USA,1927,Wheat,Area Seeded,Hectares,26572087.446
+USA,1927,Wheat,Area Harvested,Hectares,24130616.808
+USA,1927,Wheat,Yield,kg/ha,989
+USA,1927,Wheat,Production,Tonnes,23815185.71568
+USA,1927,Maize,Area Seeded,Hectares,39845383.56
+USA,1927,Maize,Area Harvested,Hectares,33959225.69
+USA,1927,Maize,Yield,kg/ha,1657
+USA,1927,Maize,Production,Tonnes,56344555.953728
+USA,1927,Barley,Area Seeded,Hectares,3849777.918
+USA,1927,Barley,Area Harvested,Hectares,3830352.99
+USA,1927,Barley,Yield,kg/ha,1361
+USA,1927,Barley,Production,Tonnes,5205153.265536
+USA,1927,Oats,Area Seeded,Hectares,16401923.58
+USA,1927,Oats,Area Harvested,Hectares,16329080.1
+USA,1927,Oats,Yield,kg/ha,1033
+USA,1927,Oats,Production,Tonnes,16859794.194288
+USA,1928,Wheat,Area Seeded,Hectares,28794218.272
+USA,1928,Wheat,Area Harvested,Hectares,23967933.036
+USA,1928,Wheat,Yield,kg/ha,1036
+USA,1928,Wheat,Production,Tonnes,24885136.66896
+USA,1928,Maize,Area Seeded,Hectares,40630069.714
+USA,1928,Maize,Area Harvested,Hectares,34735008.752
+USA,1928,Maize,Yield,kg/ha,1651
+USA,1928,Maize,Production,Tonnes,57431750.66048
+USA,1928,Barley,Area Seeded,Hectares,5191312.008
+USA,1928,Barley,Area Harvested,Hectares,5153676.21
+USA,1928,Barley,Yield,kg/ha,1388
+USA,1928,Barley,Production,Tonnes,7148994.566016
+USA,1928,Oats,Area Seeded,Hectares,16285374.012
+USA,1928,Oats,Area Harvested,Hectares,16239239.808
+USA,1928,Oats,Yield,kg/ha,1246
+USA,1928,Oats,Production,Tonnes,20247927.760992
+USA,1929,Wheat,Area Seeded,Hectares,27185591.422
+USA,1929,Wheat,Area Harvested,Hectares,25653854.912
+USA,1929,Wheat,Yield,kg/ha,874
+USA,1929,Wheat,Production,Tonnes,22430568.92016
+USA,1929,Maize,Area Seeded,Hectares,40116523.18
+USA,1929,Maize,Area Harvested,Hectares,33667447.084
+USA,1929,Maize,Yield,kg/ha,1613
+USA,1929,Maize,Production,Tonnes,54232424.763776
+USA,1929,Sorghum,Area Seeded,Hectares,3573377.38
+USA,1929,Sorghum,Area Harvested,Hectares,1425708.778
+USA,1929,Sorghum,Yield,kg/ha,891
+USA,1929,Sorghum,Production,Tonnes,1269219.361984
+USA,1929,Barley,Area Seeded,Hectares,5950098.258
+USA,1929,Barley,Area Harvested,Hectares,5489160.904
+USA,1929,Barley,Yield,kg/ha,1114
+USA,1929,Barley,Production,Tonnes,6110145.508992
+USA,1929,Oats,Area Seeded,Hectares,16403542.324
+USA,1929,Oats,Area Harvested,Hectares,15439984.958
+USA,1929,Oats,Yield,kg/ha,1113
+USA,1929,Oats,Production,Tonnes,17164041.935472
+USA,1930,Wheat,Area Seeded,Hectares,27340181.474
+USA,1930,Wheat,Area Harvested,Hectares,25348316.982
+USA,1930,Wheat,Yield,kg/ha,955
+USA,1930,Wheat,Production,Tonnes,24127157.22144
+USA,1930,Maize,Area Seeded,Hectares,42052945.69
+USA,1930,Maize,Area Harvested,Hectares,34610770.15
+USA,1930,Maize,Yield,kg/ha,1287
+USA,1930,Maize,Production,Tonnes,44637368.206144
+USA,1930,Sorghum,Area Seeded,Hectares,3823068.642
+USA,1930,Sorghum,Area Harvested,Hectares,1407093.222
+USA,1930,Sorghum,Yield,kg/ha,678
+USA,1930,Sorghum,Production,Tonnes,954092.670272
+USA,1930,Barley,Area Seeded,Hectares,5496040.566
+USA,1930,Barley,Area Harvested,Hectares,5110779.494
+USA,1930,Barley,Yield,kg/ha,1286
+USA,1930,Barley,Production,Tonnes,6566974.341504
+USA,1930,Oats,Area Seeded,Hectares,17242861.088
+USA,1930,Oats,Area Harvested,Hectares,16125523.042
+USA,1930,Oats,Yield,kg/ha,1219
+USA,1930,Oats,Production,Tonnes,19656920.971776
+USA,1931,Wheat,Area Seeded,Hectares,26896645.618
+USA,1931,Wheat,Area Harvested,Hectares,23352000.944
+USA,1931,Wheat,Yield,kg/ha,1096
+USA,1931,Wheat,Production,Tonnes,25624500.7008
+USA,1931,Maize,Area Seeded,Hectares,44258079.704
+USA,1931,Maize,Area Harvested,Hectares,36879439.866
+USA,1931,Maize,Yield,kg/ha,1538
+USA,1931,Maize,Production,Tonnes,56642105.048256
+USA,1931,Sorghum,Area Seeded,Hectares,4324069.91
+USA,1931,Sorghum,Area Harvested,Hectares,1798019.898
+USA,1931,Sorghum,Yield,kg/ha,1017
+USA,1931,Sorghum,Production,Tonnes,1826698.444928
+USA,1931,Barley,Area Seeded,Hectares,5592760.52
+USA,1931,Barley,Area Harvested,Hectares,4524794.166
+USA,1931,Barley,Yield,kg/ha,963
+USA,1931,Barley,Production,Tonnes,4360579.47648
+USA,1931,Oats,Area Seeded,Hectares,18001647.338
+USA,1931,Oats,Area Harvested,Hectares,16265544.398
+USA,1931,Oats,Yield,kg/ha,1067
+USA,1931,Oats,Production,Tonnes,17338049.805696
+USA,1932,Wheat,Area Seeded,Hectares,26822992.766
+USA,1932,Wheat,Area Harvested,Hectares,23411489.786
+USA,1932,Wheat,Yield,kg/ha,881
+USA,1932,Wheat,Production,Tonnes,20583288.28464
+USA,1932,Maize,Area Seeded,Hectares,45739230.464
+USA,1932,Maize,Area Harvested,Hectares,39340740.118
+USA,1932,Maize,Yield,kg/ha,1663
+USA,1932,Maize,Production,Tonnes,65501569.64512
+USA,1932,Sorghum,Area Seeded,Hectares,4884560.02
+USA,1932,Sorghum,Area Harvested,Hectares,1780618.4
+USA,1932,Sorghum,Yield,kg/ha,942
+USA,1932,Sorghum,Production,Tonnes,1678939.943744
+USA,1932,Barley,Area Seeded,Hectares,5890204.73
+USA,1932,Barley,Area Harvested,Hectares,5344283.316
+USA,1932,Barley,Yield,kg/ha,1221
+USA,1932,Barley,Production,Tonnes,6518530.715904
+USA,1932,Oats,Area Seeded,Hectares,18433042.614
+USA,1932,Oats,Area Harvested,Hectares,16875406.2
+USA,1932,Oats,Yield,kg/ha,1147
+USA,1932,Oats,Production,Tonnes,19348355.034752
+USA,1933,Wheat,Area Seeded,Hectares,27926976.174
+USA,1933,Wheat,Area Harvested,Hectares,20001200.864
+USA,1933,Wheat,Yield,kg/ha,753
+USA,1933,Wheat,Production,Tonnes,15028818.3768
+USA,1933,Maize,Area Seeded,Hectares,44446663.38
+USA,1933,Maize,Area Harvested,Hectares,37283721.18
+USA,1933,Maize,Yield,kg/ha,1431
+USA,1933,Maize,Production,Tonnes,53462439.6432
+USA,1933,Sorghum,Area Seeded,Hectares,5099852.972
+USA,1933,Sorghum,Area Harvested,Hectares,1762002.844
+USA,1933,Sorghum,Yield,kg/ha,785
+USA,1933,Sorghum,Production,Tonnes,1381467.052672
+USA,1933,Barley,Area Seeded,Hectares,5746541.2
+USA,1933,Barley,Area Harvested,Hectares,3901577.726
+USA,1933,Barley,Yield,kg/ha,855
+USA,1933,Barley,Production,Tonnes,3327674.289024
+USA,1933,Oats,Area Seeded,Hectares,17714724.964
+USA,1933,Oats,Area Harvested,Hectares,14782370.208
+USA,1933,Oats,Yield,kg/ha,770
+USA,1933,Oats,Production,Tonnes,11355451.645552
+USA,1934,Wheat,Area Seeded,Hectares,25925803.904
+USA,1934,Wheat,Area Harvested,Hectares,17541924.042
+USA,1934,Wheat,Yield,kg/ha,814
+USA,1934,Wheat,Production,Tonnes,14316778.72704
+USA,1934,Maize,Area Seeded,Hectares,40696438.218
+USA,1934,Maize,Area Harvested,Hectares,24784994.07
+USA,1934,Maize,Yield,kg/ha,1174
+USA,1934,Maize,Production,Tonnes,29128364.637568
+USA,1934,Sorghum,Area Seeded,Hectares,5913271.832
+USA,1934,Sorghum,Area Harvested,Hectares,969627.656
+USA,1934,Sorghum,Yield,kg/ha,502
+USA,1934,Sorghum,Production,Tonnes,487930.728768
+USA,1934,Barley,Area Seeded,Hectares,4865944.464
+USA,1934,Barley,Area Harvested,Hectares,2661619.822
+USA,1934,Barley,Yield,kg/ha,958
+USA,1934,Barley,Production,Tonnes,2555863.91424
+USA,1934,Oats,Area Seeded,Hectares,16376428.362
+USA,1934,Oats,Area Harvested,Hectares,11920026.13
+USA,1934,Oats,Yield,kg/ha,705
+USA,1934,Oats,Production,Tonnes,8393446.897616
+USA,1935,Wheat,Area Seeded,Hectares,28170597.146
+USA,1935,Wheat,Area Harvested,Hectares,20762415.23
+USA,1935,Wheat,Yield,kg/ha,820
+USA,1935,Wheat,Production,Tonnes,17097524.48304
+USA,1935,Maize,Area Seeded,Hectares,40458078.164
+USA,1935,Maize,Area Harvested,Hectares,33407233.986
+USA,1935,Maize,Yield,kg/ha,1519
+USA,1935,Maize,Production,Tonnes,50837027.374784
+USA,1935,Sorghum,Area Seeded,Hectares,6674081.512
+USA,1935,Sorghum,Area Harvested,Hectares,1860341.542
+USA,1935,Sorghum,Yield,kg/ha,785
+USA,1935,Sorghum,Production,Tonnes,1463360.36672
+USA,1935,Barley,Area Seeded,Hectares,5647797.816
+USA,1935,Barley,Area Harvested,Hectares,5032675.096
+USA,1935,Barley,Yield,kg/ha,1248
+USA,1935,Barley,Production,Tonnes,6284978.009472
+USA,1935,Oats,Area Seeded,Hectares,17643904.914
+USA,1935,Oats,Area Harvested,Hectares,16231550.774
+USA,1935,Oats,Yield,kg/ha,1151
+USA,1935,Oats,Production,Tonnes,18664306.547312
+USA,1936,Wheat,Area Seeded,Hectares,29934623.42
+USA,1936,Wheat,Area Harvested,Hectares,19880199.75
+USA,1936,Wheat,Yield,kg/ha,861
+USA,1936,Wheat,Production,Tonnes,17142511.7376
+USA,1936,Maize,Area Seeded,Hectares,41261379.874
+USA,1936,Maize,Area Harvested,Hectares,27451065.438
+USA,1936,Maize,Yield,kg/ha,1167
+USA,1936,Maize,Production,Tonnes,31971744.191296
+USA,1936,Sorghum,Area Seeded,Hectares,5404581.53
+USA,1936,Sorghum,Area Harvested,Hectares,1130287.998
+USA,1936,Sorghum,Yield,kg/ha,678
+USA,1936,Sorghum,Production,Tonnes,768892.87104
+USA,1936,Barley,Area Seeded,Hectares,5194954.182
+USA,1936,Barley,Area Harvested,Hectares,3370629.694
+USA,1936,Barley,Yield,kg/ha,952
+USA,1936,Barley,Production,Tonnes,3216656.73984
+USA,1936,Oats,Area Seeded,Hectares,16970102.724
+USA,1936,Oats,Area Harvested,Hectares,13619302.644
+USA,1936,Oats,Yield,kg/ha,899
+USA,1936,Oats,Production,Tonnes,12223316.476624
+USA,1937,Wheat,Area Seeded,Hectares,32704294.404
+USA,1937,Wheat,Area Harvested,Hectares,25968295.934
+USA,1937,Wheat,Yield,kg/ha,915
+USA,1937,Wheat,Production,Tonnes,23784023.94528
+USA,1937,Maize,Area Seeded,Hectares,39324957.364
+USA,1937,Maize,Area Harvested,Hectares,32869406.292
+USA,1937,Maize,Yield,kg/ha,1814
+USA,1937,Maize,Production,Tonnes,59678101.5376
+USA,1937,Sorghum,Area Seeded,Hectares,5261322.686
+USA,1937,Sorghum,Area Harvested,Hectares,1989031.69
+USA,1937,Sorghum,Yield,kg/ha,891
+USA,1937,Sorghum,Production,Tonnes,1776759.780096
+USA,1937,Barley,Area Seeded,Hectares,4996253.356
+USA,1937,Barley,Area Harvested,Hectares,4034314.734
+USA,1937,Barley,Yield,kg/ha,1200
+USA,1937,Barley,Production,Tonnes,4831059.613824
+USA,1937,Oats,Area Seeded,Hectares,16117429.322
+USA,1937,Oats,Area Harvested,Hectares,14383349.812
+USA,1937,Oats,Yield,kg/ha,1261
+USA,1937,Oats,Production,Tonnes,18147896.591232
+USA,1938,Wheat,Area Seeded,Hectares,31962504.966
+USA,1938,Wheat,Area Harvested,Hectares,28003057.142
+USA,1938,Wheat,Yield,kg/ha,894
+USA,1938,Wheat,Production,Tonnes,25035910.64976
+USA,1938,Maize,Area Seeded,Hectares,38231900.478
+USA,1938,Maize,Area Harvested,Hectares,33503144.568
+USA,1938,Maize,Yield,kg/ha,1745
+USA,1938,Maize,Production,Tonnes,58425062.70944
+USA,1938,Sorghum,Area Seeded,Hectares,6297318.846
+USA,1938,Sorghum,Area Harvested,Hectares,1901619.514
+USA,1938,Sorghum,Yield,kg/ha,898
+USA,1938,Sorghum,Production,Tonnes,1707211.42592
+USA,1938,Barley,Area Seeded,Hectares,4925433.306
+USA,1938,Barley,Area Harvested,Hectares,4293718.46
+USA,1938,Barley,Yield,kg/ha,1302
+USA,1938,Barley,Production,Tonnes,5587237.39392
+USA,1938,Oats,Area Seeded,Hectares,15940581.54
+USA,1938,Oats,Area Harvested,Hectares,14585692.812
+USA,1938,Oats,Yield,kg/ha,1151
+USA,1938,Oats,Production,Tonnes,16800604.067024
+USA,1939,Wheat,Area Seeded,Hectares,25415090.172
+USA,1939,Wheat,Area Harvested,Hectares,21314406.934
+USA,1939,Wheat,Yield,kg/ha,948
+USA,1939,Wheat,Production,Tonnes,20172415.5792
+USA,1939,Maize,Area Seeded,Hectares,37085020.354
+USA,1939,Maize,Area Harvested,Hectares,31689746.602
+USA,1939,Maize,Yield,kg/ha,1877
+USA,1939,Maize,Production,Tonnes,59479388.325504
+USA,1939,Sorghum,Area Seeded,Hectares,7228906.018
+USA,1939,Sorghum,Area Harvested,Hectares,1926305.36
+USA,1939,Sorghum,Yield,kg/ha,703
+USA,1939,Sorghum,Production,Tonnes,1353373.37856
+USA,1939,Barley,Area Seeded,Hectares,6277893.918
+USA,1939,Barley,Area Harvested,Hectares,5155294.954
+USA,1939,Barley,Yield,kg/ha,1173
+USA,1939,Barley,Production,Tonnes,6056933.724288
+USA,1939,Oats,Area Seeded,Hectares,15460219.258
+USA,1939,Oats,Area Harvested,Hectares,13540793.56
+USA,1939,Oats,Yield,kg/ha,1090
+USA,1939,Oats,Production,Tonnes,14769833.674112
+USA,1940,Wheat,Area Seeded,Hectares,25017688.52
+USA,1940,Wheat,Area Harvested,Hectares,21558837.278
+USA,1940,Wheat,Yield,kg/ha,1029
+USA,1940,Wheat,Production,Tonnes,22171014.50592
+USA,1940,Maize,Area Seeded,Hectares,35892410.712
+USA,1940,Maize,Area Harvested,Hectares,30935411.898
+USA,1940,Maize,Yield,kg/ha,1814
+USA,1940,Maize,Production,Tonnes,56057345.128064
+USA,1940,Sorghum,Area Seeded,Hectares,8582580.688
+USA,1940,Sorghum,Area Harvested,Hectares,2579468.564
+USA,1940,Sorghum,Yield,kg/ha,847
+USA,1940,Sorghum,Production,Tonnes,2180028.469248
+USA,1940,Barley,Area Seeded,Hectares,6349118.654
+USA,1940,Barley,Area Harvested,Hectares,5473378.15
+USA,1940,Barley,Yield,kg/ha,1237
+USA,1940,Barley,Production,Tonnes,6777274.107648
+USA,1940,Oats,Area Seeded,Hectares,15910230.09
+USA,1940,Oats,Area Harvested,Hectares,14338429.666
+USA,1940,Oats,Yield,kg/ha,1341
+USA,1940,Oats,Production,Tonnes,19222911.4456
+USA,1941,Wheat,Area Seeded,Hectares,25376645.002
+USA,1941,Wheat,Area Harvested,Hectares,22636111.41
+USA,1941,Wheat,Yield,kg/ha,1130
+USA,1941,Wheat,Production,Tonnes,25636203.3744
+USA,1941,Maize,Area Seeded,Hectares,35141718.182
+USA,1941,Maize,Area Harvested,Hectares,31324315.144
+USA,1941,Maize,Yield,kg/ha,1958
+USA,1941,Maize,Production,Tonnes,61329684.44064
+USA,1941,Sorghum,Area Seeded,Hectares,7608096.8
+USA,1941,Sorghum,Area Harvested,Hectares,2434186.29
+USA,1941,Sorghum,Yield,kg/ha,1186
+USA,1941,Sorghum,Production,Tonnes,2884123.001536
+USA,1941,Barley,Area Seeded,Hectares,6417105.902
+USA,1941,Barley,Area Harvested,Hectares,5777297.336
+USA,1941,Barley,Yield,kg/ha,1367
+USA,1941,Barley,Production,Tonnes,7893981.324288
+USA,1941,Oats,Area Seeded,Hectares,16932466.926
+USA,1941,Oats,Area Harvested,Hectares,15443222.446
+USA,1941,Oats,Yield,kg/ha,1181
+USA,1941,Oats,Production,Tonnes,18236805.159152
+USA,1942,Wheat,Area Seeded,Hectares,21448358
+USA,1942,Wheat,Area Harvested,Hectares,20142436.278
+USA,1942,Wheat,Yield,kg/ha,1311
+USA,1942,Wheat,Production,Tonnes,26382207.99312
+USA,1942,Maize,Area Seeded,Hectares,35943401.148
+USA,1942,Maize,Area Harvested,Hectares,32056392.118
+USA,1942,Maize,Yield,kg/ha,2222
+USA,1942,Maize,Production,Tonnes,71169430.295488
+USA,1942,Sorghum,Area Seeded,Hectares,6508160.252
+USA,1942,Sorghum,Area Harvested,Hectares,2424473.826
+USA,1942,Sorghum,Yield,kg/ha,1149
+USA,1942,Sorghum,Production,Tonnes,2785312.520256
+USA,1942,Barley,Area Seeded,Hectares,7966648.596
+USA,1942,Barley,Area Harvested,Hectares,6862665.188
+USA,1942,Barley,Yield,kg/ha,1361
+USA,1942,Barley,Production,Tonnes,9350164.0512
+USA,1942,Oats,Area Seeded,Hectares,17408782.348
+USA,1942,Oats,Area Harvested,Hectares,15457791.142
+USA,1942,Oats,Yield,kg/ha,1341
+USA,1942,Oats,Production,Tonnes,20706998.245168
+USA,1943,Wheat,Area Seeded,Hectares,22655941.024
+USA,1943,Wheat,Area Harvested,Hectares,20782649.53
+USA,1943,Wheat,Yield,kg/ha,1103
+USA,1943,Wheat,Production,Tonnes,22964809.57776
+USA,1943,Maize,Area Seeded,Hectares,38178481.926
+USA,1943,Maize,Area Harvested,Hectares,33146211.516
+USA,1943,Maize,Yield,kg/ha,2046
+USA,1943,Maize,Production,Tonnes,67782720.10048
+USA,1943,Sorghum,Area Seeded,Hectares,7173464.036
+USA,1943,Sorghum,Area Harvested,Hectares,2787881.854
+USA,1943,Sorghum,Yield,kg/ha,998
+USA,1943,Sorghum,Production,Tonnes,2782340.585472
+USA,1943,Barley,Area Seeded,Hectares,7071483.164
+USA,1943,Barley,Area Harvested,Hectares,6029821.4
+USA,1943,Barley,Yield,kg/ha,1167
+USA,1943,Barley,Production,Tonnes,7030596.167808
+USA,1943,Oats,Area Seeded,Hectares,17590486.362
+USA,1943,Oats,Area Harvested,Hectares,15747951.004
+USA,1943,Oats,Yield,kg/ha,1117
+USA,1943,Oats,Production,Tonnes,17578619.580368
+USA,1944,Wheat,Area Seeded,Hectares,26786166.34
+USA,1944,Wheat,Area Harvested,Hectares,24179583.814
+USA,1944,Wheat,Yield,kg/ha,1190
+USA,1944,Wheat,Production,Tonnes,28851472.12272
+USA,1944,Maize,Area Seeded,Hectares,38637395.85
+USA,1944,Maize,Area Harvested,Hectares,34399119.372
+USA,1944,Maize,Yield,kg/ha,2071
+USA,1944,Maize,Production,Tonnes,71164172.257024
+USA,1944,Sorghum,Area Seeded,Hectares,7469694.188
+USA,1944,Sorghum,Area Harvested,Hectares,3798382.796
+USA,1944,Sorghum,Yield,kg/ha,1237
+USA,1944,Sorghum,Production,Tonnes,4698654.294656
+USA,1944,Barley,Area Seeded,Hectares,5808053.472
+USA,1944,Barley,Area Harvested,Hectares,4978042.486
+USA,1944,Barley,Yield,kg/ha,1211
+USA,1944,Barley,Production,Tonnes,6015174.2304
+USA,1944,Oats,Area Seeded,Hectares,17863244.726
+USA,1944,Oats,Area Harvested,Hectares,16082626.326
+USA,1944,Oats,Yield,kg/ha,1101
+USA,1944,Oats,Production,Tonnes,17723726.38272
+USA,1945,Wheat,Area Seeded,Hectares,28001033.712
+USA,1945,Wheat,Area Harvested,Hectares,26372172.562
+USA,1945,Wheat,Yield,kg/ha,1143
+USA,1945,Wheat,Production,Tonnes,30144535.90896
+USA,1945,Maize,Area Seeded,Hectares,36122677.046
+USA,1945,Maize,Area Harvested,Hectares,31536370.608
+USA,1945,Maize,Yield,kg/ha,2078
+USA,1945,Maize,Production,Tonnes,65470173.821248
+USA,1945,Sorghum,Area Seeded,Hectares,6340620.248
+USA,1945,Sorghum,Area Harvested,Hectares,2559234.264
+USA,1945,Sorghum,Yield,kg/ha,954
+USA,1945,Sorghum,Production,Tonnes,2440110.864576
+USA,1945,Barley,Area Seeded,Hectares,4753037.07
+USA,1945,Barley,Area Harvested,Hectares,4230587.444
+USA,1945,Barley,Yield,kg/ha,1372
+USA,1945,Barley,Production,Tonnes,5813104.437504
+USA,1945,Oats,Area Seeded,Hectares,18625673.15
+USA,1945,Oats,Area Harvested,Hectares,16891188.954
+USA,1945,Oats,Yield,kg/ha,1391
+USA,1945,Oats,Production,Tonnes,23501025.174928
+USA,1946,Wheat,Area Seeded,Hectares,28966614.508
+USA,1946,Wheat,Area Harvested,Hectares,27156454.03
+USA,1946,Wheat,Yield,kg/ha,1157
+USA,1946,Wheat,Production,Tonnes,31355490.47136
+USA,1946,Maize,Area Seeded,Hectares,35975776.028
+USA,1946,Maize,Area Harvested,Hectares,31731429.26
+USA,1946,Maize,Yield,kg/ha,2335
+USA,1946,Maize,Production,Tonnes,74072019.934528
+USA,1946,Sorghum,Area Seeded,Hectares,5773250.476
+USA,1946,Sorghum,Area Harvested,Hectares,2698850.934
+USA,1946,Sorghum,Yield,kg/ha,998
+USA,1946,Sorghum,Production,Tonnes,2693157.1408
+USA,1946,Barley,Area Seeded,Hectares,4640534.362
+USA,1946,Barley,Area Harvested,Hectares,4200640.68
+USA,1946,Barley,Yield,kg/ha,1372
+USA,1946,Barley,Production,Tonnes,5770974.812544
+USA,1946,Oats,Area Seeded,Hectares,18823969.29
+USA,1946,Oats,Area Harvested,Hectares,17325417.032
+USA,1946,Oats,Yield,kg/ha,1315
+USA,1946,Oats,Production,Tonnes,22787319.935344
+USA,1947,Wheat,Area Seeded,Hectares,31692579.404
+USA,1947,Wheat,Area Harvested,Hectares,30156796.034
+USA,1947,Wheat,Yield,kg/ha,1224
+USA,1947,Wheat,Production,Tonnes,36983469.49872
+USA,1947,Maize,Area Seeded,Hectares,34413688.068
+USA,1947,Maize,Area Harvested,Hectares,29866636.172
+USA,1947,Maize,Yield,kg/ha,1795
+USA,1947,Maize,Production,Tonnes,53553756.78464
+USA,1947,Sorghum,Area Seeded,Hectares,4563644.022
+USA,1947,Sorghum,Area Harvested,Hectares,2217679.28
+USA,1947,Sorghum,Yield,kg/ha,1067
+USA,1947,Sorghum,Production,Tonnes,2367819.185984
+USA,1947,Barley,Area Seeded,Hectares,4848542.966
+USA,1947,Barley,Area Harvested,Hectares,4433335.13
+USA,1947,Barley,Yield,kg/ha,1383
+USA,1947,Barley,Production,Tonnes,6136947.353088
+USA,1947,Oats,Area Seeded,Hectares,17020283.788
+USA,1947,Oats,Area Harvested,Hectares,15319388.53
+USA,1947,Oats,Yield,kg/ha,1185
+USA,1947,Oats,Production,Tonnes,18138612.470176
+USA,1948,Wheat,Area Seeded,Hectares,31705124.67
+USA,1948,Wheat,Area Harvested,Hectares,29306550.748
+USA,1948,Wheat,Yield,kg/ha,1204
+USA,1948,Wheat,Production,Tonnes,35241676.21872
+USA,1948,Maize,Area Seeded,Hectares,34609556.092
+USA,1948,Maize,Area Harvested,Hectares,31096072.24
+USA,1948,Maize,Yield,kg/ha,2699
+USA,1948,Maize,Production,Tonnes,84002574.907776
+USA,1948,Sorghum,Area Seeded,Hectares,5347520.804
+USA,1948,Sorghum,Area Harvested,Hectares,2961087.462
+USA,1948,Sorghum,Yield,kg/ha,1130
+USA,1948,Sorghum,Production,Tonnes,3337304.954368
+USA,1948,Barley,Area Seeded,Hectares,5286413.218
+USA,1948,Barley,Area Harvested,Hectares,4817786.83
+USA,1948,Barley,Yield,kg/ha,1426
+USA,1948,Barley,Production,Tonnes,6870002.827392
+USA,1948,Oats,Area Seeded,Hectares,17740624.868
+USA,1948,Oats,Area Harvested,Hectares,15896066.08
+USA,1948,Oats,Yield,kg/ha,1406
+USA,1948,Oats,Production,Tonnes,22364954.115808
+USA,1949,Wheat,Area Seeded,Hectares,33955178.83
+USA,1949,Wheat,Area Harvested,Hectares,30719714.26
+USA,1949,Wheat,Yield,kg/ha,975
+USA,1949,Wheat,Production,Tonnes,29893935.4008
+USA,1949,Maize,Area Seeded,Hectares,35101654.268
+USA,1949,Maize,Area Harvested,Hectares,31203718.716
+USA,1949,Maize,Yield,kg/ha,2398
+USA,1949,Maize,Production,Tonnes,74837026.429312
+USA,1949,Sorghum,Area Seeded,Hectares,4477445.904
+USA,1949,Sorghum,Area Harvested,Hectares,2671736.972
+USA,1949,Sorghum,Yield,kg/ha,1412
+USA,1949,Sorghum,Production,Tonnes,3771918.665088
+USA,1949,Barley,Area Seeded,Hectares,4504964.552
+USA,1949,Barley,Area Harvested,Hectares,3995060.192
+USA,1949,Barley,Yield,kg/ha,1291
+USA,1949,Barley,Production,Tonnes,5161608.433536
+USA,1949,Oats,Area Seeded,Hectares,17454916.552
+USA,1949,Oats,Area Harvested,Hectares,15294702.684
+USA,1949,Oats,Yield,kg/ha,1231
+USA,1949,Oats,Production,Tonnes,18816815.971104
+USA,1950,Wheat,Area Seeded,Hectares,28854111.8
+USA,1950,Wheat,Area Harvested,Hectares,24928657.6
+USA,1950,Wheat,Yield,kg/ha,1110
+USA,1950,Wheat,Production,Tonnes,27732614.88
+USA,1950,Maize,Area Seeded,Hectares,33531877.274
+USA,1950,Maize,Area Harvested,Hectares,29298457.028
+USA,1950,Maize,Yield,kg/ha,2398
+USA,1950,Maize,Production,Tonnes,70210587.609792
+USA,1950,Sorghum,Area Seeded,Hectares,6497233.73
+USA,1950,Sorghum,Area Harvested,Hectares,4186881.356
+USA,1950,Sorghum,Yield,kg/ha,1419
+USA,1950,Sorghum,Production,Tonnes,5932083.433472
+USA,1950,Barley,Area Seeded,Hectares,5264964.86
+USA,1950,Barley,Area Harvested,Hectares,4514272.33
+USA,1950,Barley,Yield,kg/ha,1463
+USA,1950,Barley,Production,Tonnes,6613850.353152
+USA,1950,Oats,Area Seeded,Hectares,18228676.184
+USA,1950,Oats,Area Harvested,Hectares,15906587.916
+USA,1950,Oats,Yield,kg/ha,1326
+USA,1950,Oats,Production,Tonnes,21115962.235472
+USA,1951,Wheat,Area Seeded,Hectares,31767851
+USA,1951,Wheat,Area Harvested,Hectares,25050063.4
+USA,1951,Wheat,Yield,kg/ha,1076
+USA,1951,Wheat,Production,Tonnes,26888933.76
+USA,1951,Maize,Area Seeded,Hectares,33700226.65
+USA,1951,Maize,Area Harvested,Hectares,28810001.026
+USA,1951,Maize,Yield,kg/ha,2316
+USA,1951,Maize,Production,Tonnes,66778028.335424
+USA,1951,Sorghum,Area Seeded,Hectares,6081621.208
+USA,1951,Sorghum,Area Harvested,Hectares,3457637.184
+USA,1951,Sorghum,Yield,kg/ha,1199
+USA,1951,Sorghum,Production,Tonnes,4136907.818176
+USA,1951,Barley,Area Seeded,Hectares,4366561.94
+USA,1951,Barley,Area Harvested,Hectares,3813760.864
+USA,1951,Barley,Yield,kg/ha,1469
+USA,1951,Barley,Production,Tonnes,5600148.436608
+USA,1951,Oats,Area Seeded,Hectares,16598196.29
+USA,1951,Oats,Area Harvested,Hectares,14258301.838
+USA,1951,Oats,Yield,kg/ha,1383
+USA,1951,Oats,Production,Tonnes,19704035.572816
+USA,1952,Wheat,Area Seeded,Hectares,31808319.6
+USA,1952,Wheat,Area Harvested,Hectares,28773174.6
+USA,1952,Wheat,Yield,kg/ha,1237
+USA,1952,Wheat,Production,Tonnes,35543469.12
+USA,1952,Maize,Area Seeded,Hectares,33277329.78
+USA,1952,Maize,Area Harvested,Hectares,28875560.158
+USA,1952,Maize,Yield,kg/ha,2624
+USA,1952,Maize,Production,Tonnes,75715576.073536
+USA,1952,Sorghum,Area Seeded,Hectares,4973186.254
+USA,1952,Sorghum,Area Harvested,Hectares,2155357.636
+USA,1952,Sorghum,Yield,kg/ha,1067
+USA,1952,Sorghum,Production,Tonnes,2304925.933632
+USA,1952,Barley,Area Seeded,Hectares,3719064.34
+USA,1952,Barley,Area Harvested,Hectares,3332993.896
+USA,1952,Barley,Yield,kg/ha,1490
+USA,1952,Barley,Production,Tonnes,4967768.613888
+USA,1952,Oats,Area Seeded,Hectares,17134809.926
+USA,1952,Oats,Area Harvested,Hectares,14978238.232
+USA,1952,Oats,Yield,kg/ha,1254
+USA,1952,Oats,Production,Tonnes,18775407.557424
+USA,1953,Wheat,Area Seeded,Hectares,31929725.4
+USA,1953,Wheat,Area Harvested,Hectares,27437710.8
+USA,1953,Wheat,Yield,kg/ha,1163
+USA,1953,Wheat,Production,Tonnes,31923804.96
+USA,1953,Maize,Area Seeded,Hectares,33011855.764
+USA,1953,Maize,Area Harvested,Hectares,28626678.268
+USA,1953,Maize,Yield,kg/ha,2555
+USA,1953,Maize,Production,Tonnes,73201065.234752
+USA,1953,Sorghum,Area Seeded,Hectares,5904368.74
+USA,1953,Sorghum,Area Harvested,Hectares,2547498.37
+USA,1953,Sorghum,Yield,kg/ha,1155
+USA,1953,Sorghum,Production,Tonnes,2939395.908288
+USA,1953,Barley,Area Seeded,Hectares,3891055.89
+USA,1953,Barley,Area Harvested,Hectares,3512674.48
+USA,1953,Barley,Yield,kg/ha,1528
+USA,1953,Barley,Production,Tonnes,5371755.792768
+USA,1953,Oats,Area Seeded,Hectares,17490528.92
+USA,1953,Oats,Area Harvested,Hectares,15190293.696
+USA,1953,Oats,Yield,kg/ha,1170
+USA,1953,Oats,Production,Tonnes,17784875.12024
+USA,1954,Wheat,Area Seeded,Hectares,25292875
+USA,1954,Wheat,Area Harvested,Hectares,22014918.4
+USA,1954,Wheat,Yield,kg/ha,1216
+USA,1954,Wheat,Production,Tonnes,26780071.68
+USA,1954,Maize,Area Seeded,Hectares,33259118.91
+USA,1954,Maize,Area Harvested,Hectares,27788978.248
+USA,1954,Maize,Yield,kg/ha,2473
+USA,1954,Maize,Production,Tonnes,68784109.715776
+USA,1954,Sorghum,Area Seeded,Hectares,8153613.528
+USA,1954,Sorghum,Area Harvested,Hectares,4742110.548
+USA,1954,Sorghum,Yield,kg/ha,1262
+USA,1954,Sorghum,Production,Tonnes,5983876.3824
+USA,1954,Barley,Area Seeded,Hectares,5965071.64
+USA,1954,Barley,Area Harvested,Hectares,5410651.82
+USA,1954,Barley,Yield,kg/ha,1528
+USA,1954,Barley,Production,Tonnes,8257275.857664
+USA,1954,Oats,Area Seeded,Hectares,18978964.028
+USA,1954,Oats,Area Harvested,Hectares,16410421.986
+USA,1954,Oats,Yield,kg/ha,1326
+USA,1954,Oats,Production,Tonnes,21739047.050928
+USA,1955,Wheat,Area Seeded,Hectares,23552725.2
+USA,1955,Wheat,Area Harvested,Hectares,19141647.8
+USA,1955,Wheat,Yield,kg/ha,1332
+USA,1955,Wheat,Production,Tonnes,25500942.24
+USA,1955,Maize,Area Seeded,Hectares,32752047.352
+USA,1955,Maize,Area Harvested,Hectares,27705612.932
+USA,1955,Maize,Yield,kg/ha,2636
+USA,1955,Maize,Production,Tonnes,72976468.248768
+USA,1955,Sorghum,Area Seeded,Hectares,9680493.806
+USA,1955,Sorghum,Area Harvested,Hectares,5216807.226
+USA,1955,Sorghum,Yield,kg/ha,1180
+USA,1955,Sorghum,Production,Tonnes,6163284.718976
+USA,1955,Barley,Area Seeded,Hectares,6593548.998
+USA,1955,Barley,Area Harvested,Hectares,5877254.778
+USA,1955,Barley,Yield,kg/ha,1496
+USA,1955,Barley,Production,Tonnes,8775698.85504
+USA,1955,Oats,Area Seeded,Hectares,19220156.884
+USA,1955,Oats,Area Harvested,Hectares,15793680.522
+USA,1955,Oats,Yield,kg/ha,1460
+USA,1955,Oats,Production,Tonnes,23071164.201184
+USA,1956,Wheat,Area Seeded,Hectares,24564440.2
+USA,1956,Wheat,Area Harvested,Hectares,20153362.8
+USA,1956,Wheat,Yield,kg/ha,1358
+USA,1956,Wheat,Production,Tonnes,27351597.6
+USA,1956,Maize,Area Seeded,Hectares,31495902.008
+USA,1956,Maize,Area Harvested,Hectares,26254813.622
+USA,1956,Maize,Yield,kg/ha,2975
+USA,1956,Maize,Production,Tonnes,78117077.187072
+USA,1956,Sorghum,Area Seeded,Hectares,8653805.424
+USA,1956,Sorghum,Area Harvested,Hectares,3726753.374
+USA,1956,Sorghum,Yield,kg/ha,1393
+USA,1956,Sorghum,Production,Tonnes,5204213.422912
+USA,1956,Barley,Area Seeded,Hectares,5961834.152
+USA,1956,Barley,Area Harvested,Hectares,5201024.472
+USA,1956,Barley,Yield,kg/ha,1576
+USA,1956,Barley,Production,Tonnes,8200819.982976
+USA,1956,Oats,Area Seeded,Hectares,17889144.63
+USA,1956,Oats,Area Harvested,Hectares,13489398.438
+USA,1956,Oats,Yield,kg/ha,1315
+USA,1956,Oats,Production,Tonnes,17757007.334944
+USA,1957,Wheat,Area Seeded,Hectares,20153362.8
+USA,1957,Wheat,Area Harvested,Hectares,17725246.8
+USA,1957,Wheat,Yield,kg/ha,1468
+USA,1957,Wheat,Production,Tonnes,26018037.12
+USA,1957,Maize,Area Seeded,Hectares,29614921.48
+USA,1957,Maize,Area Harvested,Hectares,25521522.59
+USA,1957,Maize,Yield,kg/ha,3032
+USA,1957,Maize,Production,Tonnes,77355525.24896
+USA,1957,Sorghum,Area Seeded,Hectares,10880387.796
+USA,1957,Sorghum,Area Harvested,Hectares,7965029.852
+USA,1957,Sorghum,Yield,kg/ha,1808
+USA,1957,Sorghum,Production,Tonnes,14415306.166912
+USA,1957,Barley,Area Seeded,Hectares,6636041.028
+USA,1957,Barley,Area Harvested,Hectares,6018490.192
+USA,1957,Barley,Yield,kg/ha,1603
+USA,1957,Barley,Production,Tonnes,9639976.680576
+USA,1957,Oats,Area Seeded,Hectares,16932062.24
+USA,1957,Oats,Area Harvested,Hectares,13785628.59
+USA,1957,Oats,Yield,kg/ha,1444
+USA,1957,Oats,Production,Tonnes,19892694.46464
+USA,1958,Wheat,Area Seeded,Hectares,22662416
+USA,1958,Wheat,Area Harvested,Hectares,21448358
+USA,1958,Wheat,Yield,kg/ha,1849
+USA,1958,Wheat,Production,Tonnes,39653012.64
+USA,1958,Maize,Area Seeded,Hectares,29684122.786
+USA,1958,Maize,Area Harvested,Hectares,25717390.614
+USA,1958,Maize,Yield,kg/ha,3314
+USA,1958,Maize,Production,Tonnes,85251473.34816
+USA,1958,Sorghum,Area Seeded,Hectares,8366883.05
+USA,1958,Sorghum,Area Harvested,Hectares,6687031.464
+USA,1958,Sorghum,Yield,kg/ha,2209
+USA,1958,Sorghum,Production,Tonnes,14758374.125824
+USA,1958,Barley,Area Seeded,Hectares,6535678.9
+USA,1958,Barley,Area Harvested,Hectares,5985710.626
+USA,1958,Barley,Yield,kg/ha,1738
+USA,1958,Barley,Production,Tonnes,10393454.681088
+USA,1958,Oats,Area Seeded,Hectares,15256257.514
+USA,1958,Oats,Area Harvested,Hectares,12645223.442
+USA,1958,Oats,Yield,kg/ha,1707
+USA,1958,Oats,Production,Tonnes,21612724.40048
+USA,1959,Wheat,Area Seeded,Hectares,22945696.2
+USA,1959,Wheat,Area Harvested,Hectares,20922266.2
+USA,1959,Wheat,Yield,kg/ha,1453
+USA,1959,Wheat,Production,Tonnes,30426951.36
+USA,1959,Maize,Area Seeded,Hectares,33484529.012
+USA,1959,Maize,Area Harvested,Hectares,29174218.426
+USA,1959,Maize,Yield,kg/ha,3333
+USA,1959,Maize,Production,Tonnes,97149195.136896
+USA,1959,Sorghum,Area Seeded,Hectares,7894614.488
+USA,1959,Sorghum,Area Harvested,Hectares,6234592.516
+USA,1959,Sorghum,Yield,kg/ha,2266
+USA,1959,Sorghum,Production,Tonnes,14108841.268032
+USA,1959,Barley,Area Seeded,Hectares,6784965.476
+USA,1959,Barley,Area Harvested,Hectares,6017276.134
+USA,1959,Barley,Yield,kg/ha,1523
+USA,1959,Barley,Production,Tonnes,9148834.520448
+USA,1959,Oats,Area Seeded,Hectares,14189909.904
+USA,1959,Oats,Area Harvested,Hectares,11233273.988
+USA,1959,Oats,Yield,kg/ha,1441
+USA,1959,Oats,Production,Tonnes,16194020.928528
+USA,1960,Wheat,Area Seeded,Hectares,22217261.4
+USA,1960,Wheat,Area Harvested,Hectares,21003203.4
+USA,1960,Wheat,Yield,kg/ha,1755
+USA,1960,Wheat,Production,Tonnes,36868864.944
+USA,1960,Maize,Area Seeded,Hectares,32951557.55
+USA,1960,Maize,Area Harvested,Hectares,28903483.492
+USA,1960,Maize,Yield,kg/ha,3433
+USA,1960,Maize,Production,Tonnes,99241005.405248
+USA,1960,Sorghum,Area Seeded,Hectares,7931036.228
+USA,1960,Sorghum,Area Harvested,Hectares,6313506.286
+USA,1960,Sorghum,Yield,kg/ha,2492
+USA,1960,Sorghum,Production,Tonnes,15747545.787008
+USA,1960,Barley,Area Seeded,Hectares,6283559.522
+USA,1960,Barley,Area Harvested,Hectares,5607329.216
+USA,1960,Barley,Yield,kg/ha,1668
+USA,1960,Barley,Production,Tonnes,9340475.32608
+USA,1960,Oats,Area Seeded,Hectares,12714829.434
+USA,1960,Oats,Area Harvested,Hectares,10759791.368
+USA,1960,Oats,Yield,kg/ha,1654
+USA,1960,Oats,Production,Tonnes,17786833.730496
+USA,1961,Wheat,Area Seeded,Hectares,22541010.2
+USA,1961,Wheat,Area Harvested,Hectares,20881797.6
+USA,1961,Wheat,Yield,kg/ha,1607
+USA,1961,Wheat,Production,Tonnes,33540406.848
+USA,1961,Maize,Area Seeded,Hectares,26676496.434
+USA,1961,Maize,Area Harvested,Hectares,23323672.924
+USA,1961,Maize,Yield,kg/ha,3917
+USA,1961,Maize,Production,Tonnes,91388340.869056
+USA,1961,Sorghum,Area Seeded,Hectares,5784581.684
+USA,1961,Sorghum,Area Harvested,Hectares,4445475.71
+USA,1961,Sorghum,Yield,kg/ha,2743
+USA,1961,Sorghum,Production,Tonnes,12197836.399616
+USA,1961,Barley,Area Seeded,Hectares,6322409.378
+USA,1961,Barley,Area Harvested,Hectares,5182408.916
+USA,1961,Barley,Yield,kg/ha,1646
+USA,1961,Barley,Production,Tonnes,8544388.707456
+USA,1961,Oats,Area Seeded,Hectares,13077023.404
+USA,1961,Oats,Area Harvested,Hectares,9666329.796
+USA,1961,Oats,Yield,kg/ha,1612
+USA,1961,Oats,Production,Tonnes,15581191.828192
+USA,1962,Wheat,Area Seeded,Hectares,19951019.8
+USA,1962,Wheat,Area Harvested,Hectares,17684778.2
+USA,1962,Wheat,Yield,kg/ha,1681
+USA,1962,Wheat,Production,Tonnes,29719347.84
+USA,1962,Maize,Area Seeded,Hectares,26311469.662
+USA,1962,Maize,Area Harvested,Hectares,22551532.036
+USA,1962,Maize,Yield,kg/ha,4061
+USA,1962,Maize,Production,Tonnes,91604453.870272
+USA,1962,Sorghum,Area Seeded,Hectares,6094571.16
+USA,1962,Sorghum,Area Harvested,Hectares,4682621.706
+USA,1962,Sorghum,Yield,kg/ha,2768
+USA,1962,Sorghum,Production,Tonnes,12961801.447168
+USA,1962,Barley,Area Seeded,Hectares,5819384.68
+USA,1962,Barley,Area Harvested,Hectares,4942834.804
+USA,1962,Barley,Yield,kg/ha,1883
+USA,1962,Barley,Production,Tonnes,9312628.406016
+USA,1962,Oats,Area Seeded,Hectares,11938237
+USA,1962,Oats,Area Harvested,Hectares,9055658.622
+USA,1962,Oats,Yield,kg/ha,1723
+USA,1962,Oats,Production,Tonnes,15610231.695216
+USA,1963,Wheat,Area Seeded,Hectares,21610232.4
+USA,1963,Wheat,Area Harvested,Hectares,18413213
+USA,1963,Wheat,Yield,kg/ha,1695
+USA,1963,Wheat,Production,Tonnes,31210758.336
+USA,1963,Maize,Area Seeded,Hectares,27830660.906
+USA,1963,Maize,Area Harvested,Hectares,23968337.722
+USA,1963,Maize,Yield,kg/ha,4262
+USA,1963,Maize,Production,Tonnes,102093275.362176
+USA,1963,Sorghum,Area Seeded,Hectares,7088479.976
+USA,1963,Sorghum,Area Harvested,Hectares,5392845.636
+USA,1963,Sorghum,Yield,kg/ha,2755
+USA,1963,Sorghum,Production,Tonnes,14869681.973888
+USA,1963,Barley,Area Seeded,Hectares,5443836.072
+USA,1963,Barley,Area Harvested,Hectares,4547051.896
+USA,1963,Barley,Yield,kg/ha,1883
+USA,1963,Barley,Production,Tonnes,8552923.494528
+USA,1963,Oats,Area Seeded,Hectares,11353061.044
+USA,1963,Oats,Area Harvested,Hectares,8623049.288
+USA,1963,Oats,Yield,kg/ha,1726
+USA,1963,Oats,Production,Tonnes,14890218.80528
+USA,1964,Wheat,Area Seeded,Hectares,22541010.2
+USA,1964,Wheat,Area Harvested,Hectares,20153362.8
+USA,1964,Wheat,Yield,kg/ha,1735
+USA,1964,Wheat,Production,Tonnes,34928398.368
+USA,1964,Maize,Area Seeded,Hectares,26637646.578
+USA,1964,Maize,Area Harvested,Hectares,22407059.134
+USA,1964,Maize,Yield,kg/ha,3948
+USA,1964,Maize,Production,Tonnes,88504040.059456
+USA,1964,Sorghum,Area Seeded,Hectares,6786584.22
+USA,1964,Sorghum,Area Harvested,Hectares,4751823.012
+USA,1964,Sorghum,Yield,kg/ha,2617
+USA,1964,Sorghum,Production,Tonnes,12441382.644992
+USA,1964,Barley,Area Seeded,Hectares,4715401.272
+USA,1964,Barley,Area Harvested,Hectares,4158958.022
+USA,1964,Barley,Yield,kg/ha,2023
+USA,1964,Barley,Production,Tonnes,8405437.148544
+USA,1964,Oats,Area Seeded,Hectares,10373720.924
+USA,1964,Oats,Area Harvested,Hectares,7996190.674
+USA,1964,Oats,Yield,kg/ha,1642
+USA,1964,Oats,Production,Tonnes,13143616.542896
+USA,1965,Wheat,Area Seeded,Hectares,23228976.4
+USA,1965,Wheat,Area Harvested,Hectares,20072425.6
+USA,1965,Wheat,Yield,kg/ha,1782
+USA,1965,Wheat,Production,Tonnes,35804738.112
+USA,1965,Maize,Area Seeded,Hectares,26373791.306
+USA,1965,Maize,Area Harvested,Hectares,22416366.912
+USA,1965,Maize,Yield,kg/ha,4651
+USA,1965,Maize,Production,Tonnes,104217548.302784
+USA,1965,Sorghum,Area Seeded,Hectares,6911632.194
+USA,1965,Sorghum,Area Harvested,Hectares,5272653.894
+USA,1965,Sorghum,Yield,kg/ha,3239
+USA,1965,Sorghum,Production,Tonnes,17087304.148096
+USA,1965,Barley,Area Seeded,Hectares,4096636.378
+USA,1965,Barley,Area Harvested,Hectares,3709351.876
+USA,1965,Barley,Yield,kg/ha,2308
+USA,1965,Barley,Production,Tonnes,8557756.97088
+USA,1965,Oats,Area Seeded,Hectares,9731079.556
+USA,1965,Oats,Area Harvested,Hectares,7495594.092
+USA,1965,Oats,Yield,kg/ha,1913
+USA,1965,Oats,Production,Tonnes,14335700.770912
+USA,1966,Wheat,Area Seeded,Hectares,21893512.6
+USA,1966,Wheat,Area Harvested,Hectares,20072425.6
+USA,1966,Wheat,Yield,kg/ha,1769
+USA,1966,Wheat,Production,Tonnes,35513532.048
+USA,1966,Maize,Area Seeded,Hectares,26849702.042
+USA,1966,Maize,Area Harvested,Hectares,23067911.372
+USA,1966,Maize,Yield,kg/ha,4588
+USA,1966,Maize,Production,Tonnes,105862044.284416
+USA,1966,Sorghum,Area Seeded,Hectares,6625519.192
+USA,1966,Sorghum,Area Harvested,Hectares,5185241.718
+USA,1966,Sorghum,Yield,kg/ha,3502
+USA,1966,Sorghum,Production,Tonnes,18161620.470784
+USA,1966,Barley,Area Seeded,Hectares,4526008.224
+USA,1966,Barley,Area Harvested,Hectares,4148031.5
+USA,1966,Barley,Yield,kg/ha,2061
+USA,1966,Barley,Production,Tonnes,8537138.492928
+USA,1966,Oats,Area Seeded,Hectares,9446585.298
+USA,1966,Oats,Area Harvested,Hectares,7234571.622
+USA,1966,Oats,Yield,kg/ha,1711
+USA,1966,Oats,Production,Tonnes,12388965.553472
+USA,1967,Wheat,Area Seeded,Hectares,21893512.6
+USA,1967,Wheat,Area Harvested,Hectares,20072425.6
+USA,1967,Wheat,Yield,kg/ha,1769
+USA,1967,Wheat,Production,Tonnes,41030117.952
+USA,1967,Maize,Area Seeded,Hectares,28795837.016
+USA,1967,Maize,Area Harvested,Hectares,24562012.084
+USA,1967,Maize,Yield,kg/ha,5028
+USA,1967,Maize,Production,Tonnes,123459047.948544
+USA,1967,Sorghum,Area Seeded,Hectares,7666776.27
+USA,1967,Sorghum,Area Harvested,Hectares,6065433.768
+USA,1967,Sorghum,Yield,kg/ha,3163
+USA,1967,Sorghum,Production,Tonnes,19186607.756288
+USA,1967,Barley,Area Seeded,Hectares,4078020.822
+USA,1967,Barley,Area Harvested,Hectares,3735251.78
+USA,1967,Barley,Yield,kg/ha,2179
+USA,1967,Barley,Production,Tonnes,8137331.61792
+USA,1967,Oats,Area Seeded,Hectares,8384689.234
+USA,1967,Oats,Area Harvested,Hectares,6519491.46
+USA,1967,Oats,Yield,kg/ha,1879
+USA,1967,Oats,Production,Tonnes,12242085.2064
+USA,1968,Wheat,Area Seeded,Hectares,25050063.4
+USA,1968,Wheat,Area Harvested,Hectares,22176792.8
+USA,1968,Wheat,Yield,kg/ha,1910
+USA,1968,Wheat,Production,Tonnes,42363678.432
+USA,1968,Maize,Area Seeded,Hectares,26355580.436
+USA,1968,Maize,Area Harvested,Hectares,22654322.28
+USA,1968,Maize,Yield,kg/ha,4990
+USA,1968,Maize,Production,Tonnes,113023492.672384
+USA,1968,Sorghum,Area Seeded,Hectares,7200577.998
+USA,1968,Sorghum,Area Harvested,Hectares,5621088.54
+USA,1968,Sorghum,Yield,kg/ha,3302
+USA,1968,Sorghum,Production,Tonnes,18575278.231104
+USA,1968,Barley,Area Seeded,Hectares,4243537.396
+USA,1968,Barley,Area Harvested,Hectares,3938404.152
+USA,1968,Barley,Yield,kg/ha,2356
+USA,1968,Barley,Production,Tonnes,9278336.850816
+USA,1968,Oats,Area Seeded,Hectares,9446180.612
+USA,1968,Oats,Area Harvested,Hectares,7166179.688
+USA,1968,Oats,Yield,kg/ha,2046
+USA,1968,Oats,Production,Tonnes,14661647.446192
+USA,1969,Wheat,Area Seeded,Hectares,21650701
+USA,1969,Wheat,Area Harvested,Hectares,19060710.6
+USA,1969,Wheat,Yield,kg/ha,2058
+USA,1969,Wheat,Production,Tonnes,39263830.704
+USA,1969,Maize,Area Seeded,Hectares,26006741.104
+USA,1969,Maize,Area Harvested,Hectares,22085333.764
+USA,1969,Maize,Yield,kg/ha,5392
+USA,1969,Maize,Production,Tonnes,119056647.289664
+USA,1969,Sorghum,Area Seeded,Hectares,6973144.466
+USA,1969,Sorghum,Area Harvested,Hectares,5437765.782
+USA,1969,Sorghum,Yield,kg/ha,3408
+USA,1969,Sorghum,Production,Tonnes,18540783.466688
+USA,1969,Barley,Area Seeded,Hectares,4164623.626
+USA,1969,Barley,Area Harvested,Hectares,3867584.102
+USA,1969,Barley,Yield,kg/ha,2405
+USA,1969,Barley,Production,Tonnes,9298019.11488
+USA,1969,Oats,Area Seeded,Hectares,9534806.846
+USA,1969,Oats,Area Harvested,Hectares,7272612.106
+USA,1969,Oats,Yield,kg/ha,2046
+USA,1969,Oats,Production,Tonnes,14895662.816464
+USA,1970,Wheat,Area Seeded,Hectares,19708208.2
+USA,1970,Wheat,Area Harvested,Hectares,17644309.6
+USA,1970,Wheat,Yield,kg/ha,2085
+USA,1970,Wheat,Production,Tonnes,36784496.832
+USA,1970,Maize,Area Seeded,Hectares,27058520.018
+USA,1970,Maize,Area Harvested,Hectares,23211979.588
+USA,1970,Maize,Yield,kg/ha,4544
+USA,1970,Maize,Production,Tonnes,105471755.583936
+USA,1970,Sorghum,Area Seeded,Hectares,6862260.502
+USA,1970,Sorghum,Area Harvested,Hectares,5490779.648
+USA,1970,Sorghum,Yield,kg/ha,3163
+USA,1970,Sorghum,Production,Tonnes,17353533.622208
+USA,1970,Barley,Area Seeded,Hectares,4239490.536
+USA,1970,Barley,Area Harvested,Hectares,3930310.432
+USA,1970,Barley,Yield,kg/ha,2303
+USA,1970,Barley,Production,Tonnes,9059306.345856
+USA,1970,Oats,Area Seeded,Hectares,9878385.26
+USA,1970,Oats,Area Harvested,Hectares,7524731.484
+USA,1970,Oats,Yield,kg/ha,1875
+USA,1970,Oats,Production,Tonnes,14114886.742208
+USA,1971,Wheat,Area Seeded,Hectares,21772106.8
+USA,1971,Wheat,Area Harvested,Hectares,19303522.2
+USA,1971,Wheat,Yield,kg/ha,2280
+USA,1971,Wheat,Production,Tonnes,44051040.672
+USA,1971,Maize,Area Seeded,Hectares,30019202.794
+USA,1971,Maize,Area Harvested,Hectares,25949680.378
+USA,1971,Maize,Yield,kg/ha,5530
+USA,1971,Maize,Production,Tonnes,143421508.49152
+USA,1971,Sorghum,Area Seeded,Hectares,8315083.242
+USA,1971,Sorghum,Area Harvested,Hectares,6532441.412
+USA,1971,Sorghum,Yield,kg/ha,3377
+USA,1971,Sorghum,Production,Tonnes,22048123.732544
+USA,1971,Barley,Area Seeded,Hectares,4476231.846
+USA,1971,Barley,Area Harvested,Hectares,4088947.344
+USA,1971,Barley,Yield,kg/ha,2464
+USA,1971,Barley,Production,Tonnes,10068065.923968
+USA,1971,Oats,Area Seeded,Hectares,8834700.066
+USA,1971,Oats,Area Harvested,Hectares,6355593.63
+USA,1971,Oats,Yield,kg/ha,2130
+USA,1971,Oats,Production,Tonnes,13541846.732112
+USA,1972,Wheat,Area Seeded,Hectares,22217261.4
+USA,1972,Wheat,Area Harvested,Hectares,19141647.8
+USA,1972,Wheat,Yield,kg/ha,2199
+USA,1972,Wheat,Production,Tonnes,42080637.024
+USA,1972,Maize,Area Seeded,Hectares,27164952.436
+USA,1972,Maize,Area Harvested,Hectares,23274705.918
+USA,1972,Maize,Yield,kg/ha,6088
+USA,1972,Maize,Production,Tonnes,141734160.766464
+USA,1972,Sorghum,Area Seeded,Hectares,6893826.01
+USA,1972,Sorghum,Area Harvested,Hectares,5346711.432
+USA,1972,Sorghum,Yield,kg/ha,3810
+USA,1972,Sorghum,Production,Tonnes,20355213.1552
+USA,1972,Barley,Area Seeded,Hectares,4276316.962
+USA,1972,Barley,Area Harvested,Hectares,3903196.47
+USA,1972,Barley,Yield,kg/ha,2351
+USA,1972,Barley,Production,Tonnes,9181841.503104
+USA,1972,Oats,Area Seeded,Hectares,8089673.14
+USA,1972,Oats,Area Harvested,Hectares,5426839.26
+USA,1972,Oats,Yield,kg/ha,1963
+USA,1972,Oats,Production,Tonnes,10650768.350848
+USA,1973,Wheat,Area Seeded,Hectares,23997879.8
+USA,1973,Wheat,Area Harvested,Hectares,21893512.6
+USA,1973,Wheat,Yield,kg/ha,2125
+USA,1973,Wheat,Production,Tonnes,46560311.616
+USA,1973,Maize,Area Seeded,Hectares,29239777.558
+USA,1973,Maize,Area Harvested,Hectares,25148402.098
+USA,1973,Maize,Yield,kg/ha,5731
+USA,1973,Maize,Production,Tonnes,144042617.460224
+USA,1973,Sorghum,Area Seeded,Hectares,7686605.884
+USA,1973,Sorghum,Area Harvested,Hectares,6353570.2
+USA,1973,Sorghum,Yield,kg/ha,3691
+USA,1973,Sorghum,Production,Tonnes,23450953.154048
+USA,1973,Barley,Area Seeded,Hectares,4469756.87
+USA,1973,Barley,Area Harvested,Hectares,4166242.37
+USA,1973,Barley,Yield,kg/ha,2179
+USA,1973,Barley,Production,Tonnes,9088546.700544
+USA,1973,Oats,Area Seeded,Hectares,7529183.03
+USA,1973,Oats,Area Harvested,Hectares,5572526.22
+USA,1973,Oats,Yield,kg/ha,1825
+USA,1973,Oats,Production,Tonnes,10165279.761408
+USA,1974,Wheat,Area Seeded,Hectares,28732706
+USA,1974,Wheat,Area Harvested,Hectares,26466464.4
+USA,1974,Wheat,Yield,kg/ha,1836
+USA,1974,Wheat,Production,Tonnes,48495335.088
+USA,1974,Maize,Area Seeded,Hectares,31539203.41
+USA,1974,Maize,Area Harvested,Hectares,26468487.83
+USA,1974,Maize,Yield,kg/ha,4513
+USA,1974,Maize,Production,Tonnes,119421026.815104
+USA,1974,Sorghum,Area Seeded,Hectares,7117617.368
+USA,1974,Sorghum,Area Harvested,Hectares,5588308.974
+USA,1974,Sorghum,Yield,kg/ha,2831
+USA,1974,Sorghum,Production,Tonnes,15817576.763072
+USA,1974,Barley,Area Seeded,Hectares,3526029.118
+USA,1974,Barley,Area Harvested,Hectares,3209159.98
+USA,1974,Barley,Yield,kg/ha,2028
+USA,1974,Barley,Production,Tonnes,6502745.714304
+USA,1974,Oats,Area Seeded,Hectares,6884922.918
+USA,1974,Oats,Area Harvested,Hectares,5102281.088
+USA,1974,Oats,Yield,kg/ha,1814
+USA,1974,Oats,Production,Tonnes,9263378.29384
+USA,1975,Wheat,Area Seeded,Hectares,30310981.4
+USA,1975,Wheat,Area Harvested,Hectares,28125677
+USA,1975,Wheat,Yield,kg/ha,2058
+USA,1975,Wheat,Production,Tonnes,57885424.30704
+USA,1975,Maize,Area Seeded,Hectares,31856477.234
+USA,1975,Maize,Area Harvested,Hectares,27366890.75
+USA,1975,Maize,Yield,kg/ha,5423
+USA,1975,Maize,Production,Tonnes,148361956.352064
+USA,1975,Sorghum,Area Seeded,Hectares,7316722.88
+USA,1975,Sorghum,Area Harvested,Hectares,6233378.458
+USA,1975,Sorghum,Yield,kg/ha,3076
+USA,1975,Sorghum,Production,Tonnes,19161460.615808
+USA,1975,Barley,Area Seeded,Hectares,3793121.878
+USA,1975,Barley,Area Harvested,Hectares,3487179.262
+USA,1975,Barley,Yield,kg/ha,2367
+USA,1975,Barley,Production,Tonnes,8255272.795392
+USA,1975,Oats,Area Seeded,Hectares,6650609.724
+USA,1975,Oats,Area Harvested,Hectares,5276296.068
+USA,1975,Oats,Yield,kg/ha,1867
+USA,1975,Oats,Production,Tonnes,9854122.90688
+USA,1976,Wheat,Area Seeded,Hectares,32536754.4
+USA,1976,Wheat,Area Harvested,Hectares,28692237.4
+USA,1976,Wheat,Yield,kg/ha,2038
+USA,1976,Wheat,Production,Tonnes,58480165.0656
+USA,1976,Maize,Area Seeded,Hectares,34231579.368
+USA,1976,Maize,Area Harvested,Hectares,28937477.116
+USA,1976,Maize,Yield,kg/ha,5524
+USA,1976,Maize,Production,Tonnes,159752137.722688
+USA,1976,Sorghum,Area Seeded,Hectares,7342218.098
+USA,1976,Sorghum,Area Harvested,Hectares,5854187.676
+USA,1976,Sorghum,Yield,kg/ha,3082
+USA,1976,Sorghum,Production,Tonnes,18055062.638144
+USA,1976,Barley,Area Seeded,Hectares,3763984.486
+USA,1976,Barley,Area Harvested,Hectares,3415145.154
+USA,1976,Barley,Yield,kg/ha,2443
+USA,1976,Barley,Production,Tonnes,8338987.734912
+USA,1976,Oats,Area Seeded,Hectares,6725881.32
+USA,1976,Oats,Area Harvested,Hectares,4789054.124
+USA,1976,Oats,Yield,kg/ha,1742
+USA,1976,Oats,Production,Tonnes,8334750.278448
+USA,1977,Wheat,Area Seeded,Hectares,30513324.4
+USA,1977,Wheat,Area Harvested,Hectares,26992556.2
+USA,1977,Wheat,Yield,kg/ha,2065
+USA,1977,Wheat,Production,Tonnes,55670080.97904
+USA,1977,Maize,Area Seeded,Hectares,34126361.008
+USA,1977,Maize,Area Harvested,Hectares,28981183.204
+USA,1977,Maize,Yield,kg/ha,5699
+USA,1977,Maize,Production,Tonnes,165235535.207232
+USA,1977,Sorghum,Area Seeded,Hectares,6732356.296
+USA,1977,Sorghum,Area Harvested,Hectares,5583452.742
+USA,1977,Sorghum,Yield,kg/ha,3553
+USA,1977,Sorghum,Production,Tonnes,19836877.247488
+USA,1977,Barley,Area Seeded,Hectares,4361705.708
+USA,1977,Barley,Area Harvested,Hectares,3936785.408
+USA,1977,Barley,Yield,kg/ha,2367
+USA,1977,Barley,Production,Tonnes,9313891.206144
+USA,1977,Oats,Area Seeded,Hectares,7175892.152
+USA,1977,Oats,Area Harvested,Hectares,5457190.71
+USA,1977,Oats,Yield,kg/ha,2126
+USA,1977,Oats,Production,Tonnes,11609376.983072
+USA,1978,Wheat,Area Seeded,Hectares,26709276
+USA,1978,Wheat,Area Harvested,Hectares,22864759
+USA,1978,Wheat,Yield,kg/ha,2112
+USA,1978,Wheat,Production,Tonnes,48321808.93248
+USA,1978,Maize,Area Seeded,Hectares,33052729.05
+USA,1978,Maize,Area Harvested,Hectares,29109063.98
+USA,1978,Maize,Yield,kg/ha,6340
+USA,1978,Maize,Production,Tonnes,184613718.451904
+USA,1978,Sorghum,Area Seeded,Hectares,6554699.142
+USA,1978,Sorghum,Area Harvested,Hectares,5426839.26
+USA,1978,Sorghum,Yield,kg/ha,3421
+USA,1978,Sorghum,Production,Tonnes,18575100.42304
+USA,1978,Barley,Area Seeded,Hectares,4042408.454
+USA,1978,Barley,Area Harvested,Hectares,3742536.128
+USA,1978,Barley,Yield,kg/ha,2647
+USA,1978,Barley,Production,Tonnes,9901202.127744
+USA,1978,Oats,Area Seeded,Hectares,6639683.202
+USA,1978,Oats,Area Harvested,Hectares,4502536.436
+USA,1978,Oats,Yield,kg/ha,1993
+USA,1978,Oats,Production,Tonnes,8970388.706096
+USA,1979,Wheat,Area Seeded,Hectares,28894580.4
+USA,1979,Wheat,Area Harvested,Hectares,25292875
+USA,1979,Wheat,Yield,kg/ha,2293
+USA,1979,Wheat,Production,Tonnes,58079552.6112
+USA,1979,Maize,Area Seeded,Hectares,32939012.284
+USA,1979,Maize,Area Harvested,Hectares,29299266.4
+USA,1979,Maize,Yield,kg/ha,6873
+USA,1979,Maize,Production,Tonnes,201383863.816128
+USA,1979,Sorghum,Area Seeded,Hectares,6182388.022
+USA,1979,Sorghum,Area Harvested,Hectares,5220854.086
+USA,1979,Sorghum,Yield,kg/ha,3929
+USA,1979,Sorghum,Production,Tonnes,20509448.950144
+USA,1979,Barley,Area Seeded,Hectares,3284431.576
+USA,1979,Barley,Area Harvested,Hectares,3046071.522
+USA,1979,Barley,Yield,kg/ha,2738
+USA,1979,Barley,Production,Tonnes,8343211.583616
+USA,1979,Oats,Area Seeded,Hectares,5649416.56
+USA,1979,Oats,Area Harvested,Hectares,3918169.852
+USA,1979,Oats,Yield,kg/ha,2073
+USA,1979,Oats,Production,Tonnes,8123575.079744
+USA,1980,Wheat,Area Seeded,Hectares,32698628.8
+USA,1980,Wheat,Area Harvested,Hectares,28773174.6
+USA,1980,Wheat,Yield,kg/ha,2253
+USA,1980,Wheat,Production,Tonnes,64798356.89568
+USA,1980,Maize,Area Seeded,Hectares,34011025.498
+USA,1980,Maize,Area Harvested,Hectares,29526295.246
+USA,1980,Maize,Yield,kg/ha,5712
+USA,1980,Maize,Production,Tonnes,168648306.984192
+USA,1980,Sorghum,Area Seeded,Hectares,6328884.354
+USA,1980,Sorghum,Area Harvested,Hectares,5063835.918
+USA,1980,Sorghum,Yield,kg/ha,2906
+USA,1980,Sorghum,Production,Tonnes,14715979.603136
+USA,1980,Barley,Area Seeded,Hectares,3366987.52
+USA,1980,Barley,Area Harvested,Hectares,2938020.36
+USA,1980,Barley,Yield,kg/ha,2674
+USA,1980,Barley,Production,Tonnes,7862781.45216
+USA,1980,Oats,Area Seeded,Hectares,5415103.366
+USA,1980,Oats,Area Harvested,Hectares,3503366.702
+USA,1980,Oats,Yield,kg/ha,2020
+USA,1980,Oats,Production,Tonnes,7075548.949376
+USA,1981,Wheat,Area Seeded,Hectares,35733773.8
+USA,1981,Wheat,Area Harvested,Hectares,32617691.6
+USA,1981,Wheat,Yield,kg/ha,2327
+USA,1981,Wheat,Production,Tonnes,75804939.14064
+USA,1981,Maize,Area Seeded,Hectares,34032878.542
+USA,1981,Maize,Area Harvested,Hectares,30158819.464
+USA,1981,Maize,Yield,kg/ha,6835
+USA,1981,Maize,Production,Tonnes,206223062.6848
+USA,1981,Sorghum,Area Seeded,Hectares,6446647.98
+USA,1981,Sorghum,Area Harvested,Hectares,5534890.422
+USA,1981,Sorghum,Yield,kg/ha,4017
+USA,1981,Sorghum,Production,Tonnes,22247217.96192
+USA,1981,Barley,Area Seeded,Hectares,3892269.948
+USA,1981,Barley,Area Harvested,Hectares,3657552.068
+USA,1981,Barley,Yield,kg/ha,2819
+USA,1981,Barley,Production,Tonnes,10309500.244992
+USA,1981,Oats,Area Seeded,Hectares,5516679.552
+USA,1981,Oats,Area Harvested,Hectares,3806881.202
+USA,1981,Oats,Yield,kg/ha,2066
+USA,1981,Oats,Production,Tonnes,7858021.457712
+USA,1982,Wheat,Area Seeded,Hectares,34883933.2
+USA,1982,Wheat,Area Harvested,Hectares,31525039.4
+USA,1982,Wheat,Yield,kg/ha,2387
+USA,1982,Wheat,Production,Tonnes,75250014.68784
+USA,1982,Maize,Area Seeded,Hectares,33126381.902
+USA,1982,Maize,Area Harvested,Hectares,29428361.234
+USA,1982,Maize,Yield,kg/ha,7105
+USA,1982,Maize,Production,Tonnes,209181052.236352
+USA,1982,Sorghum,Area Seeded,Hectares,6486307.208
+USA,1982,Sorghum,Area Harvested,Hectares,5721045.982
+USA,1982,Sorghum,Yield,kg/ha,3710
+USA,1982,Sorghum,Production,Tonnes,21212070.215616
+USA,1982,Barley,Area Seeded,Hectares,3864346.614
+USA,1982,Barley,Area Harvested,Hectares,3647434.918
+USA,1982,Barley,Yield,kg/ha,3077
+USA,1982,Barley,Production,Tonnes,11233151.44896
+USA,1982,Oats,Area Seeded,Hectares,5645774.386
+USA,1982,Oats,Area Harvested,Hectares,4151268.988
+USA,1982,Oats,Yield,kg/ha,2203
+USA,1982,Oats,Production,Tonnes,9139615.71664
+USA,1983,Wheat,Area Seeded,Hectares,30918010.4
+USA,1983,Wheat,Area Harvested,Hectares,24847720.4
+USA,1983,Wheat,Yield,kg/ha,2650
+USA,1983,Wheat,Production,Tonnes,65856768.46848
+USA,1983,Maize,Area Seeded,Hectares,24364930.002
+USA,1983,Maize,Area Harvested,Hectares,20832830.594
+USA,1983,Maize,Yield,kg/ha,5090
+USA,1983,Maize,Production,Tonnes,106030784.137152
+USA,1983,Sorghum,Area Seeded,Hectares,4807669.68
+USA,1983,Sorghum,Area Harvested,Hectares,4047264.686
+USA,1983,Sorghum,Yield,kg/ha,3057
+USA,1983,Sorghum,Production,Tonnes,12383595.024192
+USA,1983,Barley,Area Seeded,Hectares,4213185.946
+USA,1983,Barley,Area Harvested,Hectares,3933952.606
+USA,1983,Barley,Yield,kg/ha,2814
+USA,1983,Barley,Production,Tonnes,11066244.107904
+USA,1983,Oats,Area Seeded,Hectares,8210674.254
+USA,1983,Oats,Area Harvested,Hectares,3667264.532
+USA,1983,Oats,Yield,kg/ha,2005
+USA,1983,Oats,Production,Tonnes,7348196.750288
+USA,1984,Wheat,Area Seeded,Hectares,32056392.118
+USA,1984,Wheat,Area Harvested,Hectares,27084824.608
+USA,1984,Wheat,Yield,kg/ha,2607
+USA,1984,Wheat,Production,Tonnes,70618205.33904
+USA,1984,Maize,Area Seeded,Hectares,32584102.662
+USA,1984,Maize,Area Harvested,Hectares,29095709.342
+USA,1984,Maize,Yield,kg/ha,6697
+USA,1984,Maize,Production,Tonnes,194880940.29376
+USA,1984,Sorghum,Area Seeded,Hectares,6982452.244
+USA,1984,Sorghum,Area Harvested,Hectares,6213953.53
+USA,1984,Sorghum,Yield,kg/ha,3540
+USA,1984,Sorghum,Production,Tonnes,22003519.309632
+USA,1984,Barley,Area Seeded,Hectares,4829522.724
+USA,1984,Barley,Area Harvested,Hectares,4539767.548
+USA,1984,Barley,Yield,kg/ha,2868
+USA,1984,Barley,Production,Tonnes,13020645.030144
+USA,1984,Oats,Area Seeded,Hectares,5023772.004
+USA,1984,Oats,Area Harvested,Hectares,3303451.818
+USA,1984,Oats,Yield,kg/ha,2210
+USA,1984,Oats,Production,Tonnes,7304860.570608
+USA,1985,Wheat,Area Seeded,Hectares,30567957.01
+USA,1985,Wheat,Area Harvested,Hectares,26184802.944
+USA,1985,Wheat,Yield,kg/ha,2520
+USA,1985,Wheat,Production,Tonnes,65973550.2648
+USA,1985,Maize,Area Seeded,Hectares,33750003.028
+USA,1985,Maize,Area Harvested,Hectares,30436029.374
+USA,1985,Maize,Yield,kg/ha,7407
+USA,1985,Maize,Production,Tonnes,225446730.721856
+USA,1985,Sorghum,Area Seeded,Hectares,7399683.51
+USA,1985,Sorghum,Area Harvested,Hectares,6791440.452
+USA,1985,Sorghum,Yield,kg/ha,4193
+USA,1985,Sorghum,Production,Tonnes,28456173.952192
+USA,1985,Barley,Area Seeded,Hectares,5317169.354
+USA,1985,Barley,Area Harvested,Hectares,4690715.426
+USA,1985,Barley,Yield,kg/ha,2738
+USA,1985,Barley,Production,Tonnes,12850362.964608
+USA,1985,Oats,Area Seeded,Hectares,5356019.21
+USA,1985,Oats,Area Harvested,Hectares,3296976.842
+USA,1985,Oats,Yield,kg/ha,2424
+USA,1985,Oats,Production,Tonnes,7996219.14672
+USA,1986,Wheat,Area Seeded,Hectares,29136582.628
+USA,1986,Wheat,Area Harvested,Hectares,24559583.968
+USA,1986,Wheat,Yield,kg/ha,2317
+USA,1986,Wheat,Production,Tonnes,56895949.6464
+USA,1986,Maize,Area Seeded,Hectares,30990853.88
+USA,1986,Maize,Area Harvested,Hectares,27885698.202
+USA,1986,Maize,Yield,kg/ha,7494
+USA,1986,Maize,Production,Tonnes,208943881.680128
+USA,1986,Sorghum,Area Seeded,Hectares,6207478.554
+USA,1986,Sorghum,Area Harvested,Hectares,5609757.332
+USA,1986,Sorghum,Yield,kg/ha,4249
+USA,1986,Sorghum,Production,Tonnes,23848354.177088
+USA,1986,Barley,Area Seeded,Hectares,5270630.464
+USA,1986,Barley,Area Harvested,Hectares,4845710.164
+USA,1986,Barley,Yield,kg/ha,2733
+USA,1986,Barley,Production,Tonnes,13249211.853312
+USA,1986,Oats,Area Seeded,Hectares,5937148.306
+USA,1986,Oats,Area Harvested,Hectares,2768052.24
+USA,1986,Oats,Yield,kg/ha,2146
+USA,1986,Oats,Production,Tonnes,5937457.591488
+USA,1987,Wheat,Area Seeded,Hectares,26640074.694
+USA,1987,Wheat,Area Harvested,Hectares,22640158.27
+USA,1987,Wheat,Yield,kg/ha,2534
+USA,1987,Wheat,Production,Tonnes,57361743.2712
+USA,1987,Maize,Area Seeded,Hectares,26790213.2
+USA,1987,Maize,Area Harvested,Hectares,24080840.43
+USA,1987,Maize,Yield,kg/ha,7520
+USA,1987,Maize,Production,Tonnes,181143235.2576
+USA,1987,Sorghum,Area Seeded,Hectares,4757488.616
+USA,1987,Sorghum,Area Harvested,Hectares,4261748.266
+USA,1987,Sorghum,Yield,kg/ha,4356
+USA,1987,Sorghum,Production,Tonnes,18563390.491968
+USA,1987,Barley,Area Seeded,Hectares,4422813.294
+USA,1987,Barley,Area Harvested,Hectares,4029458.502
+USA,1987,Barley,Yield,kg/ha,2819
+USA,1987,Barley,Production,Tonnes,11354293.171584
+USA,1987,Oats,Area Seeded,Hectares,7246712.202
+USA,1987,Oats,Area Harvested,Hectares,2787477.168
+USA,1987,Oats,Yield,kg/ha,2069
+USA,1987,Oats,Production,Tonnes,5763449.721264
+USA,1988,Wheat,Area Seeded,Hectares,26518668.894
+USA,1988,Wheat,Area Harvested,Hectares,21524843.654
+USA,1988,Wheat,Yield,kg/ha,2291
+USA,1988,Wheat,Production,Tonnes,49319992.55952
+USA,1988,Maize,Area Seeded,Hectares,27404121.862
+USA,1988,Maize,Area Harvested,Hectares,23572959.5
+USA,1988,Maize,Yield,kg/ha,5310
+USA,1988,Maize,Production,Tonnes,125194175.240512
+USA,1988,Sorghum,Area Seeded,Hectares,4185667.298
+USA,1988,Sorghum,Area Harvested,Hectares,3659170.812
+USA,1988,Sorghum,Yield,kg/ha,4005
+USA,1988,Sorghum,Production,Tonnes,14648488.742272
+USA,1988,Barley,Area Seeded,Hectares,3978468.066
+USA,1988,Barley,Area Harvested,Hectares,3090182.296
+USA,1988,Barley,Yield,kg/ha,2044
+USA,1988,Barley,Production,Tonnes,6313870.005504
+USA,1988,Oats,Area Seeded,Hectares,5627968.202
+USA,1988,Oats,Area Harvested,Hectares,2237913.58
+USA,1988,Oats,Yield,kg/ha,1498
+USA,1988,Oats,Production,Tonnes,3352385.074
+USA,1989,Wheat,Area Seeded,Hectares,31005017.89
+USA,1989,Wheat,Area Harvested,Hectares,25167017.654
+USA,1989,Wheat,Yield,kg/ha,2202
+USA,1989,Wheat,Production,Tonnes,55427617.91136
+USA,1989,Maize,Area Seeded,Hectares,29267700.892
+USA,1989,Maize,Area Harvested,Hectares,26216773.138
+USA,1989,Maize,Yield,kg/ha,7300
+USA,1989,Maize,Production,Tonnes,191320283.009856
+USA,1989,Sorghum,Area Seeded,Hectares,5116040.412
+USA,1989,Sorghum,Area Harvested,Hectares,4493228.658
+USA,1989,Sorghum,Yield,kg/ha,3477
+USA,1989,Sorghum,Production,Tonnes,15632376.96384
+USA,1989,Barley,Area Seeded,Hectares,3692759.75
+USA,1989,Barley,Area Harvested,Hectares,3364154.718
+USA,1989,Barley,Yield,kg/ha,2615
+USA,1989,Barley,Production,Tonnes,8800475.864448
+USA,1989,Oats,Area Seeded,Hectares,4890630.31
+USA,1989,Oats,Area Harvested,Hectares,2785049.052
+USA,1989,Oats,Yield,kg/ha,2069
+USA,1989,Oats,Production,Tonnes,5761506.533136
+USA,1990,Wheat,Area Seeded,Hectares,31177414.126
+USA,1990,Wheat,Area Harvested,Hectares,27965016.658
+USA,1990,Wheat,Yield,kg/ha,2657
+USA,1990,Wheat,Production,Tonnes,74292327.75456
+USA,1990,Maize,Area Seeded,Hectares,30013941.876
+USA,1990,Maize,Area Harvested,Hectares,27094537.072
+USA,1990,Maize,Yield,kg/ha,7438
+USA,1990,Maize,Production,Tonnes,201533451.200256
+USA,1990,Sorghum,Area Seeded,Hectares,4263367.01
+USA,1990,Sorghum,Area Harvested,Hectares,3678191.054
+USA,1990,Sorghum,Yield,kg/ha,3961
+USA,1990,Sorghum,Production,Tonnes,14562556.645056
+USA,1990,Barley,Area Seeded,Hectares,3326923.606
+USA,1990,Barley,Area Harvested,Hectares,3046880.894
+USA,1990,Barley,Yield,kg/ha,3018
+USA,1990,Barley,Production,Tonnes,9192226.945536
+USA,1990,Oats,Area Seeded,Hectares,4218042.178
+USA,1990,Oats,Area Harvested,Hectares,2406667.642
+USA,1990,Oats,Yield,kg/ha,2290
+USA,1990,Oats,Production,Tonnes,5515785.767712
+USA,1991,Wheat,Area Seeded,Hectares,28279862.366
+USA,1991,Wheat,Area Harvested,Hectares,23392064.858
+USA,1991,Wheat,Yield,kg/ha,2304
+USA,1991,Wheat,Production,Tonnes,53890512.55728
+USA,1991,Maize,Area Seeded,Hectares,30738734.502
+USA,1991,Maize,Area Harvested,Hectares,27851299.892
+USA,1991,Maize,Yield,kg/ha,6817
+USA,1991,Maize,Production,Tonnes,189867641.92928
+USA,1991,Sorghum,Area Seeded,Hectares,4477445.904
+USA,1991,Sorghum,Area Harvested,Hectares,3994250.82
+USA,1991,Sorghum,Yield,kg/ha,3722
+USA,1991,Sorghum,Production,Tonnes,14856117.75872
+USA,1991,Barley,Area Seeded,Hectares,3618297.526
+USA,1991,Barley,Area Harvested,Hectares,3404623.318
+USA,1991,Barley,Yield,kg/ha,2970
+USA,1991,Barley,Production,Tonnes,10109498.831616
+USA,1991,Oats,Area Seeded,Hectares,3501747.958
+USA,1991,Oats,Area Harvested,Hectares,1948967.776
+USA,1991,Oats,Yield,kg/ha,1928
+USA,1991,Oats,Production,Tonnes,3760701.334928
+USA,1992,Wheat,Area Seeded,Hectares,29226018.234
+USA,1992,Wheat,Area Harvested,Hectares,25398498.046
+USA,1992,Wheat,Yield,kg/ha,2643
+USA,1992,Wheat,Production,Tonnes,67135190.30496
+USA,1992,Maize,Area Seeded,Hectares,32096051.346
+USA,1992,Maize,Area Harvested,Hectares,29168552.822
+USA,1992,Maize,Yield,kg/ha,8254
+USA,1992,Maize,Production,Tonnes,240719046.356096
+USA,1992,Sorghum,Area Seeded,Hectares,5332547.422
+USA,1992,Sorghum,Area Harvested,Hectares,4876466.3
+USA,1992,Sorghum,Yield,kg/ha,4557
+USA,1992,Sorghum,Production,Tonnes,22226566.825344
+USA,1992,Barley,Area Seeded,Hectares,3141172.732
+USA,1992,Barley,Area Harvested,Hectares,2948137.51
+USA,1992,Barley,Yield,kg/ha,3363
+USA,1992,Barley,Production,Tonnes,9908408.79744
+USA,1992,Oats,Area Seeded,Hectares,3214420.898
+USA,1992,Oats,Area Harvested,Hectares,1819468.256
+USA,1992,Oats,Yield,kg/ha,2492
+USA,1992,Oats,Production,Tonnes,4537637.299312
+USA,1993,Wheat,Area Seeded,Hectares,29205379.248
+USA,1993,Wheat,Area Harvested,Hectares,25378668.432
+USA,1993,Wheat,Yield,kg/ha,2569
+USA,1993,Wheat,Production,Tonnes,65220360.7488
+USA,1993,Maize,Area Seeded,Hectares,29638797.954
+USA,1993,Maize,Area Harvested,Hectares,25468104.038
+USA,1993,Maize,Yield,kg/ha,6321
+USA,1993,Maize,Production,Tonnes,160985643.06496
+USA,1993,Sorghum,Area Seeded,Hectares,3999107.052
+USA,1993,Sorghum,Area Harvested,Hectares,3608180.376
+USA,1993,Sorghum,Yield,kg/ha,3760
+USA,1993,Sorghum,Production,Tonnes,13568584.166144
+USA,1993,Barley,Area Seeded,Hectares,3150885.196
+USA,1993,Barley,Area Harvested,Hectares,2732844.558
+USA,1993,Barley,Yield,kg/ha,3169
+USA,1993,Barley,Production,Tonnes,8666314.237056
+USA,1993,Oats,Area Seeded,Hectares,3211992.782
+USA,1993,Oats,Area Harvested,Hectares,1539020.858
+USA,1993,Oats,Yield,kg/ha,2073
+USA,1993,Oats,Production,Tonnes,3188231.943568
+USA,1994,Wheat,Area Seeded,Hectares,28469255.414
+USA,1994,Wheat,Area Harvested,Hectares,24997454.22
+USA,1994,Wheat,Yield,kg/ha,2529
+USA,1994,Wheat,Production,Tonnes,63166704.82512
+USA,1994,Maize,Area Seeded,Hectares,31938223.806
+USA,1994,Maize,Area Harvested,Hectares,29345400.604
+USA,1994,Maize,Yield,kg/ha,8700
+USA,1994,Maize,Production,Tonnes,255294786.19904
+USA,1994,Sorghum,Area Seeded,Hectares,3960661.882
+USA,1994,Sorghum,Area Harvested,Hectares,3594421.052
+USA,1994,Sorghum,Yield,kg/ha,4563
+USA,1994,Sorghum,Production,Tonnes,16402565.293632
+USA,1994,Barley,Area Seeded,Hectares,2897147.074
+USA,1994,Barley,Area Harvested,Hectares,2698041.562
+USA,1994,Barley,Yield,kg/ha,3024
+USA,1994,Barley,Production,Tonnes,8161651.406592
+USA,1994,Oats,Area Seeded,Hectares,2685900.982
+USA,1994,Oats,Area Harvested,Hectares,1621981.488
+USA,1994,Oats,Yield,kg/ha,2176
+USA,1994,Oats,Production,Tonnes,3529261.460032
+USA,1995,Wheat,Area Seeded,Hectares,27935879.266
+USA,1995,Wheat,Area Harvested,Hectares,24667635.13
+USA,1995,Wheat,Yield,kg/ha,2408
+USA,1995,Wheat,Production,Tonnes,59403533.22816
+USA,1995,Maize,Area Seeded,Hectares,28926550.594
+USA,1995,Maize,Area Harvested,Hectares,26389574.06
+USA,1995,Maize,Yield,kg/ha,7124
+USA,1995,Maize,Production,Tonnes,187969820.258752
+USA,1995,Sorghum,Area Seeded,Hectares,3815784.294
+USA,1995,Sorghum,Area Harvested,Hectares,3339873.558
+USA,1995,Sorghum,Yield,kg/ha,3490
+USA,1995,Sorghum,Production,Tonnes,11650187.562496
+USA,1995,Barley,Area Seeded,Hectares,2706944.654
+USA,1995,Barley,Area Harvested,Hectares,2541023.394
+USA,1995,Barley,Yield,kg/ha,3077
+USA,1995,Barley,Production,Tonnes,7824483.772416
+USA,1995,Oats,Area Seeded,Hectares,2519170.35
+USA,1995,Oats,Area Harvested,Hectares,1194633.072
+USA,1995,Oats,Yield,kg/ha,2081
+USA,1995,Oats,Production,Tonnes,2484412.288032
+USA,1996,Wheat,Area Seeded,Hectares,30393942.03
+USA,1996,Wheat,Area Harvested,Hectares,25421969.834
+USA,1996,Wheat,Yield,kg/ha,2438
+USA,1996,Wheat,Production,Tonnes,61980298.66176
+USA,1996,Maize,Area Seeded,Hectares,32062867.094
+USA,1996,Maize,Area Harvested,Hectares,29398009.784
+USA,1996,Maize,Yield,kg/ha,7978
+USA,1996,Maize,Production,Tonnes,234517583.705664
+USA,1996,Sorghum,Area Seeded,Hectares,5300172.542
+USA,1996,Sorghum,Area Harvested,Hectares,4779746.346
+USA,1996,Sorghum,Yield,kg/ha,4224
+USA,1996,Sorghum,Production,Tonnes,20200875.755648
+USA,1996,Barley,Area Seeded,Hectares,2870842.484
+USA,1996,Barley,Area Harvested,Hectares,2714229.002
+USA,1996,Barley,Yield,kg/ha,3147
+USA,1996,Barley,Production,Tonnes,8544214.528128
+USA,1996,Oats,Area Seeded,Hectares,1876933.668
+USA,1996,Oats,Area Harvested,Hectares,1074441.33
+USA,1996,Oats,Yield,kg/ha,2199
+USA,1996,Oats,Production,Tonnes,2363364.00536
+USA,1997,Wheat,Area Seeded,Hectares,28494750.632
+USA,1997,Wheat,Area Harvested,Hectares,25430468.24
+USA,1997,Wheat,Yield,kg/ha,2656
+USA,1997,Wheat,Production,Tonnes,67534387.55232
+USA,1997,Maize,Area Seeded,Hectares,32187510.382
+USA,1997,Maize,Area Harvested,Hectares,29408936.306
+USA,1997,Maize,Yield,kg/ha,7953
+USA,1997,Maize,Production,Tonnes,233864139.070464
+USA,1997,Sorghum,Area Seeded,Hectares,4067903.672
+USA,1997,Sorghum,Area Harvested,Hectares,3706114.388
+USA,1997,Sorghum,Yield,kg/ha,4344
+USA,1997,Sorghum,Production,Tonnes,16092772.84384
+USA,1997,Barley,Area Seeded,Hectares,2713824.316
+USA,1997,Barley,Area Harvested,Hectares,2508243.828
+USA,1997,Barley,Yield,kg/ha,3126
+USA,1997,Barley,Production,Tonnes,7835413.525248
+USA,1997,Oats,Area Seeded,Hectares,2050948.648
+USA,1997,Oats,Area Harvested,Hectares,1138381.718
+USA,1997,Oats,Yield,kg/ha,2267
+USA,1997,Oats,Production,Tonnes,2579289.219488
+USA,1998,Wheat,Area Seeded,Hectares,26636837.206
+USA,1998,Wheat,Area Harvested,Hectares,23877283.372
+USA,1998,Wheat,Yield,kg/ha,2903
+USA,1998,Wheat,Production,Tonnes,69326665.62192
+USA,1998,Maize,Area Seeded,Hectares,32441653.19
+USA,1998,Maize,Area Harvested,Hectares,29375752.054
+USA,1998,Maize,Yield,kg/ha,8436
+USA,1998,Maize,Production,Tonnes,247881841.00512
+USA,1998,Sorghum,Area Seeded,Hectares,3895507.436
+USA,1998,Sorghum,Area Harvested,Hectares,3125389.978
+USA,1998,Sorghum,Yield,kg/ha,4224
+USA,1998,Sorghum,Production,Tonnes,13206897.162816
+USA,1998,Barley,Area Seeded,Hectares,2559638.95
+USA,1998,Barley,Area Harvested,Hectares,2369031.844
+USA,1998,Barley,Yield,kg/ha,3233
+USA,1998,Barley,Production,Tonnes,7654506.520704
+USA,1998,Oats,Area Seeded,Hectares,1979319.226
+USA,1998,Oats,Area Harvested,Hectares,1113695.872
+USA,1998,Oats,Yield,kg/ha,2294
+USA,1998,Oats,Production,Tonnes,2556495.314304
+USA,1999,Wheat,Area Seeded,Hectares,25359243.504
+USA,1999,Wheat,Area Harvested,Hectares,21761180.278
+USA,1999,Wheat,Yield,kg/ha,2871
+USA,1999,Wheat,Production,Tonnes,62474859.0912
+USA,1999,Maize,Area Seeded,Hectares,31317030.796
+USA,1999,Maize,Area Harvested,Hectares,28525102.082
+USA,1999,Maize,Yield,kg/ha,8398
+USA,1999,Maize,Production,Tonnes,239548408.865024
+USA,1999,Sorghum,Area Seeded,Hectares,3758723.568
+USA,1999,Sorghum,Area Harvested,Hectares,3457637.184
+USA,1999,Sorghum,Yield,kg/ha,4375
+USA,1999,Sorghum,Production,Tonnes,15117902.031232
+USA,1999,Barley,Area Seeded,Hectares,2016550.338
+USA,1999,Barley,Area Harvested,Hectares,1850629.078
+USA,1999,Barley,Yield,kg/ha,3201
+USA,1999,Barley,Production,Tonnes,5922010.062336
+USA,1999,Oats,Area Seeded,Hectares,1889074.248
+USA,1999,Oats,Area Harvested,Hectares,989457.27
+USA,1999,Oats,Yield,kg/ha,2271
+USA,1999,Oats,Production,Tonnes,2245893.656384
+USA,2000,Wheat,Area Seeded,Hectares,25312704.614
+USA,2000,Wheat,Area Harvested,Hectares,21473853.218
+USA,2000,Wheat,Yield,kg/ha,2824
+USA,2000,Wheat,Production,Tonnes,60640533.0432
+USA,2000,Maize,Area Seeded,Hectares,32193175.986
+USA,2000,Maize,Area Harvested,Hectares,29315453.84
+USA,2000,Maize,Yield,kg/ha,8593
+USA,2000,Maize,Production,Tonnes,251853717.538752
+USA,2000,Sorghum,Area Seeded,Hectares,3721087.77
+USA,2000,Sorghum,Area Harvested,Hectares,3126604.036
+USA,2000,Sorghum,Yield,kg/ha,3823
+USA,2000,Sorghum,Production,Tonnes,11951902.445952
+USA,2000,Barley,Area Seeded,Hectares,2347583.486
+USA,2000,Barley,Area Harvested,Hectares,2104367.2
+USA,2000,Barley,Yield,kg/ha,3287
+USA,2000,Barley,Production,Tonnes,6919360.894464
+USA,2000,Oats,Area Seeded,Hectares,1810160.478
+USA,2000,Oats,Area Harvested,Hectares,940894.95
+USA,2000,Oats,Yield,kg/ha,2447
+USA,2000,Oats,Production,Tonnes,2300441.72312
+USA,2001,Wheat,Area Seeded,Hectares,24051298.352
+USA,2001,Wheat,Area Harvested,Hectares,19616344.478
+USA,2001,Wheat,Yield,kg/ha,2702
+USA,2001,Wheat,Production,Tonnes,53000946.07056
+USA,2001,Maize,Area Seeded,Hectares,30635539.572
+USA,2001,Maize,Area Harvested,Hectares,27829446.848
+USA,2001,Maize,Yield,kg/ha,8674
+USA,2001,Maize,Production,Tonnes,241376478.97216
+USA,2001,Sorghum,Area Seeded,Hectares,4147222.128
+USA,2001,Sorghum,Area Harvested,Hectares,3471801.194
+USA,2001,Sorghum,Yield,kg/ha,3760
+USA,2001,Sorghum,Production,Tonnes,13057208.17408
+USA,2001,Barley,Area Seeded,Hectares,2003600.386
+USA,2001,Barley,Area Harvested,Hectares,1729223.278
+USA,2001,Barley,Yield,kg/ha,3126
+USA,2001,Barley,Production,Tonnes,5406722.292864
+USA,2001,Oats,Area Seeded,Hectares,1781023.086
+USA,2001,Oats,Area Harvested,Hectares,773354.946
+USA,2001,Oats,Yield,kg/ha,2344
+USA,2001,Oats,Production,Tonnes,1813673.097056
+USA,2002,Wheat,Area Seeded,Hectares,24409850.148
+USA,2002,Wheat,Area Harvested,Hectares,18544331.264
+USA,2002,Wheat,Yield,kg/ha,2357
+USA,2002,Wheat,Production,Tonnes,43704804.82656
+USA,2002,Maize,Area Seeded,Hectares,31927297.284
+USA,2002,Maize,Area Harvested,Hectares,28056880.38
+USA,2002,Maize,Yield,kg/ha,8116
+USA,2002,Maize,Production,Tonnes,227766719.538624
+USA,2002,Sorghum,Area Seeded,Hectares,3880534.054
+USA,2002,Sorghum,Area Harvested,Hectares,2883387.75
+USA,2002,Sorghum,Yield,kg/ha,3176
+USA,2002,Sorghum,Production,Tonnes,9162525.741376
+USA,2002,Barley,Area Seeded,Hectares,2026667.488
+USA,2002,Barley,Area Harvested,Hectares,1668520.378
+USA,2002,Barley,Yield,kg/ha,2959
+USA,2002,Barley,Production,Tonnes,4940291.824896
+USA,2002,Oats,Area Seeded,Hectares,2021406.57
+USA,2002,Oats,Area Harvested,Hectares,832843.788
+USA,2002,Oats,Yield,kg/ha,2149
+USA,2002,Oats,Production,Tonnes,1788997.692256
+USA,2003,Wheat,Area Seeded,Hectares,25147592.726
+USA,2003,Wheat,Area Harvested,Hectares,21473853.218
+USA,2003,Wheat,Yield,kg/ha,2971
+USA,2003,Wheat,Production,Tonnes,63804473.3208
+USA,2003,Maize,Area Seeded,Hectares,31809533.658
+USA,2003,Maize,Area Harvested,Hectares,28710043.584
+USA,2003,Maize,Yield,kg/ha,8926
+USA,2003,Maize,Production,Tonnes,256228837.360384
+USA,2003,Sorghum,Area Seeded,Hectares,3812142.12
+USA,2003,Sorghum,Area Harvested,Hectares,3155741.428
+USA,2003,Sorghum,Yield,kg/ha,3308
+USA,2003,Sorghum,Production,Tonnes,10445436.324288
+USA,2003,Barley,Area Seeded,Hectares,2164260.728
+USA,2003,Barley,Area Harvested,Hectares,1912950.722
+USA,2003,Barley,Yield,kg/ha,3169
+USA,2003,Barley,Production,Tonnes,6058893.241728
+USA,2003,Oats,Area Seeded,Hectares,1860341.542
+USA,2003,Oats,Area Harvested,Hectares,898402.92
+USA,2003,Oats,Yield,kg/ha,2477
+USA,2003,Oats,Production,Tonnes,2226693.107024
+USA,2004,Wheat,Area Seeded,Hectares,24137091.784
+USA,2004,Wheat,Area Harvested,Hectares,20221754.734
+USA,2004,Wheat,Yield,kg/ha,2903
+USA,2004,Wheat,Production,Tonnes,58698161.3808
+USA,2004,Maize,Area Seeded,Hectares,32750833.294
+USA,2004,Maize,Area Harvested,Hectares,29797434.866
+USA,2004,Maize,Yield,kg/ha,10062
+USA,2004,Maize,Production,Tonnes,299875357.429312
+USA,2004,Sorghum,Area Seeded,Hectares,3029479.396
+USA,2004,Sorghum,Area Harvested,Hectares,2637338.662
+USA,2004,Sorghum,Yield,kg/ha,4369
+USA,2004,Sorghum,Production,Tonnes,11522114.954112
+USA,2004,Barley,Area Seeded,Hectares,1832013.522
+USA,2004,Barley,Area Harvested,Hectares,1627242.406
+USA,2004,Barley,Yield,kg/ha,3745
+USA,2004,Barley,Production,Tonnes,6090680.969088
+USA,2004,Oats,Area Seeded,Hectares,1653142.31
+USA,2004,Oats,Area Harvested,Hectares,723173.882
+USA,2004,Oats,Yield,kg/ha,2466
+USA,2004,Oats,Production,Tonnes,1784263.09896
+USA,2005,Wheat,Area Seeded,Hectares,23153704.804
+USA,2005,Wheat,Area Harvested,Hectares,20276387.344
+USA,2005,Wheat,Yield,kg/ha,2823
+USA,2005,Wheat,Production,Tonnes,57243083.604
+USA,2005,Maize,Area Seeded,Hectares,33094816.394
+USA,2005,Maize,Area Harvested,Hectares,30398798.262
+USA,2005,Maize,Yield,kg/ha,9283
+USA,2005,Maize,Production,Tonnes,282262351.039424
+USA,2005,Sorghum,Area Seeded,Hectares,2611843.444
+USA,2005,Sorghum,Area Harvested,Hectares,2321278.896
+USA,2005,Sorghum,Yield,kg/ha,4300
+USA,2005,Sorghum,Production,Tonnes,9976023.035328
+USA,2005,Barley,Area Seeded,Hectares,1568158.25
+USA,2005,Barley,Area Harvested,Hectares,1322918.534
+USA,2005,Barley,Yield,kg/ha,3486
+USA,2005,Barley,Production,Tonnes,4613487.860736
+USA,2005,Oats,Area Seeded,Hectares,1718296.756
+USA,2005,Oats,Area Harvested,Hectares,737742.578
+USA,2005,Oats,Yield,kg/ha,2401
+USA,2005,Oats,Production,Tonnes,1771370.199952
+USA,2006,Wheat,Area Seeded,Hectares,23202267.124
+USA,2006,Wheat,Area Harvested,Hectares,18939304.8
+USA,2006,Wheat,Yield,kg/ha,2599
+USA,2006,Wheat,Production,Tonnes,49216981.81632
+USA,2006,Maize,Area Seeded,Hectares,31697840.322
+USA,2006,Maize,Area Harvested,Hectares,28586209.668
+USA,2006,Maize,Yield,kg/ha,9359
+USA,2006,Maize,Production,Tonnes,267502656.053696
+USA,2006,Sorghum,Area Seeded,Hectares,2639362.092
+USA,2006,Sorghum,Area Harvested,Hectares,1997934.782
+USA,2006,Sorghum,Yield,kg/ha,3521
+USA,2006,Sorghum,Production,Tonnes,7031648.501248
+USA,2006,Barley,Area Seeded,Hectares,1396976.072
+USA,2006,Barley,Area Harvested,Hectares,1194228.386
+USA,2006,Barley,Yield,kg/ha,3287
+USA,2006,Barley,Production,Tonnes,3922627.32864
+USA,2006,Oats,Area Seeded,Hectares,1685921.876
+USA,2006,Oats,Area Harvested,Hectares,632928.904
+USA,2006,Oats,Yield,kg/ha,2279
+USA,2006,Oats,Production,Tonnes,1442308.254816
+USA,2007,Wheat,Area Seeded,Hectares,24467315.56
+USA,2007,Wheat,Area Harvested,Hectares,20638581.314
+USA,2007,Wheat,Yield,kg/ha,2705
+USA,2007,Wheat,Production,Tonnes,55821426.48576
+USA,2007,Maize,Area Seeded,Hectares,37849067.522
+USA,2007,Maize,Area Harvested,Hectares,35013432.72
+USA,2007,Maize,Yield,kg/ha,9459
+USA,2007,Maize,Production,Tonnes,331177044.632
+USA,2007,Sorghum,Area Seeded,Hectares,3120938.432
+USA,2007,Sorghum,Area Harvested,Hectares,2748627.312
+USA,2007,Sorghum,Yield,kg/ha,4595
+USA,2007,Sorghum,Production,Tonnes,12635676.05664
+USA,2007,Barley,Area Seeded,Hectares,1626028.348
+USA,2007,Barley,Area Harvested,Hectares,1417210.372
+USA,2007,Barley,Yield,kg/ha,3228
+USA,2007,Barley,Production,Tonnes,4574602.32576
+USA,2007,Oats,Area Seeded,Hectares,1522833.418
+USA,2007,Oats,Area Harvested,Hectares,608647.744
+USA,2007,Oats,Yield,kg/ha,2290
+USA,2007,Oats,Production,Tonnes,1394623.03504
+USA,2008,Wheat,Area Seeded,Hectares,25744909.262
+USA,2008,Wheat,Area Harvested,Hectares,22676984.696
+USA,2008,Wheat,Yield,kg/ha,3015
+USA,2008,Wheat,Production,Tonnes,68362555.82592
+USA,2008,Maize,Area Seeded,Hectares,34795711.652
+USA,2008,Maize,Area Harvested,Hectares,31796179.02
+USA,2008,Maize,Yield,kg/ha,9622
+USA,2008,Maize,Production,Tonnes,305911229.969856
+USA,2008,Sorghum,Area Seeded,Hectares,3400981.144
+USA,2008,Sorghum,Area Harvested,Hectares,2959064.032
+USA,2008,Sorghum,Yield,kg/ha,4086
+USA,2008,Sorghum,Production,Tonnes,12087265.18496
+USA,2008,Barley,Area Seeded,Hectares,1715463.954
+USA,2008,Barley,Area Harvested,Hectares,1527689.65
+USA,2008,Barley,Yield,kg/ha,3406
+USA,2008,Barley,Production,Tonnes,5205175.037952
+USA,2008,Oats,Area Seeded,Hectares,1319276.36
+USA,2008,Oats,Area Harvested,Hectares,572226.004
+USA,2008,Oats,Yield,kg/ha,2428
+USA,2008,Oats,Production,Tonnes,1388778.048528
+USA,2009,Wheat,Area Seeded,Hectares,23883353.662
+USA,2009,Wheat,Area Harvested,Hectares,20169954.926
+USA,2009,Wheat,Yield,kg/ha,2981
+USA,2009,Wheat,Production,Tonnes,60116852.00736
+USA,2009,Maize,Area Seeded,Hectares,34957586.052
+USA,2009,Maize,Area Harvested,Hectares,32168490.14
+USA,2009,Maize,Yield,kg/ha,10319
+USA,2009,Maize,Production,Tonnes,331920815.763712
+USA,2009,Sorghum,Area Seeded,Hectares,2670522.914
+USA,2009,Sorghum,Area Harvested,Hectares,2226582.372
+USA,2009,Sorghum,Yield,kg/ha,4356
+USA,2009,Sorghum,Production,Tonnes,9693206.60896
+USA,2009,Barley,Area Seeded,Hectares,1443919.648
+USA,2009,Barley,Area Harvested,Hectares,1260192.204
+USA,2009,Barley,Yield,kg/ha,3917
+USA,2009,Barley,Production,Tonnes,4933694.782848
+USA,2009,Oats,Area Seeded,Hectares,1355293.414
+USA,2009,Oats,Area Harvested,Hectares,542279.24
+USA,2009,Oats,Yield,kg/ha,2588
+USA,2009,Oats,Production,Tonnes,1404076.799504
+USA,2010,Wheat,Area Seeded,Hectares,21294577.32
+USA,2010,Wheat,Area Harvested,Hectares,18972893.738
+USA,2010,Wheat,Yield,kg/ha,3103
+USA,2010,Wheat,Production,Tonnes,58867795.71696
+USA,2010,Maize,Area Seeded,Hectares,35690067.712
+USA,2010,Maize,Area Harvested,Hectares,32960055.956
+USA,2010,Maize,Yield,kg/ha,9578
+USA,2010,Maize,Production,Tonnes,315617695.98016
+USA,2010,Sorghum,Area Seeded,Hectares,2172759.134
+USA,2010,Sorghum,Area Harvested,Hectares,1944920.916
+USA,2010,Sorghum,Yield,kg/ha,4513
+USA,2010,Sorghum,Production,Tonnes,8775183.574528
+USA,2010,Barley,Area Seeded,Hectares,1162258.192
+USA,2010,Barley,Area Harvested,Hectares,997550.99
+USA,2010,Barley,Yield,kg/ha,3933
+USA,2010,Barley,Production,Tonnes,3924282.032256
+USA,2010,Oats,Area Seeded,Hectares,1259787.518
+USA,2010,Oats,Area Harvested,Hectares,512737.162
+USA,2010,Oats,Yield,kg/ha,2462
+USA,2010,Oats,Production,Tonnes,1262393.709568
+USA,2011,Wheat,Area Seeded,Hectares,21965142.022
+USA,2011,Wheat,Area Harvested,Hectares,18488889.282
+USA,2011,Wheat,Yield,kg/ha,2934
+USA,2011,Wheat,Production,Tonnes,54243552.28272
+USA,2011,Maize,Area Seeded,Hectares,37205212.096
+USA,2011,Maize,Area Harvested,Hectares,33944656.994
+USA,2011,Maize,Yield,kg/ha,9214
+USA,2011,Maize,Production,Tonnes,312788668.077312
+USA,2011,Sorghum,Area Seeded,Hectares,2205943.386
+USA,2011,Sorghum,Area Harvested,Hectares,1596486.27
+USA,2011,Sorghum,Yield,kg/ha,3389
+USA,2011,Sorghum,Production,Tonnes,5410267.567936
+USA,2011,Barley,Area Seeded,Hectares,1037614.904
+USA,2011,Barley,Area Harvested,Hectares,906901.326
+USA,2011,Barley,Yield,kg/ha,3718
+USA,2011,Barley,Production,Tonnes,3370108.727808
+USA,2011,Oats,Area Seeded,Hectares,950607.414
+USA,2011,Oats,Area Harvested,Hectares,354100.25
+USA,2011,Oats,Yield,kg/ha,2184
+USA,2011,Oats,Production,Tonnes,773049.588128
+USA,2012,Wheat,Area Seeded,Hectares,22376707.684
+USA,2012,Wheat,Area Harvested,Hectares,19731679.988
+USA,2012,Wheat,Yield,kg/ha,3107
+USA,2012,Wheat,Production,Tonnes,61297706.20464
+USA,2012,Maize,Area Seeded,Hectares,39372305.626
+USA,2012,Maize,Area Harvested,Hectares,35355392.39
+USA,2012,Maize,Yield,kg/ha,7727
+USA,2012,Maize,Production,Tonnes,273192209.287872
+USA,2012,Sorghum,Area Seeded,Hectares,2532929.674
+USA,2012,Sorghum,Area Harvested,Hectares,2021406.57
+USA,2012,Sorghum,Yield,kg/ha,3113
+USA,2012,Sorghum,Production,Tonnes,6292932.198784
+USA,2012,Barley,Area Seeded,Hectares,1481150.76
+USA,2012,Barley,Area Harvested,Hectares,1324941.964
+USA,2012,Barley,Yield,kg/ha,3599
+USA,2012,Barley,Production,Tonnes,4767941.37984
+USA,2012,Oats,Area Seeded,Hectares,1092652.2
+USA,2012,Oats,Area Harvested,Hectares,406709.43
+USA,2012,Oats,Yield,kg/ha,2332
+USA,2012,Oats,Production,Tonnes,948244.962208
+USA,2013,Wheat,Area Seeded,Hectares,22757921.896
+USA,2013,Wheat,Area Harvested,Hectares,18345225.752
+USA,2013,Wheat,Yield,kg/ha,3167
+USA,2013,Wheat,Production,Tonnes,58104563.67408
+USA,2013,Maize,Area Seeded,Hectares,38592880.39
+USA,2013,Maize,Area Harvested,Hectares,35390195.386
+USA,2013,Maize,Yield,kg/ha,9924
+USA,2013,Maize,Production,Tonnes,351271616.566528
+USA,2013,Sorghum,Area Seeded,Hectares,3268244.136
+USA,2013,Sorghum,Area Harvested,Hectares,2664857.31
+USA,2013,Sorghum,Yield,kg/ha,3741
+USA,2013,Sorghum,Production,Tonnes,9965659.365312
+USA,2013,Barley,Area Seeded,Hectares,1427732.208
+USA,2013,Barley,Area Harvested,Hectares,1230245.44
+USA,2013,Barley,Yield,kg/ha,3836
+USA,2013,Barley,Production,Tonnes,4719062.30592
+USA,2013,Oats,Area Seeded,Hectares,1205964.28
+USA,2013,Oats,Area Harvested,Hectares,408328.174
+USA,2013,Oats,Yield,kg/ha,2443
+USA,2013,Oats,Production,Tonnes,996917.198176
+USA,2014,Wheat,Area Seeded,Hectares,23002756.926
+USA,2014,Wheat,Area Harvested,Hectares,18771360.11
+USA,2014,Wheat,Yield,kg/ha,2938
+USA,2014,Wheat,Production,Tonnes,55147080.3312
+USA,2014,Maize,Area Seeded,Hectares,36663337.542
+USA,2014,Maize,Area Harvested,Hectares,33643975.296
+USA,2014,Maize,Yield,kg/ha,10733
+USA,2014,Maize,Production,Tonnes,361090889.092864
+USA,2014,Sorghum,Area Seeded,Hectares,2888648.668
+USA,2014,Sorghum,Area Harvested,Hectares,2590395.086
+USA,2014,Sorghum,Yield,kg/ha,4243
+USA,2014,Sorghum,Production,Tonnes,10987903.3264
+USA,2014,Barley,Area Seeded,Hectares,1226603.266
+USA,2014,Barley,Area Harvested,Hectares,1010500.942
+USA,2014,Barley,Yield,kg/ha,3911
+USA,2014,Barley,Production,Tonnes,3952607.945472
+USA,2014,Oats,Area Seeded,Hectares,1114100.558
+USA,2014,Oats,Area Harvested,Hectares,418850.01
+USA,2014,Oats,Yield,kg/ha,2588
+USA,2014,Oats,Production,Tonnes,1083126.893696
+USA,2015,Wheat,Area Seeded,Hectares,22257325.314
+USA,2015,Wheat,Area Harvested,Hectares,19148932.148
+USA,2015,Wheat,Yield,kg/ha,2931
+USA,2015,Wheat,Production,Tonnes,56116742.09328
+USA,2015,Maize,Area Seeded,Hectares,35620057.034
+USA,2015,Maize,Area Harvested,Hectares,32679608.558
+USA,2015,Maize,Yield,kg/ha,10570
+USA,2015,Maize,Production,Tonnes,345505555.062528
+USA,2015,Sorghum,Area Seeded,Hectares,3423238.874
+USA,2015,Sorghum,Area Harvested,Hectares,3177189.786
+USA,2015,Sorghum,Yield,kg/ha,4770
+USA,2015,Sorghum,Production,Tonnes,15158162.857152
+USA,2015,Barley,Area Seeded,Hectares,1466177.378
+USA,2015,Barley,Area Harvested,Hectares,1277998.388
+USA,2015,Barley,Yield,kg/ha,3718
+USA,2015,Barley,Production,Tonnes,4750458.129792
+USA,2015,Oats,Area Seeded,Hectares,1249670.368
+USA,2015,Oats,Area Harvested,Hectares,516379.336
+USA,2015,Oats,Yield,kg/ha,2675
+USA,2015,Oats,Production,Tonnes,1380820.23048
+USA,2016,Wheat,Area Seeded,Hectares,20282457.634
+USA,2016,Wheat,Area Harvested,Hectares,17745481.1
+USA,2016,Wheat,Yield,kg/ha,3541
+USA,2016,Wheat,Production,Tonnes,62833096.98096
+USA,2016,Maize,Area Seeded,Hectares,38042102.744
+USA,2016,Maize,Area Harvested,Hectares,35105701.128
+USA,2016,Maize,Yield,kg/ha,10961
+USA,2016,Maize,Production,Tonnes,384777615.739776
+USA,2016,Sorghum,Area Seeded,Hectares,2707349.34
+USA,2016,Sorghum,Area Harvested,Hectares,2494079.818
+USA,2016,Sorghum,Yield,kg/ha,4891
+USA,2016,Sorghum,Production,Tonnes,12199182.660672
+USA,2016,Barley,Area Seeded,Hectares,1237934.474
+USA,2016,Barley,Area Harvested,Hectares,1038019.59
+USA,2016,Barley,Yield,kg/ha,4193
+USA,2016,Barley,Production,Tonnes,4352610.772224
+USA,2016,Oats,Area Seeded,Hectares,1144856.694
+USA,2016,Oats,Area Harvested,Hectares,396996.966
+USA,2016,Oats,Yield,kg/ha,2516
+USA,2016,Oats,Production,Tonnes,998891.23056
+USA,2017,Wheat,Area Seeded,Hectares,18620412.232
+USA,2017,Wheat,Area Harvested,Hectares,15210527.996
+USA,2017,Wheat,Yield,kg/ha,3114
+USA,2017,Wheat,Production,Tonnes,47370844.23264
+USA,2017,Maize,Area Seeded,Hectares,36595350.294
+USA,2017,Maize,Area Harvested,Hectares,33637095.634
+USA,2017,Maize,Yield,kg/ha,10784
+USA,2017,Maize,Production,Tonnes,362731295.489024
+USA,2017,Sorghum,Area Seeded,Hectares,2310352.374
+USA,2017,Sorghum,Area Harvested,Hectares,2043259.614
+USA,2017,Sorghum,Yield,kg/ha,4531
+USA,2017,Sorghum,Production,Tonnes,9257729.259072
+USA,2017,Barley,Area Seeded,Hectares,1004025.966
+USA,2017,Barley,Area Harvested,Hectares,790756.444
+USA,2017,Barley,Yield,kg/ha,3908
+USA,2017,Barley,Production,Tonnes,3090006.595968
+USA,2017,Oats,Area Seeded,Hectares,1047327.368
+USA,2017,Oats,Area Harvested,Hectares,324153.486
+USA,2017,Oats,Yield,kg/ha,2350
+USA,2017,Oats,Production,Tonnes,761714.324048

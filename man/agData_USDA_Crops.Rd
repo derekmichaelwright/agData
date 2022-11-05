@@ -3,7 +3,7 @@
 \docType{data}
 \name{agData_USDA_Crops}
 \alias{agData_USDA_Crops}
-\title{USDA Crop Data}
+\title{USDA Crop data}
 \source{
 https://www.nass.usda.gov/
 }
@@ -15,20 +15,9 @@ A dataset from the USDA on crop production.
 \itemize{
   \item Area
   \item Year
-  \item Crop
   \item Measurement
   \item Unit
   \item Value
-}
-}
-
-\section{Measurement (Unit)}{
-
-\itemize{
-  \item Production     (Tonnes)
-  \item Area Seeded    (Hectares)
-  \item Area Harvested (Hectares)
-  \item Yield          (kg/ha)
 }
 }
 

@@ -61,6 +61,12 @@ ggsave("man/figures/agData_Colors.png", mp, width = 9, height = 9)
 
 ## STATCAN
 
+<form action="https://www.dblogr.com/cv" method="get" target="_blank">
+<button type="submit">
+<i class="fa fa-laptop"></i> HTML
+</button>
+</form>
+
 <br>
 
 <a href="Data/agData_STATCAN_Crops.csv">
