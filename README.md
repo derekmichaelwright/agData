@@ -23,13 +23,14 @@ library(agData)
 
 # Data Sources
 
--   `FAO` Food and Agriculture Organization of the United Nations
-    [fao.org/faostat/](www.fao.org/faostat/)
--   `STATCAN` Statistics Canada [statcan.gc.ca/](www.statcan.gc.ca/)
--   `USDA` United States Department of Agriculture
-    [usda.gov/](www.usda.gov/)
--   `ISAAA` International Service for the Acquisition of Agri-biotech
-    Applications [isaaa.org/](www.isaaa.org/)
+- `FAO` Food and Agriculture Organization of the United Nations
+  [www.fao.org/faostat/](https://www.fao.org/faostat/)
+- `STATCAN` Statistics Canada
+  [www.statcan.gc.ca/](https://www.statcan.gc.ca/)
+- `USDA` United States Department of Agriculture
+  [www.nass.usda.gov/](https://www.nass.usda.gov/)
+- `ISAAA` International Service for the Acquisition of Agri-biotech
+  Applications [www.isaaa.org/](https://www.isaaa.org/)
 
 ------------------------------------------------------------------------
 
@@ -119,6 +120,12 @@ ggsave("man/figures/agData_Colors.png", mp, width = 9, height = 9)
 
 <a href="Data/agData_STATCAN_FarmLand_Use.csv">
 <button class="btn btn-success"><i class="fa fa-save"></i> agData_STATCAN_FarmLand_Use.csv</button>
+</a>
+
+<br>
+
+<a href="Data/agData_STATCAN_FarmReceipts.csv">
+<button class="btn btn-success"><i class="fa fa-save"></i> agData_STATCAN_FarmReceipts.csv</button>
 </a>
 
 <br>

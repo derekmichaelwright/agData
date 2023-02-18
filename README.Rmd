@@ -195,6 +195,19 @@ downloadthis::download_link(
 
 ```{r echo = F}
 downloadthis::download_link(
+  link = "Data/agData_STATCAN_FarmReceipts.csv",
+  button_label = "agData_STATCAN_FarmReceipts.csv",
+  button_type = "success",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = F
+)
+```
+
+<br>
+
+```{r echo = F}
+downloadthis::download_link(
   link = "Data/agData_STATCAN_Farmers.csv",
   button_label = "agData_STATCAN_Farmers.csv",
   button_type = "success",

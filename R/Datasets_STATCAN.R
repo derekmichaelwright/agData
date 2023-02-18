@@ -266,6 +266,23 @@ NULL
 #' @keywords datasets
 #' @name agData_STATCAN_FarmLand_Use
 NULL
+#' Statistics Canada Farm Receipt Data
+#'
+#' A dataset from Statistics Canada on farm receipts.
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Animal
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' @section Table: 32-10-0046-01
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210004601
+#' @docType data
+#' @keywords datasets
+#' @name agData_STATCAN_FarmReceipts
+NULL
 #' Statistics Canada Livestock Data
 #'
 #' A dataset from Statistics Canada on livestock production.
