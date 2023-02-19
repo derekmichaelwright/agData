@@ -273,12 +273,12 @@ NULL
 #' \itemize{
 #'   \item Area
 #'   \item Year
-#'   \item Animal
-#'   \item Measurement
+#'   \item Date
+#'   \item Item
 #'   \item Unit
 #'   \item Value
-#' @section Table: 32-10-0046-01
-#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210004601
+#' @section Table: 32-10-0045-01
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210004501
 #' @docType data
 #' @keywords datasets
 #' @name agData_STATCAN_FarmReceipts

@@ -5,17 +5,17 @@
 \alias{agData_STATCAN_FarmReceipts}
 \title{Statistics Canada Farm Receipt Data}
 \source{
-https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210004601
+https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210004501
 }
 \description{
 A dataset from Statistics Canada on farm receipts.
 }
 \section{NA}{
- 32-10-0046-01
+ 32-10-0045-01
 }
 
 \section{Table}{
- 32-10-0046-01
+ 32-10-0045-01
 }
 
 \keyword{datasets}
