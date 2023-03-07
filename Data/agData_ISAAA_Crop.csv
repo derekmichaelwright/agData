@@ -158,6 +158,14 @@ Year,Crop,Measurement,Unit,Value
 2017,Sugar beet,Area,Hectares,5e+05
 2017,Papaya,Area,Hectares,1e+06
 2017,Others,Area,Hectares,1e+06
+2018,Soybean,Area,Hectares,95900000
+2018,Maize,Area,Hectares,58900000
+2018,Cotton,Area,Hectares,24900000
+2018,Canola,Area,Hectares,10100000
+2018,Alfalfa,Area,Hectares,1300000
+2018,Sugar beet,Area,Hectares,5e+05
+2018,Papaya,Area,Hectares,1e+06
+2018,Others,Area,Hectares,1e+06
 1996,Soybean,Percent of GE Area,Percent,18
 1996,Maize,Percent of GE Area,Percent,10
 1996,Tabacco,Percent of GE Area,Percent,35
@@ -317,6 +325,14 @@ Year,Crop,Measurement,Unit,Value
 2017,Sugar beet,Percent of GE Area,Percent,1
 2017,Papaya,Percent of GE Area,Percent,1
 2017,Others,Percent of GE Area,Percent,1
+2018,Soybean,Percent of GE Area,Percent,50
+2018,Maize,Percent of GE Area,Percent,31
+2018,Cotton,Percent of GE Area,Percent,13
+2018,Canola,Percent of GE Area,Percent,5
+2018,Alfalfa,Percent of GE Area,Percent,1
+2018,Sugar beet,Percent of GE Area,Percent,1
+2018,Papaya,Percent of GE Area,Percent,1
+2018,Others,Percent of GE Area,Percent,1
 1996,Soybean,Area Change,Hectares,5e+05
 1996,Maize,Area Change,Hectares,3e+05
 1996,Tabacco,Area Change,Hectares,1e+06
@@ -467,6 +483,14 @@ Year,Crop,Measurement,Unit,Value
 2017,Sugar beet,Area Change,Hectares,0
 2017,Papaya,Area Change,Hectares,0
 2017,Others,Area Change,Hectares,0
+2018,Soybean,Area Change,Hectares,1800000
+2018,Maize,Area Change,Hectares,-8e+05
+2018,Cotton,Area Change,Hectares,8e+05
+2018,Canola,Area Change,Hectares,-1e+05
+2018,Alfalfa,Area Change,Hectares,1e+05
+2018,Sugar beet,Area Change,Hectares,0
+2018,Papaya,Area Change,Hectares,1e+06
+2018,Others,Area Change,Hectares,1e+06
 1997,Soybean,Percent Change,Percent,1000
 1997,Maize,Percent Change,Percent,1100
 1997,Tabacco,Percent Change,Percent,160
@@ -613,3 +637,11 @@ Year,Crop,Measurement,Unit,Value
 2017,Sugar beet,Percent Change,Percent,0
 2017,Papaya,Percent Change,Percent,0
 2017,Others,Percent Change,Percent,0
+2018,Soybean,Percent Change,Percent,2
+2018,Maize,Percent Change,Percent,-1
+2018,Cotton,Percent Change,Percent,3
+2018,Canola,Percent Change,Percent,-1
+2018,Alfalfa,Percent Change,Percent,5
+2018,Sugar beet,Percent Change,Percent,1
+2018,Papaya,Percent Change,Percent,1
+2018,Others,Percent Change,Percent,1
