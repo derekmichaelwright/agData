@@ -58,12 +58,12 @@ Curaçao,CW,CUW,NA,NA,Americas,Caribbean,Developing,Curaçao
 Cyprus,CY,CYP,34.91666932,33.00600358,Asia,Western Asia,Developing,Cyprus
 Czech Republic,CZ,CZE,49.69,15.6,Europe,Eastern Europe,Developed,Czechia
 Czechoslovakia,CZ,CZE,49.3,17.36,Europe,Eastern Europe,Developed,Czechoslovakia
+DR Congo,CD,COD,NA,NA,Africa,Middle Africa,Developing,the Democratic Republic of the Congo
 Democratic Yemen,YE,YEM,15.57,47.39,Asia,Western Asia,Developing,Democratic Yemen
 Denmark,DK,DNK,55.98126391,10.02799418,Europe,Northern Europe,Developed,Denmark
 Djibouti,DJ,DJI,11.74872052,42.56067681,Africa,Eastern Africa,Developing,Djibouti
 Dominica,DM,DMA,15.43947211,-61.35773122,Americas,Caribbean,Developing,Dominica
 Dominican Republic,DO,DOM,NA,NA,Americas,Caribbean,Developing,the Dominican Republic
-DR Congo,CD,COD,NA,NA,Africa,Middle Africa,Developing,the Democratic Republic of the Congo
 Ecuador,EC,ECU,-1.42381949,-78.75203573,Americas,South America,Developing,Ecuador
 Egypt,EG,EGY,26.49593108,29.8618993,Africa,Northern Africa,Developing,Egypt
 El Salvador,SV,SLV,13.73944008,-88.87164456,Americas,Central America,Developing,El Salvador
@@ -182,17 +182,17 @@ Qatar,QA,QAT,25.30600936,51.18478512,Asia,Western Asia,Developing,Qatar
 Republic of Korea,KR,KOR,38.14,127.13,Asia,Eastern Asia,Developing,Republic of Korea
 Republic of Macedonia,MK,MKD,41.59531059,21.68211343,Europe,South Europe,Developed,Macedonia
 Republic of Moldova,MD,MDA,47.32,28.58,Europe,Eastern Europe,Developed,Republic of Moldova
-Réunion,RE,REU,NA,NA,Africa,Eastern Africa,Developing,Réunion
 Romania,RO,ROU,45.85242939,24.97293286,Europe,Eastern Europe,Developed,Romania
 Russia,RU,RUS,58.9,51.31,Europe,Eastern Europe,Developed,Russian Federation
 Rwanda,RW,RWA,-1.99033199,29.91989113,Africa,Eastern Africa,Developing,Rwanda
-Saint-Martin (French Part),MF,MAF,NA,NA,Americas,Caribbean,Developing,Saint-Martin (French Part)
+Réunion,RE,REU,NA,NA,Africa,Eastern Africa,Developing,Réunion
 Saint Barthélemy,BL,BLM,NA,NA,Americas,Caribbean,Developing,Saint Barthélemy
 Saint Helena, Ascension and Tristan da Cunha,SH,SHN,-15.97,-5.71,Africa,Western Africa,Developing,Saint Helena, Ascension and Tristan da Cunha
 Saint Kitts and Nevis,KN,KNA,17.26458594,-62.68754242,Americas,Caribbean,Developing,Saint Kitts and Nevis
 Saint Lucia,LC,LCA,13.8947837,-60.96969329,Americas,Caribbean,Developing,Saint Lucia
 Saint Pierre and Miquelon,PM,SPM,46.91919986,-56.30319339,Americas,Northern America,Developed,Saint Pierre and Miquelon
 Saint Vincent and the Grenadines,VC,VCT,13.22471841,-61.20129438,Americas,Caribbean,Developing,Saint Vincent and the Grenadines
+Saint-Martin (French Part),MF,MAF,NA,NA,Americas,Caribbean,Developing,Saint-Martin (French Part)
 Samoa,WS,WSM,-13.75327339,-172.16481475,Oceania,Polynesia,Developing,Samoa
 San Marino,SM,SMR,43.94186939,12.45923029,Europe,Southern Europe,Developed,San Marino
 Sao Tome and Principe,ST,STP,0.44390851,6.72429635,Africa,Middle Africa,Developing,Sao Tome and Principe
@@ -235,14 +235,14 @@ Turkey,TR,TUR,39.06160342,35.16895529,Asia,Western Asia,Developing,Turkey
 Turkmenistan,TM,TKM,39.11554017,59.37099935,Asia,Central Asia,Developing,Turkmenistan
 Turks and Caicos Islands,TC,TCA,21.83047424,-71.97385725,Americas,Caribbean,Developing,Turks and Caicos Islands
 Tuvalu,TV,TUV,-7.76005828,178.51989487,Oceania,Polynesia,Developing,Tuvalu
+USA,US,USA,39,-101.5,Americas,Northern America,Developed,the United States of America
+USSR,RU,RUS,51.84,43.65,Europe,Eastern Europe,Developed,USSR
 Uganda,UG,UGA,1.27469024,32.36907536,Africa,Eastern Africa,Developing,Uganda
 Ukraine,UA,UKR,48.99656784,31.38325794,Europe,Eastern Europe,Developed,Ukraine
 United Arab Emirates,AE,ARE,NA,NA,Asia,Western Asia,Developing,the United Arab Emirates
 United Kingdom,GB,GBR,54.12387156,-2.86563362,Europe,Northern Europe,Developed,United Kingdom
 United States Virgin Islands,VI,VIR,17.95501398,-64.80300497,Americas,Caribbean,Developing,United States Virgin Islands
 Uruguay,UY,URY,-32.79951982,-56.01806795,Americas,South America,Developing,Uruguay
-USA,US,USA,39,-101.5,Americas,Northern America,Developed,the United States of America
-USSR,RU,RUS,51.84,43.65,Europe,Eastern Europe,Developed,USSR
 Uzbekistan,UZ,UZB,41.75554081,63.14001799,Asia,Central Asia,Developing,Uzbekistan
 Vanuatu,VU,VUT,-16.22630588,167.68636735,Oceania,Melanesia,Developing,Vanuatu
 Venezuela,VE,VEN,8.34,-66.15,Americas,South America,Developing,Venezuela (Bolivarian Republic of)
