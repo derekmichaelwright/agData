@@ -3,6 +3,10 @@ agData R Package
 
 `agData`: an `R` package containing various agricultural data sets
 
+![](man/figures/hex_agData.png)
+
+------------------------------------------------------------------------
+
 # Installation
 
 ``` r
@@ -13,13 +17,13 @@ devtools::install_github("derekmichaelwright/agData")
 library(agData)
 ```
 
-![](man/figures/hex_agData.png)
+------------------------------------------------------------------------
 
 # Vignettes
 
-<a href="https://dblogr.com/#agdata">
-<button class="btn btn-success"><i class="fas fa-chart-line"></i> agData vignettes</button>
-</a>
+<https://dblogr.com/#agdata>
+
+------------------------------------------------------------------------
 
 # Data Sources
 
@@ -34,39 +38,9 @@ library(agData)
 
 ------------------------------------------------------------------------
 
-# agData_Colors
-
-![](man/figures/agData_Colors.png)
-
-``` r
-# Prep data
-xx <- data.frame(
-  Color = factor(agData_Colors, levels = agData_Colors),
-  Number = 1:length(agData_Colors),
-  Row = rep(1:10, each = 10, length.out = length(agData_Colors)),
-  Col = rep(1:10, times = 10, length.out = length(agData_Colors)) )
-# Plot
-mp <- ggplot(xx, aes(x = Row, y = Col)) +
-  geom_tile(aes(fill = Color)) +
-  geom_label(aes(label = paste(Number, Color, sep = " - "))) +
-  scale_fill_manual(values = agData_Colors) +
-  scale_y_reverse() +
-  theme_void() +
-  theme(legend.position = "none")
-ggsave("man/figures/agData_Colors.png", mp, width = 9, height = 9)
-```
-
-------------------------------------------------------------------------
-
 # Data sets
 
 ## STATCAN
-
-<form action="https://www.dblogr.com/cv" method="get" target="_blank">
-<button type="submit">
-<i class="fa fa-laptop"></i> HTML
-</button>
-</form>
 
 <br>
 
@@ -323,6 +297,32 @@ ggsave("man/figures/agData_Colors.png", mp, width = 9, height = 9)
 <a href="Data/agData_UK_Yields.csv">
 <button class="btn btn-success"><i class="fa fa-save"></i> agData_UK_Yields.csv</button>
 </a>
+
+------------------------------------------------------------------------
+
+# agData_Colors
+
+`agData_Colors`: a color pallete for the `agData` package
+
+![](man/figures/agData_Colors.png)
+
+``` r
+# Prep data
+xx <- data.frame(
+  Color = factor(agData_Colors, levels = agData_Colors),
+  Number = 1:length(agData_Colors),
+  Row = rep(1:10, each = 10, length.out = length(agData_Colors)),
+  Col = rep(1:10, times = 10, length.out = length(agData_Colors)) )
+# Plot
+mp <- ggplot(xx, aes(x = Row, y = Col)) +
+  geom_tile(aes(fill = Color)) +
+  geom_label(aes(label = paste(Number, Color, sep = " - "))) +
+  scale_fill_manual(values = agData_Colors) +
+  scale_y_reverse() +
+  theme_void() +
+  theme(legend.position = "none")
+ggsave("man/figures/agData_Colors.png", mp, width = 9, height = 9)
+```
 
 ------------------------------------------------------------------------
 

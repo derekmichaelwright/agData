@@ -10,6 +10,10 @@ knitr::opts_chunk$set(echo = T, message = F, warning = F)
 
 `agData`: an `R` package containing various agricultural data sets
 
+![](man/figures/hex_agData.png)
+
+---
+
 # Installation
 
 ```{r eval = F}
@@ -20,20 +24,13 @@ devtools::install_github("derekmichaelwright/agData")
 library(agData)
 ```
 
-![](man/figures/hex_agData.png)
+---
 
 # Vignettes
 
-```{r echo = F}
-downloadthis::download_link(
-  link = "https://dblogr.com/#agdata",
-  button_label = "agData vignettes",
-  button_type = "success",
-  has_icon = TRUE,
-  icon = "fas fa-chart-line",
-  self_contained = FALSE
-)
-```
+https://dblogr.com/#agdata
+
+---
 
 # Data Sources
 
@@ -44,35 +41,9 @@ downloadthis::download_link(
 
 ---
 
-# agData_Colors
-
-![](man/figures/agData_Colors.png)
-
-```{r}
-# Prep data
-xx <- data.frame(
-  Color = factor(agData_Colors, levels = agData_Colors),
-  Number = 1:length(agData_Colors),
-  Row = rep(1:10, each = 10, length.out = length(agData_Colors)),
-  Col = rep(1:10, times = 10, length.out = length(agData_Colors)) )
-# Plot
-mp <- ggplot(xx, aes(x = Row, y = Col)) +
-  geom_tile(aes(fill = Color)) +
-  geom_label(aes(label = paste(Number, Color, sep = " - "))) +
-  scale_fill_manual(values = agData_Colors) +
-  scale_y_reverse() +
-  theme_void() +
-  theme(legend.position = "none")
-ggsave("man/figures/agData_Colors.png", mp, width = 9, height = 9)
-```
-
----
-
 # Data sets
 
 ## STATCAN
-
-<form action="https://www.dblogr.com/cv" method="get" target="_blank"><button type="submit"><i class="fa fa-laptop"></i> HTML</button></form>
 
 <br>
 
@@ -608,6 +579,32 @@ downloadthis::download_link(
   icon = "fa fa-save",
   self_contained = F
 )
+```
+
+---
+
+# agData_Colors
+
+`agData_Colors`: a color pallete for the `agData` package
+
+![](man/figures/agData_Colors.png)
+
+```{r}
+# Prep data
+xx <- data.frame(
+  Color = factor(agData_Colors, levels = agData_Colors),
+  Number = 1:length(agData_Colors),
+  Row = rep(1:10, each = 10, length.out = length(agData_Colors)),
+  Col = rep(1:10, times = 10, length.out = length(agData_Colors)) )
+# Plot
+mp <- ggplot(xx, aes(x = Row, y = Col)) +
+  geom_tile(aes(fill = Color)) +
+  geom_label(aes(label = paste(Number, Color, sep = " - "))) +
+  scale_fill_manual(values = agData_Colors) +
+  scale_y_reverse() +
+  theme_void() +
+  theme(legend.position = "none")
+ggsave("man/figures/agData_Colors.png", mp, width = 9, height = 9)
 ```
 
 ---
