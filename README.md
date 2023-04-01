@@ -3,7 +3,7 @@ agData R Package
 
 `agData`: an `R` package containing various agricultural data sets
 
-![](man/figures/hex_agData.png)
+![](man/figures/logo_agData.png)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,8 @@ library(agData)
 
 # Vignettes
 
-<https://dblogr.com/#agdata>
+[agData
+Vignettes](https://derekmichaelwright.github.io/dblogr/home2#agdata)
 
 ------------------------------------------------------------------------
 
@@ -42,261 +43,66 @@ library(agData)
 
 ## STATCAN
 
-<br>
-
-<a href="Data/agData_STATCAN_Crops.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_STATCAN_Crops.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_STATCAN_Crops2.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_STATCAN_Crops2.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_STATCAN_Livestock.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_STATCAN_Livestock.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_STATCAN_Beehives.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_STATCAN_Beehives.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_STATCAN_FarmLand_Crops.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_STATCAN_FarmLand_Crops.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_STATCAN_FarmLand_Farms.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_STATCAN_FarmLand_Farms.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_STATCAN_FarmLand_Inputs.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_STATCAN_FarmLand_Inputs.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_STATCAN_FarmLand_Size.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_STATCAN_FarmLand_Size.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_STATCAN_FarmLand_Use.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_STATCAN_FarmLand_Use.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_STATCAN_FarmReceipts.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_STATCAN_FarmReceipts.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_STATCAN_Farmers.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_STATCAN_Farmers.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_STATCAN_Population.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_STATCAN_Population.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_STATCAN_Region_Table.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_STATCAN_Region_Table.csv</button>
-</a>
+- [agData_STATCAN_Crops.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Crops.csv)
+- [agData_STATCAN_Crops2.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Crops2.csv)
+- [agData_STATCAN_Livestock.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Livestock.csv)
+- [agData_STATCAN_Beehives.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Beehives.csv)
+- [agData_STATCAN_FarmLand_Crops.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_FarmLand_Crops.csv)
+- [agData_STATCAN_FarmLand_Farms.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_FarmLand_Farms.csv)
+- [agData_STATCAN_FarmLand_Inputs.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_FarmLand_Inputs.csv)
+- [agData_STATCAN_FarmLand_Size.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_FarmLand_Size.csv)
+- [agData_STATCAN_FarmLand_Use.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_FarmLand_Use.csv)
+- [agData_STATCAN_FarmReceipts.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_FarmReceipts.csv)
+- [agData_STATCAN_Farmers.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Farmers.csv)
+- [agData_STATCAN_Population.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Population.csv)
+- [agData_STATCAN_Region_Table.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Region_Table.csv)
 
 ------------------------------------------------------------------------
 
 ## FAO
 
-<br>
-
-<a href="Data/agData_FAO_Crops.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Crops.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_FAO_Crops2.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Crops2.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_FAO_Livestock.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Livestock.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_FAO_Trade_Quantity.csv.gz">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Trade_Quantity.csv.gz</button>
-</a>
-
-<br>
-
-<a href="Data/agData_FAO_Trade_Value.csv.gz">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Trade_Value.csv.gz</button>
-</a>
-
-<br>
-
-<a href="Data/agData_FAO_Fertilizers.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Fertilizers.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_FAO_LandUse.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_LandUse.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_FAO_Population.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Population.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_FAO_Producer_Prices.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Producer_Prices.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_FAO_Consumer_Prices.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Consumer_Prices.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_FAO_Region_Table.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Region_Table.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_FAO_Country_Table.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_FAO_Country_Table.csv</button>
-</a>
+- [agData_FAO_Crops.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Crops.csv)
+- [agData_FAO_Crops2.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Crops2.csv)
+- [agData_FAO_Livestock.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Livestock.csv)
+- [agData_FAO_Trade_Quantity.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Trade_Quantity.csv.gz)
+- [agData_FAO_Trade_Value.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Trade_Value.csv.gz)
+- [agData_FAO_Fertilizers.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Fertilizers.csv)
+- [agData_FAO_LandUse.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_LandUse.csv)
+- [agData_FAO_Population.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Population.csv)
+- [agData_FAO_Producer_Prices.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Producer_Prices.csv)
+- [agData_FAO_Consumer_Prices.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Consumer_Prices.csv)
+- [agData_FAO_Region_Table.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Region_Table.csv)
+- [agData_FAO_Country_Table.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Country_Table.csv)
 
 ------------------------------------------------------------------------
 
 ## USDA
 
-<br>
-
-<a href="Data/agData_USDA_Crops.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_USDA_Crops.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_USDA_GE_Crops.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_USDA_GE_Crops.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_USDA_TFP.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_USDA_TFP.csv</button>
-</a>
+- [agData_USDA_Crops.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_USDA_Crops.csv)
+- [agData_USDA_GE_Crops.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_USDA_GE_Crops.csv)
+- [agData_USDA_TFP.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_USDA_TFP.csv)
 
 ------------------------------------------------------------------------
 
 ## ISAAA
 
-<br>
-
-<a href="Data/agData_ISAAA_Crop.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_ISAAA_Crop.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_ISAAA_Area.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_ISAAA_Area.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_ISAAA_Coutnry.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_ISAAA_Country.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_ISAAA_CropPercent.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_ISAAA_CropPercent.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_ISAAA_DVDDVG.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_ISAAA_DVDDVG.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_ISAAA_Value.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_ISAAA_Value.csv</button>
-</a>
+- [agData_ISAAA_Crop.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_ISAAA_Crop.csv)
+- [agData_ISAAA_Area.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_ISAAA_Area.csv)
+- [agData_ISAAA_Coutnry.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_ISAAA_Coutnry.csv)
+- [agData_ISAAA_CropPercent.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_ISAAA_CropPercent.csv)
+- [agData_ISAAA_DVDDVG.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_ISAAA_DVDDVG.csv)
+- [agData_ISAAA_Value.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_ISAAA_Value.csv)
 
 ------------------------------------------------------------------------
 
 ## Other
 
-<br>
-
-<a href="Data/agData_Barulina.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_Barulina.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_LongTermMaize.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_LongTermMaize.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_MazieContest.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_MaizeContest.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_PeopleInAg.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_PeopleInAg.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_PopFert.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_PopFert.csv</button>
-</a>
-
-<br>
-
-<a href="Data/agData_UK_Yields.csv">
-<button class="btn btn-success"><i class="fa fa-save"></i> agData_UK_Yields.csv</button>
-</a>
+- [agData_Barulina.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_Barulina.csv)
+- [agData_LongTermMaize.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_LongTermMaize.csv)
+- [agData_MazieContest.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_MazieContest.csv)
+- [agData_PeopleInAg.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_PeopleInAg.csv)
+- [agData_PopFert.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_PopFert.csv)
+- [agData_UK_Yields.csv](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_UK_Yields.csv)
 
 ------------------------------------------------------------------------
 
@@ -326,4 +132,4 @@ ggsave("man/figures/agData_Colors.png", mp, width = 9, height = 9)
 
 ------------------------------------------------------------------------
 
-© Derek Michael Wright [www.dblogr.com/](https://dblogr.com/)
+© Derek Michael Wright
