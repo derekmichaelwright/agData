@@ -25,7 +25,7 @@ A dataset from Statistics Canada on farmer demographics.
   \item 55 years and over
   \item Average age of farm operators
   \item Operators with no paid non-farm work
-  \item Operators with paid non-farm work 
+  \item Operators with paid non-farm work
 }
 }
 

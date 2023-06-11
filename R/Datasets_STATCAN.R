@@ -136,7 +136,7 @@ NULL
 #'   \item 55 years and over
 #'   \item Average age of farm operators
 #'   \item Operators with no paid non-farm work
-#'   \item Operators with paid non-farm work 
+#'   \item Operators with paid non-farm work
 #' }
 #' @section Table: 32-10-0230-01
 #' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210023001
