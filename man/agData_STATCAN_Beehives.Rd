@@ -14,7 +14,7 @@ A dataset from Statistics Canada on honeybee production.
 
 \itemize{
   \item Area
-  \item Crop
+  \item Item
   \item Year
   \item Measurement
   \item Unit

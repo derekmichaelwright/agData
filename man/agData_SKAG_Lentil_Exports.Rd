@@ -14,7 +14,7 @@ A dataset from SK AG for the top 20 Lentil export countries each year.
 
 \itemize{
   \item Year
-  \item Crop
+  \item Item
   \item Measurement
   \item Unit
   \item Value

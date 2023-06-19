@@ -15,7 +15,7 @@ Note: data is rounded to the nearest 100,000 hectares.
 
 \itemize{
   \item Year
-  \item Crop
+  \item Item
   \item Million.Hectares
   \item Percent
   \item plus_minus

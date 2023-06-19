@@ -13,7 +13,7 @@ A dataset for Maize Yield Contest.
 \section{Keys}{
 
 \itemize{
-  \item Crop
+  \item Item
   \item Year
   \item Measurement
   \item Unit

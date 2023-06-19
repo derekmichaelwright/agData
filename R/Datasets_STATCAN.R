@@ -5,7 +5,7 @@ NULL
 #' @section Keys:
 #' \itemize{
 #'   \item Year
-#'   \item Crop
+#'   \item Item
 #'   \item Measurement
 #'   \item Unit
 #'   \item Value
@@ -25,7 +25,7 @@ NULL
 #' @section Keys:
 #' \itemize{
 #'   \item Year
-#'   \item Crop
+#'   \item Item
 #'   \item Measurement
 #'   \item Unit
 #'   \item Value
@@ -48,7 +48,7 @@ NULL
 #' @section Keys:
 #' \itemize{
 #'   \item Area
-#'   \item Crop
+#'   \item Item
 #'   \item Year
 #'   \item Measurement
 #'   \item Unit
@@ -77,7 +77,7 @@ NULL
 #' \itemize{
 #'   \item Area
 #'   \item Year
-#'   \item Crop
+#'   \item Item
 #'   \item Measurement
 #'   \item Unit
 #'   \item Value
@@ -103,7 +103,7 @@ NULL
 #' \itemize{
 #'   \item Area
 #'   \item Year
-#'   \item Crop
+#'   \item Item
 #'   \item Measurement
 #'   \item Unit
 #'   \item Value
@@ -290,7 +290,7 @@ NULL
 #' \itemize{
 #'   \item Area
 #'   \item Year
-#'   \item Animal
+#'   \item Item
 #'   \item Measurement
 #'   \item Unit
 #'   \item Value

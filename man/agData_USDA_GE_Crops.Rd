@@ -15,7 +15,7 @@ A dataset from the USDA on GE crop production.
 \itemize{
   \item Area
   \item Year
-  \item Crop
+  \item Item
   \item Measurement
   \item Unit
   \item Value

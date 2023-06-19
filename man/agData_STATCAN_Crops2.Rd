@@ -15,7 +15,7 @@ A dataset from Statistics Canada on crop aggregate data.
 \itemize{
   \item Area
   \item Year
-  \item Crop
+  \item Item
   \item Measurement
   \item Unit
   \item Value

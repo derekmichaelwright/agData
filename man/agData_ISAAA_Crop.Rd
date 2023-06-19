@@ -14,7 +14,7 @@ A dataset from ISAAA for total GE crop area by Crop.
 
 \itemize{
   \item Year
-  \item Crop
+  \item Item
   \item Million.Hectares
   \item Percent
   \item plus_minus

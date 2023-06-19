@@ -14,7 +14,7 @@ A dataset from ISAAA for total GE crop area by Crop percent.
 
 \itemize{
   \item Year
-  \item Crop
+  \item Item
   \item Global.Area
   \item Transgenic.Crop.Area
   \item Percent.Transgenic

@@ -1,12 +1,12 @@
 NULL
 #' Lentil Barulina
-#' 
+#'
 #' A dataset for lentil production from Barulina's Monograph.
 #' @section Keys:
 #' \itemize{
 #'   \item Area
 #'   \item Year
-#'   \item Crop
+#'   \item Item
 #'   \item Measurement
 #'   \item Unit
 #'   \item Value
@@ -23,7 +23,7 @@ NULL
 #' @name agData_Barulina
 NULL
 #' ISAAA GE Crop Data
-#' 
+#'
 #' A dataset from ISAAA for total GE crop area.
 #' Note: this data set includes cultivation of GE tobacco in China for 1996 and 1997.
 #' @section Keys:
@@ -44,13 +44,13 @@ NULL
 #' @name agData_ISAAA_Area
 NULL
 #' ISAAA GE Country Data
-#' 
+#'
 #' A dataset from ISAAA for total GE crop area by Country.
 #' Note: data is rounded to the nearest 100,000 hectares.
 #' @section Keys:
 #' \itemize{
 #'   \item Year
-#'   \item Crop
+#'   \item Item
 #'   \item Million.Hectares
 #'   \item Percent
 #'   \item plus_minus
@@ -69,12 +69,12 @@ NULL
 #' @name agData_ISAAA_Country
 NULL
 #' ISAAA GE Crop Data
-#' 
+#'
 #' A dataset from ISAAA for total GE crop area by Crop.
 #' @section Keys:
 #' \itemize{
 #'   \item Year
-#'   \item Crop
+#'   \item Item
 #'   \item Million.Hectares
 #'   \item Percent
 #'   \item plus_minus
@@ -93,12 +93,12 @@ NULL
 #' @name agData_ISAAA_Crop
 NULL
 #' ISAAA GE Crop Data
-#' 
+#'
 #' A dataset from ISAAA for total GE crop area by Crop percent.
 #' @section Keys:
 #' \itemize{
 #'   \item Year
-#'   \item Crop
+#'   \item Item
 #'   \item Global.Area
 #'   \item Transgenic.Crop.Area
 #'   \item Percent.Transgenic
@@ -114,7 +114,7 @@ NULL
 #' @name agData_ISAAA_CropPercent
 NULL
 #' ISAAA GE Crop Data
-#' 
+#'
 #' A dataset from ISAAA for total GE crop area in industrialized and devloping nations.
 #' Note: this data set includes cultivation of GE tobacco in China for 1996 and 1997.
 #' @section Keys:
@@ -135,7 +135,7 @@ NULL
 #' @name agData_ISAAA_DVDDVG
 NULL
 #' ISAAA GE Crop Data
-#' 
+#'
 #' A dataset from ISAAA for total value of GE crops.
 #' @section Keys:
 #' \itemize{
@@ -154,7 +154,7 @@ NULL
 #' @name agData_ISAAA_Value
 NULL
 #' Long Term Maize Selection
-#' 
+#'
 #' A dataset for Long Term Maize Selection Experiment.
 #' NOTES: This file contains years, generation numbers, ear numbers (from 1897-1921 ear numbers indicate
 #' the row (first two digits) and the ear within the row (last 3 digits); for other years the ears are numbered
@@ -179,11 +179,11 @@ NULL
 #' @name agData_LongTermMaize
 NULL
 #' Maize Contest
-#' 
+#'
 #' A dataset for Maize Yield Contest.
 #' @section Keys:
 #' \itemize{
-#'   \item Crop
+#'   \item Item
 #'   \item Year
 #'   \item Measurement
 #'   \item Unit
@@ -200,7 +200,7 @@ NULL
 #' @name agData_MaizeContest
 NULL
 #' People in Ag
-#' 
+#'
 #' A dataset from people in ag.
 #' @section Keys:
 #' \itemize{
@@ -221,7 +221,7 @@ NULL
 #' @name agData_PeopleInAg
 NULL
 #' Population with and without fertilizers
-#' 
+#'
 #' A dataset of global population with and without fertilizers.
 #' @section Keys:
 #' \itemize{
@@ -237,12 +237,12 @@ NULL
 #' @name agData_PopFert
 NULL
 #' Long term yield data for UK
-#' 
+#'
 #' A dataset of long term yield data in UK.
 #' @section Keys:
 #' \itemize{
 #'   \item Area
-#'   \item Crop
+#'   \item Item
 #'   \item Year
 #'   \item Measurement
 #'   \item Unit
@@ -254,13 +254,13 @@ NULL
 #' @name agData_UK_Yields
 NULL
 #' USDA Crop Data
-#' 
+#'
 #' A dataset from the USDA on crop production.
 #' @section Keys:
 #' \itemize{
 #'   \item Area
 #'   \item Year
-#'   \item Crop
+#'   \item Item
 #'   \item Measurement
 #'   \item Unit
 #'   \item Value
@@ -278,13 +278,13 @@ NULL
 #' @name agData_USDA_Grains
 NULL
 #' USDA GE Crop Data
-#' 
+#'
 #' A dataset from the USDA on GE crop production.
 #' @section Keys:
 #' \itemize{
 #'   \item Area
 #'   \item Year
-#'   \item Crop
+#'   \item Item
 #'   \item Measurement
 #'   \item Unit
 #'   \item Value
@@ -295,7 +295,7 @@ NULL
 #' @name agData_USDA_GE_Crops
 NULL
 #' USDA Agricultureal Productivity data
-#' 
+#'
 #' A dataset from the USDA on agricultural productivity production.
 #' @section Keys:
 #' \itemize{
@@ -318,7 +318,7 @@ NULL
 #' @name agData_USDA_TFP
 NULL
 #' USDA Crop data
-#' 
+#'
 #' A dataset from the USDA on crop production.
 #' @section Keys:
 #' \itemize{
@@ -334,7 +334,7 @@ NULL
 #' @name agData_USDA_Crops
 NULL
 #' USDA lentil data
-#' 
+#'
 #' A dataset from the USDA on lentil production.
 #' @section Keys:
 #' \itemize{
@@ -350,7 +350,7 @@ NULL
 #' @name agData_USDA_Lentil
 NULL
 #' USDA Sugarbeet data
-#' 
+#'
 #' A dataset from the USDA on sugarbeet production.
 #' @section Keys:
 #' \itemize{
@@ -366,7 +366,7 @@ NULL
 #' @name agData_USDA_SugarBeet
 NULL
 #' USDA organic data
-#' 
+#'
 #' A dataset from the USDA on organic production.
 #' @section Keys:
 #' \itemize{
@@ -382,7 +382,7 @@ NULL
 #' @name agData_USDA_Organic
 NULL
 #' USDA food security data
-#' 
+#'
 #' A dataset from the USDA on food security.
 #' \itemize{
 #'   \item Year

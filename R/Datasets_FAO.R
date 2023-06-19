@@ -50,7 +50,7 @@ NULL
 #' \itemize{
 #'   \item Area
 #'   \item Year
-#'   \item Crop
+#'   \item Item
 #'   \item Measurement
 #'   \item Unit
 #'   \item Value
@@ -73,7 +73,7 @@ NULL
 #' \itemize{
 #'   \item Area
 #'   \item Year
-#'   \item Crop
+#'   \item Item
 #'   \item Measurement
 #'   \item Unit
 #'   \item Value
@@ -96,7 +96,7 @@ NULL
 #' \itemize{
 #'   \item Area
 #'   \item Year
-#'   \item Crop
+#'   \item Item
 #'   \item Measurement
 #'   \item Unit
 #'   \item Value
@@ -191,7 +191,7 @@ NULL
 #' \itemize{
 #'   \item Area
 #'   \item Year
-#'   \item Animal
+#'   \item Item
 #'   \item Measurement
 #'   \item Unit
 #'   \item Value

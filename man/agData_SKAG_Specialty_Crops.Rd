@@ -14,7 +14,7 @@ A dataset from Sask Ag on specialty crop production.
 
 \itemize{
   \item Year
-  \item Crop
+  \item Item
   \item Measurement
   \item Unit
   \item Value

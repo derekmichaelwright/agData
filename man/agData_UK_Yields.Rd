@@ -14,7 +14,7 @@ A dataset of long term yield data in UK.
 
 \itemize{
   \item Area
-  \item Crop
+  \item Item
   \item Year
   \item Measurement
   \item Unit
