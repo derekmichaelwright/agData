@@ -34,6 +34,12 @@
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Food_Prices.html</loc>
   </url>
   <url>
+    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Food_Security1.html</loc>
+  </url>
+  <url>
+    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Food_Security2.html</loc>
+  </url>
+  <url>
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_LandUse.html</loc>
   </url>
   <url>
@@ -107,6 +113,9 @@
   </url>
   <url>
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Inputs.html</loc>
+  </url>
+  <url>
+    <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Prices.html</loc>
   </url>
   <url>
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Size.html</loc>
