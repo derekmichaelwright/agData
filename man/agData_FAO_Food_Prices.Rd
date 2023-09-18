@@ -3,21 +3,19 @@
 \docType{data}
 \name{agData_FAO_Food_Prices}
 \alias{agData_FAO_Food_Prices}
-\title{FAO Food Price Index}
+\title{FAO Food Security Indexes}
 \source{
 https://www.fao.org/worldfoodsituation/foodpricesindex/en/
 }
 \description{
-A dataset containing food price indices from FAOSTAT.
+A dataset containing food security indices from FAOSTAT.
 }
 \section{Keys}{
 
 \itemize{
-  \item Date
   \item Year
-  \item Month
-  \item Item
   \item Measurement
+  \item Element
   \item Unit
   \item Value
 }

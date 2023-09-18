@@ -137,7 +137,7 @@ NULL
 #' @keywords datasets
 #' @name agData_FAO_Fertilizers
 NULL
-#' FAO Food Price Index
+#' FAO Food Price Index #1
 #'
 #' A dataset containing food price indices from FAOSTAT.
 #' @section Keys:
@@ -147,6 +147,40 @@ NULL
 #'   \item Month
 #'   \item Item
 #'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @source https://www.fao.org/faostat/en/#data/FS
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Food_Security1
+NULL
+#' FAO Food Price Index #2
+#'
+#' A dataset containing food price indices from FAOSTAT.
+#' @section Keys:
+#' \itemize{
+#'   \item Date
+#'   \item Year
+#'   \item Month
+#'   \item Item
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @source https://www.fao.org/faostat/en/#data/FS
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Food_Security2
+NULL
+#' FAO Food Security Indexes
+#'
+#' A dataset containing food security indices from FAOSTAT.
+#' @section Keys:
+#' \itemize{
+#'   \item Year
+#'   \item Measurement
+#'   \item Element
 #'   \item Unit
 #'   \item Value
 #' }

@@ -200,6 +200,17 @@ NULL
 #' @keywords datasets
 #' @name agData_STATCAN_FarmLand_Inputs
 NULL
+#' Statistics Canada Farmland prices
+#'
+#' A dataset from Statistics Canada on farm land prices.
+#' @section Keys:
+#' @section Area:
+#' @section Table: 32-10-0047-01 (formerly CANSIM 002-0003)
+#' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210004701
+#' @docType data
+#' @keywords datasets
+#' @name agData_STATCAN_FarmLand_Prices
+NULL
 #' Statistics Canada Farmland Data
 #'
 #' A dataset from Statistics Canada on farm land use.
