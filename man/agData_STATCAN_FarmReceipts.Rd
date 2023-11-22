@@ -10,8 +10,16 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210004501
 \description{
 A dataset from Statistics Canada on farm receipts.
 }
-\section{NA}{
- 32-10-0045-01
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Year
+  \item Date
+  \item Item
+  \item Unit
+  \item Value
+}
 }
 
 \section{Table}{

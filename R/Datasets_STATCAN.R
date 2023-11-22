@@ -188,7 +188,7 @@ NULL
 #'   \item Fungicides
 #'   \item Total land prepared for seeding
 #'   \item No-till seeding or zero-till seeding
-#'   }
+#' }
 #' @section Unit:
 #' \itemize{
 #'   \item Number of farms reporting
@@ -288,6 +288,7 @@ NULL
 #'   \item Item
 #'   \item Unit
 #'   \item Value
+#' }
 #' @section Table: 32-10-0045-01
 #' @source https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210004501
 #' @docType data

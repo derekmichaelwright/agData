@@ -23,7 +23,7 @@ A dataset from Statistics Canada on farmland inputs.
   \item Fungicides
   \item Total land prepared for seeding
   \item No-till seeding or zero-till seeding
-  }
+}
 }
 
 \section{Unit}{
