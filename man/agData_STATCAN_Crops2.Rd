@@ -10,16 +10,12 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210035901
 \description{
 A dataset from Statistics Canada on crop aggregate data.
 }
-\section{Keys}{
-
-\itemize{
-  \item Area
-  \item Year
-  \item Item
-  \item Measurement
-  \item Unit
-  \item Value
+\section{Table}{
+ 32-10-0359-01 (formerly CANSIM 001-0017)
 }
+
+\section{agData_STATCAN_Crops2}{
+NA
 }
 
 \section{Measurement (Unit)}{
@@ -33,8 +29,16 @@ A dataset from Statistics Canada on crop aggregate data.
 }
 }
 
-\section{Table}{
- 32-10-0359-01 (formerly CANSIM 001-0017)
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Year
+  \item Item
+  \item Measurement
+  \item Unit
+  \item Value
+}
 }
 
 \keyword{datasets}

@@ -10,6 +10,17 @@ http://www.fao.org/faostat/en/#data/QA
 \description{
 A dataset containing livestock data from FAOSTAT.
 }
+\section{agData_FAO_Livestock}{
+NA
+}
+
+\section{Measurement (Unit)}{
+
+\itemize{
+  \item Stocks (head or 1000 head)
+}
+}
+
 \section{Keys}{
 
 \itemize{
@@ -19,13 +30,6 @@ A dataset containing livestock data from FAOSTAT.
   \item Measurement
   \item Unit
   \item Value
-}
-}
-
-\section{Measurement (Unit)}{
-
-\itemize{
-  \item Stocks (head or 1000 head)
 }
 }
 

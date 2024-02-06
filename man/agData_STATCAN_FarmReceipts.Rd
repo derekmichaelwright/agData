@@ -10,6 +10,14 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210004501
 \description{
 A dataset from Statistics Canada on farm receipts.
 }
+\section{Table}{
+ 32-10-0045-01
+}
+
+\section{agData_STATCAN_FarmReceipts}{
+NA
+}
+
 \section{Keys}{
 
 \itemize{
@@ -20,10 +28,6 @@ A dataset from Statistics Canada on farm receipts.
   \item Unit
   \item Value
 }
-}
-
-\section{Table}{
- 32-10-0045-01
 }
 
 \keyword{datasets}

@@ -10,6 +10,17 @@ https://publications.saskatchewan.ca/#/categories/4426
 \description{
 A dataset from SK AG for the top 20 Lentil export countries each year.
 }
+\section{agData_SKAG_Lentil_Exports}{
+NA
+}
+
+\section{Measurement (Unit)}{
+
+\itemize{
+  \item Exports (Tonnes)
+}
+}
+
 \section{Keys}{
 
 \itemize{
@@ -18,13 +29,6 @@ A dataset from SK AG for the top 20 Lentil export countries each year.
   \item Measurement
   \item Unit
   \item Value
-}
-}
-
-\section{Measurement (Unit)}{
-
-\itemize{
-  \item Exports (Tonnes)
 }
 }
 

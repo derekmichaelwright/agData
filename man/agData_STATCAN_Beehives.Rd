@@ -10,16 +10,12 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210035301
 \description{
 A dataset from Statistics Canada on honeybee production.
 }
-\section{Keys}{
-
-\itemize{
-  \item Area
-  \item Item
-  \item Year
-  \item Measurement
-  \item Unit
-  \item Value
+\section{Table}{
+ 32-10-0353-01 (formerly CANSIM 001-0007)
 }
+
+\section{agData_STATCAN_Beehives}{
+NA
 }
 
 \section{Measurement (Unit)}{
@@ -35,8 +31,16 @@ A dataset from Statistics Canada on honeybee production.
 }
 }
 
-\section{Table}{
- 32-10-0353-01 (formerly CANSIM 001-0007)
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Item
+  \item Year
+  \item Measurement
+  \item Unit
+  \item Value
+}
 }
 
 \keyword{datasets}

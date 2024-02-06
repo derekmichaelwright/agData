@@ -5,21 +5,13 @@
 \alias{agData_FAO_Fertilizers}
 \title{FAO fertilizer data}
 \source{
-http://www.fao.org/faostat/en/#data/RFN
+http://www.fao.org/faostat/en/#data/RFN + https://www.fao.org/faostat/en/#data/RFB + https://www.fao.org/faostat/en/#data/RA
 }
 \description{
 FAO fertilizer data
 }
-\section{Keys}{
-
-\itemize{
-  \item Area
-  \item Year
-  \item Item
-  \item Measurement
-  \item Unit
-  \item Value
-}
+\section{agData_FAO_Fertilizers}{
+NA
 }
 
 \section{Measurement}{
@@ -30,6 +22,18 @@ FAO fertilizer data
   \item Export Quantity
   \item Agricultural Use
   \item Prices Paid by Farmers
+}
+}
+
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Year
+  \item Item
+  \item Measurement
+  \item Unit
+  \item Value
 }
 }
 

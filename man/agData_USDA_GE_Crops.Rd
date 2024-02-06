@@ -10,6 +10,10 @@ https://www.ers.usda.gov/data-products/adoption-of-genetically-engineered-crops-
 \description{
 A dataset from the USDA on GE crop production.
 }
+\section{agData_USDA_GE_Crops}{
+NA
+}
+
 \section{Keys}{
 
 \itemize{

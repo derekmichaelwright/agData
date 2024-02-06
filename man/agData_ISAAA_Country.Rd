@@ -11,16 +11,8 @@ https://www.isaaa.org/
 A dataset from ISAAA for total GE crop area by Country.
 Note: data is rounded to the nearest 100,000 hectares.
 }
-\section{Keys}{
-
-\itemize{
-  \item Year
-  \item Item
-  \item Million.Hectares
-  \item Percent
-  \item plus_minus
-  \item Percent.Change
-}
+\section{agData_ISAAA_Country}{
+NA
 }
 
 \section{Measurements}{
@@ -30,6 +22,18 @@ Note: data is rounded to the nearest 100,000 hectares.
   \item Percent
   \item plus_minus
   \item Percent Change
+}
+}
+
+\section{Keys}{
+
+\itemize{
+  \item Year
+  \item Item
+  \item Million.Hectares
+  \item Percent
+  \item plus_minus
+  \item Percent.Change
 }
 }
 

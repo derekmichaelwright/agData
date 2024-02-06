@@ -10,6 +10,18 @@ https://www.ncga.com/
 \description{
 A dataset for Maize Yield Contest.
 }
+\section{agData_MaizeContest}{
+NA
+}
+
+\section{Measurements}{
+
+\itemize{
+  \item Irrigated
+  \item Non-Irrigated
+}
+}
+
 \section{Keys}{
 
 \itemize{
@@ -18,14 +30,6 @@ A dataset for Maize Yield Contest.
   \item Measurement
   \item Unit
   \item Value
-}
-}
-
-\section{Measurements}{
-
-\itemize{
-  \item Irrigated
-  \item Non-Irrigated
 }
 }
 

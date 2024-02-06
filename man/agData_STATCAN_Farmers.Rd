@@ -10,8 +10,12 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210023001
 \description{
 A dataset from Statistics Canada on farmer demographics.
 }
-\section{Keys}{
+\section{Table}{
+ 32-10-0230-01
+}
 
+\section{agData_STATCAN_Farmers}{
+NA
 }
 
 \section{Measurement}{
@@ -29,8 +33,8 @@ A dataset from Statistics Canada on farmer demographics.
 }
 }
 
-\section{Table}{
- 32-10-0230-01
+\section{Keys}{
+
 }
 
 \keyword{datasets}

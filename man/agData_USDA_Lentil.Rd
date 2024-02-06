@@ -10,6 +10,10 @@ https://www.nass.usda.gov/
 \description{
 A dataset from the USDA on lentil production.
 }
+\section{agData_USDA_Lentil}{
+NA
+}
+
 \section{Keys}{
 
 \itemize{

@@ -10,6 +10,18 @@ https://www.isaaa.org/
 \description{
 A dataset from ISAAA for total GE crop area by Crop percent.
 }
+\section{agData_ISAAA_CropPercent}{
+NA
+}
+
+\section{Measurements}{
+
+\itemize{
+  \item Hectares
+  \item Acres
+}
+}
+
 \section{Keys}{
 
 \itemize{
@@ -18,14 +30,6 @@ A dataset from ISAAA for total GE crop area by Crop percent.
   \item Global.Area
   \item Transgenic.Crop.Area
   \item Percent.Transgenic
-}
-}
-
-\section{Measurements}{
-
-\itemize{
-  \item Hectares
-  \item Acres
 }
 }
 

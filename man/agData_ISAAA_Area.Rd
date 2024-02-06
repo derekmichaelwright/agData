@@ -11,14 +11,8 @@ https://www.isaaa.org/
 A dataset from ISAAA for total GE crop area.
 Note: this data set includes cultivation of GE tobacco in China for 1996 and 1997.
 }
-\section{Keys}{
-
-\itemize{
-  \item Year
-  \item Hectares
-  \item plus_minus
-  \item Percent.Change
-}
+\section{agData_ISAAA_Area}{
+NA
 }
 
 \section{Measurements}{
@@ -26,6 +20,16 @@ Note: this data set includes cultivation of GE tobacco in China for 1996 and 199
 \itemize{
   \item Hectares
   \item Acres
+}
+}
+
+\section{Keys}{
+
+\itemize{
+  \item Year
+  \item Hectares
+  \item plus_minus
+  \item Percent.Change
 }
 }
 

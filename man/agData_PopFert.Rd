@@ -10,6 +10,10 @@ https://www.nature.com/articles/ngeo325
 \description{
 A dataset of global population with and without fertilizers.
 }
+\section{agData_PopFert}{
+NA
+}
+
 \section{Keys}{
 
 \itemize{

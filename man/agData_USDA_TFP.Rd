@@ -10,15 +10,8 @@ https://www.nass.usda.gov/
 \description{
 A dataset from the USDA on agricultural productivity production.
 }
-\section{Keys}{
-
-\itemize{
-  \item Area
-  \item Year
-  \item Measurement
-  \item Unit
-  \item Value
-}
+\section{agData_USDA_TFP}{
+NA
 }
 
 \section{Measurement (Unit)}{
@@ -28,6 +21,17 @@ A dataset from the USDA on agricultural productivity production.
   \item Inputs
   \item Outputs
   \item ...
+}
+}
+
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Year
+  \item Measurement
+  \item Unit
+  \item Value
 }
 }
 

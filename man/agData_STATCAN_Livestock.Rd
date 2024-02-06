@@ -10,16 +10,12 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015501
 \description{
 A dataset from Statistics Canada on livestock production.
 }
-\section{Keys}{
-
-\itemize{
-  \item Area
-  \item Year
-  \item Item
-  \item Measurement
-  \item Unit
-  \item Value
+\section{Table}{
+ 32-10-0155-01 (formerly CANSIM 004-0004)
 }
+
+\section{agData_STATCAN_Livestock}{
+NA
 }
 
 \section{Measurement (Unit)}{
@@ -31,8 +27,16 @@ A dataset from Statistics Canada on livestock production.
 }
 }
 
-\section{Table}{
- 32-10-0155-01 (formerly CANSIM 004-0004)
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Year
+  \item Item
+  \item Measurement
+  \item Unit
+  \item Value
+}
 }
 
 \keyword{datasets}

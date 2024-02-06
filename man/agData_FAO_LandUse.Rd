@@ -10,16 +10,8 @@ http://www.fao.org/faostat/en/#data/RL
 \description{
 A dataset containing land use data from FAOSTAT.
 }
-\section{Keys}{
-
-\itemize{
-  \item Area
-  \item Year
-  \item Item
-  \item Measurement
-  \item Unit
-  \item Value
-}
+\section{agData_FAO_LandUse}{
+NA
 }
 
 \section{Item}{
@@ -37,6 +29,18 @@ A dataset containing land use data from FAOSTAT.
 \itemize{
   \item Area                           (1000 hectares)
   \item Carbon stock in living biomass (million tonnes)
+}
+}
+
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Year
+  \item Item
+  \item Measurement
+  \item Unit
+  \item Value
 }
 }
 

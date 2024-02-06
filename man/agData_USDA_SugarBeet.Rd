@@ -10,6 +10,10 @@ https://www.nass.usda.gov/
 \description{
 A dataset from the USDA on sugarbeet production.
 }
+\section{agData_USDA_SugarBeet}{
+NA
+}
+
 \section{Keys}{
 
 \itemize{

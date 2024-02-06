@@ -10,6 +10,10 @@ https://www.nass.usda.gov/
 \description{
 A dataset from the USDA on crop production.
 }
+\section{agData_USDA_Crops}{
+NA
+}
+
 \section{Keys}{
 
 \itemize{

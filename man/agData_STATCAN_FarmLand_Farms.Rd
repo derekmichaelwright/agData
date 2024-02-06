@@ -10,8 +10,12 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015201
 \description{
 A dataset from Statistics Canada on farm land use.
 }
-\section{Keys}{
+\section{Table}{
+ 32-10-0152-01 (formerly CANSIM 004-0001)
+}
 
+\section{agData_STATCAN_FarmLand_Farms}{
+NA
 }
 
 \section{Measurement}{
@@ -24,8 +28,8 @@ A dataset from Statistics Canada on farm land use.
 }
 }
 
-\section{Table}{
- 32-10-0152-01 (formerly CANSIM 004-0001)
+\section{Keys}{
+
 }
 
 \keyword{datasets}

@@ -10,6 +10,14 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1710000901
 \description{
 A dataset from Statistics Canada on population.
 }
+\section{Table}{
+ 17-10-0009-01 (formerly CANSIM 051-0005)
+}
+
+\section{agData_STATCAN_Population}{
+NA
+}
+
 \section{Keys}{
 
 \itemize{
@@ -18,10 +26,6 @@ A dataset from Statistics Canada on population.
   \item Unit
   \item Value
 }
-}
-
-\section{Table}{
- 17-10-0009-01 (formerly CANSIM 051-0005)
 }
 
 \keyword{datasets}

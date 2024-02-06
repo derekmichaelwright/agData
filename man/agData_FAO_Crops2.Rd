@@ -10,6 +10,19 @@ http://www.fao.org/faostat/en/#data/QC
 \description{
 A dataset containing crop data from FAOSTAT.
 }
+\section{agData_FAO_Crops2}{
+NA
+}
+
+\section{Measurement (Unit)}{
+
+\itemize{
+  \item Production     (Tonnes)
+  \item Area Harvested (Hectares)
+  \item Yield          (kg/ha)
+}
+}
+
 \section{Keys}{
 
 \itemize{
@@ -19,15 +32,6 @@ A dataset containing crop data from FAOSTAT.
   \item Measurement
   \item Unit
   \item Value
-}
-}
-
-\section{Measurement (Unit)}{
-
-\itemize{
-  \item Production     (Tonnes)
-  \item Area Harvested (Hectares)
-  \item Yield          (kg/ha)
 }
 }
 

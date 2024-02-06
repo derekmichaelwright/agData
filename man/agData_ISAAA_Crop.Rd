@@ -10,16 +10,8 @@ https://www.isaaa.org/
 \description{
 A dataset from ISAAA for total GE crop area by Crop.
 }
-\section{Keys}{
-
-\itemize{
-  \item Year
-  \item Item
-  \item Million.Hectares
-  \item Percent
-  \item plus_minus
-  \item Percent.Change
-}
+\section{agData_ISAAA_Crop}{
+NA
 }
 
 \section{Measurements}{
@@ -29,6 +21,18 @@ A dataset from ISAAA for total GE crop area by Crop.
   \item Percent
   \item plus_minus
   \item Percent Change
+}
+}
+
+\section{Keys}{
+
+\itemize{
+  \item Year
+  \item Item
+  \item Million.Hectares
+  \item Percent
+  \item plus_minus
+  \item Percent.Change
 }
 }
 

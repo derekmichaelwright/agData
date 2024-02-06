@@ -107,7 +107,7 @@ library(agData)
 
 # agData_Colors
 
-`agData_Colors`: a color pallete for the `agData` package
+`agData_Colors`: a color pallette for the `agData` package
 
 ![](man/figures/agData_Colors.png)
 

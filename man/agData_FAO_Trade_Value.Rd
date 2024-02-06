@@ -10,6 +10,18 @@ http://www.fao.org/faostat/en/#data/TP
 \description{
 A dataset containing trade data from FAOSTAT.
 }
+\section{agData_FAO_Trade_Value}{
+NA
+}
+
+\section{Measurement (Unit)}{
+
+\itemize{
+  \item Export Value (USD)
+  \item Import Value (USD)
+}
+}
+
 \section{Keys}{
 
 \itemize{
@@ -19,14 +31,6 @@ A dataset containing trade data from FAOSTAT.
   \item Measurement
   \item Unit
   \item Value
-}
-}
-
-\section{Measurement (Unit)}{
-
-\itemize{
-  \item Export Value (USD)
-  \item Import Value (USD)
 }
 }
 

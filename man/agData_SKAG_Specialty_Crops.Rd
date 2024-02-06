@@ -10,15 +10,8 @@ https://publications.saskatchewan.ca/#/categories/4426
 \description{
 A dataset from Sask Ag on specialty crop production.
 }
-\section{Keys}{
-
-\itemize{
-  \item Year
-  \item Item
-  \item Measurement
-  \item Unit
-  \item Value
-}
+\section{agData_SKAG_Specialty_Crops}{
+NA
 }
 
 \section{Measurement (Unit)}{
@@ -28,6 +21,17 @@ A dataset from Sask Ag on specialty crop production.
   \item Area Seeded    (Hectares)
   \item Area Harvested (Hectares)
   \item Yield          (kg/ha)
+}
+}
+
+\section{Keys}{
+
+\itemize{
+  \item Year
+  \item Item
+  \item Measurement
+  \item Unit
+  \item Value
 }
 }
 

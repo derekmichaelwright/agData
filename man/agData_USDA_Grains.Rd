@@ -10,16 +10,8 @@ https://www.nass.usda.gov/
 \description{
 A dataset from the USDA on crop production.
 }
-\section{Keys}{
-
-\itemize{
-  \item Area
-  \item Year
-  \item Item
-  \item Measurement
-  \item Unit
-  \item Value
-}
+\section{agData_USDA_Grains}{
+NA
 }
 
 \section{Measurement (Unit)}{
@@ -29,6 +21,18 @@ A dataset from the USDA on crop production.
   \item Area Seeded    (Hectares)
   \item Area Harvested (Hectares)
   \item Yield          (kg/ha)
+}
+}
+
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Year
+  \item Item
+  \item Measurement
+  \item Unit
+  \item Value
 }
 }
 

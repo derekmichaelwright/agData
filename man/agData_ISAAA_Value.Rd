@@ -10,13 +10,8 @@ https://www.isaaa.org/
 \description{
 A dataset from ISAAA for total value of GE crops.
 }
-\section{Keys}{
-
-\itemize{
-  \item Year
-  \item Value
-  \item Unit
-}
+\section{agData_ISAAA_Value}{
+NA
 }
 
 \section{Measurements}{
@@ -24,6 +19,15 @@ A dataset from ISAAA for total value of GE crops.
 \itemize{
   \item Hectares
   \item Acres
+}
+}
+
+\section{Keys}{
+
+\itemize{
+  \item Year
+  \item Value
+  \item Unit
 }
 }
 

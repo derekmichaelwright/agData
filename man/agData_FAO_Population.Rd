@@ -10,16 +10,8 @@ http://www.fao.org/faostat/en/#data/OA
 \description{
 FAO world population data
 }
-\section{Keys}{
-
-\itemize{
-  \item Area
-  \item Year
-  \item Item
-  \item Measurement
-  \item Unit
-  \item Value
-}
+\section{agData_FAO_Population}{
+NA
 }
 
 \section{Measurements}{
@@ -30,6 +22,18 @@ FAO world population data
   \item Female
   \item Rural
   \item Urban
+}
+}
+
+\section{Keys}{
+
+\itemize{
+  \item Area
+  \item Year
+  \item Item
+  \item Measurement
+  \item Unit
+  \item Value
 }
 }
 

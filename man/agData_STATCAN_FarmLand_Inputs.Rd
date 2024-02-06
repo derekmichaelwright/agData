@@ -10,8 +10,12 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210016201
 \description{
 A dataset from Statistics Canada on farmland inputs.
 }
-\section{Keys}{
+\section{Table}{
+ 32-10-0162-01 (formerly CANSIM 004-0010)
+}
 
+\section{agData_STATCAN_FarmLand_Inputs}{
+NA
 }
 
 \section{Measurement}{
@@ -34,8 +38,8 @@ A dataset from Statistics Canada on farmland inputs.
 }
 }
 
-\section{Table}{
- 32-10-0162-01 (formerly CANSIM 004-0010)
+\section{Keys}{
+
 }
 
 \keyword{datasets}
