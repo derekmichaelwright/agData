@@ -10,12 +10,6 @@
     <loc>https://derekmichaelwright.github.io/agData/index.html</loc>
   </url>
   <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_Barulina.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Consumer_Prices.html</loc>
-  </url>
-  <url>
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Country_Table.html</loc>
   </url>
   <url>
@@ -29,15 +23,6 @@
   </url>
   <url>
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Fertilizers.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Food_Prices.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Food_Security1.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Food_Security2.html</loc>
   </url>
   <url>
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_LandUse.html</loc>
@@ -79,13 +64,7 @@
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Value.html</loc>
   </url>
   <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_LongTermMaize.html</loc>
-  </url>
-  <url>
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_MaizeContest.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_PeopleInAg.html</loc>
   </url>
   <url>
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_PopFert.html</loc>
@@ -139,10 +118,10 @@
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Region_Table.html</loc>
   </url>
   <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_UK_Yields.html</loc>
+    <loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_Crops.html</loc>
   </url>
   <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_Crops.html</loc>
+    <loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_Food_Security.html</loc>
   </url>
   <url>
     <loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_GE_Crops.html</loc>
