@@ -13,5 +13,6 @@ theme_agData_pie_blank <- function(x, bgFill = "grey95", lineColor = "white", li
         panel.border = element_blank(),
         panel.grid   = element_blank(),
         plot.title   = element_text(size = 14, face = "bold"),
+        legend.key = element_rect(color = NA),
         ...)
 }
