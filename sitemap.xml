@@ -1,177 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/404.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/authors.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/index.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Country_Table.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Crops.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Crops2.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Crops3.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Fertilizers.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_LandUse.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Livestock.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Population.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Producer_Prices.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Region_Table.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Quantity.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Value.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Area.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Country.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Crop.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_CropPercent.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_DVDDVG.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Value.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_MaizeContest.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_PopFert.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_SKAG_Lentil_Exports.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_SKAG_Specialty_Crops.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Beehives.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Crops.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Crops2.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Crops.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Farms.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Inputs.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Prices.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Size.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Use.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmReceipts.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Farmers.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Livestock.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Population.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Region_Table.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_Crops.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_Food_Security.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_GE_Crops.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_Grains.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_Lentil.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_Organic.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_SugarBeet.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_TFP.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/dropNAcol.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/fill_NA.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/folder_Renamer.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/movingAverage.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/pdf_Table.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/region_Info.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/theme_agData.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/theme_agData2.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/theme_agData_pie.html</loc>
-  </url>
-  <url>
-    <loc>https://derekmichaelwright.github.io/agData/reference/theme_agData_pie_blank.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://derekmichaelwright.github.io/agData/404.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/authors.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/index.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Country_Table.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Crops.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Crops2.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Crops3.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Fertilizers.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_LandUse.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Livestock.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Population.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Producer_Prices.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Region_Table.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Quantity.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Value.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Area.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Country.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Crop.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_CropPercent.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_DVDDVG.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Value.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_MaizeContest.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_PopFert.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_SKAG_Lentil_Exports.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_SKAG_Specialty_Crops.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Beehives.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Crops.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Crops2.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Crops.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Farms.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Inputs.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Prices.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Size.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Use.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmReceipts.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Farmers.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Livestock.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Population.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Region_Table.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_Crops.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_Food_Security.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_GE_Crops.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_Grains.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_Lentil.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_Organic.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_SugarBeet.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_USDA_TFP.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/dropNAcol.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/fill_NA.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/folder_Renamer.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/index.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/movingAverage.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/pdf_Table.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/region_Info.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/theme_agData.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/theme_agData2.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/theme_agData_pie.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/theme_agData_pie_blank.html</loc></url>
 </urlset>
+

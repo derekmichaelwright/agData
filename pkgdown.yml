@@ -1,9 +1,8 @@
 pandoc: 3.1.11
-pkgdown: 2.0.9
+pkgdown: 2.1.0
 pkgdown_sha: ~
 articles: {}
-last_built: 2024-04-21T16:48Z
+last_built: 2024-09-17T21:31Z
 urls:
   reference: https://derekmichaelwright.github.io/agData/reference
   article: https://derekmichaelwright.github.io/agData/articles
-
