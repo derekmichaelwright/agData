@@ -80,6 +80,9 @@ library(agData)
 > - [agData_STATCAN_FarmReceipts.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_FarmReceipts.csv.gz)
 >   + https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210004501
 
+> - [agData_STATCAN_Farmers.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Farmers.csv.gz)
+>   + https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210023001
+
 > - [agData_STATCAN_Population.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Population.csv.gz)
 >   + https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1710000901
 

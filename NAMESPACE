@@ -3,6 +3,7 @@
 export(dropNAcol)
 export(fill_NA)
 export(folder_Renamer)
+export(mapBubbles2)
 export(movingAverage)
 export(pdf_Table)
 export(region_Info)
