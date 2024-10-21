@@ -97,7 +97,7 @@ mapBubbles2 <- function (dF = "", nameX = "longitude", nameY = "latitude",
     if (!add) {
       rwmNewMapPlot(mapToPlot = dF, oceanCol = oceanCol, 
                     mapRegion = mapRegion, xlim = xlim, ylim = ylim)
-      plot(dF, add = TRUE, border = borderCol, col = landCol, 
+      raster::plot(dF, add = TRUE, border = borderCol, col = landCol, 
            main = main, lwd = lwd)
     }
     dF <- dF@data
@@ -105,7 +105,7 @@ mapBubbles2 <- function (dF = "", nameX = "longitude", nameY = "latitude",
   else if (!add) {
     rwmNewMapPlot(mapToPlot = getMap(), oceanCol = oceanCol, 
                   mapRegion = mapRegion, xlim = xlim, ylim = ylim)
-    plot(getMap(), add = TRUE, border = borderCol, col = landCol, 
+    raster::plot(getMap(), add = TRUE, border = borderCol, col = landCol, 
          main = main, lwd = lwd)
   }
   singleColour <- FALSE
