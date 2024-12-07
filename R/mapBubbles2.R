@@ -12,30 +12,40 @@
 #' parameters.
 #'
 #' @param dF data frame or SpatialPolygonsDataFrame
-#' @param nameX name of column containing the X variable (longitude), not needed if dF is a SpatialPolygonsDataFrame
-#' @param nameY name of column containing the Y variable (lattitude), not needed if dF is a SpatialPolygonsDataFrame
-#' @param nameZSize name of column containing numeric variable to set symbol size
+#' @param nameX name of column containing the X variable (longitude), not
+#' needed if dF is a SpatialPolygonsDataFrame
+#' @param nameY name of column containing the Y variable (lattitude), not
+#' needed if dF is a SpatialPolygonsDataFrame
+#' @param nameZSize name of column containing numeric variable to set symbol
+#' size
 #' @param nameZColour name of column containing variable to set symbol colour
 #' @param nameZFill background fill for points if using certain pch
-#' @param pch symbol type, default of 21 for circles, will work with other filled symbol types e.g. 22=square, 23=diamond, 24=triangle
+#' @param pch symbol type, default of 21 for circles, will work with other
+#' filled symbol types e.g. 22=square, 23=diamond, 24=triangle
 #' @param symbolSize multiplier of default symbol size
-#' @param maxZVal the attribute value corresponding to the maximum symbol size, this can be used to set the scaling the same between multiple plots
+#' @param maxZVal the attribute value corresponding to the maximum symbol size,
+#' this can be used to set the scaling the same between multiple plots
 #' @param main title for the map, set to nameZSize by default
-#' @param numCats number of categories to put the data in, may be modified if this number is incompatible with the catMethod chosen
-#' @param catMethod method for categorisation of data "pretty", "fixedWidth", "diverging", "logFixedWidth", "quantiles", "categorical", or a numeric vector defining breaks
-#' @param colourPalette a string describing the colour palette to use, choice of :
-#' \enumerate{
-#' \item ="palette" for the current palette
-#' \item a vector of valid colours, e.g. =c('red','white','blue') or output from RColourBrewer
-#' \item = one of "heat", "diverging", "white2Black", "black2White", "topo", "rainbow", "terrain", "negpos8", "negpos9" }
-#' @param fillPalette a string describing the colour palette to use, choice of :
-#' \enumerate{
-#' \item ="palette" for the current palette
-#' \item a vector of valid colours, e.g. =c('red','white','blue') or output from RColourBrewer
-#' \item = one of "heat", "diverging", "white2Black", "black2White", "topo", "rainbow", "terrain", "negpos8", "negpos9" }
+#' @param numCats number of categories to put the data in, may be modified if
+#' this number is incompatible with the catMethod chosen
+#' @param catMethod method for categorisation of data "pretty", "fixedWidth",
+#' "diverging", "logFixedWidth", "quantiles", "categorical", or a numeric
+#' vector defining breaks
+#' @param colourPalette a string describing the colour palette to use, choice
+#' of : \enumerate{ \item ="palette" for the current palette \item a vector of
+#' valid colours, e.g. =c('red','white','blue') or output from RColourBrewer
+#' \item = one of "heat", "diverging", "white2Black", "black2White", "topo",
+#' "rainbow", "terrain", "negpos8", "negpos9" }
+#' @param fillPalette a string describing the colour palette to use, choice
+#' of : \enumerate{ \item ="palette" for the current palette \item a vector of
+#' valid colours, e.g. =c('red','white','blue') or output from RColourBrewer
+#' \item = one of "heat", "diverging", "white2Black", "black2White", "topo",
+#' "rainbow", "terrain", "negpos8", "negpos9" }
 #' @param xlim map extents c(west,east), can be overidden by mapRegion
 #' @param ylim map extents c(south,north), can be overidden by mapRegion
-#' @param mapRegion a country name from getMap()$NAME or 'world', 'africa', 'oceania', 'eurasia', 'uk' sets map extents, overrides xlim, ylim
+#' @param mapRegion a country name from getMap()$NAME or
+#' 'world','africa','oceania','eurasia','uk' sets map extents, overrides
+#' xlim,ylim
 #' @param borderCol the colour for country borders
 #' @param oceanCol a colour for the ocean
 #' @param landCol a colour to fill countries
@@ -43,10 +53,12 @@
 #' @param legendBg background colour for the legend, NA=transparent
 #' @param legendVals allows user to set values and hence symbol sizing in legend
 #' @param legendPos positioning of legend e.g. 'bottomleft', 'topright'
-#' @param legendHoriz whether to arrange legend elements horizontally TRUE/FALSE
+#' @param legendHoriz whether to arrange legend elements horizontally
+#' TRUE/FALSE
 #' @param legendTitle title for the symbol size legend
 #' @param addColourLegend whether to add a legend for symbol colour
-#' @param colourLegendPos positioning of colour legend e.g. 'bottomleft', 'topright'
+#' @param colourLegendPos positioning of colour legend e.g. 'bottomleft',
+#' 'topright'
 #' @param colourLegendTitle title for the colour size legend
 #' @param add whether to add the symbols to an existing map, TRUE/FALSE
 #' @param plotZeroVals whether to plot zero values as a cross, TRUE/FALSE
@@ -224,7 +236,9 @@ mapBubbles2 <- function (dF = "", nameX = "longitude", nameY = "latitude",
       sigFigs <- 3
       maxVal <- max(dF[, nameZSize], na.rm = TRUE)
       minVal <- min(dF[, nameZSize], na.rm = TRUE)
-      legendVals <- c(signif(minVal, sigFigs), signif(minVal + 0.5 * (maxVal - minVal), sigFigs), signif(maxVal, sigFigs))
+      legendVals <- c(signif(minVal, sigFigs), signif(minVal +
+                                                        0.5 * (maxVal - minVal), sigFigs), signif(maxVal,
+                                                                                                  sigFigs))
       legendSymbolSizes <- fMult * sqrt(legendVals)
     }
     legendSymbolChars = c(pch, pch, pch)
