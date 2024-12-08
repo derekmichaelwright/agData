@@ -44,55 +44,45 @@ mapBubbles2(
 \arguments{
 \item{dF}{data frame or SpatialPolygonsDataFrame}
 
-\item{nameX}{name of column containing the X variable (longitude), not
-needed if dF is a SpatialPolygonsDataFrame}
+\item{nameX}{name of column containing the X variable (longitude), not needed if dF is a SpatialPolygonsDataFrame}
 
-\item{nameY}{name of column containing the Y variable (lattitude), not
-needed if dF is a SpatialPolygonsDataFrame}
+\item{nameY}{name of column containing the Y variable (lattitude), not needed if dF is a SpatialPolygonsDataFrame}
 
-\item{nameZSize}{name of column containing numeric variable to set symbol
-size}
+\item{nameZSize}{name of column containing numeric variable to set symbol size}
 
 \item{nameZColour}{name of column containing variable to set symbol colour}
 
 \item{nameZFill}{background fill for points if using certain pch}
 
-\item{colourPalette}{a string describing the colour palette to use, choice
-of : \enumerate{ \item ="palette" for the current palette \item a vector of
-valid colours, e.g. =c('red','white','blue') or output from RColourBrewer
-\item = one of "heat", "diverging", "white2Black", "black2White", "topo",
-"rainbow", "terrain", "negpos8", "negpos9" }}
+\item{colourPalette}{a string describing the colour palette to use, choice of : 
+\enumerate{ 
+\item ="palette" for the current palette 
+\item a vector of valid colours, e.g. =c('red','white','blue') or output from RColourBrewer
+\item = one of "heat", "diverging", "white2Black", "black2White", "topo", "rainbow", "terrain", "negpos8", "negpos9" }}
 
-\item{fillPalette}{a string describing the colour palette to use, choice
-of : \enumerate{ \item ="palette" for the current palette \item a vector of
-valid colours, e.g. =c('red','white','blue') or output from RColourBrewer
-\item = one of "heat", "diverging", "white2Black", "black2White", "topo",
-"rainbow", "terrain", "negpos8", "negpos9" }}
+\item{fillPalette}{a string describing the colour palette to use, choice of : 
+\enumerate{ 
+\item ="palette" for the current palette 
+\item a vector of valid colours, e.g. =c('red','white','blue') or output from RColourBrewer
+\item = one of "heat", "diverging", "white2Black", "black2White", "topo", "rainbow", "terrain", "negpos8", "negpos9" }}
 
-\item{pch}{symbol type, default of 21 for circles, will work with other
-filled symbol types e.g. 22=square, 23=diamond, 24=triangle}
+\item{pch}{symbol type, default of 21 for circles, will work with other filled symbol types e.g. 22=square, 23=diamond, 24=triangle}
 
 \item{symbolSize}{multiplier of default symbol size}
 
-\item{maxZVal}{the attribute value corresponding to the maximum symbol size,
-this can be used to set the scaling the same between multiple plots}
+\item{maxZVal}{the attribute value corresponding to the maximum symbol size, this can be used to set the scaling the same between multiple plots}
 
 \item{main}{title for the map, set to nameZSize by default}
 
-\item{numCats}{number of categories to put the data in, may be modified if
-this number is incompatible with the catMethod chosen}
+\item{numCats}{number of categories to put the data in, may be modified if this number is incompatible with the catMethod chosen}
 
-\item{catMethod}{method for categorisation of data "pretty", "fixedWidth",
-"diverging", "logFixedWidth", "quantiles", "categorical", or a numeric
-vector defining breaks}
+\item{catMethod}{method for categorisation of data "pretty", "fixedWidth", "diverging", "logFixedWidth", "quantiles", "categorical", or a numeric vector defining breaks}
 
 \item{xlim}{map extents c(west,east), can be overidden by mapRegion}
 
 \item{ylim}{map extents c(south,north), can be overidden by mapRegion}
 
-\item{mapRegion}{a country name from getMap()$NAME or
-'world','africa','oceania','eurasia','uk' sets map extents, overrides
-xlim,ylim}
+\item{mapRegion}{a country name from getMap()$NAME or 'world','africa','oceania','eurasia','uk' sets map extents, overrides xlim,ylim}
 
 \item{borderCol}{the colour for country borders}
 
@@ -108,15 +98,13 @@ xlim,ylim}
 
 \item{legendPos}{positioning of legend e.g. 'bottomleft', 'topright'}
 
-\item{legendHoriz}{whether to arrange legend elements horizontally
-TRUE/FALSE}
+\item{legendHoriz}{whether to arrange legend elements horizontally TRUE/FALSE}
 
 \item{legendTitle}{title for the symbol size legend}
 
 \item{addColourLegend}{whether to add a legend for symbol colour}
 
-\item{colourLegendPos}{positioning of colour legend e.g. 'bottomleft',
-'topright'}
+\item{colourLegendPos}{positioning of colour legend e.g. 'bottomleft', 'topright'}
 
 \item{colourLegendTitle}{title for the colour size legend}
 
@@ -134,15 +122,10 @@ TRUE/FALSE}
 currently doesn't return anything
 }
 \description{
-#' function to produce bubble plots on a map, size and colour determined by
-attribute data
+function to produce bubble plots on a map, size and colour determined by attribute data
 }
 \details{
-The function will produce a map with bubbles (circles) centred on country
-centroids (or other chosen points). Bubbles can be sized and coloured
-according to specified attribute values.
+The function will produce a map with bubbles (circles) centred on country centroids (or other chosen points). Bubbles can be sized and coloured according to specified attribute values.
 
-By default separate legends are added fro symbol size and colouring on
-either side of the plot, these can be modified by altering legend
-parameters.
+By default separate legends are added fro symbol size and colouring on either side of the plot, these can be modified by altering legend parameters.
 }
