@@ -54,15 +54,15 @@ mapBubbles2(
 
 \item{nameZFill}{background fill for points if using certain pch}
 
-\item{colourPalette}{a string describing the colour palette to use, choice of : 
-\enumerate{ 
-\item ="palette" for the current palette 
+\item{colourPalette}{a string describing the colour palette to use, choice of :
+\enumerate{
+\item ="palette" for the current palette
 \item a vector of valid colours, e.g. =c('red','white','blue') or output from RColourBrewer
 \item = one of "heat", "diverging", "white2Black", "black2White", "topo", "rainbow", "terrain", "negpos8", "negpos9" }}
 
-\item{fillPalette}{a string describing the colour palette to use, choice of : 
-\enumerate{ 
-\item ="palette" for the current palette 
+\item{fillPalette}{a string describing the colour palette to use, choice of :
+\enumerate{
+\item ="palette" for the current palette
 \item a vector of valid colours, e.g. =c('red','white','blue') or output from RColourBrewer
 \item = one of "heat", "diverging", "white2Black", "black2White", "topo", "rainbow", "terrain", "negpos8", "negpos9" }}
 

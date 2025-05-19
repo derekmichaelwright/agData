@@ -16,16 +16,16 @@
 #' @param symbolSize multiplier of default symbol size
 #' @param maxZVal the attribute value corresponding to the maximum symbol size, this can be used to set the scaling the same between multiple plots
 #' @param main title for the map, set to nameZSize by default
-#' @param numCats number of categories to put the data in, may be modified if this number is incompatible with the catMethod chosen 
+#' @param numCats number of categories to put the data in, may be modified if this number is incompatible with the catMethod chosen
 #' @param catMethod method for categorisation of data "pretty", "fixedWidth", "diverging", "logFixedWidth", "quantiles", "categorical", or a numeric vector defining breaks
-#' @param colourPalette a string describing the colour palette to use, choice of : 
-#' \enumerate{ 
-#' \item ="palette" for the current palette 
+#' @param colourPalette a string describing the colour palette to use, choice of :
+#' \enumerate{
+#' \item ="palette" for the current palette
 #' \item a vector of valid colours, e.g. =c('red','white','blue') or output from RColourBrewer
 #' \item = one of "heat", "diverging", "white2Black", "black2White", "topo", "rainbow", "terrain", "negpos8", "negpos9" }
-#' @param fillPalette a string describing the colour palette to use, choice of : 
-#' \enumerate{ 
-#' \item ="palette" for the current palette 
+#' @param fillPalette a string describing the colour palette to use, choice of :
+#' \enumerate{
+#' \item ="palette" for the current palette
 #' \item a vector of valid colours, e.g. =c('red','white','blue') or output from RColourBrewer
 #' \item = one of "heat", "diverging", "white2Black", "black2White", "topo", "rainbow", "terrain", "negpos8", "negpos9" }
 #' @param xlim map extents c(west,east), can be overidden by mapRegion
