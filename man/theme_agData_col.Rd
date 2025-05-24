@@ -10,6 +10,7 @@ theme_agData_col(
   lineColor = "grey80",
   linesize = 0.75,
   stripFill = "white",
+  horizontal = F,
   ...
 )
 }
@@ -23,6 +24,8 @@ theme_agData_col(
 \item{linesize}{border line size}
 
 \item{stripFill}{strip background color}
+
+\item{horizontal}{Logical, use if you want the y axis gridlines removed}
 }
 \value{
 ggplot with agData theme
