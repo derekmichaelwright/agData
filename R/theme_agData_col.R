@@ -10,7 +10,7 @@
 #' @return ggplot with agData theme
 #' @export
 
-theme_agData_col <- function(x, bgFill = "white", lineColor = "grey80", linesize = 0.75, stripFill = "white",
+theme_agData_col <- function(x, bgFill = "white", lineColor = "grey90", linesize = 0.75, stripFill = "white",
                              horizontal = F, ...) {
   if(horizontal == T) {
     xx <- theme(panel.background = element_rect(color = "black", fill = bgFill, size = linesize),
