@@ -238,7 +238,7 @@ NULL
 #'
 #' A dataset containing trade data from FAOSTAT.
 #' @source http://www.fao.org/faostat/en/#data/TP
-#' @section agData_FAO_Trade_Quantity
+#' @section agData_FAO_Trade_Import_Quantity
 #' @section Measurement (Unit):
 #' \itemize{
 #'   \item Export Quantity (Tonnes)
@@ -255,13 +255,36 @@ NULL
 #' }
 #' @docType data
 #' @keywords datasets
-#' @name agData_FAO_Trade_Quantity
+#' @name agData_FAO_Trade_Import_Quantity
 NULL
 #' FAO Trade Data
 #'
 #' A dataset containing trade data from FAOSTAT.
 #' @source http://www.fao.org/faostat/en/#data/TP
-#' @section agData_FAO_Trade_Value
+#' @section agData_FAO_Trade_Export_Quantity
+#' @section Measurement (Unit):
+#' \itemize{
+#'   \item Export Quantity (Tonnes)
+#'   \item Import Quantity (Tonnes)
+#' }
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Item
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Trade_Export_Quantity
+NULL
+#' FAO Trade Data
+#'
+#' A dataset containing trade data from FAOSTAT.
+#' @source http://www.fao.org/faostat/en/#data/TP
+#' @section agData_FAO_Trade_Import_Value
 #' @section Measurement (Unit):
 #' \itemize{
 #'   \item Export Value (USD)
@@ -278,5 +301,28 @@ NULL
 #' }
 #' @docType data
 #' @keywords datasets
-#' @name agData_FAO_Trade_Value
+#' @name agData_FAO_Trade_Import_Value
+NULL
+#' FAO Trade Data
+#'
+#' A dataset containing trade data from FAOSTAT.
+#' @source http://www.fao.org/faostat/en/#data/TP
+#' @section agData_FAO_Trade_Export_Value
+#' @section Measurement (Unit):
+#' \itemize{
+#'   \item Export Value (USD)
+#'   \item Import Value (USD)
+#' }
+#' @section Keys:
+#' \itemize{
+#'   \item Area
+#'   \item Year
+#'   \item Item
+#'   \item Measurement
+#'   \item Unit
+#'   \item Value
+#' }
+#' @docType data
+#' @keywords datasets
+#' @name agData_FAO_Trade_Export_Value
 NULL

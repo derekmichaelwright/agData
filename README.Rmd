@@ -100,10 +100,12 @@ library(agData)
 > - [agData_FAO_Livestock.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Livestock.csv.gz)
 >   + http://www.fao.org/faostat/en/#data/QA
 
-> - [agData_FAO_Trade_Quantity.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Trade_Quantity.csv.gz)
+> - [agData_FAO_Trade_Import_Quantity.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Trade_Import_Quantity.csv.gz)
+> - [agData_FAO_Trade_Export_Quantity.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Trade_Export_Quantity.csv.gz)
 >   + http://www.fao.org/faostat/en/#data/TP
 
-> - [agData_FAO_Trade_Value.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Trade_Value.csv.gz)
+> - [agData_FAO_Trade_Import_Value.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Trade_Import_Value.csv.gz)
+> - [agData_FAO_Trade_Export_Value.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Trade_Export_Value.csv.gz)
 >   + http://www.fao.org/faostat/en/#data/TP
 
 > - [agData_FAO_Fertilizers.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Fertilizers.csv.gz)
