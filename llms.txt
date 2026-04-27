@@ -1,0 +1,321 @@
+# agData R Package
+
+`agData`: an `R` package containing various agricultural data sets
+
+![](reference/figures/logo_agData.png)
+
+------------------------------------------------------------------------
+
+# Installation
+
+``` r
+devtools::install_github("derekmichaelwright/agData")
+```
+
+``` r
+library(agData)
+```
+
+------------------------------------------------------------------------
+
+# Vignettes
+
+[agData Vignettes](https://derekmichaelwright.github.io/dblogr/#agdata)
+
+------------------------------------------------------------------------
+
+# Data Sources
+
+- `FAO` Food and Agriculture Organization of the United Nations
+  [www.fao.org/faostat/](https://www.fao.org/faostat/)
+- `STATCAN` Statistics Canada
+  [www.statcan.gc.ca/](https://www.statcan.gc.ca/)
+- `USDA` United States Department of Agriculture
+  [www.nass.usda.gov/](https://www.nass.usda.gov/)
+- `ISAAA` International Service for the Acquisition of Agri-biotech
+  Applications [www.isaaa.org/](https://www.isaaa.org/)
+
+------------------------------------------------------------------------
+
+# Data sets
+
+## STATCAN
+
+> - [agData_STATCAN_Region_Table.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Region_Table.csv.gz)
+
+> - [agData_STATCAN_Crops.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Crops.csv.gz)
+>   - <https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210035901>
+
+> - [agData_STATCAN_Crops2.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Crops2.csv.gz)
+>   - <https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210035901>
+
+> - [agData_STATCAN_Livestock.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Livestock.csv.gz)
+>   - <https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015501>
+
+> - [agData_STATCAN_Beehives.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Beehives.csv.gz)
+>   - <https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210035301>
+
+> - [agData_STATCAN_FarmLand_Crops.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_FarmLand_Crops.csv.gz)
+>   - <https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015401>
+
+> - [agData_STATCAN_FarmLand_Farms.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_FarmLand_Farms.csv.gz)
+>   - <https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015201>
+
+> - [agData_STATCAN_FarmLand_Inputs.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_FarmLand_Inputs.csv.gz)
+>   - <https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210016201>
+
+> - [agData_STATCAN_FarmLand_Size.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_FarmLand_Size.csv.gz)
+>   - <https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015601>
+
+> - [agData_STATCAN_FarmLand_Prices.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_FarmLand_Prices.csv.gz)
+>   - <https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210004701>
+
+> - [agData_STATCAN_FarmLand_Use.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_FarmLand_Use.csv.gz)
+>   - <https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015301>
+
+> - [agData_STATCAN_FarmReceipts.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_FarmReceipts.csv.gz)
+>   - <https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210004501>
+
+> - [agData_STATCAN_Farmers.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Farmers.csv.gz)
+>   - <https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210023001>
+
+> - [agData_STATCAN_Population.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_STATCAN_Population.csv.gz)
+>   - <https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1710000901>
+
+------------------------------------------------------------------------
+
+## FAO
+
+> - [agData_FAO_Region_Table.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Region_Table.csv.gz)
+> - [agData_FAO_Country_Table.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Country_Table.csv.gz)
+
+> - [agData_FAO_Crops.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Crops.csv.gz)
+> - [agData_FAO_Crops2.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Crops2.csv.gz)
+>   - <http://www.fao.org/faostat/en/#data/QC>
+
+> - [agData_FAO_Livestock.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Livestock.csv.gz)
+>   - <http://www.fao.org/faostat/en/#data/QA>
+
+> - [agData_FAO_Trade_Import_Quantity.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Trade_Import_Quantity.csv.gz)
+> - [agData_FAO_Trade_Export_Quantity.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Trade_Export_Quantity.csv.gz)
+>   - <http://www.fao.org/faostat/en/#data/TP>
+
+> - [agData_FAO_Trade_Import_Value.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Trade_Import_Value.csv.gz)
+> - [agData_FAO_Trade_Export_Value.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Trade_Export_Value.csv.gz)
+>   - <http://www.fao.org/faostat/en/#data/TP>
+
+> - [agData_FAO_Fertilizers.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Fertilizers.csv.gz)
+>   - <http://www.fao.org/faostat/en/#data/RFN> +
+>     <https://www.fao.org/faostat/en/#data/RFB> +
+>     <https://www.fao.org/faostat/en/#data/RA>
+
+> - [agData_FAO_LandUse.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_LandUse.csv.gz)
+>   - <http://www.fao.org/faostat/en/#data/RL>
+
+> - [agData_FAO_Population.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Population.csv.gz)
+>   - <http://www.fao.org/faostat/en/#data/OA>
+
+> - [agData_FAO_Producer_Prices.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_FAO_Producer_Prices.csv.gz)
+>   - <http://www.fao.org/faostat/en/#data/PP>
+
+------------------------------------------------------------------------
+
+## USDA
+
+> - [agData_USDA_Grains.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_USDA_Grains.csv.gz)
+>   - <https://www.nass.usda.gov/>
+
+> - [agData_USDA_Crops.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_USDA_Crops.csv.gz)
+>   - <https://www.nass.usda.gov/>
+
+> - [agData_USDA_Lentil.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_USDA_Lentil.csv.gz)
+>   - <https://www.nass.usda.gov/>
+
+> - [agData_USDA_SugarBeet.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_USDA_SugarBeet.csv.gz)
+>   - <https://www.nass.usda.gov/>
+
+> - [agData_USDA_GE_Crops.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_USDA_GE_Crops.csv.gz)
+>   - <https://www.ers.usda.gov/data-products/adoption-of-genetically-engineered-crops-in-the-us/>
+
+> - [agData_USDA_TFP.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_USDA_TFP.csv.gz)
+>   - <https://www.nass.usda.gov/>
+
+> - [agData_USDA_Organic.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_USDA_Organic.csv.gz)
+>   - <https://www.nass.usda.gov/>
+
+> - [agData_USDA_Food_Security.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_USDA_Food_Security.csv.gz)
+>   - <https://www.ers.usda.gov/data-products/international-food-security/>
+
+------------------------------------------------------------------------
+
+## ISAAA
+
+> - [agData_ISAAA_Crop.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_ISAAA_Crop.csv.gz)
+>   - <https://www.isaaa.org/>
+
+> - [agData_ISAAA_Area.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_ISAAA_Area.csv.gz)
+>   - <https://www.isaaa.org/>
+
+> - [agData_ISAAA_Coutnry.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_ISAAA_Coutnry.csv.gz)
+>   - <https://www.isaaa.org/>
+
+> - [agData_ISAAA_CropPercent.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_ISAAA_CropPercent.csv.gz)
+>   - <https://www.isaaa.org/>
+
+> - [agData_ISAAA_DVDDVG.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_ISAAA_DVDDVG.csv.gz)
+>   - <https://www.isaaa.org/>
+
+> - [agData_ISAAA_Value.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_ISAAA_Value.csv.gz)
+>   - <https://www.isaaa.org/>
+
+------------------------------------------------------------------------
+
+## SK AG
+
+> - [agData_SKAG_Specialty_Crops.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_SKAG_Specialty_Crops.csv.gz)
+>   - <https://publications.saskatchewan.ca/#/categories/4426>
+
+> - [agData_SKAG_Lentil_Exports.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_SKAG_Lentil_Exports.csv.gz)
+>   - <https://publications.saskatchewan.ca/#/categories/4426>
+
+------------------------------------------------------------------------
+
+## Other
+
+> - [agData_MazieContest.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_MazieContest.csv.gz)
+>   - <https://www.ncga.com/>
+
+> - [agData_PopFert.csv.gz](https://raw.githubusercontent.com/derekmichaelwright/agData/master/Data/agData_PopFert.csv.gz)
+>   - <https://www.nature.com/articles/ngeo325>
+
+------------------------------------------------------------------------
+
+# agData_Colors
+
+`agData_Colors`: a color pallette for the `agData` package
+
+![](reference/figures/agData_Colors.png)
+
+------------------------------------------------------------------------
+
+© Derek Michael Wright
+
+# Package index
+
+## All functions
+
+- [`agData_FAO_Country_Table`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Country_Table.md)
+  : FAO Country Table
+- [`agData_FAO_Crops`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Crops.md)
+  : FAO Crop Production Data
+- [`agData_FAO_Crops2`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Crops2.md)
+  : FAO Crop Production Data
+- [`agData_FAO_Crops3`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Crops3.md)
+  : FAO Crop Production Data
+- [`agData_FAO_Fertilizers`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Fertilizers.md)
+  : FAO fertilizer data
+- [`agData_FAO_LandUse`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_LandUse.md)
+  : FAO Land Use Data
+- [`agData_FAO_Livestock`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Livestock.md)
+  : FAO Livestock Data
+- [`agData_FAO_Population`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Population.md)
+  : FAO world population data
+- [`agData_FAO_Producer_Prices`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Producer_Prices.md)
+  : FAO Producer Price Indices
+- [`agData_FAO_Region_Table`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Region_Table.md)
+  : FAO Region Table
+- [`agData_FAO_Trade_Quantity`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Quantity.md)
+  : FAO Trade Data
+- [`agData_FAO_Trade_Value`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Value.md)
+  : FAO Trade Data
+- [`agData_ISAAA_Area`](https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Area.md)
+  : ISAAA GE Crop Data
+- [`agData_ISAAA_Country`](https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Country.md)
+  : ISAAA GE Country Data
+- [`agData_ISAAA_Crop`](https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Crop.md)
+  : ISAAA GE Crop Data
+- [`agData_ISAAA_CropPercent`](https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_CropPercent.md)
+  : ISAAA GE Crop Data
+- [`agData_ISAAA_DVDDVG`](https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_DVDDVG.md)
+  : ISAAA GE Crop Data
+- [`agData_ISAAA_Value`](https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Value.md)
+  : ISAAA GE Crop Data
+- [`agData_MaizeContest`](https://derekmichaelwright.github.io/agData/reference/agData_MaizeContest.md)
+  : Maize Contest
+- [`agData_PopFert`](https://derekmichaelwright.github.io/agData/reference/agData_PopFert.md)
+  : Population with and without fertilizers
+- [`agData_SKAG_Lentil_Exports`](https://derekmichaelwright.github.io/agData/reference/agData_SKAG_Lentil_Exports.md)
+  : Lentil Export Destinations
+- [`agData_SKAG_Specialty_Crops`](https://derekmichaelwright.github.io/agData/reference/agData_SKAG_Specialty_Crops.md)
+  : Sask AG Specialty Crop Data
+- [`agData_STATCAN_Beehives`](https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Beehives.md)
+  : Statistics Canada - HoneyBee Data
+- [`agData_STATCAN_Crops`](https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Crops.md)
+  : Crops Statistics Canada Data
+- [`agData_STATCAN_Crops2`](https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Crops2.md)
+  : Crops Statistics Canada Data
+- [`agData_STATCAN_FarmLand_Crops`](https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Crops.md)
+  : Statistics Canada Farmland Data
+- [`agData_STATCAN_FarmLand_Farms`](https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Farms.md)
+  : Statistics Canada Farmland Data
+- [`agData_STATCAN_FarmLand_Inputs`](https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Inputs.md)
+  : Statistics Canada Farmland Data
+- [`agData_STATCAN_FarmLand_Prices`](https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Prices.md)
+  : Statistics Canada Farmland prices
+- [`agData_STATCAN_FarmLand_Size`](https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Size.md)
+  : Statistics Canada Farmland Data
+- [`agData_STATCAN_FarmLand_Use`](https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmLand_Use.md)
+  : Statistics Canada Farmland Data
+- [`agData_STATCAN_FarmReceipts`](https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_FarmReceipts.md)
+  : Statistics Canada Farm Receipt Data
+- [`agData_STATCAN_Farmers`](https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Farmers.md)
+  : Statistics Canada Farmer Data
+- [`agData_STATCAN_Livestock`](https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Livestock.md)
+  : Statistics Canada Livestock Data
+- [`agData_STATCAN_Population`](https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Population.md)
+  : Statistics Canada population Data
+- [`agData_STATCAN_Region_Table`](https://derekmichaelwright.github.io/agData/reference/agData_STATCAN_Region_Table.md)
+  : Statistics Canada - Region Info
+- [`agData_USDA_Crops`](https://derekmichaelwright.github.io/agData/reference/agData_USDA_Crops.md)
+  : USDA Crop data
+- [`agData_USDA_Food_Security`](https://derekmichaelwright.github.io/agData/reference/agData_USDA_Food_Security.md)
+  : USDA food security data
+- [`agData_USDA_GE_Crops`](https://derekmichaelwright.github.io/agData/reference/agData_USDA_GE_Crops.md)
+  : USDA GE Crop Data
+- [`agData_USDA_Grains`](https://derekmichaelwright.github.io/agData/reference/agData_USDA_Grains.md)
+  : USDA Crop Data
+- [`agData_USDA_Lentil`](https://derekmichaelwright.github.io/agData/reference/agData_USDA_Lentil.md)
+  : USDA lentil data
+- [`agData_USDA_Organic`](https://derekmichaelwright.github.io/agData/reference/agData_USDA_Organic.md)
+  : USDA organic data
+- [`agData_USDA_SugarBeet`](https://derekmichaelwright.github.io/agData/reference/agData_USDA_SugarBeet.md)
+  : USDA Sugarbeet data
+- [`agData_USDA_TFP`](https://derekmichaelwright.github.io/agData/reference/agData_USDA_TFP.md)
+  : USDA Agricultureal Productivity data
+- [`dropNAcol()`](https://derekmichaelwright.github.io/agData/reference/dropNAcol.md)
+  : dropNAcol
+- [`fill_NA()`](https://derekmichaelwright.github.io/agData/reference/fill_NA.md)
+  : fill_NA
+- [`folder_Renamer()`](https://derekmichaelwright.github.io/agData/reference/folder_Renamer.md)
+  : folder_Renamer
+- [`mapBubbles2()`](https://derekmichaelwright.github.io/agData/reference/mapBubbles2.md)
+  : mapBubbles2
+- [`mapvals()`](https://derekmichaelwright.github.io/agData/reference/mapvals.md)
+  : mapvals.
+- [`movingAverage()`](https://derekmichaelwright.github.io/agData/reference/movingAverage.md)
+  : movingAverage.
+- [`pdf_Table()`](https://derekmichaelwright.github.io/agData/reference/pdf_Table.md)
+  : pdf_Table
+- [`region_Info()`](https://derekmichaelwright.github.io/agData/reference/region_Info.md)
+  : region_Info
+- [`theme_agData()`](https://derekmichaelwright.github.io/agData/reference/theme_agData.md)
+  : theme_agData.
+- [`theme_agData2()`](https://derekmichaelwright.github.io/agData/reference/theme_agData2.md)
+  : theme_agData2.
+- [`theme_agData_col()`](https://derekmichaelwright.github.io/agData/reference/theme_agData_col.md)
+  : theme_agData_col.
+- [`theme_agData_pie()`](https://derekmichaelwright.github.io/agData/reference/theme_agData_pie.md)
+  : theme_agData_pie.
+- [`theme_agData_pie_blank()`](https://derekmichaelwright.github.io/agData/reference/theme_agData_pie_blank.md)
+  : theme_agData_pie_blank.
+
