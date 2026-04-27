@@ -224,9 +224,13 @@ library(agData)
   : FAO Producer Price Indices
 - [`agData_FAO_Region_Table`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Region_Table.md)
   : FAO Region Table
-- [`agData_FAO_Trade_Quantity`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Quantity.md)
+- [`agData_FAO_Trade_Export_Quantity`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Export_Quantity.md)
   : FAO Trade Data
-- [`agData_FAO_Trade_Value`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Value.md)
+- [`agData_FAO_Trade_Export_Value`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Export_Value.md)
+  : FAO Trade Data
+- [`agData_FAO_Trade_Import_Quantity`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Import_Quantity.md)
+  : FAO Trade Data
+- [`agData_FAO_Trade_Import_Value`](https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Import_Value.md)
   : FAO Trade Data
 - [`agData_ISAAA_Area`](https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Area.md)
   : ISAAA GE Crop Data

@@ -12,8 +12,10 @@
 <url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Population.html</loc></url>
 <url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Producer_Prices.html</loc></url>
 <url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Region_Table.html</loc></url>
-<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Quantity.html</loc></url>
-<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Value.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Export_Quantity.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Export_Value.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Import_Quantity.html</loc></url>
+<url><loc>https://derekmichaelwright.github.io/agData/reference/agData_FAO_Trade_Import_Value.html</loc></url>
 <url><loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Area.html</loc></url>
 <url><loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Country.html</loc></url>
 <url><loc>https://derekmichaelwright.github.io/agData/reference/agData_ISAAA_Crop.html</loc></url>
