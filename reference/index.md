@@ -106,6 +106,8 @@
   : mapvals.
 - [`movingAverage()`](https://derekmichaelwright.github.io/agData/reference/movingAverage.md)
   : movingAverage.
+- [`mv()`](https://derekmichaelwright.github.io/agData/reference/mv.md)
+  : mv
 - [`pdf_Table()`](https://derekmichaelwright.github.io/agData/reference/pdf_Table.md)
   : pdf_Table
 - [`region_Info()`](https://derekmichaelwright.github.io/agData/reference/region_Info.md)

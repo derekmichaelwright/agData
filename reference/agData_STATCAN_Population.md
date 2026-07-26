@@ -12,8 +12,6 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1710000901
 
 ## agData_STATCAN_Population
 
-NA
-
 ## Keys
 
 - Area

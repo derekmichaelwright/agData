@@ -12,8 +12,6 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210035901
 
 ## agData_STATCAN_Crops2
 
-NA
-
 ## Measurement (Unit)
 
 - Area Seeded (Hectares)

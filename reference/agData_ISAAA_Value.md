@@ -8,8 +8,6 @@ https://www.isaaa.org/
 
 ## agData_ISAAA_Value
 
-NA
-
 ## Measurements
 
 - Hectares

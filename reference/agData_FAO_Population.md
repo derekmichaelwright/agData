@@ -8,8 +8,6 @@ http://www.fao.org/faostat/en/#data/OA
 
 ## agData_FAO_Population
 
-NA
-
 ## Measurements
 
 - Total

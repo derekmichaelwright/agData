@@ -8,8 +8,6 @@ https://www.ncga.com/
 
 ## agData_MaizeContest
 
-NA
-
 ## Measurements
 
 - Irrigated

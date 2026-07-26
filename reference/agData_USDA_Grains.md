@@ -8,8 +8,6 @@ https://www.nass.usda.gov/
 
 ## agData_USDA_Grains
 
-NA
-
 ## Measurement (Unit)
 
 - Production (Tonnes)

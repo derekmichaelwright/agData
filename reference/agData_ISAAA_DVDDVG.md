@@ -10,8 +10,6 @@ https://www.isaaa.org/
 
 ## agData_ISAAA_DVDDVG
 
-NA
-
 ## Measurements
 
 - Hectares

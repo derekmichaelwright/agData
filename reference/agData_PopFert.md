@@ -8,8 +8,6 @@ https://www.nature.com/articles/ngeo325
 
 ## agData_PopFert
 
-NA
-
 ## Keys
 
 - Area

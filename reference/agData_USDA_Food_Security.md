@@ -8,8 +8,6 @@ https://www.ers.usda.gov/data-products/international-food-security/
 
 ## agData_USDA_Food_Security
 
-NA
-
 ## Keys
 
 - Year

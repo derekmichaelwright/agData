@@ -8,8 +8,6 @@ https://www.nass.usda.gov/
 
 ## agData_USDA_SugarBeet
 
-NA
-
 ## Keys
 
 - Area

@@ -8,8 +8,6 @@ https://www.ers.usda.gov/data-products/adoption-of-genetically-engineered-crops-
 
 ## agData_USDA_GE_Crops
 
-NA
-
 ## Keys
 
 - Area

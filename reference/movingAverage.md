@@ -5,7 +5,7 @@ This function calculates a moving average.
 ## Usage
 
 ``` r
-movingAverage(x, n = 2, centered = FALSE)
+movingAverage(x, n = 3, centered = FALSE)
 ```
 
 ## Arguments

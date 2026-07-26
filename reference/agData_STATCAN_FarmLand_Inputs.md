@@ -12,8 +12,6 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210016201
 
 ## agData_STATCAN_FarmLand_Inputs
 
-NA
-
 ## Measurement
 
 - Commercial fertilizer

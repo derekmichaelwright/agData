@@ -8,8 +8,6 @@ http://www.fao.org/faostat/en/#data/TP
 
 ## agData_FAO_Trade_Export_Quantity
 
-NA
-
 ## Measurement (Unit)
 
 - Export Quantity (Tonnes)

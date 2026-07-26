@@ -8,8 +8,6 @@ http://www.fao.org/faostat/en/#data/RL
 
 ## agData_FAO_LandUse
 
-NA
-
 ## Item
 
 - Country area

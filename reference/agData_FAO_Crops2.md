@@ -8,8 +8,6 @@ http://www.fao.org/faostat/en/#data/QC
 
 ## agData_FAO_Crops2
 
-NA
-
 ## Measurement (Unit)
 
 - Production (Tonnes)

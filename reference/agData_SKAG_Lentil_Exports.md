@@ -8,8 +8,6 @@ https://publications.saskatchewan.ca/#/categories/4426
 
 ## agData_SKAG_Lentil_Exports
 
-NA
-
 ## Measurement (Unit)
 
 - Exports (Tonnes)

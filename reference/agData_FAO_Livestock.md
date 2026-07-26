@@ -8,8 +8,6 @@ http://www.fao.org/faostat/en/#data/QA
 
 ## agData_FAO_Livestock
 
-NA
-
 ## Measurement (Unit)
 
 - Stocks (head or 1000 head)

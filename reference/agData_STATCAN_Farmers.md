@@ -12,8 +12,6 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210023001
 
 ## agData_STATCAN_Farmers
 
-NA
-
 ## Measurement
 
 - Total number of operators

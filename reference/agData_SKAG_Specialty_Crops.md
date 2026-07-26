@@ -8,8 +8,6 @@ https://publications.saskatchewan.ca/#/categories/4426
 
 ## agData_SKAG_Specialty_Crops
 
-NA
-
 ## Measurement (Unit)
 
 - Production (Tonnes)

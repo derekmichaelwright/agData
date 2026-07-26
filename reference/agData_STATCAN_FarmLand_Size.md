@@ -12,8 +12,6 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015601
 
 ## agData_STATCAN_FarmLand_Size
 
-NA
-
 ## Item (Unit)
 
 - Total number of farms

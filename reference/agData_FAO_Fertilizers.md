@@ -10,8 +10,6 @@ https://www.fao.org/faostat/en/#data/RA
 
 ## agData_FAO_Fertilizers
 
-NA
-
 ## Measurement
 
 - Production

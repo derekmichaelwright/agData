@@ -12,8 +12,6 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210015401
 
 ## agData_STATCAN_FarmLand_Crops
 
-NA
-
 ## Measurement
 
 - Number of farms reporting

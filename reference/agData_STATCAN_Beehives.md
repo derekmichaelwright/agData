@@ -12,8 +12,6 @@ https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=3210035301
 
 ## agData_STATCAN_Beehives
 
-NA
-
 ## Measurement (Unit)
 
 - Beekeepers (Thousand)

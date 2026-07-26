@@ -9,8 +9,6 @@ https://www.isaaa.org/
 
 ## agData_ISAAA_Country
 
-NA
-
 ## Measurements
 
 - Hectares

@@ -4,8 +4,6 @@ A table of country information.
 
 ## agData_FAO_Country_Table
 
-NA
-
 ## Keys
 
 - Country

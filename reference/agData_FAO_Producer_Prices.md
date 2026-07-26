@@ -8,8 +8,6 @@ http://www.fao.org/faostat/en/#data/PP
 
 ## agData_FAO_Producer_Prices
 
-NA
-
 ## Measurement (Unit)
 
 - Producer Price Index (2014-2016 = 100)
