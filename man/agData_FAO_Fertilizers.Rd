@@ -11,7 +11,7 @@ http://www.fao.org/faostat/en/#data/RFN + https://www.fao.org/faostat/en/#data/R
 FAO fertilizer data
 }
 \section{agData_FAO_Fertilizers}{
-NA
+
 }
 
 \section{Measurement}{

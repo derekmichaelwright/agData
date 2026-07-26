@@ -11,7 +11,7 @@ http://www.fao.org/faostat/en/#data/RL
 A dataset containing land use data from FAOSTAT.
 }
 \section{agData_FAO_LandUse}{
-NA
+
 }
 
 \section{Item}{

@@ -15,7 +15,7 @@ A dataset from Statistics Canada on crop aggregate data.
 }
 
 \section{agData_STATCAN_Crops2}{
-NA
+
 }
 
 \section{Measurement (Unit)}{

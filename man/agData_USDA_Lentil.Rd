@@ -11,7 +11,7 @@ https://www.nass.usda.gov/
 A dataset from the USDA on lentil production.
 }
 \section{agData_USDA_Lentil}{
-NA
+
 }
 
 \section{Keys}{

@@ -7,7 +7,13 @@
 #' @return data with fixed colnames
 #' @export
 
-movingAverage <- function(x, n=2, centered=FALSE) {
+movingAverage <- function(x, n=3, centered=FALSE) {
+  # Track the sum and count of number of non-NA items
+  s     <- rep(0, length(x))
+  count <- rep(0, length(x))
+  # If count less than x, lower n
+  if(length(count) < n) { n <- length(count) }
+  #
   if (centered) {
     before <- floor  ((n-1)/2)
     after  <- ceiling((n-1)/2)
@@ -15,9 +21,6 @@ movingAverage <- function(x, n=2, centered=FALSE) {
     before <- n-1
     after  <- 0
   }
-  # Track the sum and count of number of non-NA items
-  s     <- rep(0, length(x))
-  count <- rep(0, length(x))
   # Add the centered data
   new <- x
   # Add to count list wherever there isn't a

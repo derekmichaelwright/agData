@@ -15,7 +15,7 @@ A dataset from Statistics Canada on farm land prices.
 }
 
 \section{agData_STATCAN_FarmLand_Prices}{
-NA
+
 }
 
 \section{Keys}{

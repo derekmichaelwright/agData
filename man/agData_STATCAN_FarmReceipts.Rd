@@ -15,7 +15,7 @@ A dataset from Statistics Canada on farm receipts.
 }
 
 \section{agData_STATCAN_FarmReceipts}{
-NA
+
 }
 
 \section{Keys}{

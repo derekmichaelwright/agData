@@ -11,7 +11,7 @@ https://publications.saskatchewan.ca/#/categories/4426
 A dataset from SK AG for the top 20 Lentil export countries each year.
 }
 \section{agData_SKAG_Lentil_Exports}{
-NA
+
 }
 
 \section{Measurement (Unit)}{

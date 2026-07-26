@@ -11,7 +11,7 @@ https://www.ncga.com/
 A dataset for Maize Yield Contest.
 }
 \section{agData_MaizeContest}{
-NA
+
 }
 
 \section{Measurements}{

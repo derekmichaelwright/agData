@@ -15,7 +15,7 @@ A dataset from Statistics Canada on farmland inputs.
 }
 
 \section{agData_STATCAN_FarmLand_Inputs}{
-NA
+
 }
 
 \section{Measurement}{

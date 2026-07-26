@@ -15,7 +15,7 @@ A dataset from Statistics Canada on farmer demographics.
 }
 
 \section{agData_STATCAN_Farmers}{
-NA
+
 }
 
 \section{Measurement}{

@@ -11,7 +11,7 @@ https://www.isaaa.org/
 A dataset from ISAAA for total value of GE crops.
 }
 \section{agData_ISAAA_Value}{
-NA
+
 }
 
 \section{Measurements}{

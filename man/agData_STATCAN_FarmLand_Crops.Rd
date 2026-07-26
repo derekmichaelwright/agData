@@ -15,7 +15,7 @@ A dataset from Statistics Canada on farm land use.
 }
 
 \section{agData_STATCAN_FarmLand_Crops}{
-NA
+
 }
 
 \section{Measurement}{

@@ -11,7 +11,7 @@ https://www.nass.usda.gov/
 A dataset from the USDA on agricultural productivity production.
 }
 \section{agData_USDA_TFP}{
-NA
+
 }
 
 \section{Measurement (Unit)}{

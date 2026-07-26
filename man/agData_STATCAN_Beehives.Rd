@@ -15,7 +15,7 @@ A dataset from Statistics Canada on honeybee production.
 }
 
 \section{agData_STATCAN_Beehives}{
-NA
+
 }
 
 \section{Measurement (Unit)}{

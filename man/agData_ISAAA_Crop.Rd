@@ -11,7 +11,7 @@ https://www.isaaa.org/
 A dataset from ISAAA for total GE crop area by Crop.
 }
 \section{agData_ISAAA_Crop}{
-NA
+
 }
 
 \section{Measurements}{

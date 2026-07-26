@@ -4,7 +4,7 @@
 \alias{movingAverage}
 \title{movingAverage.}
 \usage{
-movingAverage(x, n = 2, centered = FALSE)
+movingAverage(x, n = 3, centered = FALSE)
 }
 \arguments{
 \item{x}{The vector}

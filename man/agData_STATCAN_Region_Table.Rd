@@ -8,7 +8,7 @@
 A dataset of Region info for Canada.
 }
 \section{agData_STATCAN_Region_Table}{
-NA
+
 }
 
 \section{Keys}{

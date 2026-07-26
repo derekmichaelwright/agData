@@ -11,7 +11,7 @@ https://www.nass.usda.gov/
 A dataset from the USDA on organic production.
 }
 \section{agData_USDA_Organic}{
-NA
+
 }
 
 \section{Keys}{

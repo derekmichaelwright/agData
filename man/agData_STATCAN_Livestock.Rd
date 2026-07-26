@@ -15,7 +15,7 @@ A dataset from Statistics Canada on livestock production.
 }
 
 \section{agData_STATCAN_Livestock}{
-NA
+
 }
 
 \section{Measurement (Unit)}{
