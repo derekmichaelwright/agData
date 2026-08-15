@@ -5,7 +5,7 @@
 #' @return ggplot with agData theme for pie graphs
 #' @export
 
-theme_agData_pie_blank <- function(x, bgFill = "grey95", lineColor = "white", linesize = 0.75, stripFill = "white", ...) {
+theme_agData_pie_blank <- function(x, bgFill = "grey95", lineColor = "white", linesize = 0.75, stripFill = "white", caption.adj = 1, ...) {
   theme_minimal() +
   theme(axis.title   = element_blank(),
         axis.ticks.y = element_blank(),
@@ -14,5 +14,6 @@ theme_agData_pie_blank <- function(x, bgFill = "grey95", lineColor = "white", li
         panel.grid   = element_blank(),
         plot.title   = element_text(size = 14, face = "bold"),
         legend.key = element_rect(color = NA),
+        plot.caption = element_text(hjust = caption.adj),
         ...)
 }
