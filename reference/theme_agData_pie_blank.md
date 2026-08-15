@@ -11,6 +11,7 @@ theme_agData_pie_blank(
   lineColor = "white",
   linesize = 0.75,
   stripFill = "white",
+  caption.adj = 1,
   ...
 )
 ```
