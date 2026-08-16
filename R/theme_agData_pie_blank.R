@@ -2,10 +2,11 @@
 #'
 #' ggplot theme.
 #' @param x ggplot
+#' @param caption.adj hjust for the caption
 #' @return ggplot with agData theme for pie graphs
 #' @export
 
-theme_agData_pie_blank <- function(x, bgFill = "grey95", lineColor = "white", linesize = 0.75, stripFill = "white", caption.adj = 1, ...) {
+theme_agData_pie_blank <- function(x, caption.adj = 1, ...) {
   theme_minimal() +
   theme(axis.title   = element_blank(),
         axis.ticks.y = element_blank(),

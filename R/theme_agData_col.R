@@ -2,34 +2,37 @@
 #'
 #' ggplot theme.
 #' @param x ggplot
-#' @param linesize border line size
 #' @param bgFill background fill color
-#' @param stripFill strip background color
 #' @param lineColor color of axis lines
+#' @param lineSize border line size
+#' @param stripFill strip background color
 #' @param horizontal Logical, use if you want the y axis gridlines removed
+#' @param caption.adj hjust for the caption
 #' @return ggplot with agData theme
 #' @export
 
-theme_agData_col <- function(x, bgFill = "white", lineColor = "grey90", linesize = 0.75, stripFill = "white",
-                             horizontal = F, ...) {
+theme_agData_col <- function(x, bgFill = "white", lineColor = "grey90", lineSize = 0.75, stripFill = "white",
+                             horizontal = F, caption.adj = 1, ...) {
   if(horizontal == T) {
-    xx <- theme(panel.background = element_rect(color = "black", fill = bgFill, size = linesize),
+    xx <- theme(panel.background = element_rect(color = "black", fill = bgFill, linewidth = lineSize),
                 panel.grid = element_line(color = lineColor),
-                panel.border = element_rect(color = "black", fill = NA, size = linesize),
-                strip.background = element_rect(color = "black", fill = stripFill, size = linesize),
+                panel.border = element_rect(color = "black", fill = NA, linewidth = lineSize),
+                strip.background = element_rect(color = "black", fill = stripFill, linewidth = lineSize),
                 legend.key = element_rect(color = NA),
                 panel.grid.major.y = element_blank(),
                 panel.grid.minor.y = element_blank(),
+                plot.caption = element_text(hjust = caption.adj),
                 ...)
   }
   if(horizontal == F) {
-    xx <- theme(panel.background = element_rect(color = "black", fill = bgFill, size = linesize),
+    xx <- theme(panel.background = element_rect(color = "black", fill = bgFill, linewidth = lineSize),
                 panel.grid = element_line(color = lineColor),
-                panel.border = element_rect(color = "black", fill = NA, size = linesize),
-                strip.background = element_rect(color = "black", fill = stripFill, size = linesize),
+                panel.border = element_rect(color = "black", fill = NA, linewidth = lineSize),
+                strip.background = element_rect(color = "black", fill = stripFill, linewidth = lineSize),
                 legend.key = element_rect(color = NA),
                 panel.grid.major.x = element_blank(),
                 panel.grid.minor.x = element_blank(),
+                plot.caption = element_text(hjust = caption.adj),
                 ...)
   }
   xx
