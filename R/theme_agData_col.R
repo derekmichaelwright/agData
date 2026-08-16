@@ -8,11 +8,12 @@
 #' @param stripFill strip background color
 #' @param horizontal Logical, use if you want the y axis gridlines removed
 #' @param caption.adj hjust for the caption
+#' @param caption.size size of the caption
 #' @return ggplot with agData theme
 #' @export
 
 theme_agData_col <- function(x, bgFill = "white", lineColor = "grey90", lineSize = 0.75, stripFill = "white",
-                             horizontal = F, caption.adj = 1, ...) {
+                             horizontal = F, caption.adj = 1, caption.size = 7, ...) {
   if(horizontal == T) {
     xx <- theme(panel.background = element_rect(color = "black", fill = bgFill, linewidth = lineSize),
                 panel.grid = element_line(color = lineColor),
@@ -21,7 +22,7 @@ theme_agData_col <- function(x, bgFill = "white", lineColor = "grey90", lineSize
                 legend.key = element_rect(color = NA),
                 panel.grid.major.y = element_blank(),
                 panel.grid.minor.y = element_blank(),
-                plot.caption = element_text(hjust = caption.adj),
+                plot.caption = element_text(hjust = caption.adj, size = caption.size),
                 ...)
   }
   if(horizontal == F) {
@@ -32,7 +33,7 @@ theme_agData_col <- function(x, bgFill = "white", lineColor = "grey90", lineSize
                 legend.key = element_rect(color = NA),
                 panel.grid.major.x = element_blank(),
                 panel.grid.minor.x = element_blank(),
-                plot.caption = element_text(hjust = caption.adj),
+                plot.caption = element_text(hjust = caption.adj, size = caption.size),
                 ...)
   }
   xx

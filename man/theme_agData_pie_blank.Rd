@@ -4,12 +4,14 @@
 \alias{theme_agData_pie_blank}
 \title{theme_agData_pie_blank.}
 \usage{
-theme_agData_pie_blank(x, caption.adj = 1, ...)
+theme_agData_pie_blank(x, caption.adj = 1, caption.size = 7, ...)
 }
 \arguments{
 \item{x}{ggplot}
 
 \item{caption.adj}{hjust for the caption}
+
+\item{caption.size}{size of the caption}
 }
 \value{
 ggplot with agData theme for pie graphs

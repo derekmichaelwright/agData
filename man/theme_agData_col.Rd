@@ -12,6 +12,7 @@ theme_agData_col(
   stripFill = "white",
   horizontal = F,
   caption.adj = 1,
+  caption.size = 7,
   ...
 )
 }
@@ -29,6 +30,8 @@ theme_agData_col(
 \item{horizontal}{Logical, use if you want the y axis gridlines removed}
 
 \item{caption.adj}{hjust for the caption}
+
+\item{caption.size}{size of the caption}
 }
 \value{
 ggplot with agData theme

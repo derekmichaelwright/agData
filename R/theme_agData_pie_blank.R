@@ -3,10 +3,11 @@
 #' ggplot theme.
 #' @param x ggplot
 #' @param caption.adj hjust for the caption
+#' @param caption.size size of the caption
 #' @return ggplot with agData theme for pie graphs
 #' @export
 
-theme_agData_pie_blank <- function(x, caption.adj = 1, ...) {
+theme_agData_pie_blank <- function(x, caption.adj = 1, caption.size = 7, ...) {
   theme_minimal() +
   theme(axis.title   = element_blank(),
         axis.ticks.y = element_blank(),
@@ -15,6 +16,6 @@ theme_agData_pie_blank <- function(x, caption.adj = 1, ...) {
         panel.grid   = element_blank(),
         plot.title   = element_text(size = 14, face = "bold"),
         legend.key = element_rect(color = NA),
-        plot.caption = element_text(hjust = caption.adj),
+        plot.caption = element_text(hjust = caption.adj, size = caption.size),
         ...)
 }
