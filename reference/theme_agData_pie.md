@@ -11,6 +11,7 @@ theme_agData_pie(
   lineSize = 0.75,
   stripFill = "white",
   caption.adj = 1,
+  caption.size = 7,
   ...
 )
 ```
@@ -36,6 +37,10 @@ theme_agData_pie(
 - caption.adj:
 
   hjust for the caption
+
+- caption.size:
+
+  size of the caption
 
 ## Value
 

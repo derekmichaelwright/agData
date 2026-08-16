@@ -13,6 +13,7 @@ theme_agData_col(
   stripFill = "white",
   horizontal = F,
   caption.adj = 1,
+  caption.size = 7,
   ...
 )
 ```
@@ -46,6 +47,10 @@ theme_agData_col(
 - caption.adj:
 
   hjust for the caption
+
+- caption.size:
+
+  size of the caption
 
 ## Value
 

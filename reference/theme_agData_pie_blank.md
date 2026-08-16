@@ -5,7 +5,7 @@ ggplot theme.
 ## Usage
 
 ``` r
-theme_agData_pie_blank(x, caption.adj = 1, ...)
+theme_agData_pie_blank(x, caption.adj = 1, caption.size = 7, ...)
 ```
 
 ## Arguments
@@ -17,6 +17,10 @@ theme_agData_pie_blank(x, caption.adj = 1, ...)
 - caption.adj:
 
   hjust for the caption
+
+- caption.size:
+
+  size of the caption
 
 ## Value
 
