@@ -5,15 +5,7 @@ ggplot theme.
 ## Usage
 
 ``` r
-theme_agData_pie_blank(
-  x,
-  bgFill = "grey95",
-  lineColor = "white",
-  linesize = 0.75,
-  stripFill = "white",
-  caption.adj = 1,
-  ...
-)
+theme_agData_pie_blank(x, caption.adj = 1, ...)
 ```
 
 ## Arguments
@@ -21,6 +13,10 @@ theme_agData_pie_blank(
 - x:
 
   ggplot
+
+- caption.adj:
+
+  hjust for the caption
 
 ## Value
 

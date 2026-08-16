@@ -9,9 +9,10 @@ theme_agData_col(
   x,
   bgFill = "white",
   lineColor = "grey90",
-  linesize = 0.75,
+  lineSize = 0.75,
   stripFill = "white",
   horizontal = F,
+  caption.adj = 1,
   ...
 )
 ```
@@ -30,7 +31,7 @@ theme_agData_col(
 
   color of axis lines
 
-- linesize:
+- lineSize:
 
   border line size
 
@@ -41,6 +42,10 @@ theme_agData_col(
 - horizontal:
 
   Logical, use if you want the y axis gridlines removed
+
+- caption.adj:
+
+  hjust for the caption
 
 ## Value
 

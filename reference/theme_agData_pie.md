@@ -8,8 +8,7 @@ ggplot theme.
 theme_agData_pie(
   x,
   bgFill = "white",
-  lineColor = "grey95",
-  linesize = 0.75,
+  lineSize = 0.75,
   stripFill = "white",
   caption.adj = 1,
   ...
@@ -21,6 +20,22 @@ theme_agData_pie(
 - x:
 
   ggplot
+
+- bgFill:
+
+  background fill color
+
+- lineSize:
+
+  border line size
+
+- stripFill:
+
+  strip background color
+
+- caption.adj:
+
+  hjust for the caption
 
 ## Value
 
