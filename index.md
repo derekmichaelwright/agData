@@ -1,8 +1,6 @@
-# agData R Package
+# agData ![](reference/figures/logo_agData.png)
 
 `agData`: an `R` package containing various agricultural data sets
-
-![](reference/figures/logo_agData.png)
 
 ------------------------------------------------------------------------
 
@@ -197,6 +195,10 @@ library(agData)
 `agData_Colors`: a color pallette for the `agData` package
 
 ![](reference/figures/agData_Colors.png)
+
+------------------------------------------------------------------------
+
+![](reference/figures/logo_agData.png)
 
 ------------------------------------------------------------------------
 
