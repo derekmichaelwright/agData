@@ -22,7 +22,7 @@ theme_agData_col <- function(x, bgFill = "white", lineColor = "grey90", lineSize
                 legend.key = element_rect(color = NA),
                 panel.grid.major.y = element_blank(),
                 panel.grid.minor.y = element_blank(),
-                plot.caption = element_text(hjust = caption.adj, size = caption.size),
+                plot.caption = element_markdown(hjust = caption.adj, size = caption.size),
                 ...)
   }
   if(horizontal == F) {
@@ -33,7 +33,7 @@ theme_agData_col <- function(x, bgFill = "white", lineColor = "grey90", lineSize
                 legend.key = element_rect(color = NA),
                 panel.grid.major.x = element_blank(),
                 panel.grid.minor.x = element_blank(),
-                plot.caption = element_text(hjust = caption.adj, size = caption.size),
+                plot.caption = element_markdown(hjust = caption.adj, size = caption.size),
                 ...)
   }
   xx

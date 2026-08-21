@@ -1,16 +1,14 @@
 ---
-title: agData R Package
 output: github_document
-always_allow_html: true
 ---
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = T, message = F, warning = F)
 ```
 
-`agData`: an `R` package containing various agricultural data sets
+# agData <img src="man/figures/logo_agData.png" align="right" width="90" height="100" />
 
-![](man/figures/logo_agData.png)
+`agData`: an `R` package containing various agricultural data sets
 
 ---
 
@@ -215,6 +213,10 @@ mp <- ggplot(xx, aes(x = Row, y = Col)) +
   theme(legend.position = "none")
 ggsave("man/figures/agData_Colors.png", mp, width = 9, height = 9)
 ```
+
+---
+
+![](man/figures/logo_agData.png)
 
 ---
 

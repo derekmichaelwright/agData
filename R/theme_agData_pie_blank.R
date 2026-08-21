@@ -16,6 +16,6 @@ theme_agData_pie_blank <- function(x, caption.adj = 1, caption.size = 7, ...) {
         panel.grid   = element_blank(),
         plot.title   = element_text(size = 14, face = "bold"),
         legend.key = element_rect(color = NA),
-        plot.caption = element_text(hjust = caption.adj, size = caption.size),
+        plot.caption = element_markdown(hjust = caption.adj, size = caption.size),
         ...)
 }
